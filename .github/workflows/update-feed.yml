@@ -1,13 +1,14 @@
 name: Generate ICS Feed
 
-# Add these two lines to grant the bot write access
+# This grants the bot the necessary permissions to commit and push files
 permissions:
   contents: write
 
 on:
   schedule:
+    # Runs at 00:00 UTC (5:30 AM IST) every day
     - cron: '0 0 * * *'
-      workflow_dispatch: # Allows you to trigger it manually via a button
+  workflow_dispatch: # Allows you to manually trigger the script from the Actions tab
 
 jobs:
   build:
@@ -28,6 +29,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Install Playwright Browsers
+        # Playwright >= 1.48.0 in requirements.txt ensures this works on ubuntu-latest
         run: playwright install --with-deps chromium
 
       - name: Run Scraper
