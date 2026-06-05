@@ -1,56 +1,76 @@
-# 🍿 CatchAFilm: Delhi Film Screenings ICS Feed
+<p align="center">
+  <h1 align="center">🍿 CatchAFilm</h1>
+  <p align="center"><strong>Live Delhi Film Screenings ICS Feed</strong></p>
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Playwright](https://img.shields.io/badge/Playwright-Async-green)](https://playwright.dev/python/)
-[![Automated via GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-orange)](https://github.com/features/actions)
-
-An automated web scraper and calendar generator that extracts local film screening schedules in Delhi and converts them into a live, subscribable iCalendar (`.ics`) feed. 
-
-This project uses an asynchronous headless browser with anti-bot masking to bypass dynamic loading, generating a real-time calendar feed that plugs directly into Google Calendar, Apple Calendar, or Outlook.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Playwright-Async-green" alt="Playwright">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Automated-orange" alt="GitHub Actions">
+</p>
 
 ---
 
-## 📅 Subscribing to the Live Feed
+An automated web scraper and calendar generator that extracts local film screening schedules in Delhi and converts them into a live, subscribable iCalendar (`.ics`) feed. 
+
+This project uses an asynchronous headless browser with anti-bot masking to bypass dynamic loading, generating a real-time calendar feed that plugs directly into **Google Calendar**, **Apple Calendar**, or **Outlook**.
+
+---
+
+## 📅 Quick Subscribe
 
 To add this live feed to your personal calendar, copy the raw URL below:
 
-```text
-[https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics](https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics)
+> **Feed URL:** > `https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics`
 
-### 💻 Step 1: Initial Desktop Setup (Google Calendar)
-*It is highly recommended to do the initial setup on a computer browser.*
+### 💻 Initial Desktop Setup (Google Calendar)
+*Note: Do this initial setup on a computer browser for the best results.*
 
-1. Open [Google Calendar](https://calendar.google.com/).
+1. Open **[Google Calendar](https://calendar.google.com/)**.
 2. On the left sidebar, next to **Other calendars**, click the `+` (plus) icon.
 3. Select **From URL**.
-4. Paste the raw URL copied above and click **Add calendar**. 
-*(Optional: Go to the calendar settings and rename it to "CatchAFilm Delhi" for better readability).*
+4. Paste the Feed URL and click **Add calendar**. 
+*(Optional: Go to the calendar settings and rename it to "CatchAFilm Delhi" for a cleaner look).*
 
-### 🤖 Step 2: Android Setup & Troubleshooting
-**The Expected Issue:** Google Calendar does not automatically push newly subscribed web feeds to the Android app. You must force the sync.
+---
 
-**The Solution:**
-1. Open the **Google Calendar app** on your Android phone.
-2. Tap the **Menu** (three horizontal lines) in the top-left.
-3. Scroll to the very bottom and tap **Settings**.
-4. Tap on your **Google Account**, then find the newly added calendar. *(If you don't see it, tap "Show more" under your account).*
-5. Tap the calendar, and toggle **Sync** to the **ON** position.
-6. Return to your main calendar view, tap the Menu again, and hit **Refresh** (or swipe down from the top). 
+## 📱 Mobile Sync & Troubleshooting Guide
 
-### 🍎 Step 3: Apple iOS Setup & Troubleshooting
-iOS users have two ways to view the calendar, each with a specific fix for delayed syncing.
+Web-subscribed calendars often do not sync to mobile apps automatically. Find your device below to force the sync.
 
-**Method A: Subscribe directly via iOS Settings (Recommended)**
-1. On your iPhone, open **Settings** > **Calendar** > **Accounts**.
-2. Tap **Add Account** > **Other**.
-3. Tap **Add Subscribed Calendar**.
-4. Paste the raw URL and tap **Next**, then **Save**.
-* **Fixing Sync Delays:** iOS caches calendars aggressively. To ensure it updates live, go back to **Settings** > **Calendar** > **Accounts** > **Fetch New Data**. Ensure your subscribed calendar is set to **Fetch** (not Manual), and set the global fetch schedule at the bottom to **Every 15 Minutes** or **Hourly**.
+### 🤖 Android Devices
+**The Issue:** Google Calendar does not push web subscriptions to the Android app by default.  
+**The Fix:**
+1. Open the **Google Calendar app** on your phone.
+2. Tap the **Menu ☰** (top-left) and scroll to **Settings**.
+3. Tap your **Google Account** name, and find the new calendar (Tap *"Show more"* if it's hidden).
+4. Tap the calendar and toggle **Sync** to **ON**.
+5. Return to the main calendar view, tap the Menu, and hit **Refresh**.
 
-**Method B: Syncing from your Google Account to Apple Calendar**
-**The Expected Issue:** If you added the URL to Google Calendar on your desktop, Apple Calendar often hides "Other/Subscribed" Google calendars by default.
-**The Solution:**
-1. Open Safari on your iPhone and go to this exact hidden Google settings page: `https://calendar.google.com/calendar/syncselect`
-2. Check the box next to your new Delhi Film Screenings calendar.
-3. Click **Save** in the bottom right corner.
-4. Open the Apple **Calendar** app, tap **Calendars** at the bottom, and pull down to refresh.
+### 🍎 Apple iOS Devices
+iOS caches calendars aggressively. Choose one of the two methods below to ensure your feed stays live.
+
+**Method A: Direct iOS Subscription (Recommended)**
+1. Open **Settings** > **Calendar** > **Accounts**.
+2. Tap **Add Account** > **Other** > **Add Subscribed Calendar**.
+3. Paste the Feed URL and hit **Save**.
+4. *To fix sync delays:* Go to **Fetch New Data** in the Accounts menu, set the calendar to **Fetch**, and set the global schedule to **Hourly**.
+
+**Method B: Syncing via Google Account**
+1. Open Safari on your iPhone and log into this hidden Google sync page:  
+   [`https://calendar.google.com/calendar/syncselect`](https://calendar.google.com/calendar/syncselect)
+2. Check the box next to your new CatchAFilm calendar and click **Save**.
+3. Open the Apple **Calendar** app, tap **Calendars** at the bottom, and pull down to refresh.
+
+---
+
+## 🛠️ Project Architecture
+
+This repository is designed to be entirely self-sufficient. A GitHub Action runs daily at midnight UTC, executes the Playwright scraper, and commits any new movie screenings back to the `.ics` file. 
+
+<details>
+<summary><strong>📦 requirements.txt</strong></summary>
+
+```text
+playwright>=1.48.0
+ics==0.7.2
