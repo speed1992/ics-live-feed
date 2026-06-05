@@ -21,7 +21,8 @@ This project uses an asynchronous headless browser with anti-bot masking to bypa
 
 To add this live feed to your personal calendar, copy the raw URL below:
 
-> **Feed URL:** > `https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics`
+> **Feed URL:**  
+> `https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics`
 
 ### 💻 Initial Desktop Setup (Google Calendar)
 *Note: Do this initial setup on a computer browser for the best results.*
@@ -38,14 +39,23 @@ To add this live feed to your personal calendar, copy the raw URL below:
 
 Web-subscribed calendars often do not sync to mobile apps automatically. Find your device below to force the sync.
 
-### 🤖 Android Devices
-**The Issue:** Google Calendar does not push web subscriptions to the Android app by default.  
-**The Fix:**
-1. Open the **Google Calendar app** on your phone.
-2. Tap the **Menu ☰** (top-left) and scroll to **Settings**.
-3. Tap your **Google Account** name, and find the new calendar (Tap *"Show more"* if it's hidden).
-4. Tap the calendar and toggle **Sync** to **ON**.
-5. Return to the main calendar view, tap the Menu, and hit **Refresh**.
+### 🤖 Android Devices & Google Calendar App
+**The Core Issue:** When you subscribe to a calendar via URL on your desktop, Google does not automatically push that new subscription to your mobile app to save data. You have to manually activate it.
+
+**Step-by-Step Fix:**
+1. Open the **Google Calendar app** on your Android phone.
+2. Tap the **Menu ☰** (the three horizontal lines in the top-left corner).
+3. Scroll all the way to the bottom and tap **Settings** (⚙️).
+4. Tap on the **Google Account** where you added the calendar subscription.
+5. **CRITICAL STEP:** Look for the new calendar. If you don't see it immediately, you *must* tap **"Show more"** under that account section. It is almost always hidden here by default.
+   * *Note: The calendar might be named with the raw GitHub URL (`https://raw.github...`) instead of "CatchAFilm" initially. Look for that specific link!*
+6. Tap on the calendar name.
+7. Toggle the **Sync** switch at the very top to the **ON** (blue) position.
+8. Return to your main calendar view. Tap the Menu again and hit **Refresh** (or simply pull down firmly from the top of the screen). Give it a few seconds to pull the live data.
+
+**Still not seeing it? (Advanced Troubleshooting):**
+* **Clear App Cache:** Go to your Android phone's main **Settings** > **Apps** > **Calendar** > **Storage** > **Clear Cache**. Re-open the app and pull down to refresh.
+* **Check Global OS Sync:** Go to your phone's main **Settings** > **Passwords & accounts** (or **Accounts**) > tap your **Google** account > **Account sync** > ensure the toggle for "Calendar" is switched on.
 
 ### 🍎 Apple iOS Devices
 iOS caches calendars aggressively. Choose one of the two methods below to ensure your feed stays live.
