@@ -2,13 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n10 & 11 June 2026\n10:30 AM – 9:30 PM\n\nThemes:\nFlora\, Fauna & Habitats\nUrban Realities\nThe Changing Planet\nCommunity\, Conservation And Futures\n\nFilms will be followed by discussions with a.. more
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260610T063000Z
-SUMMARY:18th EcoReels Film Festival: Environment\, Climate Change & Sustainable Development
-UID:67e01e99-c67b-40ee-b0ab-053dc2858161@67e0.org
-URL:https://fillum.in
+LOCATION:Lecture Room 1\, India International Centre Annexe
+DTSTART:20260610T130000Z
+SUMMARY:Tashi and the Monk (2015)
+UID:4f2f73b1-dfb8-4e68-8a9c-f0baf11915ad@4f2f.org
+URL:https://fillum.in/screening/5621
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260622T130000Z
+SUMMARY:Kangbo Aloti (2025)
+UID:4043bf3a-d43f-44b6-b9f1-cf565e8e7a11@4043.org
+URL:https://fillum.in/screening/5619
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree and open to all.
@@ -16,7 +25,7 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260616T130000Z
 SUMMARY:Karken (2025)
-UID:f0cb1b2a-6659-489e-9533-f8705daeed5d@f0cb.org
+UID:40615fa3-af93-4ac3-8916-b692847735e4@4061.org
 URL:https://fillum.in/screening/5618
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +34,7 @@ DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
 DTSTART:20260613T110000Z
 SUMMARY:Princess Mononoke (1997)
-UID:e654151c-585a-4128-a8a8-9d7c25202ccb@e654.org
+UID:0b92024c-17b5-4480-8e88-ef380016e48a@0b92.org
 URL:https://fillum.in/screening/5502
 END:VEVENT
 BEGIN:VEVENT
@@ -34,16 +43,79 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260625T130000Z
 SUMMARY:Joseph's Son
-UID:6e0cfa20-0c29-440c-8cb7-d8ce2fee2f05@6e0c.org
+UID:98c56a27-30df-4257-82ef-9332cf5dd74e@98c5.org
 URL:https://fillum.in/screening/5620
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260620T083000Z
+SUMMARY:Persona (1966)
+UID:ab8e2d0e-eff0-4e9f-9e4d-b2862407e22d@ab8e.org
+URL:https://fillum.in/screening/5504
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260626T123000Z
+SUMMARY:Love & Revolution (2023)
+UID:9ca8c5ef-8cbe-4f9d-8f29-3f38beb703bf@9ca8.org
+URL:https://fillum.in/screening/5609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nNote: Registration closed
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260613T083000Z
+SUMMARY:Possession (1981)
+UID:1788407b-f27e-4a99-bff5-642576d7f356@1788.org
+URL:https://fillum.in/screening/5501
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260612T123000Z
+SUMMARY:Sabar Bonda (2025)
+UID:dfbed8eb-4032-4eb6-b5da-3a2f42cdbe77@dfbe.org
+URL:https://fillum.in/screening/5606
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260627T083000Z
+SUMMARY:Embrace of the Serpent (2015)
+UID:cae58440-d0da-460d-8947-f710796d5986@cae5.org
+URL:https://fillum.in/screening/5506
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n10 & 11 June 2026\n10:30 AM – 9:30 PM\n\nThemes:\nFlora\, Fauna & Habitats\nUrban Realities\nThe Changing Planet\nCommunity\, Conservation And Futures\n\nFilms will be followed by discussions with a.. more
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260610T063000Z
+SUMMARY:18th EcoReels Film Festival: Environment\, Climate Change & Sustainable Development
+UID:fbdbf044-7964-44e8-a7c2-640d44b3e158@fbdb.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260620T103000Z
+SUMMARY:Carrie (1976)
+UID:3accee38-0f9e-4537-808b-15169fb89e9a@3acc.org
+URL:https://fillum.in/screening/5505
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
 DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260608T130000Z
+DTSTART:20260629T130000Z
 SUMMARY:The Elysian Field (2025)
-UID:b3f38257-0dd1-4a9c-8107-94a082ae171e@b3f3.org
+UID:c02904b4-cdd7-4783-9f9b-0f69f217b574@c029.org
 URL:https://fillum.in/screening/5617
 END:VEVENT
 BEGIN:VEVENT
@@ -52,8 +124,17 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260618T123000Z
 SUMMARY:Al Berto (2017)
-UID:02d6563d-20e3-4192-8fca-629164dd53e2@02d6.org
+UID:300e7717-6e5c-4717-850e-d4ffee924e4a@300e.org
 URL:https://fillum.in/screening/5607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\n
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260608T130000Z
+SUMMARY:Mi Bo (2024)
+UID:810efac7-e720-4658-9702-a81d772f0a07@810e.org
+URL:https://fillum.in/screening/5627
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
@@ -61,79 +142,7 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260625T123000Z
 SUMMARY:Nudo Mixteco (2021)
-UID:c915bd57-c3a0-44e9-8a22-95227ae76134@c915.org
+UID:5d2280d1-3bb0-467c-8d5d-4d4903fd14ff@5d22.org
 URL:https://fillum.in/screening/5608
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260622T130000Z
-SUMMARY:Kangbo Aloti (2025)
-UID:1474f366-9af2-4ea5-86d5-fb0869f2cc5a@1474.org
-URL:https://fillum.in/screening/5619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nNote: Registration closed
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260613T083000Z
-SUMMARY:Possession (1981)
-UID:633aa00d-deb5-484c-b96f-90f3a42bf900@633a.org
-URL:https://fillum.in/screening/5501
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260627T083000Z
-SUMMARY:Embrace of the Serpent (2015)
-UID:bf5b131e-71a7-4348-bfbe-ef2ea8e3f291@bf5b.org
-URL:https://fillum.in/screening/5506
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260612T123000Z
-SUMMARY:Sabar Bonda (2025)
-UID:93d18de2-c60f-4153-9d80-9da688a3d5d8@93d1.org
-URL:https://fillum.in/screening/5606
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260626T123000Z
-SUMMARY:Love & Revolution (2023)
-UID:72b11829-ac04-4065-8a17-65cfbcf5bea0@72b1.org
-URL:https://fillum.in/screening/5609
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T103000Z
-SUMMARY:Carrie (1976)
-UID:f40d2fc9-0be5-4925-9a2b-dc3ddc9c3be2@f40d.org
-URL:https://fillum.in/screening/5505
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T083000Z
-SUMMARY:Persona (1966)
-UID:7549369a-ac2d-4f8d-8379-fed25f1c7563@7549.org
-URL:https://fillum.in/screening/5504
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:Lecture Room 1\, India International Centre Annexe
-DTSTART:20260610T130000Z
-SUMMARY:Tashi and the Monk (2015)
-UID:68fc4e0d-0080-43a6-ae36-077bbd798474@68fc.org
-URL:https://fillum.in/screening/5621
 END:VEVENT
 END:VCALENDAR
