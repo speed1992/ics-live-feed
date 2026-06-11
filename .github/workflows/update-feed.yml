@@ -6,8 +6,8 @@ permissions:
 
 on:
   schedule:
-    # Runs at 00:00 UTC (5:30 AM IST) every day
-    - cron: '0 0 * * *'
+    # Runs at 8:47 AM and 5:47 PM IST
+    - cron: '17 3,12 * * *'
   workflow_dispatch: # Allows you to manually trigger the script from the Actions tab
 
 jobs:
