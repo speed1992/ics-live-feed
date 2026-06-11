@@ -2,40 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Mann ki Udaan Kisson ki Dukaan / A Mind of Full Fantasies (Varsha Ransore\, Yathi Kiran)\n· Coexistence: The House of Many Lives (Biont)\n· Chugati Chidiya\, Udata Gofan\, Pahare Par Baitha Kaag B.. more
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
 DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260610T053000Z
-SUMMARY:Flora\, Fauna & Habitats
-UID:2372953c-7f8a-4230-ae31-fa52dba28f6d@2372.org
-URL:https://fillum.in/p/267
+LOCATION:Instituto Cervantes
+DTSTART:20260625T123000Z
+SUMMARY:Nudo Mixteco (2021)
+UID:b0ddc7a8-4b1f-4b21-b924-7080da28d68b@b0dd.org
+URL:https://fillum.in/screening/5608
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
 DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260627T083000Z
-SUMMARY:Embrace of the Serpent (2015)
-UID:39f1b6ae-9fe8-4692-a111-8caa515f7ba2@39f1.org
-URL:https://fillum.in/screening/5506
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Poison in my blood (Meera Chaudhary)\n· Khara Sheher (Anisha Raj\, Anjani Chadha\, Angeline\, L Shiihrani\, Lagan Mangla and Rishabh Yadav)
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260611T050000Z
-SUMMARY:The Changing Planet II
-UID:931336f8-a9aa-4719-ace8-632185d02944@9313.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260622T130000Z
-SUMMARY:Kangbo Aloti (2025)
-UID:4199b574-7b16-464c-82eb-31800e300bda@4199.org
-URL:https://fillum.in/screening/5619
+LOCATION:Instituto Cervantes
+DTSTART:20260612T123000Z
+SUMMARY:Sabar Bonda (2025)
+UID:f5f829ef-0fd2-4f0f-9c8d-98d1dcabd6ad@f5f8.org
+URL:https://fillum.in/screening/5606
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration. Post-screening conversation with the filmmaker Adoor Gopalakrishnan.
@@ -43,34 +25,79 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260620T050000Z
 SUMMARY:Mathilukal (1990)
-UID:382af813-c765-4ab8-b834-2910b53d71ac@382a.org
+UID:b531e780-1a46-4150-ba27-8d3508c5ae89@b531.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T091500Z
-SUMMARY:Cleo from 5 to 7 (1962)
-UID:ffcefefe-c1f0-4b01-b6c0-508f97609cce@ffce.org
-URL:https://fillum.in
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260622T130000Z
+SUMMARY:Kangbo Aloti (2025)
+UID:82c3e057-302d-46e4-9369-2d7aaaa47ac6@82c3.org
+URL:https://fillum.in/screening/5619
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nNote: Registration closed
 DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T103000Z
-SUMMARY:Carrie (1976)
-UID:4c0e4556-fe49-4f8b-9fed-ca0e6b528520@4c0e.org
-URL:https://fillum.in/screening/5505
+DTSTART:20260613T083000Z
+SUMMARY:Possession (1981)
+UID:2d6d4475-fd13-4e52-8907-6569458543d1@2d6d.org
+URL:https://fillum.in/screening/5501
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260614T093000Z
+SUMMARY:National Theatre Live: All My Sons (2026)
+UID:e55d19bb-7396-42a7-a81e-b4f2859d424e@e55d.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n· Thigspa / Last Drop (Tashi Dawa & Tsering Angdus)\n· Beyond the Conflict (Atharva Raut)\n· JULY 30 (Roshan V Roy)
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20260611T104500Z
+SUMMARY:Community\, Conservation & Futures III
+UID:ec281998-a7f0-4604-913e-cc5328a33595@ec28.org
+URL:https://fillum.in/p/267
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nAs part of EcoReels Film Festival
 DURATION:PT2H
 LOCATION:Alliance Française
-DTSTART:20260610T133000Z
-SUMMARY:Turtle Walker (2024)
-UID:217fdda1-92ef-40d6-b685-b8543af0053c@217f.org
+DTSTART:20260611T141500Z
+SUMMARY:I\, Poppy (2025)
+UID:cd639e00-c9ca-4b82-999d-d5d7a86d2abc@cd63.org
+URL:https://fillum.in/p/267
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260618T123000Z
+SUMMARY:Al Berto (2017)
+UID:78fc1f95-212c-4887-8f8c-cdecc45c028a@78fc.org
+URL:https://fillum.in/screening/5607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260616T130000Z
+SUMMARY:Karken (2025)
+UID:94a7e4ed-485f-4b61-80af-8cfe16e8539d@94a7.org
+URL:https://fillum.in/screening/5618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n· Molai (Dhiraj Kashyap)\n· Dongar Bhoomiya (Bhumika Yadav)\n· The Becoming of a Wildscape (Tanmayi Gidh)
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20260611T080000Z
+SUMMARY:Flora\, Fauna & Habitats II
+UID:57720bd7-85eb-4487-828b-5b8c878dd807@5772.org
 URL:https://fillum.in/p/267
 END:VEVENT
 BEGIN:VEVENT
@@ -79,107 +106,8 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1\, South Delhi
 DTSTART:20260611T061500Z
 SUMMARY:Touch of Evil (1958)
-UID:e1ad038b-1125-48b6-a69a-0e9a8aae6fb5@e1ad.org
+UID:31a1581c-d720-4ecf-b1c5-a96680700787@31a1.org
 URL:https://fillum.in/p/271
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nAs part of EcoReels Film Festival
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260611T141500Z
-SUMMARY:I\, Poppy (2025)
-UID:b8e088a6-07ac-417b-a154-bde48d6369f3@b8e0.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Noises from the Basement (Abhay P.)\n· Unhinjed (Arun Pramajan\, Agnipravo Karmakar)\n· Scarce (Mrittika 'Mou' Sarin)\n· Naad Nadi (Mihika Sengupta & Ayush Nair)\n· Gotakhor / Disappearing Div.. more
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260610T084500Z
-SUMMARY:Urban Realities
-UID:72fccf38-a263-4b26-a269-1de164fc8e09@72fc.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260612T063000Z
-SUMMARY:I Want to Eat Your Pancreas (2018)
-UID:9e6f5296-e09b-4315-a246-029cd3286413@9e6f.org
-URL:https://fillum.in/p/269
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nNazariya Pride Month
-DURATION:PT2H
-LOCATION:Niv Art Centre
-DTSTART:20260613T103000Z
-SUMMARY:Tara (2025)
-UID:db2d12ab-f6a4-4579-8e6a-c8c41ede7240@db2d.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nJoin us for a special screening of Carnival of Souls (1962)\, a haunting cult classic that has influenced generations of horror filmmakers. After surviving a mysterious accident\, a young woman finds .. more
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South Delhi
-DTSTART:20260611T121500Z
-SUMMARY:Carnival of Souls (1962)
-UID:a5c23903-a767-44e6-b37d-314513476e95@a5c2.org
-URL:https://fillum.in/p/270
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260621T050000Z
-SUMMARY:The Spirit of the Beehive (1973)
-UID:6be11114-16b8-42e2-998f-29c268c069bc@6be1.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\n
-DURATION:PT2H
-LOCATION:GuruJal\, Sector 26A
-DTSTART:20260619T133000Z
-SUMMARY:Meelon Dur (2023)
-UID:d55236c5-90f4-4331-a1b5-7934da935860@d552.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260625T130000Z
-SUMMARY:Joseph's Son
-UID:72f1bc47-7dc3-44ed-b2d8-df06a2e9c58e@72f1.org
-URL:https://fillum.in/screening/5620
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T083000Z
-SUMMARY:Persona (1966)
-UID:ba210613-684d-4d47-8346-c100ceb2535a@ba21.org
-URL:https://fillum.in/screening/5504
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nNote: Registration closed
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260613T110000Z
-SUMMARY:Princess Mononoke (1997)
-UID:cf2100f8-1b3c-4f18-b105-96840b184015@cf21.org
-URL:https://fillum.in/screening/5502
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:44db651e-7441-45fe-bc76-6a8939d07317@44db.org
-URL:https://fillum.in/screening/5617
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n· The Red Shelter (Lalit Bisht & Stenzin Namgyal)\n· Bayberries Ripen in the Monsoon (Pulkit Tomar)
@@ -187,124 +115,7 @@ DURATION:PT2H
 LOCATION:Alliance Française
 DTSTART:20260611T061500Z
 SUMMARY:The Changing Planet III
-UID:37f3d0d2-63bd-4736-acc4-4a7171547305@37f3.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:Lecture Room 1\, India International Centre Annexe
-DTSTART:20260610T130000Z
-SUMMARY:Tashi and the Monk (2015)
-UID:85fb7061-cd2e-4d02-9fdd-6d50179cb013@85fb.org
-URL:https://fillum.in/screening/5621
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Panha (Sakshi Mishra)\n· Friends of Jilipibala (Debalina Majumder)
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260611T123000Z
-SUMMARY:Community\, Conservation & Futures IV
-UID:154de407-1639-4895-9dbd-6de14fa87acb@154d.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nPost-screening Q&A with the filmmaker.
-DURATION:PT2H
-LOCATION:Press Club of India\, Raisina Road
-DTSTART:20260611T123000Z
-SUMMARY:Najariya (2026)
-UID:4bed3936-602d-42cb-9e2a-22a1933928f2@4bed.org
-URL:https://fillum.in/screening/5677
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n10 & 11 June 2026\n10:30 AM – 9:30 PM\n\nThemes:\nFlora\, Fauna & Habitats\nUrban Realities\nThe Changing Planet\nCommunity\, Conservation And Futures\n\nFilms will be followed by discussions with a.. more
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260610T050000Z
-SUMMARY:18th EcoReels Film Festival: Environment\, Climate Change & Sustainable Development
-UID:fe6fae8c-8647-4cfb-9e3d-2b37943b3e50@fe6f.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T120000Z
-SUMMARY:The White Ribbon (2009)
-UID:67861a25-c886-41d9-9362-0e035c9e4931@6786.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260618T123000Z
-SUMMARY:Al Berto (2017)
-UID:68122173-80d8-4e32-b671-70be38d87981@6812.org
-URL:https://fillum.in/screening/5607
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Thigspa / Last Drop (Tashi Dawa & Tsering Angdus)\n· Beyond the Conflict (Atharva Raut)\n· JULY 30 (Roshan V Roy)
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260611T104500Z
-SUMMARY:Community\, Conservation & Futures III
-UID:47349c0b-0994-4c94-a2d5-bd2ee2501dd5@4734.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260625T123000Z
-SUMMARY:Nudo Mixteco (2021)
-UID:603bbc4c-d430-42cd-a64d-fb18aca1aef3@603b.org
-URL:https://fillum.in/screening/5608
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Bhanga Mela / Scrap Fair (Subhajit Naskar)\n· REWOVEN (Rupa Paul)
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260611T091500Z
-SUMMARY:Urban Realities II
-UID:76816643-4d3d-4741-95ed-d9d8db256931@7681.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Desi Oon (Suresh Eriyat)\n· Naye Kisan Nayi Seekh / New Farmer\, New Learnings (Sandip Bhati & Pradeep Lekhwar)\n· Jamuna Tudu – The Lady Tarzan (Ranveer Bhagat & Parul Kunkal)
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260610T063000Z
-SUMMARY:Community\, Conservation & Futures
-UID:9291627b-341a-470c-8b14-6a2cda411bb2@9291.org
-URL:https://fillum.in/p/267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260614T093000Z
-SUMMARY:National Theatre Live: All My Sons (2026)
-UID:c1a8941a-2c0f-47b2-8539-583ec6530baa@c1a8.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260612T123000Z
-SUMMARY:Sabar Bonda (2025)
-UID:dcaa1b37-3eb8-45a6-9aef-3fa89b96a545@dcaa.org
-URL:https://fillum.in/screening/5606
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Hell or High Water (Anand Holla)\n· Where did our river flow to? (Biswajit Das)
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260610T120000Z
-SUMMARY:The Changing Planet
-UID:63550d13-7092-4248-8806-5e20375b20fc@6355.org
+UID:a6ade47f-e69e-4dab-9a5d-2387388a3501@a6ad.org
 URL:https://fillum.in/p/267
 END:VEVENT
 BEGIN:VEVENT
@@ -313,35 +124,44 @@ DURATION:PT2H
 LOCATION:Alliance Française
 DTSTART:20260611T091500Z
 SUMMARY:Community\, Conservation & Futures II
-UID:1d972f4f-92b3-4baf-b804-8bcfb6e33586@1d97.org
+UID:8a1cc6b0-68a1-4697-82cb-2c663ac57f47@8a1c.org
 URL:https://fillum.in/p/267
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260616T130000Z
-SUMMARY:Karken (2025)
-UID:3944260b-a64a-49f7-984b-6e19182ca55b@3944.org
-URL:https://fillum.in/screening/5618
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260612T083000Z
-SUMMARY:Belladonna of Sadness (1973)
-UID:94289010-f510-43b7-bc7d-84ac39a1d7ce@9428.org
-URL:https://fillum.in/p/269
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nNote: Registration closed
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
 DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260613T083000Z
-SUMMARY:Possession (1981)
-UID:60691e37-41d1-4d90-8fc9-e6e4f797cc0f@6069.org
-URL:https://fillum.in/screening/5501
+DTSTART:20260620T103000Z
+SUMMARY:Carrie (1976)
+UID:03524731-6012-462f-b9b9-8137b1fa518d@0352.org
+URL:https://fillum.in/screening/5505
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n· Panha (Sakshi Mishra)\n· Friends of Jilipibala (Debalina Majumder)
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20260611T123000Z
+SUMMARY:Community\, Conservation & Futures IV
+UID:626da3bf-2dc2-4a95-99b0-6d10b0b5177e@626d.org
+URL:https://fillum.in/p/267
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nJoin us for a special screening of Carnival of Souls (1962)\, a haunting cult classic that has influenced generations of horror filmmakers. After surviving a mysterious accident\, a young woman finds .. more
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1\, South Delhi
+DTSTART:20260611T121500Z
+SUMMARY:Carnival of Souls (1962)
+UID:c1f498ee-4fd2-438b-950c-3134783ba100@c1f4.org
+URL:https://fillum.in/p/270
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T120000Z
+SUMMARY:The White Ribbon (2009)
+UID:b2b3b8a8-a953-4e79-b700-33bb0fc7a49d@b2b3.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: ALT EFF Film Club\n\n
@@ -349,17 +169,17 @@ DURATION:PT2H
 LOCATION:Remakery\, Malviya Nagar
 DTSTART:20260619T133000Z
 SUMMARY:Meelon Dur (2023)
-UID:0d4cd73c-155f-48ab-ae55-b1e9d4493f64@0d4c.org
+UID:27c05c41-9d33-4fcf-a37a-bdf1f26e1dbb@27c0.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Seaward (Saksham Mehrotra)\n· Echoes of Dugong (Saumya Kiran Deva)\n· Knotted Ocean (Tejal Gaddale)\n· Kharvan – In Search of the Elusive One (Nitya Navelkar)\n· Mhari Topli Ma Kekda / What.. more
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
 DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20260610T103000Z
-SUMMARY:Flora\, Fauna & Habitats
-UID:79c10087-c884-42bc-b7f3-06324058fdbe@79c1.org
-URL:https://fillum.in/p/267
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260620T083000Z
+SUMMARY:Persona (1966)
+UID:7910e1de-2d2f-40f3-b290-ae3a3874f967@7910.org
+URL:https://fillum.in/screening/5504
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
@@ -367,26 +187,107 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260621T083000Z
 SUMMARY:Inside Llewyn Davis (2013)
-UID:b0a89dcb-d279-4c14-9569-fd05b0ee595d@b0a8.org
+UID:3cd4cc8c-eb1f-4896-8f22-4845538658f1@3cd4.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· Molai (Dhiraj Kashyap)\n· Dongar Bhoomiya (Bhumika Yadav)\n· The Becoming of a Wildscape (Tanmayi Gidh)
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260625T130000Z
+SUMMARY:Joseph's Son
+UID:ddbf739c-bebf-491c-918d-927906297e74@ddbf.org
+URL:https://fillum.in/screening/5620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nScreening will start at 6 PM Sharp. Followed by independent films and interaction with the filmmaker.
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260614T120000Z
+SUMMARY:Ichi the Killer (2001)
+UID:35c78852-a7f3-412d-b4ef-c98d80516977@35c7.org
+URL:https://fillum.in/p/269
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nScreening will start at 6 PM Sharp.
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260613T120000Z
+SUMMARY:I Want to Eat Your Pancreas (2018)
+UID:01ef2b96-9cda-4f3d-b1cc-fafc5c361336@01ef.org
+URL:https://fillum.in/p/273
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: ALT EFF Film Club\n\n
+DURATION:PT2H
+LOCATION:GuruJal\, Sector 26A
+DTSTART:20260619T133000Z
+SUMMARY:Meelon Dur (2023)
+UID:ff0cc6a4-e6b1-4e83-84a4-acb90af8c8d9@ff0c.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n· Poison in my blood (Meera Chaudhary)\n· Khara Sheher (Anisha Raj\, Anjani Chadha\, Angeline\, L Shiihrani\, Lagan Mangla and Rishabh Yadav)
 DURATION:PT2H
 LOCATION:Alliance Française
-DTSTART:20260611T080000Z
-SUMMARY:Flora\, Fauna & Habitats II
-UID:70d5aa65-fa06-4c6b-843c-4922a29e3e64@70d5.org
+DTSTART:20260611T050000Z
+SUMMARY:The Changing Planet II
+UID:a0ad5c40-d1aa-4c46-baf6-839502a4e460@a0ad.org
 URL:https://fillum.in/p/267
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n
+DESCRIPTION:Host: Kriti Film Club\n\n· Bhanga Mela / Scrap Fair (Subhajit Naskar)\n· REWOVEN (Rupa Paul)
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260612T100000Z
-SUMMARY:Ichi the Killer (2001)
-UID:fe3cd2a7-3b2f-4ce5-bca9-06e10b5848ff@fe3c.org
-URL:https://fillum.in/p/269
+LOCATION:Alliance Française
+DTSTART:20260611T091500Z
+SUMMARY:Urban Realities II
+UID:2ca1de41-c158-4025-b3ad-870d0e8b3ad0@2ca1.org
+URL:https://fillum.in/p/267
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T091500Z
+SUMMARY:Cleo from 5 to 7 (1962)
+UID:b19c527e-e7ce-45c1-8d70-e6e87d2420f9@b19c.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260627T083000Z
+SUMMARY:Embrace of the Serpent (2015)
+UID:b63ee1df-ec6a-4cf4-9973-ebc37f86ceb2@b63e.org
+URL:https://fillum.in/screening/5506
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260621T050000Z
+SUMMARY:The Spirit of the Beehive (1973)
+UID:97fc3610-055c-42ae-bbf3-c3b5853d454e@97fc.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:7a58b0aa-a31a-44d1-acff-1b5fd88ce1cb@7a58.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nPost-screening Q&A with the filmmaker.
+DURATION:PT2H
+LOCATION:Press Club of India\, Raisina Road
+DTSTART:20260611T123000Z
+SUMMARY:Najariya (2026)
+UID:57c9e89f-4323-4c11-8246-3686259cec18@57c9.org
+URL:https://fillum.in/screening/5677
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
@@ -394,7 +295,34 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260626T123000Z
 SUMMARY:Love & Revolution (2023)
-UID:97c92048-316c-4dae-8477-69c6a841478f@97c9.org
+UID:46eb1bc4-3447-42a5-abf5-6cc1ea594370@46eb.org
 URL:https://fillum.in/screening/5609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nNazariya Pride Month
+DURATION:PT2H
+LOCATION:Niv Art Centre
+DTSTART:20260613T103000Z
+SUMMARY:Tara (2025)
+UID:53796b64-5f4c-4057-8d6e-dbfa29de382c@5379.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nNote: Registration closed
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260613T110000Z
+SUMMARY:Princess Mononoke (1997)
+UID:3a98cbc8-03af-4a2f-8fe3-840ed3402305@3a98.org
+URL:https://fillum.in/screening/5502
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260614T143000Z
+SUMMARY:Short Films by Priyanka Sarkar - Namaste / Yatra
+UID:4065e98b-5568-44cb-9516-57b280cb515e@4065.org
+URL:https://fillum.in/p/269
 END:VEVENT
 END:VCALENDAR
