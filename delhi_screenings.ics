@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260618T123000Z
-SUMMARY:Al Berto (2017)
-UID:8b0cc644-742a-4824-9753-8215ea0cfb95@8b0c.org
-URL:https://fillum.in/screening/5607
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260621T050000Z
+SUMMARY:The Spirit of the Beehive (1973)
+UID:894a0934-4fde-425e-8d7e-df37cbccddf1@894a.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
+DESCRIPTION:Host: ALT EFF Film Club\n\n
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:faf5a2f7-3249-4e9d-9ee9-8a400cd4e713@faf5.org
-URL:https://fillum.in/screening/5617
+LOCATION:GuruJal\, Sector 26A
+DTSTART:20260619T133000Z
+SUMMARY:Meelon Dur (2023)
+UID:b69c2b1a-a5da-4199-847e-7295b58989ec@b69c.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n
@@ -25,98 +25,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260614T093000Z
 SUMMARY:National Theatre Live: All My Sons (2026)
-UID:5d927b6b-2fa9-4d55-83a9-7afe87923e66@5d92.org
+UID:79fc795b-1d29-46a1-9030-a1e6461b52d5@79fc.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration. Post-screening conversation with the filmmaker Adoor Gopalakrishnan.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T050000Z
-SUMMARY:Mathilukal (1990)
-UID:788078af-33ca-4397-a063-942518de4107@7880.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nYATRA\, a transcended journey inward\, is an avant-garde short film inspired by the philosophy “Atman is Brahman\," written in the Hindu Upanishads\, which can be attained by expanding the soul throug.. more
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260614T143000Z
-SUMMARY:Short Films by Priyanka Sarkar - Namaste / Yatra
-UID:cc55c377-efb2-4d69-b856-f8050ade4786@cc55.org
-URL:https://fillum.in/p/269
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260616T130000Z
-SUMMARY:Karken (2025)
-UID:9267cbd1-36f0-45c3-b26c-bb074913cf69@9267.org
-URL:https://fillum.in/screening/5618
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260622T130000Z
-SUMMARY:Kangbo Aloti (2025)
-UID:579d23d3-a55b-496a-ad6a-55ada808e03f@579d.org
-URL:https://fillum.in/screening/5619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260621T083000Z
-SUMMARY:Inside Llewyn Davis (2013)
-UID:b6f1bef8-8aae-4cc1-83fd-38e329544d64@b6f1.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T120000Z
-SUMMARY:The White Ribbon (2009)
-UID:1e092cd0-86aa-4bbb-93e8-e8f5ac40b962@1e09.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260627T083000Z
-SUMMARY:Embrace of the Serpent (2015)
-UID:193a29a2-e5f6-4e8d-8bfb-85e4119bb8df@193a.org
-URL:https://fillum.in/screening/5506
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T091500Z
-SUMMARY:Cleo from 5 to 7 (1962)
-UID:180e86a2-ded9-4bf5-9edc-d2ed30773a8f@180e.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nScreening will start at 6 PM Sharp. Ticket includes two short films 'Yatra' & 'Namaste' by Priyanka Sarkar at 8 PM.\n\nFollowed by a panel discussion with Out of Sequence and the Filmmaker.
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260614T120000Z
-SUMMARY:Ichi the Killer (2001)
-UID:59d6f5d9-92a2-4b44-804f-ea223aa79600@59d6.org
-URL:https://fillum.in/p/269
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T103000Z
-SUMMARY:Carrie (1976)
-UID:a78e509a-07d5-47f6-b972-032bf971382e@a78e.org
-URL:https://fillum.in/screening/5505
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: ALT EFF Film Club\n\n
@@ -124,34 +34,7 @@ DURATION:PT2H
 LOCATION:Remakery\, Malviya Nagar
 DTSTART:20260619T133000Z
 SUMMARY:Meelon Dur (2023)
-UID:d2a88c44-532a-4b85-a289-7b04618c796b@d2a8.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260625T123000Z
-SUMMARY:Nudo Mixteco (2021)
-UID:52c826c8-cf8f-4632-939e-10cd2a10d3f2@52c8.org
-URL:https://fillum.in/screening/5608
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T083000Z
-SUMMARY:Persona (1966)
-UID:236bb11b-a5e0-472f-9d83-6ca71eb27454@236b.org
-URL:https://fillum.in/screening/5504
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260621T050000Z
-SUMMARY:The Spirit of the Beehive (1973)
-UID:f54ea23c-d4ba-4eac-88ae-a7373a6dc684@f54e.org
+UID:3f37dd32-fb45-4eb3-aa4a-4b624d8ee64d@3f37.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -160,8 +43,17 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260626T123000Z
 SUMMARY:Love & Revolution (2023)
-UID:493888dc-7f1e-412d-8933-db9b75ac8887@4938.org
+UID:e8e60536-f0cc-4c88-b975-0c37dead5484@e8e6.org
 URL:https://fillum.in/screening/5609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nScreening will start at 6 PM Sharp. Ticket includes two short films 'Yatra' & 'Namaste' by Priyanka Sarkar at 8 PM.\n\nFollowed by a panel discussion with Out of Sequence and the Filmmaker.
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260614T120000Z
+SUMMARY:Ichi the Killer (2001)
+UID:c9996397-7395-49cd-8839-894b8fd3a2aa@c999.org
+URL:https://fillum.in/p/269
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree and open to all.
@@ -169,16 +61,124 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260625T130000Z
 SUMMARY:Joseph's Son
-UID:2d77dc1f-8c08-45aa-bbf4-4e0be598312b@2d77.org
+UID:0dc1e8ce-1f53-46e2-8d19-db355629773d@0dc1.org
 URL:https://fillum.in/screening/5620
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\n
+DESCRIPTION:Host: Out of Sequence\n\nYATRA\, a transcended journey inward\, is an avant-garde short film inspired by the philosophy “Atman is Brahman\," written in the Hindu Upanishads\, which can be attained by expanding the soul throug.. more
 DURATION:PT2H
-LOCATION:GuruJal\, Sector 26A
-DTSTART:20260619T133000Z
-SUMMARY:Meelon Dur (2023)
-UID:448a0cf6-c3b2-4ce4-95f2-48b3f67244ab@448a.org
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260614T143000Z
+SUMMARY:Short Films by Priyanka Sarkar - Namaste / Yatra
+UID:ffe90f65-e2ac-4ac4-8298-be15e8ba4008@ffe9.org
+URL:https://fillum.in/p/269
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration. Post-screening conversation with the filmmaker Adoor Gopalakrishnan.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T050000Z
+SUMMARY:Mathilukal (1990)
+UID:a40fda06-1f07-4e31-b691-2718fa898693@a40f.org
 URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T091500Z
+SUMMARY:Cleo from 5 to 7 (1962)
+UID:7a0ca230-f6bb-4c4a-a416-6906f4887398@7a0c.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260627T083000Z
+SUMMARY:Embrace of the Serpent (2015)
+UID:f39f9510-216f-4bc4-a068-4fdd86df1e51@f39f.org
+URL:https://fillum.in/screening/5506
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T120000Z
+SUMMARY:The White Ribbon (2009)
+UID:43290382-ebeb-495b-9623-c39f588fb732@4329.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260622T130000Z
+SUMMARY:Kangbo Aloti (2025)
+UID:f75d09c6-3b97-402d-9233-0d5b27ec17de@f75d.org
+URL:https://fillum.in/screening/5619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260618T123000Z
+SUMMARY:Al Berto (2017)
+UID:31e4c702-3fd1-41b9-9de9-29c4092ff52d@31e4.org
+URL:https://fillum.in/screening/5607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260620T083000Z
+SUMMARY:Persona (1966)
+UID:b9b2d347-81b6-45ae-ac62-a5384a554d34@b9b2.org
+URL:https://fillum.in/screening/5504
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:b4e9061b-93da-44d5-b466-ab2c012720f4@b4e9.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260616T130000Z
+SUMMARY:Karken (2025)
+UID:072c59be-985d-4805-988a-58d3a6c033dc@072c.org
+URL:https://fillum.in/screening/5618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260621T083000Z
+SUMMARY:Inside Llewyn Davis (2013)
+UID:29eebfb6-12ac-40d0-903e-b189f50f3611@29ee.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260620T103000Z
+SUMMARY:Carrie (1976)
+UID:df62655c-d43c-405f-8ac8-c3bc250ab298@df62.org
+URL:https://fillum.in/screening/5505
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260625T123000Z
+SUMMARY:Nudo Mixteco (2021)
+UID:080f00b0-4135-4259-8406-bcd000322e41@080f.org
+URL:https://fillum.in/screening/5608
 END:VEVENT
 END:VCALENDAR
