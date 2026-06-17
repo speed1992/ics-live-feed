@@ -2,130 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\n
-DURATION:PT2H
-LOCATION:GuruJal\, Sector 26A
-DTSTART:20260619T133000Z
-SUMMARY:Meelon Dur (2023)
-UID:1d4337f6-d2ed-4d12-afb4-bc6c44e69afe@1d43.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260620T083000Z
-SUMMARY:Persona (1966)
-UID:af434a91-e0ae-4285-80c1-e72ae0e00052@af43.org
-URL:https://fillum.in/screening/5504
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20260620T083000Z
-SUMMARY:Where Is My Friend's House? (1987)
-UID:f44a0fdd-9944-4988-a9e7-2c876003fd4c@f44a.org
-URL:https://fillum.in/p/275
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260622T130000Z
-SUMMARY:Kangbo Aloti (2025)
-UID:02404ed7-bf9e-4d75-81b5-4578f43c5be5@0240.org
-URL:https://fillum.in/screening/5619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T120000Z
-SUMMARY:The White Ribbon (2009)
-UID:f4d34fd4-f491-44a9-a51f-8dfa6c2dbc4c@f4d3.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260621T050000Z
-SUMMARY:The Spirit of the Beehive (1973)
-UID:1d88f7a3-cf00-4bd0-898c-8fafed265abf@1d88.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T091500Z
-SUMMARY:Cleo from 5 to 7 (1962)
-UID:11d31e13-a916-4082-a172-29a10a00f417@11d3.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260627T083000Z
-SUMMARY:Embrace of the Serpent (2015)
-UID:5a10a103-725b-45c0-9c95-54593e970851@5a10.org
-URL:https://fillum.in/screening/5506
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration. Post-screening conversation with the filmmaker Adoor Gopalakrishnan.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260620T050000Z
-SUMMARY:Mathilukal (1990)
-UID:e83fae9b-3bf1-4c02-bd6c-5f85785d0021@e83f.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nLast movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Nev Sarai\, Saket
-DTSTART:20260621T113000Z
-SUMMARY:Tangerine (2015)
-UID:277b3daf-318c-486c-aefd-ffa44fca17d1@277b.org
-URL:https://fillum.in/p/276
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20260620T063000Z
-SUMMARY:The Trial (1962)
-UID:f5999361-2dcd-4a15-9f0d-de83c6d13255@f599.org
-URL:https://fillum.in/p/275
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260625T123000Z
-SUMMARY:Nudo Mixteco (2021)
-UID:c9526622-1dc0-4248-969e-9490f56452a7@c952.org
-URL:https://fillum.in/screening/5608
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260625T130000Z
-SUMMARY:All the Colours of the World Are Between Black and White (2023)
-UID:395e8776-087d-4c03-819b-e1613c5d9d9b@395e.org
-URL:https://fillum.in/screening/5704
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. Post-screening Q&A with the filmmaker.
-DURATION:PT2H
-LOCATION:Press Club of India\, Raisina Road
-DTSTART:20260618T130000Z
-SUMMARY:Ruuposh (2022)
-UID:02060766-09b4-46f4-8e06-50a59ce0c971@0206.org
-URL:https://fillum.in/screening/5703
+DTSTART:20260630T130000Z
+SUMMARY:Homecoming (2023)
+UID:7c6dbc4c-470a-47c7-aa4d-f2f8a0b2393b@7c6d.org
+URL:https://fillum.in/screening/5705
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
@@ -133,53 +16,35 @@ DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
 DTSTART:20260620T103000Z
 SUMMARY:Carrie (1976)
-UID:7a74e686-c168-4b80-8ec4-b35bdf172821@7a74.org
+UID:d68c4d66-3f22-4489-9530-8e6f38777a04@d68c.org
 URL:https://fillum.in/screening/5505
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260626T123000Z
-SUMMARY:Love & Revolution (2023)
-UID:738c03e4-3d91-4fab-ab10-40fd70457cad@738c.org
-URL:https://fillum.in/screening/5609
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:c956a6d4-d99d-495b-bafc-32e8d1480556@c956.org
-URL:https://fillum.in/screening/5617
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260630T130000Z
-SUMMARY:Homecoming (2023)
-UID:95cadd81-e6c0-427b-9e97-f5a3e7ac09bb@95ca.org
-URL:https://fillum.in/screening/5705
+DTSTART:20260625T130000Z
+SUMMARY:All the Colours of the World Are Between Black and White (2023)
+UID:0c050c86-1e83-47d8-8795-a9243a4c5655@0c05.org
+URL:https://fillum.in/screening/5704
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\n
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n
 DURATION:PT2H
-LOCATION:Remakery\, Malviya Nagar
-DTSTART:20260619T133000Z
-SUMMARY:Meelon Dur (2023)
-UID:8b5aa8d6-c544-46db-bdfb-e5bc6a3db22a@8b5a.org
-URL:https://fillum.in
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260627T083000Z
+SUMMARY:Embrace of the Serpent (2015)
+UID:d92b4f79-7710-446c-aaa5-2a499871e58e@d92b.org
+URL:https://fillum.in/screening/5506
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nFirst movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.
+DESCRIPTION:Host: Camera Commune\n\nFree entry. Walk-ins allowed. The screening will be accompanied by a brief talk about the topic.
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Nev Sarai\, Saket
-DTSTART:20260621T063000Z
-SUMMARY:The Handmaiden (2016)
-UID:a7a58cb8-5c4e-4230-8286-bd67e8174b2d@a7a5.org
-URL:https://fillum.in/p/276
+LOCATION:mool\, South Extension 2
+DTSTART:20260627T113000Z
+SUMMARY:Palestine 36 (2025)
+UID:dbdde1bc-f33e-4df7-b5dc-1e337eb5dd5d@dbdd.org
+URL:https://fillum.in/screening/5712
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nSecond movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.
@@ -187,7 +52,16 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Nev Sarai\, Saket
 DTSTART:20260621T093000Z
 SUMMARY:My Own Private Idaho (1991)
-UID:f8d78932-8f9c-4ed6-a1cb-2fef163bc9f3@f8d7.org
+UID:d1e87dd8-92bc-474f-bf2c-3c464819e56f@d1e8.org
+URL:https://fillum.in/p/276
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nFirst movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Nev Sarai\, Saket
+DTSTART:20260621T063000Z
+SUMMARY:The Handmaiden (2016)
+UID:edf0d842-9fcb-4e52-ba1a-acac9a191df3@edf0.org
 URL:https://fillum.in/p/276
 END:VEVENT
 BEGIN:VEVENT
@@ -196,17 +70,8 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260618T123000Z
 SUMMARY:Al Berto (2017)
-UID:0e89ea7b-4146-435d-977b-f347e0cf33ef@0e89.org
+UID:3f4fb43e-8c7f-4c0d-b395-a6f4529f254b@3f4f.org
 URL:https://fillum.in/screening/5607
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260621T083000Z
-SUMMARY:Inside Llewyn Davis (2013)
-UID:82ec313b-ef70-48f5-be57-23a718468ac4@82ec.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree and open to all.
@@ -214,7 +79,160 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260625T130000Z
 SUMMARY:Joseph's Son
-UID:c92152b8-4269-49db-9111-afe1f80053c5@c921.org
+UID:2421e389-7b94-4ce3-b667-af61ef1fd905@2421.org
 URL:https://fillum.in/screening/5620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:2e831564-0052-43a1-9c37-c1112cfdb886@2e83.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T120000Z
+SUMMARY:The White Ribbon (2009)
+UID:333b0803-37b8-4ccf-aad2-a8ba01b82f88@333b.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration. Post-screening conversation with the filmmaker Adoor Gopalakrishnan.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T050000Z
+SUMMARY:Mathilukal (1990)
+UID:3dc3ff8b-7d12-4e31-a327-667c7c826fae@3dc3.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: ALT EFF Film Club\n\n
+DURATION:PT2H
+LOCATION:GuruJal\, Sector 26A
+DTSTART:20260619T133000Z
+SUMMARY:Meelon Dur (2023)
+UID:6a52e361-ee6b-432d-be81-9e0d46897c3d@6a52.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\nRSVP Closed
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260620T083000Z
+SUMMARY:Persona (1966)
+UID:0cc6dea7-c699-4ecf-bdcb-96920d9ab70b@0cc6.org
+URL:https://fillum.in/screening/5504
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20260620T083000Z
+SUMMARY:Where Is My Friend's House? (1987)
+UID:a9055fab-da31-48db-b956-5d434be32780@a905.org
+URL:https://fillum.in/p/275
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260625T123000Z
+SUMMARY:Nudo Mixteco (2021)
+UID:7e9c321d-e0e4-4472-838c-3b2dbae5ce50@7e9c.org
+URL:https://fillum.in/screening/5608
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260620T091500Z
+SUMMARY:Cleo from 5 to 7 (1962)
+UID:b9e46c76-7f32-43d3-9cc3-e8afbe3cb202@b9e4.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260621T050000Z
+SUMMARY:The Spirit of the Beehive (1973)
+UID:6c3f297f-8753-4751-914f-907bdb32cd9f@6c3f.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nLast movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Nev Sarai\, Saket
+DTSTART:20260621T113000Z
+SUMMARY:Tangerine (2015)
+UID:c4429ca9-ebe6-442a-8bc8-7d340ec5861e@c442.org
+URL:https://fillum.in/p/276
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260626T123000Z
+SUMMARY:Love & Revolution (2023)
+UID:4dda385c-d550-40fa-a017-8c0d4aaeeb04@4dda.org
+URL:https://fillum.in/screening/5609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260621T083000Z
+SUMMARY:Inside Llewyn Davis (2013)
+UID:b2b62f92-3090-4bb3-9f2a-3c6a5d9f6983@b2b6.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. Post-screening Q&A with the filmmaker.
+DURATION:PT2H
+LOCATION:Press Club of India\, Raisina Road
+DTSTART:20260618T130000Z
+SUMMARY:Ruuposh (2022)
+UID:4519f27f-78f1-4d1a-b320-88c5a39104ea@4519.org
+URL:https://fillum.in/screening/5703
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nIndie cinema thrives in the margins — in stories that don't wait for permission\, made by filmmakers who shoot in familiar streets\, with familiar faces\, about lives that feel uncomfortably close to.. more
+DURATION:PT2H
+LOCATION:Fort City Brewing\, Hauz Khas
+DTSTART:20260621T130000Z
+SUMMARY:Home Town Edition #2
+UID:c756a10d-233c-4a17-a6c3-49b54168aaf2@c756.org
+URL:https://fillum.in/p/280
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260622T130000Z
+SUMMARY:Kangbo Aloti (2025)
+UID:f36227e4-1c81-41d3-aad6-468d9776341e@f362.org
+URL:https://fillum.in/screening/5619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: ALT EFF Film Club\n\n
+DURATION:PT2H
+LOCATION:Remakery\, Malviya Nagar
+DTSTART:20260619T133000Z
+SUMMARY:Meelon Dur (2023)
+UID:b97bc29d-734f-41ea-9371-66db19b88265@b97b.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20260620T063000Z
+SUMMARY:The Trial (1962)
+UID:7854aaea-c843-49a8-81ac-5f3037898eda@7854.org
+URL:https://fillum.in/p/275
 END:VEVENT
 END:VCALENDAR
