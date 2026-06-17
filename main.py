@@ -103,7 +103,9 @@ async def scrape_and_generate_calendar():
                     event.duration = timedelta(hours=2) 
                     event.location = location.strip()
                     event.url = absolute_url
-                    event.description = f"Host: {host}\n\n{description.strip()}"
+                    url_text = f"\n\nMore info / Tickets: {absolute_url}" if absolute_url else ""
+                    event.description = f"Host: {host}\n\n{description.strip()}{url_text}"
+                    # event.description = f"Host: {host}\n\n{description.strip()}"
                     
                     cal.events.add(event)
                     success_count += 1
