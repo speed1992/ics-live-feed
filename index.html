@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Delhi Screenings Calendar</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.button {
+    display: block;
+    margin: 15px 0;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    background: #1976d2;
+    border-radius: 10px;
+    font-size: 18px;
+    transition: 0.2s;
+}
+
+.button:hover {
+    opacity: 0.9;
+}
+
+.google {
+    background: #4285F4;
+}
+
+.apple {
+    background: #000;
+}
+
+.outlook {
+    background: #0078D4;
+}
+
+.download {
+    background: #4CAF50;
+}
+
+.footer {
+    margin-top: 25px;
+    font-size: 14px;
+    color: #888;
+}
+</style>
+
+<script>
+const ICS =
+"https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics";
+
+const WEBCAL =
+"webcal://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics";
+
+const GOOGLE =
+"https://calendar.google.com/calendar/u/0/r?cid=" +
+encodeURIComponent(WEBCAL);
+
+window.onload = function () {
+    document.getElementById("google").href = GOOGLE;
+    document.getElementById("apple").href = WEBCAL;
+    document.getElementById("outlook").href = WEBCAL;
+    document.getElementById("download").href = ICS;
+};
+</script>
+
+</head>
+
+<body>
+
+<div class="container">
+<div class="card">
+
+<h1>🎬 Delhi Screenings Calendar</h1>
+
+<p>
+Subscribe once and receive updates for upcoming
+Delhi film screenings automatically.
+</p>
+
+<a id="google" class="button google">
+📅 Add to Google Calendar
+</a>
+
+<a id="apple" class="button apple">
+🍎 Subscribe on Apple Calendar
+</a>
+
+<a id="outlook" class="button outlook">
+📧 Subscribe on Outlook
+</a>
+
+<a id="download" class="button download">
+💾 Download ICS File
+</a>
+
+<div class="footer">
+Events are updated automatically.<br>
+No need to re-import the calendar.
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
