@@ -19,21 +19,9 @@ This project uses an asynchronous headless browser with anti-bot masking to bypa
 
 ## 📅 Quick Subscribe
 
-To add this live feed to your personal calendar, copy the raw URL below:
+To add this live feed to your personal calendar, copy the URL below:
 
-> **Feed URL:**  
-> `https://raw.githubusercontent.com/speed1992/ics-live-feed/refs/heads/main/delhi_screenings.ics`
-
-### 💻 Initial Desktop Setup (Google Calendar)
-*Note: Do this initial setup on a computer browser for the best results.*
-
-1. Open **[Google Calendar](https://calendar.google.com/)**.
-2. On the left sidebar, next to **Other calendars**, click the `+` (plus) icon.
-3. Select **From URL**.
-4. Paste the Feed URL and click **Add calendar**. 
-*(Optional: Go to the calendar settings and rename it to "CatchAFilm Delhi" for a cleaner look).*
-
----
+> **Feed URL:** > `https://speed1992.github.io/ics-live-feed/`
 
 ## 📱 Mobile Sync & Troubleshooting Guide
 
@@ -48,7 +36,7 @@ Web-subscribed calendars often do not sync to mobile apps automatically. Find yo
 3. Scroll all the way to the bottom and tap **Settings** (⚙️).
 4. Tap on the **Google Account** where you added the calendar subscription.
 5. **CRITICAL STEP:** Look for the new calendar. If you don't see it immediately, you *must* tap **"Show more"** under that account section. It is almost always hidden here by default.
-   * *Note: The calendar might be named with the raw GitHub URL (`https://raw.github...`) instead of "CatchAFilm" initially. Look for that specific link!*
+   * *Note: The calendar might be named with the GitHub URL instead of "CatchAFilm" initially. Look for that specific link!*
 6. Tap on the calendar name.
 7. Toggle the **Sync** switch at the very top to the **ON** (blue) position.
 8. Return to your main calendar view. Tap the Menu again and hit **Refresh** (or simply pull down firmly from the top of the screen). Give it a few seconds to pull the live data.
@@ -76,7 +64,7 @@ iOS caches calendars aggressively. Choose one of the two methods below to ensure
 
 ## 🛠️ Project Architecture
 
-This repository is designed to be entirely self-sufficient. A GitHub Action runs daily at midnight UTC, executes the Playwright scraper, and commits any new movie screenings back to the `.ics` file. 
+This repository is designed to be entirely self-sufficient. A GitHub Action runs daily at midnight UTC, executes the Playwright scraper, and commits any new movie screenings back to the repository, updating the GitHub Pages site.
 
 <details>
 <summary><strong>📦 requirements.txt</strong></summary>
@@ -84,3 +72,4 @@ This repository is designed to be entirely self-sufficient. A GitHub Action runs
 ```text
 playwright>=1.48.0
 ics==0.7.2
+pytz>=2024.1
