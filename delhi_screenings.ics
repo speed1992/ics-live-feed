@@ -2,22 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5608
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260625T123000Z
+SUMMARY:Nudo Mixteco (2021)
+UID:324e9c45-2885-4666-843e-b701773fc0f5@324e.org
+URL:https://fillum.in/screening/5608
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nSecond movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.\n\nMore info / Tickets: https://fillum.in/p/276
 DURATION:PT2H
 LOCATION:Niv Art Centre\, Nev Sarai\, Saket
 DTSTART:20260621T093000Z
 SUMMARY:My Own Private Idaho (1991)
-UID:775acbcb-780e-47e6-bf14-a32f7f4cfbab@775a.org
+UID:7d1296f7-b823-42b0-b7cb-ceddec0dea01@7d12.org
 URL:https://fillum.in/p/276
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Films From Underground\n\nIndie cinema thrives in the margins — in stories that don't wait for permission\, made by filmmakers who shoot in familiar streets\, with familiar faces\, about lives that feel uncomfortably close to.. more\n\nMore info / Tickets: https://fillum.in/p/280
 DURATION:PT2H
-LOCATION:American Center\, Kasturba Gandhi Marg
-DTSTART:20260626T090000Z
-SUMMARY:Apollo 13 (1995)
-UID:1db4cf75-6f60-4cb3-af68-fd15230ebc17@1db4.org
-URL:https://fillum.in
+LOCATION:Fort City Brewing\, Hauz Khas
+DTSTART:20260621T130000Z
+SUMMARY:Home Town Edition #2
+UID:fd35ed73-25cc-4ae8-9072-16b9f507ae7c@fd35.org
+URL:https://fillum.in/p/280
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.\n\nMore info / Tickets: https://fillum.in
@@ -25,44 +34,17 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260621T050000Z
 SUMMARY:The Spirit of the Beehive (1973)
-UID:64a1f3a3-ef7d-4289-9483-b4aa6f410c56@64a1.org
+UID:5b5439a9-0a23-4eaa-bad0-c9be6675ba4c@5b54.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nLast movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.\n\nMore info / Tickets: https://fillum.in/p/276
+DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5737
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Nev Sarai\, Saket
-DTSTART:20260621T113000Z
-SUMMARY:Tangerine (2015)
-UID:3d587680-9370-41fd-ad9d-0f29022e885b@3d58.org
-URL:https://fillum.in/p/276
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:159ee04c-1310-4ff2-93c0-2808d97a80e3@159e.org
-URL:https://fillum.in/screening/5617
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5506
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260627T083000Z
-SUMMARY:Embrace of the Serpent (2015)
-UID:5f0118fb-454b-48b8-b23d-03b59a594e18@5f01.org
-URL:https://fillum.in/screening/5506
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5620
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+LOCATION:Press Club of India\, Raisina Road
 DTSTART:20260625T130000Z
-SUMMARY:Joseph's Son (2023)
-UID:58a74ec5-6010-4b0e-9aac-45f0d7a9f4ad@58a7.org
-URL:https://fillum.in/screening/5620
+SUMMARY:Tenfa (2026)
+UID:2cf900c0-2773-4d35-aab9-e2bb0c2175fa@2cf9.org
+URL:https://fillum.in/screening/5737
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5704
@@ -70,8 +52,35 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260625T130000Z
 SUMMARY:All the Colours of the World Are Between Black and White (2023)
-UID:8da4942e-67bf-4470-bb76-e873fefa94c8@8da4.org
+UID:705d3ed3-be2c-425a-bbae-7fd788860e7c@705d.org
 URL:https://fillum.in/screening/5704
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\n[Rescheduled to 29 June]\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:f32b69b8-6b2d-4094-9e6c-aebf3110721d@f32b.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5620
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260625T130000Z
+SUMMARY:Joseph's Son (2023)
+UID:e698b069-0ea3-42b5-beef-e74b0f776e75@e698.org
+URL:https://fillum.in/screening/5620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nLast movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.\n\nMore info / Tickets: https://fillum.in/p/276
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Nev Sarai\, Saket
+DTSTART:20260621T113000Z
+SUMMARY:Tangerine (2015)
+UID:521566bd-64d2-4b4f-b3e8-8ce51380335c@5215.org
+URL:https://fillum.in/p/276
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
@@ -79,16 +88,43 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260630T130000Z
 SUMMARY:Homecoming (2023)
-UID:da9b4b30-56da-4f85-aced-0b29a5138277@da9b.org
+UID:d1c1a2df-fa70-4c81-857c-a4aa1a7fa9aa@d1c1.org
 URL:https://fillum.in/screening/5705
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5506
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260621T083000Z
-SUMMARY:Inside Llewyn Davis (2013)
-UID:9adeff85-fea7-4fac-82e7-8a05c5ad7ac8@9ade.org
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260627T083000Z
+SUMMARY:Embrace of the Serpent (2015)
+UID:6ffe869c-d328-4c41-bea3-394bdfc0edca@6ffe.org
+URL:https://fillum.in/screening/5506
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Depot48\, GK2
+DTSTART:20260621T073000Z
+SUMMARY:Don't Interrupt While We Dance (2026)
+UID:bcec9c8c-f304-43d8-95d6-e1e68b269a1d@bcec.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nPride Month Film Screening at Out of Sequence x Taj ke Saat Rang at Mool.\n\nPost screening Discussion\n\nThe event will also feature an Art Market\, Photo Exhibition\, Cyanotype and Mask Making Wor.. more\n\nMore info / Tickets: https://fillum.in/screening/5718
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260621T063000Z
+SUMMARY:Je Tu Il Elle (1974)
+UID:0f2491aa-db44-4917-91e9-dd8242f1aef4@0f24.org
+URL:https://fillum.in/screening/5718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:American Center\, Kasturba Gandhi Marg
+DTSTART:20260626T090000Z
+SUMMARY:Apollo 13 (1995)
+UID:0748365e-f7b0-4328-a47e-a641864c35a9@0748.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -97,17 +133,8 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260622T130000Z
 SUMMARY:Kangbo Aloti (2025)
-UID:5802c2af-a8d8-4d60-b367-4dcef323629b@5802.org
+UID:65672adc-9a1f-4fc5-b9fc-76e50961587c@6567.org
 URL:https://fillum.in/screening/5619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nPride Month Film Screening at Out of Sequence x Taj ke Saat Rang at Mool.\n\nPost screening Discussion\n\nThe event will also feature an Art Market\, Photo Exhibition\, Cyanotype and Mask Making Wor.. more\n\nMore info / Tickets: https://fillum.in/screening/5718
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260621T063000Z
-SUMMARY:Je Tu Il Elle (1974)
-UID:8dcd1afa-26d0-4311-acdc-7cdc40c29df4@8dcd.org
-URL:https://fillum.in/screening/5718
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nFirst movie in the Pride Screenings Event by Delhi Screen Society. Individual & Full event passes available.\n\nMore info / Tickets: https://fillum.in/p/276
@@ -115,53 +142,8 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Nev Sarai\, Saket
 DTSTART:20260621T063000Z
 SUMMARY:The Handmaiden (2016)
-UID:9b78af99-856a-4c26-91c4-ce03996cfc11@9b78.org
+UID:b458f012-5848-48e1-bad9-8d8a9b6f32cd@b458.org
 URL:https://fillum.in/p/276
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
-DURATION:PT2H
-LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
-DTSTART:20260628T043000Z
-SUMMARY:Loondry For One (2026)
-UID:6db06062-0836-4899-9650-0c067c0f3880@6db0.org
-URL:https://fillum.in/p/284
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Firangi Club\n\nOn account of pride month\, Firangi Club is hosting the screening of 4 queer short films followed by a discussion and a queer mixer with a twist.\n\nLine up:\n(1) ‘Reading Between the Lines’ - .. more\n\nMore info / Tickets: https://fillum.in/p/282
-DURATION:PT2H
-LOCATION:Mool\, South Extension II
-DTSTART:20260628T083000Z
-SUMMARY:Changing Hues - Queer Short Film Pack
-UID:b8e93d50-8bdf-4a6f-b2b0-b525d2396c37@b8e9.org
-URL:https://fillum.in/p/282
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry. Walk-ins allowed. The screening will be accompanied by a brief talk about the topic.\n\nMore info / Tickets: https://fillum.in/screening/5712
-DURATION:PT2H
-LOCATION:mool\, South Extension 2
-DTSTART:20260627T113000Z
-SUMMARY:Palestine 36 (2025)
-UID:a909343a-d2c7-4ced-a9f2-dd51ffb9788e@a909.org
-URL:https://fillum.in/screening/5712
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Depot48\, GK2
-DTSTART:20260621T073000Z
-SUMMARY:Don't Interrupt While We Dance (2026)
-UID:ba4405cc-e297-46d8-882d-70dc26f89e43@ba44.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nIndie cinema thrives in the margins — in stories that don't wait for permission\, made by filmmakers who shoot in familiar streets\, with familiar faces\, about lives that feel uncomfortably close to.. more\n\nMore info / Tickets: https://fillum.in/p/280
-DURATION:PT2H
-LOCATION:Fort City Brewing\, Hauz Khas
-DTSTART:20260621T130000Z
-SUMMARY:Home Town Edition #2
-UID:ca22af72-d4c6-42fa-b0b0-21cdf7ac690a@ca22.org
-URL:https://fillum.in/p/280
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5609
@@ -169,16 +151,43 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260626T123000Z
 SUMMARY:Love & Revolution (2023)
-UID:2e93e28d-277d-434c-8cd8-1f511e53f4f4@2e93.org
+UID:63d6d7fb-3963-4b78-8d44-07d082dc067d@63d6.org
 URL:https://fillum.in/screening/5609
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5608
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry by registration.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260625T123000Z
-SUMMARY:Nudo Mixteco (2021)
-UID:5206bd1e-58dc-4735-bffa-0d52362b7df3@5206.org
-URL:https://fillum.in/screening/5608
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260621T083000Z
+SUMMARY:Inside Llewyn Davis (2013)
+UID:5b67600e-e964-4934-bb50-10ac986d8ae0@5b67.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry. Walk-ins allowed. The screening will be accompanied by a brief talk about the topic.\n\nMore info / Tickets: https://fillum.in/screening/5712
+DURATION:PT2H
+LOCATION:mool\, South Extension 2
+DTSTART:20260627T113000Z
+SUMMARY:Palestine 36 (2025)
+UID:410478dc-fae6-4553-9450-6385bb0ff3eb@4104.org
+URL:https://fillum.in/screening/5712
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Firangi Club\n\nOn account of pride month\, Firangi Club is hosting the screening of 4 queer short films followed by a discussion and a queer mixer with a twist.\n\nLine up:\n(1) ‘Reading Between the Lines’ - .. more\n\nMore info / Tickets: https://fillum.in/p/282
+DURATION:PT2H
+LOCATION:Mool\, South Extension II
+DTSTART:20260628T083000Z
+SUMMARY:Changing Hues - Queer Short Film Pack
+UID:5a5f4e64-4985-40df-89be-6a54d4bb9a6b@5a5f.org
+URL:https://fillum.in/p/282
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
+DURATION:PT2H
+LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
+DTSTART:20260628T043000Z
+SUMMARY:Loondry For One (2026)
+UID:3509ba83-673f-4de2-b183-5ed42df6e0da@3509.org
+URL:https://fillum.in/p/284
 END:VEVENT
 END:VCALENDAR
