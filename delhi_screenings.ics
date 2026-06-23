@@ -2,67 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
+DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260630T130000Z
-SUMMARY:Homecoming (2023)
-UID:20d3d048-3211-40d3-8df4-335835ab46f8@20d3.org
-URL:https://fillum.in/screening/5705
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Indie Talkies CSH\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5743
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260626T130000Z
-SUMMARY:Auto Queens (2025)
-UID:f4a8f042-fe7a-464c-9b73-da2622da6152@f4a8.org
-URL:https://fillum.in/screening/5743
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
-DURATION:PT2H
-LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
-DTSTART:20260628T043000Z
-SUMMARY:Loondry For One (2026)
-UID:661ec2db-3de8-450f-8da0-814a68258528@661e.org
-URL:https://fillum.in/p/284
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Indie Talkies CSH\n\nThe screening of Tenfa and AutoQueens will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti\n\nMore info / Tickets: https://fillum.in/screening/5740
-DURATION:PT2H
-LOCATION:Alliance Française (ML Bhartia auditorium)
-DTSTART:20260626T123000Z
-SUMMARY:Tenfa (2026)
-UID:f882e0ef-ea04-4c95-9db9-7704e7a08f17@f882.org
-URL:https://fillum.in/screening/5740
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry. Walk-ins allowed. The screening will be accompanied by a brief talk about the topic.\n\nMore info / Tickets: https://fillum.in/screening/5712
-DURATION:PT2H
-LOCATION:mool\, South Extension 2
-DTSTART:20260627T113000Z
-SUMMARY:Palestine 36 (2025)
-UID:5b8dcd01-5fb5-4bb5-a121-6d3d93ca4398@5b8d.org
-URL:https://fillum.in/screening/5712
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5704
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260625T130000Z
-SUMMARY:All the Colours of the World Are Between Black and White (2023)
-UID:698b2e0d-c082-407c-ac17-4a79bb6afb87@698b.org
-URL:https://fillum.in/screening/5704
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:9c49983f-ddbd-4703-a353-8e791010b48c@9c49.org
-URL:https://fillum.in/screening/5617
+LOCATION:American Center\, Kasturba Gandhi Marg
+DTSTART:20260626T090000Z
+SUMMARY:Apollo 13 (1995)
+UID:20c39160-1f0e-4382-b730-32a8da702fe4@20c3.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Firangi Club\n\nOn account of pride month\, Firangi Club is hosting the screening of 4 queer short films followed by a discussion and a queer mixer with a twist.\n\nLine up:\n(1) ‘Reading Between the Lines’ - .. more\n\nMore info / Tickets: https://fillum.in/p/282
@@ -70,26 +16,8 @@ DURATION:PT2H
 LOCATION:Mool\, South Extension II
 DTSTART:20260628T083000Z
 SUMMARY:Changing Hues - Queer Short Film Pack
-UID:484c6dac-0e60-4221-9686-0b38d73d7109@484c.org
+UID:5c81e0db-5735-47e4-9f62-3e4ccc33346d@5c81.org
 URL:https://fillum.in/p/282
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5620
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260625T130000Z
-SUMMARY:Joseph's Son (2023)
-UID:d50f9666-8ea8-4fb2-88a1-b0035347f670@d50f.org
-URL:https://fillum.in/screening/5620
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/screening/5742
-DURATION:PT2H
-LOCATION:Vasant Vihar
-DTSTART:20260624T120000Z
-SUMMARY:Dream Factory (2024)
-UID:74c83672-a956-43be-93a7-473f121f7987@74c8.org
-URL:https://fillum.in/screening/5742
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5608
@@ -97,8 +25,62 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260625T123000Z
 SUMMARY:Nudo Mixteco (2021)
-UID:a7ee6f89-5f49-43be-a3a6-5fe8e513e60f@a7ee.org
+UID:6913e350-d493-45fb-881c-2ea5dd868ae6@6913.org
 URL:https://fillum.in/screening/5608
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/screening/5742
+DURATION:PT2H
+LOCATION:Vasant Vihar
+DTSTART:20260624T120000Z
+SUMMARY:Dream Factory (2024)
+UID:2d6ee814-4629-4be7-8d05-c097755f791d@2d6e.org
+URL:https://fillum.in/screening/5742
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry. Walk-ins allowed. The screening will be accompanied by a brief talk about the topic.\n\nMore info / Tickets: https://fillum.in/screening/5712
+DURATION:PT2H
+LOCATION:mool\, South Extension 2
+DTSTART:20260627T113000Z
+SUMMARY:Palestine 36 (2025)
+UID:db927d29-45fb-4435-bab9-b10f82e68a6d@db92.org
+URL:https://fillum.in/screening/5712
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Indie Talkies CSH\n\nFree entry. No registration required. The screening of AutoQueens and Tenfa will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti.\n\n- Tenfa (Nihaarika Negi)\nSet in the Himal.. more\n\nMore info / Tickets: https://fillum.in/event/5746
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260626T123000Z
+SUMMARY:Tenfa / Auto Queens
+UID:bc71fe92-1d66-4342-804f-eaa8a7b14c20@bc71.org
+URL:https://fillum.in/event/5746
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:4b802a8b-89c9-4dba-bee7-064c98f2a4e3@4b80.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5620
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260625T130000Z
+SUMMARY:Joseph's Son (2023)
+UID:e1a45306-dc66-4792-8b32-990b752c8613@e1a4.org
+URL:https://fillum.in/screening/5620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5704
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260625T130000Z
+SUMMARY:All the Colours of the World Are Between Black and White (2023)
+UID:b9ff0c9c-c016-4ede-9af4-22b097a5807c@b9ff.org
+URL:https://fillum.in/screening/5704
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5609
@@ -106,26 +88,26 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260626T123000Z
 SUMMARY:Love & Revolution (2023)
-UID:9ce2c203-8864-4378-93bd-ca683dff094b@9ce2.org
+UID:98b376b0-dfa4-4ac9-9b92-125d30d715a1@98b3.org
 URL:https://fillum.in/screening/5609
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Indie Talkies CSH\n\nThe screening of AutoQueens and Tenfa will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti\n\nMore info / Tickets: https://fillum.in/screening/5739
+DESCRIPTION:Host: SomeArt\n\nSnacks • Drinks • Discussion\n\nVenue is walking distance from Kailash Colony Market\, Greater Kailash Market\n\nMore info / Tickets: https://fillum.in/p/291
 DURATION:PT2H
-LOCATION:Alliance Française (ML Bhartia auditorium)
-DTSTART:20260626T123000Z
-SUMMARY:Auto Queens (2025)
-UID:a21d09bf-7ed8-421c-8e75-b44ab1ab3ee3@a21d.org
-URL:https://fillum.in/screening/5739
+LOCATION:iPley music Studio\, GK-1\, South-Delhi
+DTSTART:20260627T110000Z
+SUMMARY:Pyaasa (1957)
+UID:0740e47b-0704-429c-9f4b-89b9bfe4dd34@0740.org
+URL:https://fillum.in/p/291
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
 DURATION:PT2H
-LOCATION:American Center\, Kasturba Gandhi Marg
-DTSTART:20260626T090000Z
-SUMMARY:Apollo 13 (1995)
-UID:60cb4f86-e5e8-451f-9e64-467aefd47208@60cb.org
-URL:https://fillum.in
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260630T130000Z
+SUMMARY:Homecoming (2023)
+UID:7d3e8bf5-357f-482c-ab0f-302b778d963a@7d3e.org
+URL:https://fillum.in/screening/5705
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5506
@@ -133,8 +115,17 @@ DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
 DTSTART:20260627T083000Z
 SUMMARY:Embrace of the Serpent (2015)
-UID:e584d2e9-03d1-4cd5-b4a0-08b34653ca38@e584.org
+UID:57559360-16ee-4213-a88c-f32e21600ea2@5755.org
 URL:https://fillum.in/screening/5506
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
+DURATION:PT2H
+LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
+DTSTART:20260628T043000Z
+SUMMARY:Loondry For One (2026)
+UID:c1a0a69b-b290-4b3d-839a-4ad27f47116a@c1a0.org
+URL:https://fillum.in/p/284
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5737
@@ -142,7 +133,7 @@ DURATION:PT2H
 LOCATION:Press Club of India\, Raisina Road
 DTSTART:20260625T130000Z
 SUMMARY:Tenfa (2026)
-UID:34c63704-3d97-49ad-85b9-0ce6383ea3b6@34c6.org
+UID:ceb79927-583a-407f-927e-f80fbbdba824@ceb7.org
 URL:https://fillum.in/screening/5737
 END:VEVENT
 END:VCALENDAR
