@@ -2,13 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
 DURATION:PT2H
-LOCATION:American Center\, Kasturba Gandhi Marg
-DTSTART:20260626T090000Z
-SUMMARY:Apollo 13 (1995)
-UID:90eb87f0-8ceb-4e5b-9f12-2367f987894d@90eb.org
-URL:https://fillum.in
+LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
+DTSTART:20260628T043000Z
+SUMMARY:Loondry For One (2026)
+UID:1ca60bd0-eafe-4d4b-a04d-fb4bc0756833@1ca6.org
+URL:https://fillum.in/p/284
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nEl Topo is quintessentially psychedelic and often described as an acid Western film\, and the surreal symbolism\, iconoclastic imagery\, and dream logic employed showcase its trippy\, metaphoric element.. more\n\nMore info / Tickets: https://fillum.in/p/293
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260627T063000Z
+SUMMARY:El Topo (1970)
+UID:9422fdd0-3212-46eb-b3f7-08dcf47b3822@9422.org
+URL:https://fillum.in/p/293
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5506
@@ -16,35 +25,8 @@ DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
 DTSTART:20260627T083000Z
 SUMMARY:Embrace of the Serpent (2015)
-UID:019d5db1-d66f-4c1e-bfde-fcfcb98ad9cc@019d.org
+UID:8627556e-7a3e-4996-9b11-368f69f47e48@8627.org
 URL:https://fillum.in/screening/5506
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nWhen his wife leaves him\, Nader hires a young woman to take care of his senile father. But he doesn’t know his new maid is not only pregnant but also working without her unstable husband’s permi.. more\n\nMore info / Tickets: https://fillum.in/p/293
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260627T090000Z
-SUMMARY:A Separation (2011)
-UID:a538a385-d879-435b-86e0-33a40ad0f5f9@a538.org
-URL:https://fillum.in/p/293
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nThis three-hour ride from Akira Kurosawa\, featuring legendary actors Toshiro Mifune and Takashi Shimura\, seamlessly weaves philosophy and entertainment\, delicate human emotions and relentless action.. more\n\nMore info / Tickets: https://fillum.in/p/292
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20260627T063000Z
-SUMMARY:Seven Samurai (1954)
-UID:7d6fd085-24f1-4ab2-bc06-1ebe6b4043d7@7d6f.org
-URL:https://fillum.in/p/292
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:90d4351d-9c5b-47ca-af4a-d97d242bc5af@90d4.org
-URL:https://fillum.in/screening/5617
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
@@ -52,17 +34,26 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260630T130000Z
 SUMMARY:Homecoming (2023)
-UID:17282213-6f0f-4056-90c9-1f4c4b6f8671@1728.org
+UID:9ca0496c-d6db-4087-8236-0795d9ea21d7@9ca0.org
 URL:https://fillum.in/screening/5705
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5608
+DESCRIPTION:Host: Indie Talkies CSH\n\nFree entry. No registration required. The screening of AutoQueens and Tenfa will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti.\n\n- Tenfa (Nihaarika Negi)\nSet in the Himal.. more\n\nMore info / Tickets: https://fillum.in/event/5746
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260625T123000Z
-SUMMARY:Nudo Mixteco (2021)
-UID:2ad055df-a1a3-4a5d-b7e8-785b8fff45ea@2ad0.org
-URL:https://fillum.in/screening/5608
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260626T123000Z
+SUMMARY:Tenfa / Auto Queens
+UID:3bc256a3-250c-4fef-a501-e122918e77c3@3bc2.org
+URL:https://fillum.in/event/5746
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nThis three-hour ride from Akira Kurosawa\, featuring legendary actors Toshiro Mifune and Takashi Shimura\, seamlessly weaves philosophy and entertainment\, delicate human emotions and relentless action.. more\n\nMore info / Tickets: https://fillum.in/p/292
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20260627T063000Z
+SUMMARY:Seven Samurai (1954)
+UID:5c6d5207-3c5c-4363-af7e-f4e35c01f638@5c6d.org
+URL:https://fillum.in/p/292
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5609
@@ -70,44 +61,17 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260626T123000Z
 SUMMARY:Love & Revolution (2023)
-UID:8ca4194b-e8f5-48b0-86dc-ec6126af5b39@8ca4.org
+UID:6733cbbb-a8ed-4958-a7bc-31bc30cc7eef@6733.org
 URL:https://fillum.in/screening/5609
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/291
+DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South-Delhi
-DTSTART:20260627T064500Z
-SUMMARY:The Silence (1963)
-UID:69d6c3f1-5edd-49f0-a61b-8bb753fe09b2@69d6.org
-URL:https://fillum.in/p/291
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5737
-DURATION:PT2H
-LOCATION:Press Club of India\, Raisina Road
-DTSTART:20260625T130000Z
-SUMMARY:Tenfa (2026)
-UID:6ad439da-c0c3-470a-a82b-7179f57ac8c9@6ad4.org
-URL:https://fillum.in/screening/5737
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5704
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260625T130000Z
-SUMMARY:All the Colours of the World Are Between Black and White (2023)
-UID:fc13483d-2856-4391-87ea-0e532674a3a9@fc13.org
-URL:https://fillum.in/screening/5704
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5620
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260625T130000Z
-SUMMARY:Joseph's Son (2023)
-UID:60374ace-9740-4ba4-b680-269343cd5c9c@6037.org
-URL:https://fillum.in/screening/5620
+LOCATION:The Japan Foundation\, Green Park
+DTSTART:20260704T060000Z
+SUMMARY:The Miracles of the Namiya General Store (2017)
+UID:c115195a-5579-443b-ad2e-0c2c287e0717@c115.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nSnacks • Drinks • Discussion\n\nVenue is walking distance from Kailash Colony Market\, Greater Kailash Market\n\nMore info / Tickets: https://fillum.in/p/291
@@ -115,7 +79,43 @@ DURATION:PT2H
 LOCATION:iPley music Studio\, GK-1\, South-Delhi
 DTSTART:20260627T110000Z
 SUMMARY:Pyaasa (1957)
-UID:10e2ab69-c924-44f4-ada3-54672fdeedd3@10e2.org
+UID:38a07557-858d-4159-a283-c92abd5fc18d@38a0.org
+URL:https://fillum.in/p/291
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSnacks • Drinks • Discussion\n\nVenue is walking distance from Kailash Colony Market\, Greater Kailash Market\n\nMore info / Tickets: https://fillum.in/p/291
+DURATION:PT2H
+LOCATION:iPley music Studio\, GK-1\, South-Delhi
+DTSTART:20260627T110000Z
+SUMMARY:Pyaasa (1957)
+UID:ddd1a9cd-17b3-4c3f-875d-81b460960277@ddd1.org
+URL:https://fillum.in/p/291
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nUpdate: Earlier Palestine 36 was to be screened but this has been changed to Haifa (1996). If you had RSVP'd for Palestine 36\, it will be valid for Haifa.\n\nFree entry. The screening will be acco.. more\n\nMore info / Tickets: https://fillum.in/screening/5712
+DURATION:PT2H
+LOCATION:mool\, South Extension 2
+DTSTART:20260627T113000Z
+SUMMARY:Haifa (1996)
+UID:5cc34494-80e1-4665-9e7c-1c582182b824@5cc3.org
+URL:https://fillum.in/screening/5712
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:American Center\, Kasturba Gandhi Marg
+DTSTART:20260626T090000Z
+SUMMARY:Apollo 13 (1995)
+UID:f07461a9-2931-4fd1-bd21-4aee787fb472@f074.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/291
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1\, South-Delhi
+DTSTART:20260627T064500Z
+SUMMARY:The Silence (1963)
+UID:50d22895-1cbc-4330-9159-9971d9d7c920@50d2.org
 URL:https://fillum.in/p/291
 END:VEVENT
 BEGIN:VEVENT
@@ -124,8 +124,17 @@ DURATION:PT2H
 LOCATION:Mool\, South Extension II
 DTSTART:20260628T083000Z
 SUMMARY:Changing Hues - Queer Short Film Pack
-UID:947c0824-dd72-41aa-ba56-e72436ac4a26@947c.org
+UID:c159d584-12c7-4912-b33a-30c4bb8a03e9@c159.org
 URL:https://fillum.in/p/282
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:b4cb19f3-9b57-42de-ad20-5581f93cbb0b@b4cb.org
+URL:https://fillum.in/screening/5617
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\n“God\, why hast thou forsaken me?”\n\nWith Winter Light\, Ingmar Bergman explores the search for redemption in a meaningless existence. Small-town pastor Tomas Ericsson (Gunnar Björnstrand) perf.. more\n\nMore info / Tickets: https://fillum.in/p/293
@@ -133,52 +142,16 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20260627T113000Z
 SUMMARY:Winter Light (1963)
-UID:23b5186a-a1c8-4c45-adc0-97f7dadb8a17@23b5.org
+UID:9231dea4-c67e-450f-9211-df92abe40d1d@9231.org
 URL:https://fillum.in/p/293
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks • Drinks • Discussion\n\nVenue is walking distance from Kailash Colony Market\, Greater Kailash Market\n\nMore info / Tickets: https://fillum.in/p/291
-DURATION:PT2H
-LOCATION:iPley music Studio\, GK-1\, South-Delhi
-DTSTART:20260627T110000Z
-SUMMARY:Pyaasa (1957)
-UID:975ebc36-3f31-4c7d-9e01-4be6fae90e4a@975e.org
-URL:https://fillum.in/p/291
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nEl Topo is quintessentially psychedelic and often described as an acid Western film\, and the surreal symbolism\, iconoclastic imagery\, and dream logic employed showcase its trippy\, metaphoric element.. more\n\nMore info / Tickets: https://fillum.in/p/293
+DESCRIPTION:Host: Out of Sequence\n\nWhen his wife leaves him\, Nader hires a young woman to take care of his senile father. But he doesn’t know his new maid is not only pregnant but also working without her unstable husband’s permi.. more\n\nMore info / Tickets: https://fillum.in/p/293
 DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
-DTSTART:20260627T063000Z
-SUMMARY:El Topo (1970)
-UID:4759e7e0-1fcd-4595-8d05-9cf36252cd40@4759.org
+DTSTART:20260627T090000Z
+SUMMARY:A Separation (2011)
+UID:3745e46b-39c1-4a73-be0d-c05c368a0927@3745.org
 URL:https://fillum.in/p/293
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Indie Talkies CSH\n\nFree entry. No registration required. The screening of AutoQueens and Tenfa will be followed by a Q&A with the directors Nihaarika Negi and Sraiyanti.\n\n- Tenfa (Nihaarika Negi)\nSet in the Himal.. more\n\nMore info / Tickets: https://fillum.in/event/5746
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260626T123000Z
-SUMMARY:Tenfa / Auto Queens
-UID:43477461-f7a8-4333-b28c-1dbfe80200ae@4347.org
-URL:https://fillum.in/event/5746
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
-DURATION:PT2H
-LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
-DTSTART:20260628T043000Z
-SUMMARY:Loondry For One (2026)
-UID:7b1ae44b-02f9-49c6-9575-f3d0e0c5724c@7b1a.org
-URL:https://fillum.in/p/284
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nUpdate: Earlier Palestine 36 was to be screened but this has been changed to Haifa (1996). If you had RSVP'd for Palestine 36\, it will be valid for Haifa.\n\nFree entry. The screening will be acco.. more\n\nMore info / Tickets: https://fillum.in/screening/5712
-DURATION:PT2H
-LOCATION:mool\, South Extension 2
-DTSTART:20260627T113000Z
-SUMMARY:Haifa (1996)
-UID:a9d6d527-c815-4eab-b59a-8784c9246947@a9d6.org
-URL:https://fillum.in/screening/5712
 END:VEVENT
 END:VCALENDAR
