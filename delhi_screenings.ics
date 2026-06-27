@@ -2,31 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nUpdate: Earlier Palestine 36 was to be screened but this has been changed to Haifa (1996). If you had RSVP'd for Palestine 36\, it will be valid for Haifa.\n\nFree entry. The screening will be acco.. more\n\nMore info / Tickets: https://fillum.in/screening/5712
+DURATION:PT2H
+LOCATION:mool\, South Extension 2
+DTSTART:20260627T113000Z
+SUMMARY:Haifa (1996)
+UID:e63d716f-7e6e-4c4e-811a-913f1cb90054@e63d.org
+URL:https://fillum.in/screening/5712
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/291
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1\, South-Delhi
 DTSTART:20260627T064500Z
 SUMMARY:The Silence (1963)
-UID:813b9250-2798-4d05-b418-7b1db03a2892@813b.org
+UID:4c53059e-fd26-421c-b620-e2453d85df6c@4c53.org
 URL:https://fillum.in/p/291
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nThis three-hour ride from Akira Kurosawa\, featuring legendary actors Toshiro Mifune and Takashi Shimura\, seamlessly weaves philosophy and entertainment\, delicate human emotions and relentless action.. more\n\nMore info / Tickets: https://fillum.in/p/292
+DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20260627T063000Z
-SUMMARY:Seven Samurai (1954)
-UID:46798dc3-c533-445a-9331-c3360412da02@4679.org
-URL:https://fillum.in/p/292
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5506
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260627T083000Z
-SUMMARY:Embrace of the Serpent (2015)
-UID:8047731f-e559-495a-93a0-da2334a6e87b@8047.org
-URL:https://fillum.in/screening/5506
+LOCATION:The Japan Foundation\, Green Park
+DTSTART:20260704T060000Z
+SUMMARY:The Miracles of the Namiya General Store (2017)
+UID:9da9bda5-919e-4690-818e-641644a061a7@9da9.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
@@ -34,26 +34,26 @@ DURATION:PT2H
 LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
 DTSTART:20260628T043000Z
 SUMMARY:Loondry For One (2026)
-UID:33fc364e-9593-40d6-a230-9a8c273415e0@33fc.org
+UID:7873b738-4551-498d-9b0e-c5153fc2e846@7873.org
 URL:https://fillum.in/p/284
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nEl Topo is quintessentially psychedelic and often described as an acid Western film\, and the surreal symbolism\, iconoclastic imagery\, and dream logic employed showcase its trippy\, metaphoric element.. more\n\nMore info / Tickets: https://fillum.in/p/293
+DESCRIPTION:Host: SomeArt\n\nUpdate: Sold Out\n\nMore info / Tickets: https://fillum.in/screening/5748
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260627T063000Z
-SUMMARY:El Topo (1970)
-UID:3c4b7941-a502-403d-8478-e3d0296b75f5@3c4b.org
-URL:https://fillum.in/p/293
+LOCATION:iPley music Studio\, GK-1\, South-Delhi
+DTSTART:20260627T110000Z
+SUMMARY:Pyaasa (1957)
+UID:e08fa9cc-29b2-46c5-954e-369ae69fb546@e08f.org
+URL:https://fillum.in/screening/5748
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Firangi Club\n\nOn account of pride month\, Firangi Club is hosting the screening of 4 queer short films followed by a discussion and a queer mixer with a twist.\n\nLine up:\n(1) ‘Reading Between the Lines’ - .. more\n\nMore info / Tickets: https://fillum.in/p/282
+DESCRIPTION:Host: Out of Sequence\n\nThis three-hour ride from Akira Kurosawa\, featuring legendary actors Toshiro Mifune and Takashi Shimura\, seamlessly weaves philosophy and entertainment\, delicate human emotions and relentless action.. more\n\nMore info / Tickets: https://fillum.in/p/292
 DURATION:PT2H
-LOCATION:Mool\, South Extension II
-DTSTART:20260628T083000Z
-SUMMARY:Changing Hues - Queer Short Film Pack
-UID:779c2a3f-0f44-4334-b8b2-d52eb79805c6@779c.org
-URL:https://fillum.in/p/282
+LOCATION:Mool\, South Ex II
+DTSTART:20260627T063000Z
+SUMMARY:Seven Samurai (1954)
+UID:1d1bc8e7-2774-49f7-b82a-ffdcf32f8a67@1d1b.org
+URL:https://fillum.in/p/292
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
@@ -61,7 +61,7 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260629T130000Z
 SUMMARY:The Elysian Field (2025)
-UID:85d26235-a228-4159-901a-2631461f742e@85d2.org
+UID:ea3a4446-93ae-4b86-afff-15ac694f68c3@ea3a.org
 URL:https://fillum.in/screening/5617
 END:VEVENT
 BEGIN:VEVENT
@@ -70,35 +70,35 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20260627T090000Z
 SUMMARY:A Separation (2011)
-UID:62c06da7-e6fc-43d7-8607-d06d3c2ff215@62c0.org
+UID:e6f58266-3f1b-482d-9f91-594a8ea8d7ea@e6f5.org
 URL:https://fillum.in/p/293
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Out of Sequence\n\nEl Topo is quintessentially psychedelic and often described as an acid Western film\, and the surreal symbolism\, iconoclastic imagery\, and dream logic employed showcase its trippy\, metaphoric element.. more\n\nMore info / Tickets: https://fillum.in/p/293
 DURATION:PT2H
-LOCATION:The Japan Foundation\, Green Park
-DTSTART:20260704T060000Z
-SUMMARY:The Miracles of the Namiya General Store (2017)
-UID:55a695cf-626f-4cfb-b1bc-46ecd316852a@55a6.org
-URL:https://fillum.in
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260627T063000Z
+SUMMARY:El Topo (1970)
+UID:bdfe856e-774f-473a-974b-984f5ee22386@bdfe.org
+URL:https://fillum.in/p/293
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nUpdate: Earlier Palestine 36 was to be screened but this has been changed to Haifa (1996). If you had RSVP'd for Palestine 36\, it will be valid for Haifa.\n\nFree entry. The screening will be acco.. more\n\nMore info / Tickets: https://fillum.in/screening/5712
+DESCRIPTION:Host: Firangi Club\n\nOn account of pride month\, Firangi Club is hosting the screening of 4 queer short films followed by a discussion and a queer mixer with a twist.\n\nLine up:\n(1) ‘Reading Between the Lines’ - .. more\n\nMore info / Tickets: https://fillum.in/p/282
 DURATION:PT2H
-LOCATION:mool\, South Extension 2
-DTSTART:20260627T113000Z
-SUMMARY:Haifa (1996)
-UID:ff0d91ba-5c5b-4c8b-ad48-1c7fcdca073b@ff0d.org
-URL:https://fillum.in/screening/5712
+LOCATION:Mool\, South Extension II
+DTSTART:20260628T083000Z
+SUMMARY:Changing Hues - Queer Short Film Pack
+UID:f9ca4c22-194a-45c5-96f8-50b47e7532a5@f9ca.org
+URL:https://fillum.in/p/282
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nUpdate: Sold Out\n\nMore info / Tickets: https://fillum.in/screening/5748
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5506
 DURATION:PT2H
-LOCATION:iPley music Studio\, GK-1\, South-Delhi
-DTSTART:20260627T110000Z
-SUMMARY:Pyaasa (1957)
-UID:46d3d741-8944-4edf-b9ca-f8f12c757d18@46d3.org
-URL:https://fillum.in/screening/5748
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260627T083000Z
+SUMMARY:Embrace of the Serpent (2015)
+UID:eaeceee1-f5e3-44bd-9616-84097664bc33@eaec.org
+URL:https://fillum.in/screening/5506
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
@@ -106,7 +106,7 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260630T130000Z
 SUMMARY:Homecoming (2023)
-UID:cc42a41d-493d-45d3-bcc2-fbc63996bc61@cc42.org
+UID:b8382e17-4db8-458e-91b1-c11d16b285b6@b838.org
 URL:https://fillum.in/screening/5705
 END:VEVENT
 END:VCALENDAR
