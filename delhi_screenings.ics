@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:6d4d7e8c-8e6d-401b-8f9c-139d73fa0b02@6d4d.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Host: Firangi Club\n\nOn account of pride month\, Firangi Club is hosting the screening of 4 queer short films followed by a discussion and a queer mixer with a twist.\n\nLine up:\n(1) ‘Reading Between the Lines’ - .. more\n\nMore info / Tickets: https://fillum.in/p/282
 DURATION:PT2H
 LOCATION:Mool\, South Extension II
 DTSTART:20260628T083000Z
 SUMMARY:Changing Hues - Queer Short Film Pack
-UID:a31ac4d0-e284-4f64-9018-120fa5d4b982@a31a.org
+UID:87e1846e-dd08-44d1-b999-02a961c24fbe@87e1.org
 URL:https://fillum.in/p/282
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:The Japan Foundation\, Green Park
-DTSTART:20260704T060000Z
-SUMMARY:The Miracles of the Namiya General Store (2017)
-UID:856f5d1e-9242-4f33-a537-fc9b7f9df612@856f.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Pitara\n\nLoondry For One is a coming-of-age comedy about a young woman rolling her own version of Sisyphus’ boulder uphill. But what happens when the laundry finally gets done and there’s nothing left to.. more\n\nMore info / Tickets: https://fillum.in/p/284
@@ -25,17 +25,26 @@ DURATION:PT2H
 LOCATION:Mool\, B-17\, Basement\, South Extension II\, Block B
 DTSTART:20260628T043000Z
 SUMMARY:Loondry For One (2026)
-UID:c9a4816c-bf2a-4781-b558-503199dca6fa@c9a4.org
+UID:cb3c48e6-09d8-4006-a16c-7a56dd911a0b@cb3c.org
 URL:https://fillum.in/p/284
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
+DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:bd49b2b6-f911-4cb5-a4ad-8c8eec36e187@bd49.org
-URL:https://fillum.in/screening/5617
+LOCATION:American Center\, Kasturba Gandhi Marg
+DTSTART:20260702T083000Z
+SUMMARY:The Patriot (2000)
+UID:b0da9ae4-45aa-4095-aae3-8929828d14f6@b0da.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:The Japan Foundation\, Green Park
+DTSTART:20260704T060000Z
+SUMMARY:The Miracles of the Namiya General Store (2017)
+UID:4e0490ab-1844-467b-958d-947907b04484@4e04.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
@@ -43,7 +52,7 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260630T130000Z
 SUMMARY:Homecoming (2023)
-UID:c35a74f0-f3c1-4f04-8ece-7036cfcb7769@c35a.org
+UID:15ec2766-5d65-473b-853a-fd0f835ec857@15ec.org
 URL:https://fillum.in/screening/5705
 END:VEVENT
 END:VCALENDAR
