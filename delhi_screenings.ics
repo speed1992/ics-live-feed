@@ -2,30 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:The Japan Foundation\, Green Park
-DTSTART:20260704T060000Z
-SUMMARY:The Miracles of the Namiya General Store (2017)
-UID:a5d2ea19-612d-426b-88e7-92899e0f448a@a5d2.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260629T130000Z
-SUMMARY:The Elysian Field (2025)
-UID:1f5dc406-f120-4a5a-82d3-a07dd5e95312@1f5d.org
-URL:https://fillum.in/screening/5617
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5705
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260630T130000Z
 SUMMARY:Homecoming (2023)
-UID:e39aa8fc-994b-439a-99a2-f9db28cdc00e@e39a.org
+UID:9758109b-06ca-49a2-a06f-9dbe6f54ad3f@9758.org
 URL:https://fillum.in/screening/5705
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +16,25 @@ DURATION:PT2H
 LOCATION:American Center\, Kasturba Gandhi Marg
 DTSTART:20260702T083000Z
 SUMMARY:The Patriot (2000)
-UID:66ebf66b-7bd4-4d7d-acd1-536ff5b4da32@66eb.org
+UID:818fe99c-f142-4e7a-8195-7dbaae759834@818f.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree and open to all.\n\nMore info / Tickets: https://fillum.in/screening/5617
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260629T130000Z
+SUMMARY:The Elysian Field (2025)
+UID:b23b0e48-0626-4934-add7-3c791f8a50f6@b23b.org
+URL:https://fillum.in/screening/5617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:The Japan Foundation\, Green Park
+DTSTART:20260704T060000Z
+SUMMARY:The Miracles of the Namiya General Store (2017)
+UID:5ee8f6e2-9cc8-40fe-891c-224e8d9457ea@5ee8.org
 URL:https://fillum.in
 END:VEVENT
 END:VCALENDAR
