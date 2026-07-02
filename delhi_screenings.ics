@@ -2,85 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking distance from GK-1 Market & Kailash Colony Market.\n\nMore info / Tickets: https://fillum.in/p/300
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South Delhi
-DTSTART:20260704T064000Z
-SUMMARY:Madhumati (1958)
-UID:14fba7db-fdfd-4c84-a2ab-a462ac618637@14fb.org
-URL:https://fillum.in/p/300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:American Center\, Kasturba Gandhi Marg
-DTSTART:20260702T083000Z
-SUMMARY:The Patriot (2000)
-UID:3f77970f-4918-4771-833d-da21b80bd436@3f77.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/299
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260705T123000Z
-SUMMARY:Once Upon a Time in Anatolia (2011)
-UID:4cd0d5cd-b9d6-4c99-8688-9d236395317d@4cd0.org
-URL:https://fillum.in/p/299
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking Distance from GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/300
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South Delhi
-DTSTART:20260704T110000Z
-SUMMARY:Kaagaz Ke Phool (1959)
-UID:4acefc01-bf8a-4b26-b0c4-04b3dcf0e4f1@4ace.org
-URL:https://fillum.in/p/300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAutumn Sonata was the only collaboration between cinema’s two great Bergmans: Ingmar and Ingrid\, the monumental star of Casablanca. The grande dame\, playing an icy concert pianist\, is matched beat.. more\n\nMore info / Tickets: https://fillum.in/p/301
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260704T110000Z
-SUMMARY:Autumn Sonata (1978)
-UID:45a4d27a-1078-4027-b9f5-23ae6b7bd7e5@45a4.org
-URL:https://fillum.in/p/301
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFilm #2 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nEight of Geoffrey Chaucer’s lusty tales come to life on-screen in Pier Paolo Pasolini’s gutsy and delirious The Canterbury Tales\, which wa.. more\n\nMore info / Tickets: https://fillum.in/p/302
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260705T083000Z
-SUMMARY:The Canterbury Tales (1972)
-UID:729c3729-d85d-4db5-922b-fe381a117cd1@729c.org
-URL:https://fillum.in/p/302
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. No registration required. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5780
-DURATION:PT2H
-LOCATION:Press Club of India\, Raisina Road
-DTSTART:20260702T123000Z
-SUMMARY:If I Could Tell You (2024)
-UID:6f6a1a2d-c880-4e46-b149-e6a77db4451e@6f6a.org
-URL:https://fillum.in/screening/5780
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nFederico Fellini's Casanova transforms the legendary seducer into a profoundly tragic figure\, tracing a life driven by endless desire yet incapable of genuine intimacy. Rather than celebrating roman.. more\n\nMore info / Tickets: https://fillum.in/p/301
 DURATION:PT2H
 LOCATION:mool\, South Ex II
 DTSTART:20260704T083000Z
 SUMMARY:Fellini's Casanova (1976)
-UID:41961464-6df9-4a11-8b22-a16b24b7ec2d@4196.org
+UID:8ddaf3b3-a6fb-4103-b424-e361a2dd2cab@8dda.org
 URL:https://fillum.in/p/301
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFilm #1 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nIn the early 1970s\, the great Italian poet\, philosopher\, and filmmaker Pier Paolo Pasolini brought to the screen a trio of masterpieces of med.. more\n\nMore info / Tickets: https://fillum.in/p/302
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260705T063000Z
-SUMMARY:The Decameron (1971)
-UID:756e11bf-40b9-442d-92de-6bba45ae54c3@756e.org
-URL:https://fillum.in/p/302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Sneha Gupta\n\n· Newly Dead by Sneha Gupta\n· Nazar by Siddhanth Nigam\n· Flowers by Darshit Chudasma\n· The Third Place by Sarth Kapil\n\nMore info / Tickets: https://fillum.in/p/306
@@ -88,25 +16,34 @@ DURATION:PT2H
 LOCATION:TOT Studio\, Lajpat Nagar
 DTSTART:20260707T110000Z
 SUMMARY:Short Film Collection
-UID:4cf0f8f1-9593-4533-9db3-6a818b584045@4cf0.org
+UID:1beb3aff-d52a-44bf-837e-750971020ac1@1beb.org
 URL:https://fillum.in/p/306
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nDissatisfied in marriage and life\, Ferdinand (Jean-Paul Belmondo) takes to the road with the babysitter\, his ex-lover Marianne Renoir (Anna Karina)\, and leaves the bourgeois world behind.\n\nYet th.. more\n\nMore info / Tickets: https://fillum.in/p/301
+DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking Distance from GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/300
 DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260704T063000Z
-SUMMARY:Pierrot le Fou (1965)
-UID:3539871a-6cd0-4681-92b1-ad5ae822bd51@3539.org
-URL:https://fillum.in/p/301
+LOCATION:iPley Music Studio\, GK-1\, South Delhi
+DTSTART:20260704T110000Z
+SUMMARY:Kaagaz Ke Phool (1959)
+UID:b0855228-af54-44fe-9096-a1395532ef56@b085.org
+URL:https://fillum.in/p/300
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFilm #3 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nPier Paolo Pasolini traveled to Africa\, Nepal\, and the Middle East to realize this ambitious cinematic treatment of a selection of stories fro.. more\n\nMore info / Tickets: https://fillum.in/p/302
+DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/299
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260705T123000Z
+SUMMARY:Once Upon a Time in Anatolia (2011)
+UID:7efc518a-88a9-46f6-82a1-558d56a70b8e@7efc.org
+URL:https://fillum.in/p/299
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nFilm #1 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nIn the early 1970s\, the great Italian poet\, philosopher\, and filmmaker Pier Paolo Pasolini brought to the screen a trio of masterpieces of med.. more\n\nMore info / Tickets: https://fillum.in/p/302
 DURATION:PT2H
 LOCATION:mool\, South Ex II
-DTSTART:20260705T103000Z
-SUMMARY:Arabian Nights (1974)
-UID:27370142-9c6f-4656-ae66-bfa96893d7bc@2737.org
+DTSTART:20260705T063000Z
+SUMMARY:The Decameron (1971)
+UID:3d6cbde4-a09c-458b-9c06-e3fb5d0fa68d@3d6c.org
 URL:https://fillum.in/p/302
 END:VEVENT
 BEGIN:VEVENT
@@ -115,7 +52,70 @@ DURATION:PT2H
 LOCATION:The Japan Foundation\, Green Park
 DTSTART:20260704T060000Z
 SUMMARY:The Miracles of the Namiya General Store (2017)
-UID:314a79b3-7134-4b9e-a4ae-ca6ed9e493ed@314a.org
+UID:c0b84fa8-0054-4b7f-afe8-870db80be680@c0b8.org
 URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nAutumn Sonata was the only collaboration between cinema’s two great Bergmans: Ingmar and Ingrid\, the monumental star of Casablanca. The grande dame\, playing an icy concert pianist\, is matched beat.. more\n\nMore info / Tickets: https://fillum.in/p/301
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260704T110000Z
+SUMMARY:Autumn Sonata (1978)
+UID:ab74cce7-9977-4b97-8ca7-469861fd7968@ab74.org
+URL:https://fillum.in/p/301
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:American Center\, Kasturba Gandhi Marg
+DTSTART:20260702T083000Z
+SUMMARY:The Patriot (2000)
+UID:af577472-a27a-490b-9999-51ab3a1e375d@af57.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nFilm #3 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nPier Paolo Pasolini traveled to Africa\, Nepal\, and the Middle East to realize this ambitious cinematic treatment of a selection of stories fro.. more\n\nMore info / Tickets: https://fillum.in/p/302
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260705T103000Z
+SUMMARY:Arabian Nights (1974)
+UID:186598ff-0a73-4ab4-a0f3-9914d7f01f24@1865.org
+URL:https://fillum.in/p/302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nDissatisfied in marriage and life\, Ferdinand (Jean-Paul Belmondo) takes to the road with the babysitter\, his ex-lover Marianne Renoir (Anna Karina)\, and leaves the bourgeois world behind.\n\nYet th.. more\n\nMore info / Tickets: https://fillum.in/p/301
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260704T063000Z
+SUMMARY:Pierrot le Fou (1965)
+UID:99dc8cbb-79cc-47a2-923a-ae154219741f@99dc.org
+URL:https://fillum.in/p/301
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking distance from GK-1 Market & Kailash Colony Market.\n\nMore info / Tickets: https://fillum.in/p/300
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1\, South Delhi
+DTSTART:20260704T064000Z
+SUMMARY:Madhumati (1958)
+UID:3872306b-5eba-401d-a611-3ee76c74059f@3872.org
+URL:https://fillum.in/p/300
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. No registration required. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5780
+DURATION:PT2H
+LOCATION:Press Club of India\, Raisina Road
+DTSTART:20260702T123000Z
+SUMMARY:If I Could Tell You (2024)
+UID:e8d5d17c-22fc-441b-b657-10800a7f7ddd@e8d5.org
+URL:https://fillum.in/screening/5780
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nFilm #2 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nEight of Geoffrey Chaucer’s lusty tales come to life on-screen in Pier Paolo Pasolini’s gutsy and delirious The Canterbury Tales\, which wa.. more\n\nMore info / Tickets: https://fillum.in/p/302
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260705T083000Z
+SUMMARY:The Canterbury Tales (1972)
+UID:7ecacc9a-5e29-4e93-8e99-c8a227bc285a@7eca.org
+URL:https://fillum.in/p/302
 END:VEVENT
 END:VCALENDAR
