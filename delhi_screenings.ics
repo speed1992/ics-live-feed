@@ -2,166 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Studio Montage\n\nUpdate: Registration closed\n\nFree entry. Post-screening discussion. For any queries\, contact on WhatsApp at 9667707585.\n\nMore info / Tickets: https://fillum.in/screening/5788
-DURATION:PT2H
-LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
-DTSTART:20260705T113000Z
-SUMMARY:Albert Pinto Ko Gussa Kyoon Aata Hai (1981)
-UID:4d621b36-3ea0-49ea-b25e-7c868c7fa1fe@4d62.org
-URL:https://fillum.in/screening/5788
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking distance from GK-1 Market & Kailash Colony Market.\n\nMore info / Tickets: https://fillum.in/p/300
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South Delhi
-DTSTART:20260704T064000Z
-SUMMARY:Madhumati (1958)
-UID:adf22671-f718-4ab5-86bc-496abe2fc00a@adf2.org
-URL:https://fillum.in/p/300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sneha Gupta\n\n· Newly Dead by Sneha Gupta\n· Nazar by Siddhanth Nigam\n· Flowers by Darshit Chudasma\n· The Third Place by Sarth Kapil\n\nMore info / Tickets: https://fillum.in/p/306
-DURATION:PT2H
-LOCATION:TOT Studio\, Lajpat Nagar
-DTSTART:20260707T110000Z
-SUMMARY:Short Film Collection
-UID:7be03a65-240d-4786-90fd-3dbf07d8e9b8@7be0.org
-URL:https://fillum.in/p/306
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260720T130000Z
-SUMMARY:Whispers of the Mountains (2025)
-UID:ea084a48-58b9-42fe-bef2-43d54a280dee@ea08.org
-URL:https://fillum.in/screening/5786
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFederico Fellini's Casanova transforms the legendary seducer into a profoundly tragic figure\, tracing a life driven by endless desire yet incapable of genuine intimacy. Rather than celebrating roman.. more\n\nMore info / Tickets: https://fillum.in/p/301
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260704T083000Z
-SUMMARY:Fellini's Casanova (1976)
-UID:f3f5fb48-4c99-43a0-b1fe-02abfa2bd92a@f3f5.org
-URL:https://fillum.in/p/301
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260716T130000Z
-SUMMARY:Adamya (2026)
-UID:ab5ce590-e4dc-494b-8fa2-a72177350a43@ab5c.org
-URL:https://fillum.in/screening/5785
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5784
 DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260707T123000Z
 SUMMARY:Khidki Gaav - If on a Winter's Night (2025)
-UID:6280727e-f2b9-47f4-a9fa-19731eb6122c@6280.org
+UID:54b92ad0-1775-4f89-8224-03cef4ddb1e6@54b9.org
 URL:https://fillum.in/screening/5784
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:9026f91a-00a6-440e-b3d0-3a45474d7db3@9026.org
-URL:https://fillum.in/screening/5803
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260721T130000Z
-SUMMARY:Yakasi’s Daughter (2025)
-UID:f5e32265-2154-476f-abe9-37787b36d128@f5e3.org
-URL:https://fillum.in/screening/5787
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Japan Foundation\n\nRegistration closed.\n\nMore info / Tickets: https://fillum.in/screening/5759
-DURATION:PT2H
-LOCATION:The Japan Foundation\, Green Park
-DTSTART:20260704T060000Z
-SUMMARY:The Miracles of the Namiya General Store (2017)
-UID:7dc5459e-2a4b-4620-b33e-47abaa1314cd@7dc5.org
-URL:https://fillum.in/screening/5759
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFilm #2 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nEight of Geoffrey Chaucer’s lusty tales come to life on-screen in Pier Paolo Pasolini’s gutsy and delirious The Canterbury Tales\, which wa.. more\n\nMore info / Tickets: https://fillum.in/p/302
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260705T083000Z
-SUMMARY:The Canterbury Tales (1972)
-UID:711f7def-1126-418b-9bbb-4d27e83e5c3a@711f.org
-URL:https://fillum.in/p/302
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/299
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260705T123000Z
-SUMMARY:Once Upon a Time in Anatolia (2011)
-UID:10a2b8d7-7275-4111-8dad-60bbe2645176@10a2.org
-URL:https://fillum.in/p/299
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFilm #1 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nIn the early 1970s\, the great Italian poet\, philosopher\, and filmmaker Pier Paolo Pasolini brought to the screen a trio of masterpieces of med.. more\n\nMore info / Tickets: https://fillum.in/p/302
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260705T063000Z
-SUMMARY:The Decameron (1971)
-UID:66e25d2f-1ee4-4b8b-91e6-513a65a9fd48@66e2.org
-URL:https://fillum.in/p/302
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking Distance to GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/307
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South Delhi
-DTSTART:20260705T064000Z
-SUMMARY:Weekend (1967)
-UID:edb5fdcc-4898-4561-8d76-86dca2e057fa@edb5.org
-URL:https://fillum.in/p/307
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking Distance from GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/300
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1\, South Delhi
-DTSTART:20260704T110000Z
-SUMMARY:Kaagaz Ke Phool (1959)
-UID:fcc53fbb-43c8-4f3a-a008-c4e3e99d508a@fcc5.org
-URL:https://fillum.in/p/300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking distance from GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/307
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260705T110000Z
-SUMMARY:I Vitelloni (1953)
-UID:64c2456e-a2f7-4126-b778-9bb34258b61b@64c2.org
-URL:https://fillum.in/p/307
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAutumn Sonata was the only collaboration between cinema’s two great Bergmans: Ingmar and Ingrid\, the monumental star of Casablanca. The grande dame\, playing an icy concert pianist\, is matched beat.. more\n\nMore info / Tickets: https://fillum.in/p/301
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260704T110000Z
-SUMMARY:Autumn Sonata (1978)
-UID:7e248ff7-4577-4e85-b4cd-8daab82cf6b4@7e24.org
-URL:https://fillum.in/p/301
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260726T133000Z
-SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:ba6148a5-8b39-4f59-af17-69114490bfc8@ba61.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nFilm #3 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nPier Paolo Pasolini traveled to Africa\, Nepal\, and the Middle East to realize this ambitious cinematic treatment of a selection of stories fro.. more\n\nMore info / Tickets: https://fillum.in/p/302
@@ -169,17 +16,26 @@ DURATION:PT2H
 LOCATION:mool\, South Ex II
 DTSTART:20260705T103000Z
 SUMMARY:Arabian Nights (1974)
-UID:fb7addb6-a881-4356-be0b-cc6821004cb8@fb7a.org
+UID:d856c062-c074-4b81-af1f-b0b4d0177cbe@d856.org
 URL:https://fillum.in/p/302
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nDissatisfied in marriage and life\, Ferdinand (Jean-Paul Belmondo) takes to the road with the babysitter\, his ex-lover Marianne Renoir (Anna Karina)\, and leaves the bourgeois world behind.\n\nYet th.. more\n\nMore info / Tickets: https://fillum.in/p/301
+DESCRIPTION:Host: Studio Montage\n\nUpdate: Registration closed\n\nFree entry. Post-screening discussion. For any queries\, contact on WhatsApp at 9667707585.\n\nMore info / Tickets: https://fillum.in/screening/5788
 DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260704T063000Z
-SUMMARY:Pierrot le Fou (1965)
-UID:c1189878-5cdf-4b56-8be5-8c49569e6c23@c118.org
-URL:https://fillum.in/p/301
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20260705T113000Z
+SUMMARY:Albert Pinto Ko Gussa Kyoon Aata Hai (1981)
+UID:765c6cc0-0aa7-420b-a594-0c0f226d05ee@765c.org
+URL:https://fillum.in/screening/5788
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260721T130000Z
+SUMMARY:Yakasi’s Daughter (2025)
+UID:18f07995-9397-4b57-b14b-ad464d5deb59@18f0.org
+URL:https://fillum.in/screening/5787
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
@@ -187,7 +43,97 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260713T130000Z
 SUMMARY:Magazine (2026)
-UID:ec14659e-2958-4d38-a30e-31581ac1f767@ec14.org
+UID:859e3bde-27e0-4d69-b2ff-c0fb83456a6f@859e.org
 URL:https://fillum.in/screening/5802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:290819a6-f126-4e0c-82c8-3dc8a0495b3b@2908.org
+URL:https://fillum.in/screening/5803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260726T133000Z
+SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
+UID:6fe20f47-6324-462a-b3f5-344d5a2c9910@6fe2.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/299
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260705T123000Z
+SUMMARY:Once Upon a Time in Anatolia (2011)
+UID:83867d65-85ce-4ab9-b6c4-b97535d18580@8386.org
+URL:https://fillum.in/p/299
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260716T130000Z
+SUMMARY:Adamya (2026)
+UID:29dcac39-f8cc-42f2-9387-acd132f0c868@29dc.org
+URL:https://fillum.in/screening/5785
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260720T130000Z
+SUMMARY:Whispers of the Mountains (2025)
+UID:da449111-911e-4346-8703-ed35cfb7ba8b@da44.org
+URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking Distance to GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/307
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1\, South Delhi
+DTSTART:20260705T064000Z
+SUMMARY:Weekend (1967)
+UID:0e06d426-bd2e-4cfa-beb8-fe9c969e6d57@0e06.org
+URL:https://fillum.in/p/307
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSnacks | Drinks | Discussion\n\nWalking distance from GK-1 Market & Kailash Colony Market\n\nMore info / Tickets: https://fillum.in/p/307
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260705T110000Z
+SUMMARY:I Vitelloni (1953)
+UID:0e02f7ac-0f02-485f-80f8-db5f2ff37038@0e02.org
+URL:https://fillum.in/p/307
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nFilm #1 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nIn the early 1970s\, the great Italian poet\, philosopher\, and filmmaker Pier Paolo Pasolini brought to the screen a trio of masterpieces of med.. more\n\nMore info / Tickets: https://fillum.in/p/302
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260705T063000Z
+SUMMARY:The Decameron (1971)
+UID:83feaf22-0e31-4953-ba48-7e3334a3da25@83fe.org
+URL:https://fillum.in/p/302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nFilm #2 from Pier Paolo Pasolini's 'Trilogy of Life'\n\nEight of Geoffrey Chaucer’s lusty tales come to life on-screen in Pier Paolo Pasolini’s gutsy and delirious The Canterbury Tales\, which wa.. more\n\nMore info / Tickets: https://fillum.in/p/302
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260705T083000Z
+SUMMARY:The Canterbury Tales (1972)
+UID:a076c8b5-f3a8-43c7-b793-6d05eb7adb99@a076.org
+URL:https://fillum.in/p/302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sneha Gupta\n\n· Newly Dead by Sneha Gupta\n· Nazar by Siddhanth Nigam\n· Flowers by Darshit Chudasma\n· The Third Place by Sarth Kapil\n\nMore info / Tickets: https://fillum.in/p/306
+DURATION:PT2H
+LOCATION:TOT Studio\, Lajpat Nagar
+DTSTART:20260707T110000Z
+SUMMARY:Short Film Collection
+UID:1b8a8df2-34a7-4680-9ec0-1d9576a7a4a2@1b8a.org
+URL:https://fillum.in/p/306
 END:VEVENT
 END:VCALENDAR
