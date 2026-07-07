@@ -2,31 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260713T130000Z
-SUMMARY:Magazine (2026)
-UID:a13fd9d6-81e9-4c1a-92b1-d503782a7ae6@a13f.org
-URL:https://fillum.in/screening/5802
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260720T130000Z
-SUMMARY:Whispers of the Mountains (2025)
-UID:6c7bdfe6-c555-4d0c-bac4-bafd68d6b560@6c7b.org
-URL:https://fillum.in/screening/5786
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5784
 DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260707T123000Z
 SUMMARY:Khidki Gaav - If on a Winter's Night (2025)
-UID:85d22567-8be0-4fe2-b69c-3a058cba1898@85d2.org
+UID:377a10f7-9545-4730-9df9-f3f31616e7a4@377a.org
 URL:https://fillum.in/screening/5784
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Quorum Gurugram\n\nThere is a bridge at the edge of the city. People don’t come here to pause. They come here when they have already decided. One winter morning\, two strangers arrive—carrying separate\, private end.. more\n\nMore info / Tickets: https://fillum.in/screening/5764
+DURATION:PT2H
+LOCATION:The Quorum
+DTSTART:20260709T133000Z
+SUMMARY:Kood (2026)
+UID:3db95599-36b0-4b35-ac13-a02e9457643a@3db9.org
+URL:https://fillum.in/screening/5764
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
@@ -34,44 +25,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:588aa618-ec3f-4885-a39f-4f587b6058e0@588a.org
+UID:6616efbb-292d-424e-9b52-b50df70962b1@6616.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sneha Gupta\n\n· Newly Dead by Sneha Gupta\n· Nazar by Siddhanth Nigam\n· Flowers by Darshit Chudasma\n· The Third Place by Sarth Kapil\n\nMore info / Tickets: https://fillum.in/p/306
-DURATION:PT2H
-LOCATION:TOT Studio\, Lajpat Nagar
-DTSTART:20260707T110000Z
-SUMMARY:Short Film Collection
-UID:ed1f6111-56a8-4aa2-88c8-f10407c37ab0@ed1f.org
-URL:https://fillum.in/p/306
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260721T130000Z
-SUMMARY:Yakasi’s Daughter (2025)
-UID:294d0e08-6e76-40ee-a4e6-e8c5cc4a7722@294d.org
-URL:https://fillum.in/screening/5787
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:94fd35a2-6265-4264-9653-2f9b96358e26@94fd.org
-URL:https://fillum.in/screening/5803
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260716T130000Z
-SUMMARY:Adamya (2026)
-UID:b5025bf4-4553-43bc-8f78-53914aed24b6@b502.org
-URL:https://fillum.in/screening/5785
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
@@ -79,7 +34,97 @@ DURATION:PT2H
 LOCATION:The Piano Man
 DTSTART:20260718T063000Z
 SUMMARY:Shorts In Spotlight – Volume 3
-UID:91546d20-77da-41bc-b44c-8c93bd21e7c2@9154.org
+UID:8978f640-88c6-4fa2-b656-157dc78a1482@8978.org
 URL:https://fillum.in/p/309
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/311
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260711T083000Z
+SUMMARY:Kingmaker (2022)
+UID:aa498e24-4cf9-4ec6-8b8f-e51e64aa14c9@aa49.org
+URL:https://fillum.in/p/311
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260713T130000Z
+SUMMARY:Magazine (2026)
+UID:3513ce5b-3bd1-40e7-8ab3-0158eef617b9@3513.org
+URL:https://fillum.in/screening/5802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:ab71cea0-f158-4a9d-939f-922bdcb1f9f8@ab71.org
+URL:https://fillum.in/screening/5803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/311
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260711T063000Z
+SUMMARY:Ghost in the Shell (1995)
+UID:88f2ee59-a830-44f9-bffe-6ac4febc78b5@88f2.org
+URL:https://fillum.in/p/311
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. No registration required. The screening will followed by a conversation between writer Sanjay Sahay\, senior journalist Prakash K. Ray and film scholar Dr Mihir Pandya.\n\nMore info / Tickets: https://fillum.in/screening/5815
+DURATION:PT2H
+LOCATION:Press Club of India
+DTSTART:20260709T123000Z
+SUMMARY:Patang (1993)
+UID:bddc301d-f09c-4a69-98c3-5c6d31ce3078@bddc.org
+URL:https://fillum.in/screening/5815
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260721T130000Z
+SUMMARY:Yakasi’s Daughter (2025)
+UID:ec1e8c48-fe6d-4592-8309-f640d238f56e@ec1e.org
+URL:https://fillum.in/screening/5787
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sneha Gupta\n\n· Newly Dead by Sneha Gupta\n· Nazar by Siddhanth Nigam\n· Flowers by Darshit Chudasma\n· The Third Place by Sarth Kapil\n\nMore info / Tickets: https://fillum.in/p/306
+DURATION:PT2H
+LOCATION:TOT Studio\, Lajpat Nagar
+DTSTART:20260707T110000Z
+SUMMARY:Short Film Collection
+UID:28921ccf-df19-4483-8cfc-db78b089c5f5@2892.org
+URL:https://fillum.in/p/306
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260716T130000Z
+SUMMARY:Adamya (2026)
+UID:3557910a-52c9-43c5-8f86-5ef8668e7ba8@3557.org
+URL:https://fillum.in/screening/5785
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260720T130000Z
+SUMMARY:Whispers of the Mountains (2025)
+UID:ef7f8588-24ba-48c5-8b76-68ea6d4398a4@ef7f.org
+URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:South Ex
+DTSTART:20260710T093000Z
+SUMMARY:An Engineered Dream (2018)
+UID:ad54951d-18b7-434a-8066-1236f3a353e3@ad54.org
+URL:https://fillum.in
 END:VEVENT
 END:VCALENDAR
