@@ -2,40 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260721T130000Z
-SUMMARY:Yakasi’s Daughter (2025)
-UID:67ddfd44-be5c-4c8e-ab4f-d70fa640836c@67dd.org
-URL:https://fillum.in/screening/5787
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
 DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260713T130000Z
 SUMMARY:Magazine (2026)
-UID:8d8df9ae-ac82-4ba6-a430-16be9e0924a1@8d8d.org
+UID:a13fd9d6-81e9-4c1a-92b1-d503782a7ae6@a13f.org
 URL:https://fillum.in/screening/5802
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5784
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260707T123000Z
-SUMMARY:Khidki Gaav - If on a Winter's Night (2025)
-UID:27bcacce-ef5e-4814-8ac2-aae3920ee16f@27bc.org
-URL:https://fillum.in/screening/5784
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:67a7f093-a0b6-461f-9ef2-00c65920be9c@67a7.org
-URL:https://fillum.in/screening/5803
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
@@ -43,8 +16,17 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260720T130000Z
 SUMMARY:Whispers of the Mountains (2025)
-UID:5e813fa0-7e74-46c8-99a8-acf401459deb@5e81.org
+UID:6c7bdfe6-c555-4d0c-bac4-bafd68d6b560@6c7b.org
 URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5784
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260707T123000Z
+SUMMARY:Khidki Gaav - If on a Winter's Night (2025)
+UID:85d22567-8be0-4fe2-b69c-3a058cba1898@85d2.org
+URL:https://fillum.in/screening/5784
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
@@ -52,17 +34,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:d4175f4d-f396-4a88-be12-9f5ba8c3cdde@d417.org
+UID:588aa618-ec3f-4885-a39f-4f587b6058e0@588a.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
-DURATION:PT2H
-LOCATION:The Piano Man
-DTSTART:20260718T063000Z
-SUMMARY:Shorts In Spotlight – Volume 3
-UID:6ddad36a-1efc-4097-b015-323572a4c53c@6dda.org
-URL:https://fillum.in/p/309
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Sneha Gupta\n\n· Newly Dead by Sneha Gupta\n· Nazar by Siddhanth Nigam\n· Flowers by Darshit Chudasma\n· The Third Place by Sarth Kapil\n\nMore info / Tickets: https://fillum.in/p/306
@@ -70,8 +43,26 @@ DURATION:PT2H
 LOCATION:TOT Studio\, Lajpat Nagar
 DTSTART:20260707T110000Z
 SUMMARY:Short Film Collection
-UID:3731f59a-112c-48aa-ad71-c3121f8b0067@3731.org
+UID:ed1f6111-56a8-4aa2-88c8-f10407c37ab0@ed1f.org
 URL:https://fillum.in/p/306
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260721T130000Z
+SUMMARY:Yakasi’s Daughter (2025)
+UID:294d0e08-6e76-40ee-a4e6-e8c5cc4a7722@294d.org
+URL:https://fillum.in/screening/5787
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:94fd35a2-6265-4264-9653-2f9b96358e26@94fd.org
+URL:https://fillum.in/screening/5803
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
@@ -79,7 +70,16 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260716T130000Z
 SUMMARY:Adamya (2026)
-UID:45f8aa29-f668-481e-9765-db8b042a7cbe@45f8.org
+UID:b5025bf4-4553-43bc-8f78-53914aed24b6@b502.org
 URL:https://fillum.in/screening/5785
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
+DURATION:PT2H
+LOCATION:The Piano Man
+DTSTART:20260718T063000Z
+SUMMARY:Shorts In Spotlight – Volume 3
+UID:91546d20-77da-41bc-b44c-8c93bd21e7c2@9154.org
+URL:https://fillum.in/p/309
 END:VEVENT
 END:VCALENDAR
