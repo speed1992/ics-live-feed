@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260721T130000Z
-SUMMARY:Yakasi’s Daughter (2025)
-UID:7abc14ef-ec91-4c18-aa02-b337498dc882@7abc.org
-URL:https://fillum.in/screening/5787
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260720T130000Z
-SUMMARY:Whispers of the Mountains (2025)
-UID:8f606e19-95d7-483e-8ef8-d4593faf9258@8f60.org
-URL:https://fillum.in/screening/5786
+LOCATION:South Ex
+DTSTART:20260710T093000Z
+SUMMARY:An Engineered Dream (2018)
+UID:649d93c0-15b6-456d-8999-3bfd3a4d4538@649d.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nThe concept of machines developing souls\, while explored within the realm of science fiction\, has tangible connections to ongoing discussions surrounding technological singularity.\n\nThe singulari.. more\n\nMore info / Tickets: https://fillum.in/p/311
@@ -25,26 +16,8 @@ DURATION:PT2H
 LOCATION:mool\, South Ex II
 DTSTART:20260711T063000Z
 SUMMARY:Ghost in the Shell (1995)
-UID:1d37bef0-bb49-403d-9537-15fd3f6180ea@1d37.org
+UID:2698200d-2e97-444e-bd50-c94b89c343bf@2698.org
 URL:https://fillum.in/p/311
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260716T130000Z
-SUMMARY:Adamya (2026)
-UID:eed52920-e740-49f6-a344-3ef0a82b1144@eed5.org
-URL:https://fillum.in/screening/5785
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. No registration required. The screening will followed by a conversation between writer Sanjay Sahay\, senior journalist Prakash K. Ray and film scholar Dr Mihir Pandya.\n\nMore info / Tickets: https://fillum.in/screening/5815
-DURATION:PT2H
-LOCATION:Press Club of India
-DTSTART:20260709T123000Z
-SUMMARY:Patang (1993)
-UID:75314084-fdc7-47d6-bb28-13a84495a464@7531.org
-URL:https://fillum.in/screening/5815
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
@@ -52,8 +25,17 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260713T130000Z
 SUMMARY:Magazine (2026)
-UID:596bc79c-40fc-448b-9bcc-c6e8d67b7a1a@596b.org
+UID:794bf1f8-f0b0-46c7-a203-a9c3fa4f9858@794b.org
 URL:https://fillum.in/screening/5802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. No registration required. The screening will followed by a conversation between writer Sanjay Sahay\, senior journalist Prakash K. Ray and film scholar Dr Mihir Pandya.\n\nMore info / Tickets: https://fillum.in/screening/5815
+DURATION:PT2H
+LOCATION:Press Club of India
+DTSTART:20260709T123000Z
+SUMMARY:Patang (1993)
+UID:11df4e40-a2d2-4470-88c6-8b65a5dea5ab@11df.org
+URL:https://fillum.in/screening/5815
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
@@ -61,17 +43,26 @@ DURATION:PT2H
 LOCATION:The Piano Man
 DTSTART:20260718T063000Z
 SUMMARY:Shorts In Spotlight – Volume 3
-UID:d83616bb-9dc2-4155-81ef-daaab278bf1d@d836.org
+UID:87fcab8e-778f-4d20-a603-ec02bc5a9828@87fc.org
 URL:https://fillum.in/p/309
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA fierce strategist promises the presidency to an idealistic politician\, but their opposing paths to victory lead to betrayal and conflict.\n\nMore info / Tickets: https://fillum.in/p/311
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
 DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260711T083000Z
-SUMMARY:Kingmaker (2022)
-UID:36ef6675-e463-4e63-9d6a-fa0f4e3ec6bf@36ef.org
-URL:https://fillum.in/p/311
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260716T130000Z
+SUMMARY:Adamya (2026)
+UID:0526781b-4b4b-4433-b69b-3b0bf6cc2120@0526.org
+URL:https://fillum.in/screening/5785
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260721T130000Z
+SUMMARY:Yakasi’s Daughter (2025)
+UID:bf581b04-5763-44fb-a138-63395d0d6ce4@bf58.org
+URL:https://fillum.in/screening/5787
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
@@ -79,17 +70,26 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:08e880db-ace5-4f8e-a4ee-67c9ec802c6a@08e8.org
+UID:1834836d-42ba-4f46-94d3-4e79c8f531af@1834.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: The Quorum Gurugram\n\nThere is a bridge at the edge of the city. People don’t come here to pause. They come here when they have already decided. One winter morning\, two strangers arrive—carrying separate\, private end.. more\n\nMore info / Tickets: https://fillum.in/screening/5764
+DESCRIPTION:Host: Out of Sequence\n\nA fierce strategist promises the presidency to an idealistic politician\, but their opposing paths to victory lead to betrayal and conflict.\n\nMore info / Tickets: https://fillum.in/p/311
 DURATION:PT2H
-LOCATION:The Quorum
-DTSTART:20260709T133000Z
-SUMMARY:Kood (2026)
-UID:4cf915a8-555a-489b-afdc-87cb7af64836@4cf9.org
-URL:https://fillum.in/screening/5764
+LOCATION:mool\, South Ex II
+DTSTART:20260711T083000Z
+SUMMARY:Kingmaker (2022)
+UID:cc6cae1b-d773-4686-b345-e7d89af7a3fd@cc6c.org
+URL:https://fillum.in/p/311
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nThe timeless world of La Strada\, Federico Fellini's Academy Award-winning masterpiece that beautifully explores love\, loneliness\, innocence\, and the search for meaning. A landmark of Italian cinema\,.. more\n\nMore info / Tickets: https://fillum.in/p/318
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260711T103000Z
+SUMMARY:La Strada (1954)
+UID:76ad21c5-57c4-4091-bd44-a3eb6e59b899@76ad.org
+URL:https://fillum.in/p/318
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
@@ -97,16 +97,34 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260727T130000Z
 SUMMARY:Victoria (2024)
-UID:55935aea-96d6-440b-a16d-9b7e88b6ed40@5593.org
+UID:072db8e9-8254-4186-8cad-b0c5a6890b75@072d.org
 URL:https://fillum.in/screening/5803
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
 DURATION:PT2H
-LOCATION:South Ex
-DTSTART:20260710T093000Z
-SUMMARY:An Engineered Dream (2018)
-UID:19ea4c4c-ef03-49a9-be10-d47bf99f33d8@19ea.org
-URL:https://fillum.in
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260720T130000Z
+SUMMARY:Whispers of the Mountains (2025)
+UID:e42b3bfd-fbfd-46c8-9382-3f547009bae3@e42b.org
+URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Quorum Gurugram\n\nThere is a bridge at the edge of the city. People don’t come here to pause. They come here when they have already decided. One winter morning\, two strangers arrive—carrying separate\, private end.. more\n\nMore info / Tickets: https://fillum.in/screening/5764
+DURATION:PT2H
+LOCATION:The Quorum
+DTSTART:20260709T133000Z
+SUMMARY:Kood (2026)
+UID:87a1546a-aa73-4b51-b7d8-06c2249e7dd0@87a1.org
+URL:https://fillum.in/screening/5764
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nExperience Andrei Tarkovsky's visionary masterpiece\, Stalker—a haunting and philosophical journey through the mysterious Zone that explores faith\, desire\, and the human condition.\n\nYour ticket i.. more\n\nMore info / Tickets: https://fillum.in/p/318
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260711T064000Z
+SUMMARY:Stalker (1979)
+UID:03018acd-1a13-4e8f-a91d-4d53e63ff43c@0301.org
+URL:https://fillum.in/p/318
 END:VEVENT
 END:VCALENDAR
