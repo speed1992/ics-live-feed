@@ -2,21 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:South Ex
-DTSTART:20260710T093000Z
-SUMMARY:An Engineered Dream (2018)
-UID:649d93c0-15b6-456d-8999-3bfd3a4d4538@649d.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nThe concept of machines developing souls\, while explored within the realm of science fiction\, has tangible connections to ongoing discussions surrounding technological singularity.\n\nThe singulari.. more\n\nMore info / Tickets: https://fillum.in/p/311
 DURATION:PT2H
 LOCATION:mool\, South Ex II
 DTSTART:20260711T063000Z
 SUMMARY:Ghost in the Shell (1995)
-UID:2698200d-2e97-444e-bd50-c94b89c343bf@2698.org
+UID:ce6f1d6d-0655-42d8-9278-b15e227e6e19@ce6f.org
 URL:https://fillum.in/p/311
 END:VEVENT
 BEGIN:VEVENT
@@ -25,17 +16,8 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260713T130000Z
 SUMMARY:Magazine (2026)
-UID:794bf1f8-f0b0-46c7-a203-a9c3fa4f9858@794b.org
+UID:2f9d0de0-fdc4-44f4-b65c-3c56a22fcfda@2f9d.org
 URL:https://fillum.in/screening/5802
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. No registration required. The screening will followed by a conversation between writer Sanjay Sahay\, senior journalist Prakash K. Ray and film scholar Dr Mihir Pandya.\n\nMore info / Tickets: https://fillum.in/screening/5815
-DURATION:PT2H
-LOCATION:Press Club of India
-DTSTART:20260709T123000Z
-SUMMARY:Patang (1993)
-UID:11df4e40-a2d2-4470-88c6-8b65a5dea5ab@11df.org
-URL:https://fillum.in/screening/5815
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
@@ -43,62 +25,8 @@ DURATION:PT2H
 LOCATION:The Piano Man
 DTSTART:20260718T063000Z
 SUMMARY:Shorts In Spotlight – Volume 3
-UID:87fcab8e-778f-4d20-a603-ec02bc5a9828@87fc.org
+UID:43f13682-6e43-42c6-b329-ffc0196d35db@43f1.org
 URL:https://fillum.in/p/309
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260716T130000Z
-SUMMARY:Adamya (2026)
-UID:0526781b-4b4b-4433-b69b-3b0bf6cc2120@0526.org
-URL:https://fillum.in/screening/5785
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260721T130000Z
-SUMMARY:Yakasi’s Daughter (2025)
-UID:bf581b04-5763-44fb-a138-63395d0d6ce4@bf58.org
-URL:https://fillum.in/screening/5787
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260726T133000Z
-SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:1834836d-42ba-4f46-94d3-4e79c8f531af@1834.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA fierce strategist promises the presidency to an idealistic politician\, but their opposing paths to victory lead to betrayal and conflict.\n\nMore info / Tickets: https://fillum.in/p/311
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260711T083000Z
-SUMMARY:Kingmaker (2022)
-UID:cc6cae1b-d773-4686-b345-e7d89af7a3fd@cc6c.org
-URL:https://fillum.in/p/311
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nThe timeless world of La Strada\, Federico Fellini's Academy Award-winning masterpiece that beautifully explores love\, loneliness\, innocence\, and the search for meaning. A landmark of Italian cinema\,.. more\n\nMore info / Tickets: https://fillum.in/p/318
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260711T103000Z
-SUMMARY:La Strada (1954)
-UID:76ad21c5-57c4-4091-bd44-a3eb6e59b899@76ad.org
-URL:https://fillum.in/p/318
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:072db8e9-8254-4186-8cad-b0c5a6890b75@072d.org
-URL:https://fillum.in/screening/5803
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
@@ -106,8 +34,17 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260720T130000Z
 SUMMARY:Whispers of the Mountains (2025)
-UID:e42b3bfd-fbfd-46c8-9382-3f547009bae3@e42b.org
+UID:19f91c5b-a0d9-40af-aaa9-9d77df383aff@19f9.org
 URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260726T133000Z
+SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
+UID:17aee900-5629-45da-b36f-2a1317da2845@17ae.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: The Quorum Gurugram\n\nThere is a bridge at the edge of the city. People don’t come here to pause. They come here when they have already decided. One winter morning\, two strangers arrive—carrying separate\, private end.. more\n\nMore info / Tickets: https://fillum.in/screening/5764
@@ -115,7 +52,7 @@ DURATION:PT2H
 LOCATION:The Quorum
 DTSTART:20260709T133000Z
 SUMMARY:Kood (2026)
-UID:87a1546a-aa73-4b51-b7d8-06c2249e7dd0@87a1.org
+UID:37365145-5c64-4397-8ff8-3384d5cb628b@3736.org
 URL:https://fillum.in/screening/5764
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +61,97 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260711T064000Z
 SUMMARY:Stalker (1979)
-UID:03018acd-1a13-4e8f-a91d-4d53e63ff43c@0301.org
+UID:7b9f4115-c7ed-48d4-95e5-7e6dd2010109@7b9f.org
 URL:https://fillum.in/p/318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA fierce strategist promises the presidency to an idealistic politician\, but their opposing paths to victory lead to betrayal and conflict.\n\nMore info / Tickets: https://fillum.in/p/311
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260711T083000Z
+SUMMARY:Kingmaker (2022)
+UID:da589541-49e5-40b0-9eb6-911cb6a96a21@da58.org
+URL:https://fillum.in/p/311
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260721T130000Z
+SUMMARY:Yakasi’s Daughter (2025)
+UID:9a0d0159-5cb6-4d46-9a68-63f500fd76c5@9a0d.org
+URL:https://fillum.in/screening/5787
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nThe timeless world of La Strada\, Federico Fellini's Academy Award-winning masterpiece that beautifully explores love\, loneliness\, innocence\, and the search for meaning. A landmark of Italian cinema\,.. more\n\nMore info / Tickets: https://fillum.in/p/318
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260711T103000Z
+SUMMARY:La Strada (1954)
+UID:d37acc3f-f513-4a0e-9c32-8ede836c4fa2@d37a.org
+URL:https://fillum.in/p/318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260716T130000Z
+SUMMARY:Adamya (2026)
+UID:95f8e8d4-d051-4c6b-a459-d0b54e367562@95f8.org
+URL:https://fillum.in/screening/5785
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5821
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260711T103000Z
+SUMMARY:When a City Rises (2021)
+UID:8f55d099-607b-4014-83ab-f9d23cde5a34@8f55.org
+URL:https://fillum.in/screening/5821
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. No registration required. The screening will followed by a conversation between writer Sanjay Sahay\, senior journalist Prakash K. Ray and film scholar Dr Mihir Pandya.\n\nMore info / Tickets: https://fillum.in/screening/5815
+DURATION:PT2H
+LOCATION:Press Club of India
+DTSTART:20260709T123000Z
+SUMMARY:Patang (1993)
+UID:a8f2970c-6290-40cc-ac74-2170572f9ac8@a8f2.org
+URL:https://fillum.in/screening/5815
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5823
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260716T130000Z
+SUMMARY:Lost Illusions (2021)
+UID:58402ff5-280b-469a-bddf-6dba1f44c5dd@5840.org
+URL:https://fillum.in/screening/5823
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:99f9c90a-2724-44c8-9dc5-0b1842226fb5@99f9.org
+URL:https://fillum.in/screening/5803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:South Ex
+DTSTART:20260710T093000Z
+SUMMARY:An Engineered Dream (2018)
+UID:592cbf9e-fb5a-41a6-9384-a31b656d1b51@592c.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260725T093000Z
+SUMMARY:No Regrets for Our Youth (1946)
+UID:420fd45a-be20-45d5-8397-9cca5bb0c344@420f.org
+URL:https://fillum.in/screening/5822
 END:VEVENT
 END:VCALENDAR
