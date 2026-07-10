@@ -2,31 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260721T130000Z
-SUMMARY:Yakasi’s Daughter (2025)
-UID:4c6488cd-7fb7-42e6-aba3-5318941d0cda@4c64.org
-URL:https://fillum.in/screening/5787
+LOCATION:South Ex
+DTSTART:20260710T093000Z
+SUMMARY:An Engineered Dream (2018)
+UID:e2e4fdf4-1800-44e5-bd95-7eb4c0ea002d@e2e4.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5821
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
 DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260711T103000Z
-SUMMARY:When a City Rises (2021)
-UID:26ee66d9-e9f5-4e7e-9c10-5371009c2527@26ee.org
-URL:https://fillum.in/screening/5821
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Studio Montage\n\nFree entry. Post-screening discussion. For any queries\, contact on WhatsApp at 9667707585.\n\nMore info / Tickets: https://fillum.in/screening/5828
-DURATION:PT2H
-LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
-DTSTART:20260712T103000Z
-SUMMARY:Harlan County U.S.A. (1977)
-UID:e886b7a8-8eba-4bff-bdad-4d19148dc41b@e886.org
-URL:https://fillum.in/screening/5828
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260725T133000Z
+SUMMARY:Batt Koch (2025)
+UID:49b477ff-664c-4bf9-bc4e-c222c60ce69b@49b4.org
+URL:https://fillum.in/screening/5826
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
@@ -34,17 +25,8 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260716T130000Z
 SUMMARY:Adamya (2026)
-UID:36069a9f-23f9-4a90-a405-d477a821c99c@3606.org
+UID:17fcbf4d-78b0-4130-baa3-20b05fa143db@17fc.org
 URL:https://fillum.in/screening/5785
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nThe concept of machines developing souls\, while explored within the realm of science fiction\, has tangible connections to ongoing discussions surrounding technological singularity.\n\nThe singulari.. more\n\nMore info / Tickets: https://fillum.in/p/311
-DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260711T063000Z
-SUMMARY:Ghost in the Shell (1995)
-UID:d6053300-aa65-4765-89f1-04c2d310719e@d605.org
-URL:https://fillum.in/p/311
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sat.. more\n\nMore info / Tickets: https://fillum.in/screening/5827
@@ -52,17 +34,26 @@ DURATION:PT2H
 LOCATION:IP Extension\, Patparganj
 DTSTART:20260711T133000Z
 SUMMARY:Gulaal (2009)
-UID:540aec9b-472d-4775-9657-fa018920b725@540a.org
+UID:ed2279d4-33df-4d3c-9d6c-9e3c9e4589a3@ed22.org
 URL:https://fillum.in/screening/5827
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy Youth for Climate India\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Cinergy Club\n\nCinergy: Astitiva is a one-of-a-kind cultural experience that brings together independent films\, live music\, stand-up comedy\, and art under one roof.\n\nMore than an event\, it's a space where storie.. more\n\nMore info / Tickets: https://fillum.in/p/320
 DURATION:PT2H
-LOCATION:South Ex
-DTSTART:20260710T093000Z
-SUMMARY:An Engineered Dream (2018)
-UID:59a59a0c-8b73-4b1e-80ee-9981c28f6525@59a5.org
-URL:https://fillum.in
+LOCATION:Siyah Arthouse\, Saket
+DTSTART:20260712T123000Z
+SUMMARY:Cinergy: Astitva
+UID:a6294882-8738-495f-8cc6-c73c50da7d23@a629.org
+URL:https://fillum.in/p/320
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5834
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260723T130000Z
+SUMMARY:Don't Look Now... We're Being Shot At! (1966)
+UID:4f9578da-36f6-424f-88f9-d0d128bbee14@4f95.org
+URL:https://fillum.in/screening/5834
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nExperience Andrei Tarkovsky's visionary masterpiece\, Stalker—a haunting and philosophical journey through the mysterious Zone that explores faith\, desire\, and the human condition.\n\nYour ticket i.. more\n\nMore info / Tickets: https://fillum.in/p/318
@@ -70,8 +61,71 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260711T064000Z
 SUMMARY:Stalker (1979)
-UID:d5e48450-982a-431a-b165-779155798d46@d5e4.org
+UID:4c3afb06-437e-43d4-bf74-42f5386eec18@4c3a.org
 URL:https://fillum.in/p/318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260804T133000Z
+SUMMARY:Sophie Scholl: The Final Days (2005)
+UID:df095538-9fb0-43b3-b1f2-156588eb295e@df09.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260713T130000Z
+SUMMARY:Magazine (2026)
+UID:bd7d9df6-330a-455c-b90a-a019bd1b8817@bd7d.org
+URL:https://fillum.in/screening/5802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nNeighbourhood screening. RSVP Request based. Entry on confirmation.\n\nMore info / Tickets: https://fillum.in/screening/5839
+DURATION:PT2H
+LOCATION:Vasant Vihar
+DTSTART:20260715T120000Z
+SUMMARY:Turtle Walker (2024)
+UID:6a5512f8-4ed1-4c55-82a7-b868ecb083ca@6a55.org
+URL:https://fillum.in/screening/5839
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5823
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260716T130000Z
+SUMMARY:Lost Illusions (2021)
+UID:a9a36b8c-82c1-45fd-b279-95afb44df3f6@a9a3.org
+URL:https://fillum.in/screening/5823
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260720T130000Z
+SUMMARY:Whispers of the Mountains (2025)
+UID:8adab60e-f7db-4dc7-99ec-2b33a5e8f1ea@8ada.org
+URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5821
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260711T103000Z
+SUMMARY:When a City Rises (2021)
+UID:5017cbe2-6d2a-43a1-84b3-924ea23cb13d@5017.org
+URL:https://fillum.in/screening/5821
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Studio Montage\n\nOrganized by Progressive Artists' League.\nFree entry. Post-screening discussion. For any queries\, contact on WhatsApp at 9667707585.\n\nMore info / Tickets: https://fillum.in/screening/5828
+DURATION:PT2H
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20260712T103000Z
+SUMMARY:Harlan County U.S.A. (1977)
+UID:cc72c1b0-b721-4590-bd70-594b8cea7dff@cc72.org
+URL:https://fillum.in/screening/5828
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
@@ -79,7 +133,7 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:7f818f98-95c9-45b7-a20b-3fef3696381a@7f81.org
+UID:e786f0a1-c289-48fb-9884-f5c68dc43c1f@e786.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -88,26 +142,17 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260711T103000Z
 SUMMARY:La Strada (1954)
-UID:c58d69de-b53b-4474-8bda-8e97f774914e@c58d.org
+UID:78f08910-f4e2-40b1-bf8d-02767f137bf0@78f0.org
 URL:https://fillum.in/p/318
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5802
+DESCRIPTION:Host: Out of Sequence\n\nThe concept of machines developing souls\, while explored within the realm of science fiction\, has tangible connections to ongoing discussions surrounding technological singularity.\n\nThe singulari.. more\n\nMore info / Tickets: https://fillum.in/p/311
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260713T130000Z
-SUMMARY:Magazine (2026)
-UID:dd24d299-f61c-4eae-9adf-98ceef7e4d8c@dd24.org
-URL:https://fillum.in/screening/5802
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5823
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260716T130000Z
-SUMMARY:Lost Illusions (2021)
-UID:340465df-98ff-4430-961d-a34cb1495127@3404.org
-URL:https://fillum.in/screening/5823
+LOCATION:mool\, South Ex II
+DTSTART:20260711T063000Z
+SUMMARY:Ghost in the Shell (1995)
+UID:42640a22-1b87-4c51-a6cb-1a23686cb38c@4264.org
+URL:https://fillum.in/p/311
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
@@ -115,44 +160,17 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex 2
 DTSTART:20260725T093000Z
 SUMMARY:No Regrets for Our Youth (1946)
-UID:b3bd8456-c144-49ef-bac6-3fd539fedb1c@b3bd.org
+UID:d4160009-02a5-478b-9e66-de4f502450e0@d416.org
 URL:https://fillum.in/screening/5822
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA fierce strategist promises the presidency to an idealistic politician\, but their opposing paths to victory lead to betrayal and conflict.\n\nMore info / Tickets: https://fillum.in/p/311
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
 DURATION:PT2H
-LOCATION:mool\, South Ex II
-DTSTART:20260711T083000Z
-SUMMARY:Kingmaker (2022)
-UID:49e65533-6f95-47c6-933f-a17890f5e067@49e6.org
-URL:https://fillum.in/p/311
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260720T130000Z
-SUMMARY:Whispers of the Mountains (2025)
-UID:af27b9f2-ef0e-4788-9f58-b194dfa0854a@af27.org
-URL:https://fillum.in/screening/5786
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260725T133000Z
-SUMMARY:Batt Koch (2025)
-UID:c173b5ea-1016-4fba-932f-a8c400c2e502@c173.org
-URL:https://fillum.in/screening/5826
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
-DURATION:PT2H
-LOCATION:The Piano Man
-DTSTART:20260718T063000Z
-SUMMARY:Shorts In Spotlight – Volume 3
-UID:4a9c9e30-cd64-4216-b678-9ab377ffcdca@4a9c.org
-URL:https://fillum.in/p/309
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:6f3bba4a-0a09-4b18-a700-ab131eca1908@6f3b.org
+URL:https://fillum.in/screening/5835
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
@@ -160,7 +178,34 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260727T130000Z
 SUMMARY:Victoria (2024)
-UID:d141a225-5c68-45ac-abf8-98161acbf07c@d141.org
+UID:c959ce19-dbdd-4f94-8e75-f72f15cc523f@c959.org
 URL:https://fillum.in/screening/5803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Short Film Tour\n\nWhat if the most extraordinary stories were hidden in the most ordinary moments?\n\nShorts In Spotlight\, powered by Short Film Tour\, returns to The Piano Man with its third edition—an afternoon of.. more\n\nMore info / Tickets: https://fillum.in/p/309
+DURATION:PT2H
+LOCATION:The Piano Man
+DTSTART:20260718T063000Z
+SUMMARY:Shorts In Spotlight – Volume 3
+UID:b253b2d8-6f2d-4854-9e31-fe8a160dfcfe@b253.org
+URL:https://fillum.in/p/309
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA fierce strategist promises the presidency to an idealistic politician\, but their opposing paths to victory lead to betrayal and conflict.\n\nMore info / Tickets: https://fillum.in/p/311
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260711T083000Z
+SUMMARY:Kingmaker (2022)
+UID:2c2f2dab-5f7d-4c49-91a5-da1036d9f2f7@2c2f.org
+URL:https://fillum.in/p/311
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260721T130000Z
+SUMMARY:Yakasi’s Daughter (2025)
+UID:7a0fb56b-30a3-4430-879f-403888daf369@7a0f.org
+URL:https://fillum.in/screening/5787
 END:VEVENT
 END:VCALENDAR
