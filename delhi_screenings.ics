@@ -2,76 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260725T093000Z
-SUMMARY:No Regrets for Our Youth (1946)
-UID:f4f57933-e53d-4147-a582-3798402d7585@f4f5.org
-URL:https://fillum.in/screening/5822
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260725T133000Z
-SUMMARY:Batt Koch (2025)
-UID:dee3751f-07aa-4940-a60f-cabb0de8468c@dee3.org
-URL:https://fillum.in/screening/5826
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5834
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260723T130000Z
-SUMMARY:Don't Look Now... We're Being Shot At! (1966)
-UID:42a36671-afbd-4f7c-8d34-fde4d86ed6c4@42a3.org
-URL:https://fillum.in/screening/5834
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:7dde6f40-9576-49da-9db0-84251bee1327@7dde.org
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260726T133000Z
+SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
+UID:18e5d651-3823-40cd-a03c-3e979473a454@18e5.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nNeighbourhood screening. RSVP Request based. Entry on confirmation.\n\nMore info / Tickets: https://fillum.in/screening/5839
-DURATION:PT2H
-LOCATION:Vasant Vihar
-DTSTART:20260715T120000Z
-SUMMARY:Turtle Walker (2024)
-UID:590c22d5-a0e2-4fd8-bee7-2b71406fd3c1@590c.org
-URL:https://fillum.in/screening/5839
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260804T133000Z
-SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:ef88c99b-06db-4b01-a483-ae9106998700@ef88.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Filmpub Entertainment\n\nThis goes beyond a film screening. It is a space to watch\, reflect\, and participate in a conversation that matters.\n\nJoin us for the screening of a powerful short film exploring violence against w.. more\n\nMore info / Tickets: https://fillum.in/p/323
-DURATION:PT2H
-LOCATION:Studio Y- New Friends Colony
-DTSTART:20260718T103000Z
-SUMMARY:Devi (2020)
-UID:dd25b5a6-067b-422c-b1d8-3dd7ec46ef0a@dd25.org
-URL:https://fillum.in/p/323
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nMemories don't return in order. They arrive as fragments\, dreams\, sounds\, and moments suspended in time.\n\nJoin us for a screening of *Mirror* (1975)\, Andrei Tarkovsky's most personal and hauntingl.. more\n\nMore info / Tickets: https://fillum.in/p/324
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260718T110000Z
-SUMMARY:Mirror (1975)
-UID:083c7455-04d4-46b7-b6f3-044f5270b76a@083c.org
-URL:https://fillum.in/p/324
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5785
@@ -79,26 +16,17 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260716T130000Z
 SUMMARY:Adamya (2026)
-UID:3206f254-9b62-41ff-84ea-b9cdc3255d3c@3206.org
+UID:74a9c930-7c6b-4c0d-8f1c-f6073d42a400@74a9.org
 URL:https://fillum.in/screening/5785
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5823
+DESCRIPTION:Host: The Big Hoom Club\n\n· Flowers by Darshit Chudasama\n· 11:11 by Shreela Agarwal\n· Judas Marie by Harsh Vardhan Kumar\n· Ghar Waapsi by Aziz Narsi\n· Day & Night by S.S Sidhu\n· As Dusk Falls by Jaskirat Singh\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260716T130000Z
-SUMMARY:Lost Illusions (2021)
-UID:db9512ea-14aa-4f86-b639-7cfa39d47c75@db95.org
-URL:https://fillum.in/screening/5823
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T100000Z
-SUMMARY:Battle Royale (2000)
-UID:cb65cc49-95fb-46c4-a1e2-4e0d65214682@cb65.org
-URL:https://fillum.in/p/329
+LOCATION:Mool\, South-Ex 2
+DTSTART:20260719T103000Z
+SUMMARY:Finding the Language - Shorts Package
+UID:56750677-06c9-499d-84a8-6a7ad31a08b3@5675.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5786
@@ -106,35 +34,80 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260720T130000Z
 SUMMARY:Whispers of the Mountains (2025)
-UID:fc0e59db-0f2a-4e85-a28f-b0b3d69855bd@fc0e.org
+UID:f012c030-9665-4d30-98ac-5fd5372270e0@f012.org
 URL:https://fillum.in/screening/5786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T100000Z
+SUMMARY:Battle Royale (2000)
+UID:a9ce7500-1564-405b-ab95-faf6fe43f65e@a9ce.org
+URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260804T133000Z
+SUMMARY:Sophie Scholl: The Final Days (2005)
+UID:5bfc04b4-fda3-43f4-a0c0-54e08e47e162@5bfc.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: ALT EFF Film Club\n\nA brilliant selection of cinematic\, poetic\, diverse pieces of environmental storytelling.\n\n- Would You Still Love Me If I Was A Sticky Frog?\n- Shera\n- Papillon (Butterfly)\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Guru Jal\, Sector 26A
+LOCATION:Remakery\, Khirki Extension
 DTSTART:20260717T133000Z
 SUMMARY:Alt EFF Film Club Season 3
-UID:88a57f20-f04a-4a57-a80b-e6b2072bf0bf@88a5.org
+UID:c2651f71-3afd-40aa-9617-129bc4b7bd40@c265.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Progressive Students Youth Association\n\nPSYA\, Delhi invites you to our twelfth session on Art and Literature for the screening of the classic anti-imperialist film "The Battle of Algiers".\n\nMore info / Tickets: https://fillum.in/screening/5841
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
 DURATION:PT2H
-LOCATION:Saket
-DTSTART:20260718T113000Z
-SUMMARY:The Battle of Algiers (1966)
-UID:d30a8cb6-dd6b-4524-abe3-b47fc619a70e@d30a.org
-URL:https://fillum.in/screening/5841
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260725T133000Z
+SUMMARY:Batt Koch (2025)
+UID:9bdadebd-7e64-4f11-b7b4-c4f70f8c40c3@9bda.org
+URL:https://fillum.in/screening/5826
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
+DESCRIPTION:Host: Express Screen Film Club\n\nPost-screening conversation with the film critic Shubhra Gupta.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260723T130000Z
-SUMMARY:Escuchar las imágenes (2025)
-UID:f7d74317-3c7c-41c1-9714-766932119723@f7d7.org
-URL:https://fillum.in/screening/5855
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260721T133000Z
+SUMMARY:Tighee (2026)
+UID:c3d10588-51df-443a-accb-eec220aefc61@c3d1.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
+DTSTART:20260729T093000Z
+SUMMARY:Cured (2020)
+UID:7180d234-a099-4a55-a38a-319a08a1455d@7180.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/328
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260719T123000Z
+SUMMARY:The Seventh Seal (1957)
+UID:4684197a-c42b-492d-b7af-3993df11fe6a@4684.org
+URL:https://fillum.in/p/328
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260725T093000Z
+SUMMARY:No Regrets for Our Youth (1946)
+UID:7ab167d4-c868-466c-9f6d-06d6da8641b2@7ab1.org
+URL:https://fillum.in/screening/5822
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
@@ -142,7 +115,7 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260730T130000Z
 SUMMARY:We (2022)
-UID:95329286-6005-4330-94e5-2f541f6b039f@9532.org
+UID:b06cef29-0c68-4baa-af7f-37726180b59c@b06c.org
 URL:https://fillum.in/screening/5835
 END:VEVENT
 BEGIN:VEVENT
@@ -151,35 +124,17 @@ DURATION:PT2H
 LOCATION:The Piano Man
 DTSTART:20260718T063000Z
 SUMMARY:Shorts In Spotlight – Volume 3
-UID:060051e7-e98e-453e-8723-79ac326a2fa7@0600.org
+UID:05f635e7-28e0-475f-b873-b04942aa38b3@05f6.org
 URL:https://fillum.in/p/309
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\nA brilliant selection of cinematic\, poetic\, diverse pieces of environmental storytelling.\n\n- Would You Still Love Me If I Was A Sticky Frog?\n- Shera\n- Papillon (Butterfly)\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Progressive Students Youth Association\n\nPSYA\, Delhi invites you to our twelfth session on Art and Literature for the screening of the classic anti-imperialist film "The Battle of Algiers".\n\nMore info / Tickets: https://fillum.in/screening/5841
 DURATION:PT2H
-LOCATION:Remakery\, Khirki Extension
-DTSTART:20260717T133000Z
-SUMMARY:Alt EFF Film Club Season 3
-UID:4e730159-f8e2-48df-983b-7ba01773f1d5@4e73.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· PEHLI TAREEKH (Richa Nanda)\nPehli Tareekh is an intimate domestic drama seen from a feminist point of view\, designed to reflect the quiet\, everyday realities of marriage in urban India. Set wit.. more\n\nMore info / Tickets: https://fillum.in/p/326
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260724T133000Z
-SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
-UID:302b3212-51ef-499c-a473-19b7afc3b94d@302b.org
-URL:https://fillum.in/p/326
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260726T133000Z
-SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:fbd5a67e-59a0-4bec-93e0-71ccbe102614@fbd5.org
-URL:https://fillum.in
+LOCATION:Saket
+DTSTART:20260718T113000Z
+SUMMARY:The Battle of Algiers (1966)
+UID:bc64b6bc-00f7-48ee-b58f-b010ee5ce984@bc64.org
+URL:https://fillum.in/screening/5841
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
@@ -187,26 +142,8 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260727T130000Z
 SUMMARY:Victoria (2024)
-UID:be9d3b28-d1aa-41c5-b980-110871e0bc2e@be9d.org
+UID:848fd0c8-8ace-4a7f-ba3f-216fff355d0d@848f.org
 URL:https://fillum.in/screening/5803
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Express Screen Film Club\n\nPost-screening conversation with the film critic Shubhra Gupta.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260721T133000Z
-SUMMARY:Tighee (2026)
-UID:d1dcbb04-e17b-4c1c-9992-50778dde72a4@d1dc.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/329
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T063000Z
-SUMMARY:Akira (1988)
-UID:08fced87-a7df-422c-a8b7-027505adb77a@08fc.org
-URL:https://fillum.in/p/329
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nPost-screening conversation with the filmmaker\, Avani Rai.\n\nMore info / Tickets: https://fillum.in/p/327
@@ -214,26 +151,53 @@ DURATION:PT2H
 LOCATION:Gulmohar\, India Habitat Centre
 DTSTART:20260725T133000Z
 SUMMARY:Raghu Rai: An Unframed Portrait (2018)
-UID:8da35c49-046d-419f-921f-5cd6a4961538@8da3.org
+UID:5344b7db-d06c-4fc4-9a90-9cc1db9499ff@5344.org
 URL:https://fillum.in/p/327
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/328
+DESCRIPTION:Host: ALT EFF Film Club\n\nA brilliant selection of cinematic\, poetic\, diverse pieces of environmental storytelling.\n\n- Would You Still Love Me If I Was A Sticky Frog?\n- Shera\n- Papillon (Butterfly)\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260719T123000Z
-SUMMARY:The Seventh Seal (1957)
-UID:dbebdd13-6859-4e07-9ae1-5957b13ea71f@dbeb.org
-URL:https://fillum.in/p/328
+LOCATION:Guru Jal\, Sector 26A
+DTSTART:20260717T133000Z
+SUMMARY:Alt EFF Film Club Season 3
+UID:d6b251e3-ea75-4a3a-989b-2320b8c12543@d6b2.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: The Big Hoom Club\n\n· Flowers by Darshit Chudasama\n· 11:11 by Shreela Agarwal\n· Judas Marie by Harsh Vardhan Kumar\n· Ghar Waapsi by Aziz Narsi\n· Day & Night by S.S Sidhu\n· As Dusk Falls by Jaskirat Singh\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5823
 DURATION:PT2H
-LOCATION:Mool\, South-Ex 2
-DTSTART:20260719T103000Z
-SUMMARY:Finding the Language - Shorts Package
-UID:7ca3ef72-0953-4418-a061-0ec3eefa07bc@7ca3.org
-URL:https://fillum.in
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260716T130000Z
+SUMMARY:Lost Illusions (2021)
+UID:cb28a025-e864-4768-8240-ee859aeaa95a@cb28.org
+URL:https://fillum.in/screening/5823
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/329
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T063000Z
+SUMMARY:Akira (1988)
+UID:94e955b1-66c4-4714-a254-0bfc3d5a9fd5@94e9.org
+URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260723T130000Z
+SUMMARY:Escuchar las imágenes (2025)
+UID:3b5f9176-9b5f-44da-9c13-fa9bd09eeaeb@3b5f.org
+URL:https://fillum.in/screening/5855
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nMemories don't return in order. They arrive as fragments\, dreams\, sounds\, and moments suspended in time.\n\nJoin us for a screening of *Mirror* (1975)\, Andrei Tarkovsky's most personal and hauntingl.. more\n\nMore info / Tickets: https://fillum.in/p/324
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260718T110000Z
+SUMMARY:Mirror (1975)
+UID:d55b5bcd-7175-4e58-b1c3-8770ce9c4cc8@d55b.org
+URL:https://fillum.in/p/324
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5787
@@ -241,7 +205,34 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260721T130000Z
 SUMMARY:Yakasi’s Daughter (2025)
-UID:440db11a-7e8c-4316-8b77-78399a3961b0@440d.org
+UID:62bb5ce6-7037-4d63-9e53-05e0686125dd@62bb.org
 URL:https://fillum.in/screening/5787
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n· PEHLI TAREEKH (Richa Nanda)\nPehli Tareekh is an intimate domestic drama seen from a feminist point of view\, designed to reflect the quiet\, everyday realities of marriage in urban India. Set wit.. more\n\nMore info / Tickets: https://fillum.in/p/326
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260724T133000Z
+SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
+UID:60743d67-6b96-4a43-8107-f741b40363f5@6074.org
+URL:https://fillum.in/p/326
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Filmpub Entertainment\n\nThis goes beyond a film screening. It is a space to watch\, reflect\, and participate in a conversation that matters.\n\nJoin us for the screening of a powerful short film exploring violence against w.. more\n\nMore info / Tickets: https://fillum.in/p/323
+DURATION:PT2H
+LOCATION:Studio Y- New Friends Colony
+DTSTART:20260718T103000Z
+SUMMARY:Devi (2020)
+UID:f6c004a7-913c-4bcf-a859-f270f5172a6f@f6c0.org
+URL:https://fillum.in/p/323
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5834
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260723T130000Z
+SUMMARY:Don't Look Now... We're Being Shot At! (1966)
+UID:69406e01-98b9-4bc3-adbc-8d5142e431e6@6940.org
+URL:https://fillum.in/screening/5834
 END:VEVENT
 END:VCALENDAR
