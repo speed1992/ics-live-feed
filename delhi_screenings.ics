@@ -2,31 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260725T093000Z
-SUMMARY:No Regrets for Our Youth (1946)
-UID:dcc41cf3-ed98-41cf-a74e-b96dd6977710@dcc4.org
-URL:https://fillum.in/screening/5822
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:e635c0ed-08ef-476b-b716-c134735b6bc7@e635.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5834
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260723T130000Z
 SUMMARY:Don't Look Now... We're Being Shot At! (1966)
-UID:3abd52bd-7eaa-4658-91ab-aceefb0a2815@3abd.org
+UID:ec971a48-63d3-4d91-a2dd-d88bcdbae1bf@ec97.org
 URL:https://fillum.in/screening/5834
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260725T093000Z
+SUMMARY:No Regrets for Our Youth (1946)
+UID:2f18cfa7-fe9d-4daf-9263-101a748bacee@2f18.org
+URL:https://fillum.in/screening/5822
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
@@ -34,7 +25,7 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260723T130000Z
 SUMMARY:Escuchar las imágenes (2025)
-UID:afafbef1-5a82-47ee-bd26-a80cb447b509@afaf.org
+UID:8a3a9b1d-e61c-4381-bc87-57ba499be455@8a3a.org
 URL:https://fillum.in/screening/5855
 END:VEVENT
 BEGIN:VEVENT
@@ -43,44 +34,8 @@ DURATION:PT2H
 LOCATION:Gulmohar\, India Habitat Centre
 DTSTART:20260725T133000Z
 SUMMARY:Raghu Rai: An Unframed Portrait (2018)
-UID:d954978b-d967-4464-9938-a8ee443e9fe7@d954.org
+UID:f03b07dd-cf8f-417b-9d99-74202ffd09b2@f03b.org
 URL:https://fillum.in/p/327
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T100000Z
-SUMMARY:Battle Royale (2000)
-UID:da4b2138-1139-4ea0-bbc2-d652f108f71f@da4b.org
-URL:https://fillum.in/p/329
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:ad285aa6-1c0f-44ba-aaea-cd3f00067383@ad28.org
-URL:https://fillum.in/p/332
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· PEHLI TAREEKH (Richa Nanda)\nPehli Tareekh is an intimate domestic drama seen from a feminist point of view\, designed to reflect the quiet\, everyday realities of marriage in urban India. Set wit.. more\n\nMore info / Tickets: https://fillum.in/p/326
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260724T133000Z
-SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
-UID:1901ab1b-92fc-4b3e-808e-785cfafbf28f@1901.org
-URL:https://fillum.in/p/326
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260730T130000Z
-SUMMARY:We (2022)
-UID:82414a71-a080-44e1-817e-3daeb8e5133b@8241.org
-URL:https://fillum.in/screening/5835
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
@@ -88,7 +43,25 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:7ccc44ed-923c-4c2d-a071-5704ff10b8c7@7ccc.org
+UID:f2c77635-a242-4ab9-9656-df0119620e65@f2c7.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n· PEHLI TAREEKH (Richa Nanda)\nPehli Tareekh is an intimate domestic drama seen from a feminist point of view\, designed to reflect the quiet\, everyday realities of marriage in urban India. Set wit.. more\n\nMore info / Tickets: https://fillum.in/p/326
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260724T133000Z
+SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
+UID:1cbae2a2-a547-4e14-9017-6c0e0a53ead2@1cba.org
+URL:https://fillum.in/p/326
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
+DTSTART:20260729T093000Z
+SUMMARY:Cured (2020)
+UID:d85ce107-37ff-4e92-a6f2-a86d3a6f745c@d85c.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -97,17 +70,17 @@ DURATION:PT2H
 LOCATION:Kiran Nadar Museum of Art\, Saket
 DTSTART:20260725T133000Z
 SUMMARY:Batt Koch (2025)
-UID:82538510-197f-4a1f-a70c-584489629672@8253.org
+UID:9ac75eb0-8146-4294-a84d-c95f9f7635df@9ac7.org
 URL:https://fillum.in/screening/5826
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:6e8b9825-23c7-4867-9689-f11ccc8f9e1f@6e8b.org
-URL:https://fillum.in/screening/5803
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T100000Z
+SUMMARY:Battle Royale (2000)
+UID:36c1c358-9047-476d-aabb-6490e5e2330c@36c1.org
+URL:https://fillum.in/p/329
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
@@ -115,7 +88,43 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:ecea33e2-f44d-4617-826f-6d1f6bef2c0f@ecea.org
+UID:75bbda85-2d11-41b1-b450-82b7ddf6a76e@75bb.org
 URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:82b5e3a8-1753-4f57-97d5-73edadc66a2b@82b5.org
+URL:https://fillum.in/screening/5835
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nIngmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped .. more\n\nMore info / Tickets: https://fillum.in/p/336
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260725T110000Z
+SUMMARY:Persona (1966)
+UID:1f799715-fde7-4ff5-b7b0-6058cba8e4a5@1f79.org
+URL:https://fillum.in/p/336
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:40f72d55-095f-464c-a8c1-88b25bc029e9@40f7.org
+URL:https://fillum.in/p/332
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:41a8a4a1-a7f5-4aa2-8dd7-3a73ee04cab5@41a8.org
+URL:https://fillum.in/screening/5803
 END:VEVENT
 END:VCALENDAR
