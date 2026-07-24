@@ -7,116 +7,8 @@ DURATION:PT2H
 LOCATION:Gulmohar\, India Habitat Centre
 DTSTART:20260724T133000Z
 SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
-UID:790df6d7-f66e-41cd-b6ae-fd2562d2df0c@790d.org
+UID:31e216d8-0bbb-446b-87f4-818def25d44e@31e2.org
 URL:https://fillum.in/p/326
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260804T133000Z
-SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:834a176d-1e4a-4016-b4e0-05df7036f0f6@834a.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260725T093000Z
-SUMMARY:No Regrets for Our Youth (1946)
-UID:a96cd870-b796-4d8a-843d-edaec53d80b6@a96c.org
-URL:https://fillum.in/screening/5822
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nThe film screening will be preceded by book release and panel discussion on the Hindi translation of Ghassan Kanafani’s short stories - 'Gaza se Khat aur Anya Kahaniya' starting at 5 PM.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Palestine Embassy\, Chanakyapuri
-DTSTART:20260725T133000Z
-SUMMARY:Palestine 36 (2025)
-UID:ae174cb3-55eb-4952-b418-154eb78ddabc@ae17.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260725T133000Z
-SUMMARY:Batt Koch (2025)
-UID:fcbded29-d381-41d6-9136-4ebbc6935c3c@fcbd.org
-URL:https://fillum.in/screening/5826
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:504eec3a-5b32-4687-84c8-a2187347b890@504e.org
-URL:https://fillum.in/p/332
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260728T130000Z
-SUMMARY:Escuchar las imágenes (2025)
-UID:9a2907f3-f180-49ee-97f9-163fa8cffad2@9a29.org
-URL:https://fillum.in/screening/5855
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:1eba19f7-0593-4cad-94ee-a33e46292971@1eba.org
-URL:https://fillum.in/screening/5803
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:34467c5e-5a22-4ffb-b1e0-8aae6c0a5d31@3446.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nIngmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped .. more\n\nMore info / Tickets: https://fillum.in/p/336
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260725T110000Z
-SUMMARY:Persona (1966)
-UID:2e0f1792-91dc-4cd4-9465-d1d73fc47e29@2e0f.org
-URL:https://fillum.in/p/336
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260730T130000Z
-SUMMARY:We (2022)
-UID:8d59c36f-edbf-47fd-b34e-585719066fcd@8d59.org
-URL:https://fillum.in/screening/5835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nPost-screening conversation with the filmmaker\, Avani Rai.\n\nMore info / Tickets: https://fillum.in/p/327
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260725T133000Z
-SUMMARY:Raghu Rai: An Unframed Portrait (2018)
-UID:487aa5b2-f3ec-47af-9cea-9bf693004115@487a.org
-URL:https://fillum.in/p/327
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T100000Z
-SUMMARY:Battle Royale (2000)
-UID:05c49b3c-0a3c-4704-b8ba-3b17401f9396@05c4.org
-URL:https://fillum.in/p/329
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Cinergy Club\n\nCinergy: Expressions is more than an event\, it's a gathering of artists\, audiences\, and voices coming together at a time when expression matters the most.\n\nIn light of the current circumstances\, w.. more\n\nMore info / Tickets: https://fillum.in/event/5882
@@ -124,7 +16,7 @@ DURATION:PT2H
 LOCATION:Siyah Arthouse\, Saket
 DTSTART:20260725T123000Z
 SUMMARY:Cinergy x Live Originals: Expressions
-UID:eaf22ee5-4380-4020-a97e-5343e5684f84@eaf2.org
+UID:549b5f65-0987-47fc-9617-cd420697d52a@549b.org
 URL:https://fillum.in/event/5882
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +25,97 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:99c7d46c-c206-4db4-9da6-13fff18e8925@99c7.org
+UID:84a8584b-908d-4c92-9410-a4d816a21511@84a8.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nSet during the Algerian struggle for independence from French colonial rule\, The Battle of Algiers chronicles the escalating conflict between anti-colonial resistance and the occupying state with re.. more\n\nMore info / Tickets: https://fillum.in/p/337
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260726T120000Z
+SUMMARY:The Battle of Algiers (1966)
+UID:6b8f7eef-129d-4cb0-b2e1-3326a12e3979@6b8f.org
+URL:https://fillum.in/p/337
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:dd7460b2-17eb-455c-b9c8-27e40d794bbb@dd74.org
+URL:https://fillum.in/screening/5835
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260728T130000Z
+SUMMARY:Escuchar las imágenes (2025)
+UID:f852a7b2-1a24-445f-a4ba-9875aff34ad9@f852.org
+URL:https://fillum.in/screening/5855
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T100000Z
+SUMMARY:Battle Royale (2000)
+UID:73da19c8-62e4-4ce9-a21a-4a8ad00cdb40@73da.org
+URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260804T133000Z
+SUMMARY:Sophie Scholl: The Final Days (2005)
+UID:fcddac9f-7992-42b7-9e3b-14f0a142c96c@fcdd.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nIngmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped .. more\n\nMore info / Tickets: https://fillum.in/p/336
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260725T110000Z
+SUMMARY:Persona (1966)
+UID:d73d8089-1e5d-42da-b679-dd7c12349e70@d73d.org
+URL:https://fillum.in/p/336
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260725T093000Z
+SUMMARY:No Regrets for Our Youth (1946)
+UID:97c923da-dc05-4036-ae93-3849a5a1c585@97c9.org
+URL:https://fillum.in/screening/5822
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:a3d320be-ce76-4ea5-a908-45490307492a@a3d3.org
+URL:https://fillum.in/screening/5803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260729T130000Z
+SUMMARY:We Never Truly Leave: Short Film Collection
+UID:65171f78-1969-417f-857e-8c2727525069@6517.org
+URL:https://fillum.in/event/5885
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nThe film screening will be preceded by book release and panel discussion on the Hindi translation of Ghassan Kanafani’s short stories - 'Gaza se Khat aur Anya Kahaniya' starting at 5 PM.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Palestine Embassy\, Chanakyapuri
+DTSTART:20260725T133000Z
+SUMMARY:Palestine 36 (2025)
+UID:2a6db7aa-1a78-40d5-bbae-8e0ce1296e6d@2a6d.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -142,16 +124,61 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260724T123000Z
 SUMMARY:Third Week (2024)
-UID:d61f7723-e9a4-453c-bc01-7e18d1d74a92@d61f.org
+UID:ecce4ca3-e6fc-4935-a046-9d3e7e77c50b@ecce.org
 URL:https://fillum.in/screening/5883
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260729T130000Z
-SUMMARY:We Never Truly Leave: Short Film Collection
-UID:3dba6115-b2cf-4400-8b7b-598e0c7c7968@3dba.org
-URL:https://fillum.in/event/5885
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260725T133000Z
+SUMMARY:Batt Koch (2025)
+UID:1b2ceb45-c00e-4465-94e3-2c3d81b43ce5@1b2c.org
+URL:https://fillum.in/screening/5826
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
+DTSTART:20260729T093000Z
+SUMMARY:Cured (2020)
+UID:3154574e-d002-4099-bd38-2e9b5d84c26f@3154.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nPost-screening conversation with the filmmaker\, Avani Rai.\n\nMore info / Tickets: https://fillum.in/p/327
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260725T133000Z
+SUMMARY:Raghu Rai: An Unframed Portrait (2018)
+UID:29cb6310-07da-42e2-980b-218fb49730a9@29cb.org
+URL:https://fillum.in/p/327
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:596e431a-8b90-4d6d-b369-5989a4d343f4@596e.org
+URL:https://fillum.in/p/332
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nAs a rebellion moves from the tail to the engine\, Bong Joon-ho turns science fiction into a sharp critique of power.\n\nDrawing on Louis Althusser's ideas of the Repressive State Apparatus (RSA) and.. more\n\nMore info / Tickets: https://fillum.in/p/337
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260726T093000Z
+SUMMARY:Snowpiercer (2013)
+UID:1c11049c-9563-4882-b811-ac7f56482dc3@1c11.org
+URL:https://fillum.in/p/337
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA Seoul taxi driver reluctantly drives a foreign journalist into Gwangju during the 1980 military crackdown\, only to find himself witnessing history firsthand.\n\nThough set in South Korea\, the film.. more\n\nMore info / Tickets: https://fillum.in/p/337
+DURATION:PT2H
+LOCATION:mool\, South Ex II
+DTSTART:20260726T063000Z
+SUMMARY:A Taxi Driver (2017)
+UID:8624aa2c-c41a-451d-84c5-789f43c92059@8624.org
+URL:https://fillum.in/p/337
 END:VEVENT
 END:VCALENDAR
