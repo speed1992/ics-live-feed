@@ -2,22 +2,58 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260726T133000Z
+SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
+UID:cf978a14-4092-4f55-9877-1139e4fffd5a@cf97.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
+DURATION:PT2H
+LOCATION:Kiran Nadar Museum of Art\, Saket
+DTSTART:20260725T133000Z
+SUMMARY:Batt Koch (2025)
+UID:57556961-33b7-4665-84b5-01e511402a48@5755.org
+URL:https://fillum.in/screening/5826
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nIngmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped .. more\n\nMore info / Tickets: https://fillum.in/p/336
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260725T110000Z
+SUMMARY:Persona (1966)
+UID:cf9c56f8-c98e-4d78-b85f-fb62b4374f6a@cf9c.org
+URL:https://fillum.in/p/336
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nPost-screening conversation with the filmmaker\, Avani Rai.\n\nMore info / Tickets: https://fillum.in/p/327
 DURATION:PT2H
 LOCATION:Gulmohar\, India Habitat Centre
 DTSTART:20260725T133000Z
 SUMMARY:Raghu Rai: An Unframed Portrait (2018)
-UID:fe0ebfaf-79e0-4e72-9069-2f66a1329523@fe0e.org
+UID:02a2aef0-8b5b-4bba-82c3-7bbf9ff22dd5@02a2.org
 URL:https://fillum.in/p/327
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5834
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5883
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260723T130000Z
-SUMMARY:Don't Look Now... We're Being Shot At! (1966)
-UID:bbff5879-81bf-4ad3-bb40-fcd986e3caac@bbff.org
-URL:https://fillum.in/screening/5834
+DTSTART:20260724T123000Z
+SUMMARY:Third Week (2024)
+UID:c3797fff-f415-46d4-9f2f-bdda414ade2e@c379.org
+URL:https://fillum.in/screening/5883
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
+DTSTART:20260729T093000Z
+SUMMARY:Cured (2020)
+UID:7018e60e-f194-4413-8454-982fd4920359@7018.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
@@ -25,53 +61,26 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260730T130000Z
 SUMMARY:We (2022)
-UID:25c2448a-3e93-4d85-9b18-6b2ee3396277@25c2.org
+UID:ef1459e7-53b8-4794-ab2e-cff61f633902@ef14.org
 URL:https://fillum.in/screening/5835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n· PEHLI TAREEKH (Richa Nanda)\nPehli Tareekh is an intimate domestic drama seen from a feminist point of view\, designed to reflect the quiet\, everyday realities of marriage in urban India. Set wit.. more\n\nMore info / Tickets: https://fillum.in/p/326
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260724T133000Z
-SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
-UID:4faf05b2-ff37-4ff1-be04-9e6508244078@4faf.org
-URL:https://fillum.in/p/326
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260726T133000Z
-SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:54ae5a48-5901-43e4-bb60-a81dd5cb82f2@54ae.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260725T093000Z
-SUMMARY:No Regrets for Our Youth (1946)
-UID:32ffeb17-4ab4-4ba5-a903-5967e685c0f6@32ff.org
-URL:https://fillum.in/screening/5822
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Cinergy Club\n\nCinergy: Expressions is more than an event\, it's a gathering of artists\, audiences\, and voices coming together at a time when expression matters the most.\n\nIn light of the current circumstances\, w.. more\n\nMore info / Tickets: https://fillum.in/event/5882
-DURATION:PT2H
-LOCATION:Siyah Arthouse\, Saket
-DTSTART:20260725T123000Z
-SUMMARY:Cinergy x Live Originals: Expressions
-UID:c3636818-d3f9-481c-a38a-8c912f466fbd@c363.org
-URL:https://fillum.in/event/5882
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
 DURATION:PT2H
 LOCATION:Instituto Cervantes
-DTSTART:20260723T130000Z
+DTSTART:20260728T130000Z
 SUMMARY:Escuchar las imágenes (2025)
-UID:4a13a37d-5027-48ab-9dff-91e9dd353923@4a13.org
+UID:de724bf7-e9b8-487f-99b7-33ed978f89ae@de72.org
 URL:https://fillum.in/screening/5855
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:7de943bb-f793-4bed-9b0b-363580a8e981@7de9.org
+URL:https://fillum.in/p/332
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
@@ -79,7 +88,7 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:aa999959-e5ef-41c3-af73-af2a3af421ee@aa99.org
+UID:014bc1ca-da55-4092-bb17-89a78282c37e@014b.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -88,17 +97,17 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260802T100000Z
 SUMMARY:Battle Royale (2000)
-UID:d67b2e16-da78-4ac2-987f-abea1f40e60f@d67b.org
+UID:b0a4fbd9-28cd-49b9-a3e7-f69859434bb9@b0a4.org
 URL:https://fillum.in/p/329
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DESCRIPTION:Host: Kriti Film Club\n\n· PEHLI TAREEKH (Richa Nanda)\nPehli Tareekh is an intimate domestic drama seen from a feminist point of view\, designed to reflect the quiet\, everyday realities of marriage in urban India. Set wit.. more\n\nMore info / Tickets: https://fillum.in/p/326
 DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:a87de8a8-90f9-4004-ad9f-fa2408fe7c45@a87d.org
-URL:https://fillum.in/p/332
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260724T133000Z
+SUMMARY:Monsoon Premieres: Pehli Tareekh & Memories of a Kiss
+UID:7660a003-eac9-408a-9a34-30e0dacc1046@7660.org
+URL:https://fillum.in/p/326
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
@@ -106,34 +115,34 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20260727T130000Z
 SUMMARY:Victoria (2024)
-UID:e85e322b-1141-476b-be26-29da8e49a8f2@e85e.org
+UID:952c0f4e-e61a-4670-979f-4aad4b1490c6@952c.org
 URL:https://fillum.in/screening/5803
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Cinergy Club\n\nCinergy: Expressions is more than an event\, it's a gathering of artists\, audiences\, and voices coming together at a time when expression matters the most.\n\nIn light of the current circumstances\, w.. more\n\nMore info / Tickets: https://fillum.in/event/5882
 DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:9da881ca-9d82-40e9-b1ca-1868be7502e7@9da8.org
+LOCATION:Siyah Arthouse\, Saket
+DTSTART:20260725T123000Z
+SUMMARY:Cinergy x Live Originals: Expressions
+UID:0411afd7-9274-4ab6-90cb-62ae549173e3@0411.org
+URL:https://fillum.in/event/5882
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nThe film screening will be preceded by book release and panel discussion on the Hindi translation of Ghassan Kanafani’s short stories - 'Gaza se Khat aur Anya Kahaniya' starting at 5 PM.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Palestine Embassy\, Chanakyapuri
+DTSTART:20260725T133000Z
+SUMMARY:Palestine 36 (2025)
+UID:fd43f8a4-7dee-4c0d-9e65-f17065e8b5c3@fd43.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nIngmar Bergman's groundbreaking psychological drama and one of the most influential films in cinema history. The story follows a young nurse caring for a famous actress who has mysteriously stopped .. more\n\nMore info / Tickets: https://fillum.in/p/336
+DESCRIPTION:Host: Camera Commune\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5822
 DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260725T110000Z
-SUMMARY:Persona (1966)
-UID:d6034dcd-3342-4dbd-814f-ee0c0c695d8e@d603.org
-URL:https://fillum.in/p/336
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kiran Nadar Museum of Art\n\n\n\nMore info / Tickets: https://fillum.in/screening/5826
-DURATION:PT2H
-LOCATION:Kiran Nadar Museum of Art\, Saket
-DTSTART:20260725T133000Z
-SUMMARY:Batt Koch (2025)
-UID:725ec6b9-ba19-4e63-a2f1-23b1fbb174e5@725e.org
-URL:https://fillum.in/screening/5826
+LOCATION:Mool\, South Ex 2
+DTSTART:20260725T093000Z
+SUMMARY:No Regrets for Our Youth (1946)
+UID:9e800f1d-955d-4408-9d96-8e8be347166c@9e80.org
+URL:https://fillum.in/screening/5822
 END:VEVENT
 END:VCALENDAR
