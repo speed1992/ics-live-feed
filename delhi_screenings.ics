@@ -2,31 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAs a rebellion moves from the tail to the engine\, Bong Joon-ho turns science fiction into a sharp critique of power.\n\nDrawing on Louis Althusser's ideas of the Repressive State Apparatus (RSA) and.. more\n\nMore info / Tickets: https://fillum.in/p/337
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260726T093000Z
-SUMMARY:Snowpiercer (2013)
-UID:08fbbfbf-7c3a-471d-8834-837498fcc183@08fb.org
-URL:https://fillum.in/p/337
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260726T133000Z
 SUMMARY:National Theatre Live: The Playboy of the Western World (2026)
-UID:70f93311-f697-4d0d-bbbb-1a00a809b7a2@70f9.org
+UID:73052b24-d66a-4780-806c-b50ede6284c1@7305.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:fbaac429-a11b-46bd-b4cd-208bf7e5032b@fbaa.org
-URL:https://fillum.in/p/332
+LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
+DTSTART:20260729T093000Z
+SUMMARY:Cured (2020)
+UID:978b96df-c590-4e78-9b29-9e092e5aea72@978b.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
@@ -34,8 +25,53 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260802T100000Z
 SUMMARY:Battle Royale (2000)
-UID:94341550-d25b-4275-815c-900983be5b38@9434.org
+UID:211e0ff2-a5fc-4dae-a724-d51ad1c6cad0@211e.org
 URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:f02d5c98-435f-44f1-b30e-96a52a19c7b0@f02d.org
+URL:https://fillum.in/p/332
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nSet during the Algerian struggle for independence from French colonial rule\, The Battle of Algiers chronicles the escalating conflict between anti-colonial resistance and the occupying state with re.. more\n\nMore info / Tickets: https://fillum.in/p/337
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260726T120000Z
+SUMMARY:The Battle of Algiers (1966)
+UID:c6fd65a0-d007-4351-b92b-d31e8acf526e@c6fd.org
+URL:https://fillum.in/p/337
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20260727T130000Z
+SUMMARY:Victoria (2024)
+UID:8624302f-9708-45cb-b22f-317de698acc9@8624.org
+URL:https://fillum.in/screening/5803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nAs a rebellion moves from the tail to the engine\, Bong Joon-ho turns science fiction into a sharp critique of power.\n\nDrawing on Louis Althusser's ideas of the Repressive State Apparatus (RSA) and.. more\n\nMore info / Tickets: https://fillum.in/p/337
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260726T093000Z
+SUMMARY:Snowpiercer (2013)
+UID:052c5c44-92a3-4a7d-a234-36662c991dc6@052c.org
+URL:https://fillum.in/p/337
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260729T130000Z
+SUMMARY:We Never Truly Leave: Short Film Collection
+UID:ea6879d8-465e-4f9d-a1fe-1b3ab9672c4a@ea68.org
+URL:https://fillum.in/event/5885
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
@@ -43,7 +79,7 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:6be688b6-23dd-4ba4-8cc3-de3821a74cef@6be6.org
+UID:031efa2c-70d9-42e9-a672-cbe6efd72f12@031e.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -52,26 +88,8 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260728T130000Z
 SUMMARY:Escuchar las imágenes (2025)
-UID:20b2006f-4d7a-4155-8513-0b9760ffb70e@20b2.org
+UID:7857e6ba-3671-4bde-a112-41662331ebc1@7857.org
 URL:https://fillum.in/screening/5855
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:1ecbaae1-1aab-48fc-ae8f-6357aa0f0810@1ecb.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260729T130000Z
-SUMMARY:We Never Truly Leave: Short Film Collection
-UID:d5683f5d-1d4d-46bb-b8b1-9db60868e105@d568.org
-URL:https://fillum.in/event/5885
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
@@ -79,26 +97,8 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260730T130000Z
 SUMMARY:We (2022)
-UID:27b47819-3d17-4838-ac51-07c5bd57572e@27b4.org
+UID:f0908fd3-e084-4dac-9417-898a8cdca587@f090.org
 URL:https://fillum.in/screening/5835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:d69956fa-48c5-4592-8797-929a694aa1b4@d699.org
-URL:https://fillum.in/screening/5803
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nSet during the Algerian struggle for independence from French colonial rule\, The Battle of Algiers chronicles the escalating conflict between anti-colonial resistance and the occupying state with re.. more\n\nMore info / Tickets: https://fillum.in/p/337
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260726T120000Z
-SUMMARY:The Battle of Algiers (1966)
-UID:0c1ed973-fd1c-4cff-bba1-ca9439257f6f@0c1e.org
-URL:https://fillum.in/p/337
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nA Seoul taxi driver reluctantly drives a foreign journalist into Gwangju during the 1980 military crackdown\, only to find himself witnessing history firsthand.\n\nThough set in South Korea\, the film.. more\n\nMore info / Tickets: https://fillum.in/p/337
@@ -106,7 +106,7 @@ DURATION:PT2H
 LOCATION:mool\, South Ex II
 DTSTART:20260726T063000Z
 SUMMARY:A Taxi Driver (2017)
-UID:6a8f6039-b50c-4fb4-8180-f241d9ff2103@6a8f.org
+UID:2dfe6751-f27e-4491-883d-eb11f990d2e1@2dfe.org
 URL:https://fillum.in/p/337
 END:VEVENT
 END:VCALENDAR
