@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
 DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:06c83856-1e67-42a8-a223-547a7286546b@06c8.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA journey across roads\, memories\, dreams\, and the quiet truths we carry within.\n\nJoin us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)—a deeply moving explo.. more\n\nMore info / Tickets: https://fillum.in/p/340
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260801T110000Z
-SUMMARY:Wild Strawberries (1957)
-UID:7ddde80c-e3ac-492e-8c2c-b91344235cd9@7ddd.org
-URL:https://fillum.in/p/340
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:17e3523b-77cb-4300-bdd0-5fe0a5017e9b@17e3.org
+URL:https://fillum.in/screening/5835
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. No registration required. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/5855
@@ -25,8 +16,35 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260728T130000Z
 SUMMARY:Escuchar las imágenes (2025)
-UID:762724af-7b45-4d88-97b9-a7caf04d401c@7627.org
+UID:74fd5e02-bad9-4530-8f5b-8e5f0dfb5ec7@74fd.org
 URL:https://fillum.in/screening/5855
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA journey across roads\, memories\, dreams\, and the quiet truths we carry within.\n\nJoin us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)—a deeply moving explo.. more\n\nMore info / Tickets: https://fillum.in/p/340
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260801T110000Z
+SUMMARY:Wild Strawberries (1957)
+UID:2983e751-0b05-4962-9f13-48177d0e4c37@2983.org
+URL:https://fillum.in/p/340
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:0ac8d3e2-28d4-4478-b5db-45418f065019@0ac8.org
+URL:https://fillum.in/p/332
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
+DTSTART:20260729T093000Z
+SUMMARY:Cured (2020)
+UID:a75b5cb7-cd00-49da-8626-c638d37697a7@a75b.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
@@ -34,26 +52,8 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:193e1e92-c240-4a85-a350-50edf27207c6@193e.org
+UID:7e3a149b-6dd2-4625-95fa-bc0ad4924dde@7e3a.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260730T130000Z
-SUMMARY:We (2022)
-UID:4158811a-3093-4ed6-a98a-f8d5e112441d@4158.org
-URL:https://fillum.in/screening/5835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5803
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260727T130000Z
-SUMMARY:Victoria (2024)
-UID:cd175c4d-dc4d-4652-b6d5-5853fda79ea5@cd17.org
-URL:https://fillum.in/screening/5803
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
@@ -61,7 +61,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260802T100000Z
 SUMMARY:Battle Royale (2000)
-UID:81b66315-bf3e-4274-bd3a-b026c48a1776@81b6.org
+UID:97c756ce-95af-43d4-85ef-7f7f27dfa8e3@97c7.org
 URL:https://fillum.in/p/329
 END:VEVENT
 BEGIN:VEVENT
@@ -70,16 +70,7 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260729T130000Z
 SUMMARY:We Never Truly Leave: Short Film Collection
-UID:7b168a42-e826-4353-9f18-3ab561f6d1f1@7b16.org
+UID:f2d7537f-e506-4961-a4a9-bb3eed064f35@f2d7.org
 URL:https://fillum.in/event/5885
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:bc95630d-de5e-441c-8f3b-19d2de08853f@bc95.org
-URL:https://fillum.in/p/332
 END:VEVENT
 END:VCALENDAR
