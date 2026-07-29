@@ -2,31 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA journey across roads\, memories\, dreams\, and the quiet truths we carry within.\n\nJoin us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)—a deeply moving explo.. more\n\nMore info / Tickets: https://fillum.in/p/340
+DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260801T110000Z
-SUMMARY:Wild Strawberries (1957)
-UID:2094eb4e-1a7c-47ef-91b7-2958392f98a6@2094.org
-URL:https://fillum.in/p/340
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260730T130000Z
-SUMMARY:We (2022)
-UID:3641ac62-4320-43db-87c7-596f100e765e@3641.org
-URL:https://fillum.in/screening/5835
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260729T130000Z
-SUMMARY:We Never Truly Leave: Short Film Collection
-UID:759f4244-67e8-4fe6-959f-e69d1dcb6229@759f.org
-URL:https://fillum.in/event/5885
+DTSTART:20260802T110000Z
+SUMMARY:The Seventh Seal (1957)
+UID:4632e930-dba6-49cc-a1d2-1e4f0181331c@4632.org
+URL:https://fillum.in/p/341
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
@@ -34,8 +16,26 @@ DURATION:PT2H
 LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
 DTSTART:20260729T093000Z
 SUMMARY:Cured (2020)
-UID:1ec29c10-59c2-44cc-b1a3-951c6147b568@1ec2.org
+UID:4eef0601-fab2-4ab5-8dc7-9d4accbd56d5@4eef.org
 URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
+DURATION:PT2H
+LOCATION:Fort City\, Hauz Khas
+DTSTART:20260802T130000Z
+SUMMARY:Home Town Edition #3
+UID:99ffd01d-3b54-49ab-b01a-778b72d375f1@99ff.org
+URL:https://fillum.in/p/342
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:de7c2296-225c-4f39-ac2c-28453aebd988@de7c.org
+URL:https://fillum.in/screening/5835
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
@@ -43,17 +43,17 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:7bbe2c79-edcb-4679-8c3d-8762aeed06a5@7bbe.org
+UID:66bf3098-c054-4ef4-81a8-56ff5e0ecd4b@66bf.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
 DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T100000Z
-SUMMARY:Battle Royale (2000)
-UID:b75d3d6b-4b60-47cb-8bc0-9985ff8aed2e@b75d.org
-URL:https://fillum.in/p/329
+LOCATION:Instituto Cervantes
+DTSTART:20260729T130000Z
+SUMMARY:We Never Truly Leave: Short Film Collection
+UID:dfb910fd-b571-448d-88b8-c8f38b0722fc@dfb9.org
+URL:https://fillum.in/event/5885
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
@@ -61,25 +61,25 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260809T063000Z
 SUMMARY:Akira (1988)
-UID:e095cc09-c5f2-4530-95d6-11833c3fe7d1@e095.org
+UID:d39d7fe9-feaa-4774-927f-68b32105006b@d39d.org
 URL:https://fillum.in/p/332
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/event/5895
-DURATION:PT2H
-LOCATION:Fort City\, Hauz Khas
-DTSTART:20260802T130000Z
-SUMMARY:Home Town Edition #3
-UID:0896a6ab-7dca-4bc6-9e77-1c282131f3e0@0896.org
-URL:https://fillum.in/event/5895
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
+DESCRIPTION:Host: SomeArt\n\nA journey across roads\, memories\, dreams\, and the quiet truths we carry within.\n\nJoin us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)—a deeply moving explo.. more\n\nMore info / Tickets: https://fillum.in/p/340
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260802T110000Z
-SUMMARY:The Seventh Seal (1957)
-UID:a3d010ba-a064-4fa0-8388-0e22c893cde6@a3d0.org
-URL:https://fillum.in/p/341
+DTSTART:20260801T110000Z
+SUMMARY:Wild Strawberries (1957)
+UID:b09fa695-8f95-4ed1-9066-7e2d3cebaf88@b09f.org
+URL:https://fillum.in/p/340
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T100000Z
+SUMMARY:Battle Royale (2000)
+UID:c61f4afe-6be7-49c4-9ce2-e438d96bb905@c61f.org
+URL:https://fillum.in/p/329
 END:VEVENT
 END:VCALENDAR
