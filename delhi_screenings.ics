@@ -2,31 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260804T133000Z
-SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:a27e0315-9f8b-40e8-b622-712b0d6acd52@a27e.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260802T110000Z
 SUMMARY:The Seventh Seal (1957)
-UID:5d433399-e253-4104-814a-d4fc5423c382@5d43.org
+UID:05777ce4-a308-4ecd-92e4-3b8903af5c63@0577.org
 URL:https://fillum.in/p/341
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DESCRIPTION:Host: India International Centre\n\n\n\nMore info / Tickets: https://fillum.in/screening/5914
 DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:9e7caa58-cdea-4212-9d65-efe01a8a9777@9e7c.org
-URL:https://fillum.in/p/332
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260804T130000Z
+SUMMARY:Partners of the Heart (2002)
+UID:f677e378-c835-4dde-a730-42cc54bbec8c@f677.org
+URL:https://fillum.in/screening/5914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nA journey across roads\, memories\, dreams\, and the quiet truths we carry within.\n\nJoin us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)—a deeply moving explo.. more\n\nMore info / Tickets: https://fillum.in/p/340
@@ -34,26 +25,8 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260801T110000Z
 SUMMARY:Wild Strawberries (1957)
-UID:d5ac665c-3852-494f-8ac6-84ac30ee4e92@d5ac.org
+UID:90e1cad3-3a33-484d-9ac2-d135ffc71105@90e1.org
 URL:https://fillum.in/p/340
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T100000Z
-SUMMARY:Battle Royale (2000)
-UID:c8ba55e3-9eb4-4d4f-925a-7f08e4061c5b@c8ba.org
-URL:https://fillum.in/p/329
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260730T130000Z
-SUMMARY:We (2022)
-UID:475206a0-3ae2-4d8c-b7e2-32fa3d710f8b@4752.org
-URL:https://fillum.in/screening/5835
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
@@ -61,7 +34,79 @@ DURATION:PT2H
 LOCATION:Fort City\, Hauz Khas
 DTSTART:20260802T130000Z
 SUMMARY:Home Town Edition #3
-UID:868508f1-f413-4c38-b43e-6610366d7a81@8685.org
+UID:da5bca49-7f13-4616-9bee-196c245fd273@da5b.org
 URL:https://fillum.in/p/342
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5916
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260810T130000Z
+SUMMARY:Outsider: Freud (2024)
+UID:81fbf32d-6511-427b-9cde-8da11c4298fb@81fb.org
+URL:https://fillum.in/screening/5916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nCaminar en la oscuridad (Walking in the Dark) of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through two powerful films from Colombia\, Honduras and Mexic.. more\n\nMore info / Tickets: https://fillum.in/event/5918
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260805T130000Z
+SUMMARY:Oscurana / La Bonga
+UID:33d43605-52a2-4de1-8b3c-1e8ad1457409@33d4.org
+URL:https://fillum.in/event/5918
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Followed by a post screening discussion with the film-maker.\n\nMore info / Tickets: https://fillum.in/screening/5915
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260805T130000Z
+SUMMARY:Two Poets and a River (2021)
+UID:b12c1492-a3fb-4a72-ace3-176c24e8fa87@b12c.org
+URL:https://fillum.in/screening/5915
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/5917
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260801T133000Z
+SUMMARY:Bhupen Da Uncut (2025)
+UID:265b208a-0a5d-45ec-9507-18f058834940@265b.org
+URL:https://fillum.in/screening/5917
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:b5178e16-6203-4218-9b74-3aa0ac09d1ac@b517.org
+URL:https://fillum.in/screening/5835
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T100000Z
+SUMMARY:Battle Royale (2000)
+UID:a67e1afe-7f16-4abe-a34a-9af723d230b7@a67e.org
+URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260804T133000Z
+SUMMARY:Sophie Scholl: The Final Days (2005)
+UID:5c118640-e943-4cf0-89e2-ec7cb802f613@5c11.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:215e0e0c-96da-49b6-b82d-1b6fbf0625e3@215e.org
+URL:https://fillum.in/p/332
 END:VEVENT
 END:VCALENDAR
