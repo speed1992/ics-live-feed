@@ -2,58 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260802T110000Z
-SUMMARY:The Seventh Seal (1957)
-UID:4632e930-dba6-49cc-a1d2-1e4f0181331c@4632.org
-URL:https://fillum.in/p/341
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:New Delhi LGBTQIA+ Centre\, A-86\, East of Kailash
-DTSTART:20260729T093000Z
-SUMMARY:Cured (2020)
-UID:4eef0601-fab2-4ab5-8dc7-9d4accbd56d5@4eef.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
-DURATION:PT2H
-LOCATION:Fort City\, Hauz Khas
-DTSTART:20260802T130000Z
-SUMMARY:Home Town Edition #3
-UID:99ffd01d-3b54-49ab-b01a-778b72d375f1@99ff.org
-URL:https://fillum.in/p/342
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260730T130000Z
-SUMMARY:We (2022)
-UID:de7c2296-225c-4f39-ac2c-28453aebd988@de7c.org
-URL:https://fillum.in/screening/5835
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:66bf3098-c054-4ef4-81a8-56ff5e0ecd4b@66bf.org
+UID:a27e0315-9f8b-40e8-b622-712b0d6acd52@a27e.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nWhat remains when we leave? What continues to travel with us? Join for Session 2 as part of the film series Responding from the Mountains: A Cinematic Geography of the Caribbean\, featuring six short.. more\n\nMore info / Tickets: https://fillum.in/event/5885
+DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260729T130000Z
-SUMMARY:We Never Truly Leave: Short Film Collection
-UID:dfb910fd-b571-448d-88b8-c8f38b0722fc@dfb9.org
-URL:https://fillum.in/event/5885
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260802T110000Z
+SUMMARY:The Seventh Seal (1957)
+UID:5d433399-e253-4104-814a-d4fc5423c382@5d43.org
+URL:https://fillum.in/p/341
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
@@ -61,7 +25,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260809T063000Z
 SUMMARY:Akira (1988)
-UID:d39d7fe9-feaa-4774-927f-68b32105006b@d39d.org
+UID:9e7caa58-cdea-4212-9d65-efe01a8a9777@9e7c.org
 URL:https://fillum.in/p/332
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +34,7 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260801T110000Z
 SUMMARY:Wild Strawberries (1957)
-UID:b09fa695-8f95-4ed1-9066-7e2d3cebaf88@b09f.org
+UID:d5ac665c-3852-494f-8ac6-84ac30ee4e92@d5ac.org
 URL:https://fillum.in/p/340
 END:VEVENT
 BEGIN:VEVENT
@@ -79,7 +43,25 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260802T100000Z
 SUMMARY:Battle Royale (2000)
-UID:c61f4afe-6be7-49c4-9ce2-e438d96bb905@c61f.org
+UID:c8ba55e3-9eb4-4d4f-925a-7f08e4061c5b@c8ba.org
 URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5835
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260730T130000Z
+SUMMARY:We (2022)
+UID:475206a0-3ae2-4d8c-b7e2-32fa3d710f8b@4752.org
+URL:https://fillum.in/screening/5835
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
+DURATION:PT2H
+LOCATION:Fort City\, Hauz Khas
+DTSTART:20260802T130000Z
+SUMMARY:Home Town Edition #3
+UID:868508f1-f413-4c38-b43e-6610366d7a81@8685.org
+URL:https://fillum.in/p/342
 END:VEVENT
 END:VCALENDAR
