@@ -2,85 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260802T110000Z
-SUMMARY:The Seventh Seal (1957)
-UID:d4129f8c-6d51-488b-be8b-3f839e8fcc39@d412.org
-URL:https://fillum.in/p/341
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:7c57fc18-5457-4289-81fe-6a0c180c18e7@7c57.org
-URL:https://fillum.in/p/332
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260802T100000Z
-SUMMARY:Battle Royale (2000)
-UID:8eb13f2b-90d7-4221-a285-93b338ae4118@8eb1.org
-URL:https://fillum.in/p/329
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sat.. more\n\nMore info / Tickets: https://fillum.in/screening/5919
-DURATION:PT2H
-LOCATION:IP Extension\, Patparganj
-DTSTART:20260801T103000Z
-SUMMARY:Persepolis (2007)
-UID:749c8358-6bfb-4714-afac-bce08d950cac@749c.org
-URL:https://fillum.in/screening/5919
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nA journey across roads\, memories\, dreams\, and the quiet truths we carry within.\n\nJoin us for a screening of Ingmar Bergman's timeless masterpiece **Wild Strawberries (1957)—a deeply moving explo.. more\n\nMore info / Tickets: https://fillum.in/p/340
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260801T110000Z
 SUMMARY:Wild Strawberries (1957)
-UID:e3d2bd5a-539c-412c-af9b-f04a478b1aa5@e3d2.org
+UID:db739351-a296-4052-a32c-6d5d8c8db979@db73.org
 URL:https://fillum.in/p/340
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260804T133000Z
-SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:3b471447-b1a1-4813-9f7c-7b0640a3c9ae@3b47.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nCaminar en la oscuridad (Walking in the Dark) of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through two powerful films from Colombia\, Honduras and Mexic.. more\n\nMore info / Tickets: https://fillum.in/event/5918
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260805T130000Z
-SUMMARY:Oscurana / La Bonga
-UID:dc85507d-7742-4bd1-bc21-6591836f0595@dc85.org
-URL:https://fillum.in/event/5918
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/5917
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260801T133000Z
-SUMMARY:Bhupen Da Uncut (2025)
-UID:1c8313f1-7d76-4899-a914-8dbd703c95aa@1c83.org
-URL:https://fillum.in/screening/5917
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
-DURATION:PT2H
-LOCATION:Fort City\, Hauz Khas
-DTSTART:20260802T130000Z
-SUMMARY:Home Town Edition #3
-UID:7c4903b5-951e-4cd4-aa0e-ccf7920fc934@7c49.org
-URL:https://fillum.in/p/342
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\n\n\nMore info / Tickets: https://fillum.in/screening/5914
@@ -88,17 +16,8 @@ DURATION:PT2H
 LOCATION:Lecture Room I\, IIC Annexe
 DTSTART:20260804T130000Z
 SUMMARY:Partners of the Heart (2002)
-UID:b4ca6231-3371-4173-b5a9-e7c943ea98db@b4ca.org
+UID:435418cf-b711-4cac-b48c-53123761e699@4354.org
 URL:https://fillum.in/screening/5914
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5916
-DURATION:PT2H
-LOCATION:Lecture Room I\, IIC Annexe
-DTSTART:20260810T130000Z
-SUMMARY:Outsider: Freud (2024)
-UID:f437380d-5c70-4751-8925-85ab66aed096@f437.org
-URL:https://fillum.in/screening/5916
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. Followed by a post screening discussion with the film-maker.\n\nMore info / Tickets: https://fillum.in/screening/5915
@@ -106,7 +25,88 @@ DURATION:PT2H
 LOCATION:Lecture Room I\, IIC Annexe
 DTSTART:20260805T130000Z
 SUMMARY:Two Poets and a River (2021)
-UID:6473852c-63d0-4719-8d03-a5933073ca24@6473.org
+UID:d61779f2-42cf-4524-969b-b8d5a0969625@d617.org
 URL:https://fillum.in/screening/5915
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nCaminar en la oscuridad (Walking in the Dark) of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through two powerful films from Colombia\, Honduras and Mexic.. more\n\nMore info / Tickets: https://fillum.in/event/5918
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260805T130000Z
+SUMMARY:Oscurana / La Bonga
+UID:0a9634b7-6c4e-455d-9b8a-75b3b6435eb3@0a96.org
+URL:https://fillum.in/event/5918
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5916
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260810T130000Z
+SUMMARY:Outsider: Freud (2024)
+UID:66c1b430-42db-4361-9e4f-4b64128903d7@66c1.org
+URL:https://fillum.in/screening/5916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/5917
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260801T133000Z
+SUMMARY:Bhupen Da Uncut (2025)
+UID:30587534-3226-4bbf-99ce-acbe213bbade@3058.org
+URL:https://fillum.in/screening/5917
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:9dad5f27-0569-44ac-82d9-e780ffa47244@9dad.org
+URL:https://fillum.in/p/332
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260802T110000Z
+SUMMARY:The Seventh Seal (1957)
+UID:0a4ac95b-09b2-4016-9be9-ae43419fc3bc@0a4a.org
+URL:https://fillum.in/p/341
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sat.. more\n\nMore info / Tickets: https://fillum.in/screening/5919
+DURATION:PT2H
+LOCATION:IP Extension\, Patparganj
+DTSTART:20260801T103000Z
+SUMMARY:Persepolis (2007)
+UID:5a1d7c78-5350-420b-a2f0-f05848211d09@5a1d.org
+URL:https://fillum.in/screening/5919
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nA screening of the 2000 classic Battle Royale.\n\nMore info / Tickets: https://fillum.in/p/329
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260802T100000Z
+SUMMARY:Battle Royale (2000)
+UID:1cfff048-3150-478b-b97f-38207be36f25@1cff.org
+URL:https://fillum.in/p/329
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
+DURATION:PT2H
+LOCATION:Fort City\, Hauz Khas
+DTSTART:20260802T130000Z
+SUMMARY:Home Town Edition #3
+UID:bdb5fe54-337a-4ee7-8e05-3b5bc62b6706@bdb5.org
+URL:https://fillum.in/p/342
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260804T133000Z
+SUMMARY:Sophie Scholl: The Final Days (2005)
+UID:abbec790-39ad-487a-a6e9-91104d01a103@abbe.org
+URL:https://fillum.in
 END:VEVENT
 END:VCALENDAR
