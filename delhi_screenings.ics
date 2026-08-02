@@ -7,8 +7,44 @@ DURATION:PT2H
 LOCATION:Lecture Room I\, IIC Annexe
 DTSTART:20260804T130000Z
 SUMMARY:Partners of the Heart (2002)
-UID:d51ae9b3-0465-46cf-a1d2-fb8517b10187@d51a.org
+UID:7c66603c-cbc3-49b9-b3da-46aff063689b@7c66.org
 URL:https://fillum.in/screening/5914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260804T133000Z
+SUMMARY:Sophie Scholl: The Final Days (2005)
+UID:9f6188dc-934a-4ba5-a2d8-efe63e21e110@9f61.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260802T110000Z
+SUMMARY:The Seventh Seal (1957)
+UID:b20b4e40-39a3-4525-922f-9bb9b4497810@b20b.org
+URL:https://fillum.in/p/341
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nWith Masculin féminin\, ruthless stylist and iconoclast Jean-Luc Godard introduces the world to “the children of Marx and Coca-Cola\,” through a gang of restless youths engaged in hopeless love a.. more\n\nMore info / Tickets: https://fillum.in/p/343
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260808T063000Z
+SUMMARY:Masculin Féminin (1966)
+UID:04f8a7fa-eaf5-47fa-b3d2-ae686677e972@04f8.org
+URL:https://fillum.in/p/343
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA married couple is terrorized by a series of surveillance videotapes left on their front porch\n\nMore info / Tickets: https://fillum.in/p/343
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260808T110000Z
+SUMMARY:Caché (2005)
+UID:17fde218-1db6-45ba-8522-3cdae1dc4058@17fd.org
+URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Films From Underground\n\nFilms From Underground presents Hometown Edition #3 — keeping the spirit of indie cinema alive\, one homegrown story at a time.\n\nFour films. Four voices. One evening that won't find its way to a .. more\n\nMore info / Tickets: https://fillum.in/p/342
@@ -16,7 +52,7 @@ DURATION:PT2H
 LOCATION:Fort City\, Hauz Khas
 DTSTART:20260802T130000Z
 SUMMARY:Home Town Edition #3
-UID:5a4c96f6-d1f0-493a-959e-efce07d35869@5a4c.org
+UID:d3b6c54c-72ad-487c-bc7b-48189331da64@d3b6.org
 URL:https://fillum.in/p/342
 END:VEVENT
 BEGIN:VEVENT
@@ -25,26 +61,8 @@ DURATION:PT2H
 LOCATION:Lecture Room I\, IIC Annexe
 DTSTART:20260810T130000Z
 SUMMARY:Outsider: Freud (2024)
-UID:98ae7619-4d43-4fb6-b8a3-05377877d476@98ae.org
+UID:65f5636e-90a6-4842-9b4b-208d0f93da34@65f5.org
 URL:https://fillum.in/screening/5916
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Followed by a post screening discussion with the film-maker.\n\nMore info / Tickets: https://fillum.in/screening/5915
-DURATION:PT2H
-LOCATION:Lecture Room I\, IIC Annexe
-DTSTART:20260805T130000Z
-SUMMARY:Two Poets and a River (2021)
-UID:857185e9-b991-4997-914a-901e289b499a@8571.org
-URL:https://fillum.in/screening/5915
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260804T133000Z
-SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:ac4b6fa9-7bcb-43ff-ae1d-cb7875b5f0d7@ac4b.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
@@ -52,7 +70,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260809T063000Z
 SUMMARY:Akira (1988)
-UID:fde07d8c-df12-4255-8ca7-7f3a4efb96c2@fde0.org
+UID:60e4c4ec-5876-4090-91e0-b4c977f6abb5@60e4.org
 URL:https://fillum.in/p/332
 END:VEVENT
 BEGIN:VEVENT
@@ -61,7 +79,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
 DTSTART:20260802T100000Z
 SUMMARY:Battle Royale (2000)
-UID:9dcfdc62-192b-4ae8-9dc6-4f6100f4d999@9dcf.org
+UID:295ab9bd-aa5a-4fc0-93d3-5eb129b170fe@295a.org
 URL:https://fillum.in/p/329
 END:VEVENT
 BEGIN:VEVENT
@@ -70,16 +88,34 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260805T130000Z
 SUMMARY:Oscurana / La Bonga
-UID:9143fbce-87c2-4645-bdaf-6513c268608a@9143.org
+UID:1709b47b-b3c4-4bdd-87a4-71cbc5bf015e@1709.org
 URL:https://fillum.in/event/5918
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat would you ask if Death sat across from you?\n\nStep into one of the most iconic films in the history of world cinema. **The Seventh Seal (1957) by Ingmar Bergman is a haunting and visually unfo.. more\n\nMore info / Tickets: https://fillum.in/p/341
+DESCRIPTION:Host: India International Centre\n\nFree entry. Followed by a post screening discussion with the film-maker.\n\nMore info / Tickets: https://fillum.in/screening/5915
 DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260802T110000Z
-SUMMARY:The Seventh Seal (1957)
-UID:e5169d5c-3682-45ad-b470-7bd42e2fcffa@e516.org
-URL:https://fillum.in/p/341
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260805T130000Z
+SUMMARY:Two Poets and a River (2021)
+UID:c7c5a815-16a5-4c0d-9f2e-945fa8e3a6a7@c7c5.org
+URL:https://fillum.in/screening/5915
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nAndrzej Zulawski’s stunningly choreographed nightmare of a marriage unraveling is an experience unlike any other. Professional spy Mark (Sam Neill) returns to his West Berlin home to find his wife.. more\n\nMore info / Tickets: https://fillum.in/p/343
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260808T083000Z
+SUMMARY:Possession (1981)
+UID:bae1734a-eec9-4115-823e-7af68a7554b7@bae1.org
+URL:https://fillum.in/p/343
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA "metal fetishist" (Shin'ya Tsukamoto)\, driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh\, runs out into the night and is accidentally run down by a Japanese .. more\n\nMore info / Tickets: https://fillum.in/p/343
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260808T123000Z
+SUMMARY:Tetsuo: The Iron Man (1989)
+UID:76a94ac5-6682-42c5-bb9b-5d2c0456cf3a@76a9.org
+URL:https://fillum.in/p/343
 END:VEVENT
 END:VCALENDAR
