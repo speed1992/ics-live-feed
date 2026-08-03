@@ -2,13 +2,49 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAndrzej Zulawski’s stunningly choreographed nightmare of a marriage unraveling is an experience unlike any other. Professional spy Mark (Sam Neill) returns to his West Berlin home to find his wife.. more\n\nMore info / Tickets: https://fillum.in/p/343
+DESCRIPTION:Host: India International Centre\n\n\n\nMore info / Tickets: https://fillum.in/screening/5914
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260804T130000Z
+SUMMARY:Partners of the Heart (2002)
+UID:c2cc8dc3-a5bc-40f7-b50b-ebaab5c7917a@c2cc.org
+URL:https://fillum.in/screening/5914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA married couple is terrorized by a series of surveillance videotapes left on their front porch\n\nMore info / Tickets: https://fillum.in/p/343
 DURATION:PT2H
 LOCATION:mool\, south ex II
-DTSTART:20260808T083000Z
-SUMMARY:Possession (1981)
-UID:89e2f689-339e-48ab-be92-4065f55706b4@89e2.org
+DTSTART:20260808T110000Z
+SUMMARY:Caché (2005)
+UID:bf40c71f-6ff9-4d23-9f0c-c6e72c0e294b@bf40.org
 URL:https://fillum.in/p/343
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5916
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260810T130000Z
+SUMMARY:Outsider: Freud (2024)
+UID:4eaea334-8f89-4459-81df-a5db42dc86ac@4eae.org
+URL:https://fillum.in/screening/5916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Followed by a post screening discussion with the film-maker.\n\nMore info / Tickets: https://fillum.in/screening/5915
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260805T130000Z
+SUMMARY:Two Poets and a River (2021)
+UID:f2a13d27-679e-4f45-967f-164ae482d4f7@f2a1.org
+URL:https://fillum.in/screening/5915
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nCaminar en la oscuridad (Walking in the Dark) of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through two powerful films from Colombia\, Honduras and Mexic.. more\n\nMore info / Tickets: https://fillum.in/event/5918
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260805T130000Z
+SUMMARY:Oscurana / La Bonga
+UID:f163fe20-bc76-4cec-819d-80a3b316257d@f163.org
+URL:https://fillum.in/event/5918
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nA "metal fetishist" (Shin'ya Tsukamoto)\, driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh\, runs out into the night and is accidentally run down by a Japanese .. more\n\nMore info / Tickets: https://fillum.in/p/343
@@ -16,7 +52,7 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260808T123000Z
 SUMMARY:Tetsuo: The Iron Man (1989)
-UID:5080b229-8f04-436a-828e-a7bc853f97d7@5080.org
+UID:28f64f70-82c5-455d-9732-d3dc18998240@28f6.org
 URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
@@ -25,44 +61,8 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260804T133000Z
 SUMMARY:Sophie Scholl: The Final Days (2005)
-UID:1cdcb607-73f4-4ac3-b950-413181e2dfc7@1cdc.org
+UID:92db31b7-bffa-435f-995f-6047305aa90d@92db.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nCaminar en la oscuridad (Walking in the Dark) of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through two powerful films from Colombia\, Honduras and Mexic.. more\n\nMore info / Tickets: https://fillum.in/event/5918
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260805T130000Z
-SUMMARY:Oscurana / La Bonga
-UID:a3d10091-74e7-4d5b-8ef0-cc6159321087@a3d1.org
-URL:https://fillum.in/event/5918
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:5f359529-39a9-4f93-a4a4-c9077d7d90a6@5f35.org
-URL:https://fillum.in/p/332
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5916
-DURATION:PT2H
-LOCATION:Lecture Room I\, IIC Annexe
-DTSTART:20260810T130000Z
-SUMMARY:Outsider: Freud (2024)
-UID:e9ece276-d29f-43fd-be1b-d7af65c7d618@e9ec.org
-URL:https://fillum.in/screening/5916
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA married couple is terrorized by a series of surveillance videotapes left on their front porch\n\nMore info / Tickets: https://fillum.in/p/343
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260808T110000Z
-SUMMARY:Caché (2005)
-UID:fd2d4043-cf69-411c-87cb-03ae5a2629ca@fd2d.org
-URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nWith Masculin féminin\, ruthless stylist and iconoclast Jean-Luc Godard introduces the world to “the children of Marx and Coca-Cola\,” through a gang of restless youths engaged in hopeless love a.. more\n\nMore info / Tickets: https://fillum.in/p/343
@@ -70,25 +70,25 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260808T063000Z
 SUMMARY:Masculin Féminin (1966)
-UID:fb6177ab-fafd-4662-acc3-9c0ec3165edc@fb61.org
+UID:ce091f70-fa96-429d-9d3e-1a1919186cef@ce09.org
 URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Followed by a post screening discussion with the film-maker.\n\nMore info / Tickets: https://fillum.in/screening/5915
+DESCRIPTION:Host: Out of Sequence\n\nAndrzej Zulawski’s stunningly choreographed nightmare of a marriage unraveling is an experience unlike any other. Professional spy Mark (Sam Neill) returns to his West Berlin home to find his wife.. more\n\nMore info / Tickets: https://fillum.in/p/343
 DURATION:PT2H
-LOCATION:Lecture Room I\, IIC Annexe
-DTSTART:20260805T130000Z
-SUMMARY:Two Poets and a River (2021)
-UID:2032e6f0-c3be-410a-9f23-3709e3aae2ee@2032.org
-URL:https://fillum.in/screening/5915
+LOCATION:mool\, south ex II
+DTSTART:20260808T083000Z
+SUMMARY:Possession (1981)
+UID:e5828662-4c04-4f44-8575-fe9a77f0ae67@e582.org
+URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\n\n\nMore info / Tickets: https://fillum.in/screening/5914
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
 DURATION:PT2H
-LOCATION:Lecture Room I\, IIC Annexe
-DTSTART:20260804T130000Z
-SUMMARY:Partners of the Heart (2002)
-UID:4eb8bda1-bf6c-43a8-bf20-9864d57ab3ab@4eb8.org
-URL:https://fillum.in/screening/5914
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:bdb1077b-adc2-42f5-b07c-fe4a3b8c78d4@bdb1.org
+URL:https://fillum.in/p/332
 END:VEVENT
 END:VCALENDAR
