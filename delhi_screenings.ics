@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:be02ddbe-6025-456e-9f99-4d15be1e6e48@be02.org
-URL:https://fillum.in/p/332
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all on first come first served basis.\n\nMore info / Tickets: https://fillum.in/screening/5968
 DURATION:PT2H
 LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260825T130000Z
-SUMMARY:In the Name of Fire (2024)
-UID:07cf18cd-53f9-4aa6-ab6a-bf0ef961e757@07cf.org
-URL:https://fillum.in/screening/5970
+DTSTART:20260811T130000Z
+SUMMARY:Gondhal (2025)
+UID:b2f12500-9abb-4c2d-b7bd-355a0e4803bc@b2f1.org
+URL:https://fillum.in/screening/5968
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree Entry. Open to All. The final session of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through nine short films from Colombia\, Mexico and Venezuela\, S.. more\n\nMore info / Tickets: https://fillum.in/event/5967
@@ -25,107 +16,17 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260812T130000Z
 SUMMARY:The Memory of Gesture - Short Film Collection
-UID:be96350c-927a-4fcc-94a0-3dcba5023a9d@be96.org
+UID:2f4fff65-3e45-4428-ad1a-26f1d5f7bb85@2f4f.org
 URL:https://fillum.in/event/5967
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry. French film with English subtitles. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/5958
+DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker. This programming is part of MOOL\, a 20 South Asian artist exhibition curated by Shaleen Wadhwana and presented by Exhibit320.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260806T130000Z
-SUMMARY:Cesar and Rosalie (1972)
-UID:d455fc77-8417-422d-96ed-bf13b6c440f7@d455.org
-URL:https://fillum.in/screening/5958
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAfter a deadly encounter with two yakuza\, a loser with a crush on his childhood girlfriend goes to heaven and back\, embarking on a psychedelic self-discovery experience with her and his friends.\n\nMore info / Tickets: https://fillum.in/p/356
-DURATION:PT2H
-LOCATION:mool\, south ex 2
-DTSTART:20260809T150000Z
-SUMMARY:Mind Game (2004)
-UID:dac6dda9-69e1-44fe-b8b1-483fde1b8898@dac6.org
-URL:https://fillum.in/p/356
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy Sameksha Gallery. Free entry on first come first served basis. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5961
-DURATION:PT2H
-LOCATION:Sanatan IILM Center for Arts and Ideas\, Deendayal Upadhyay Marg
-DTSTART:20260808T123000Z
-SUMMARY:Coral Woman (2019)
-UID:303a0722-e7dc-4050-8cc4-fdb9430cebf5@303a.org
-URL:https://fillum.in/screening/5961
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nMosh is a 3 part experience that builds upon The Ganzfeld Experiment.\nMosh is a journey that starts with sensory overload (Part I)\, is bridged by sensory deprivation (Part II)\, and ends with sensor.. more\n\nMore info / Tickets: https://fillum.in/p/356
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260809T083000Z
-SUMMARY:MOSH
-UID:73aaec82-4a43-4282-9238-32980e1b68e2@73aa.org
-URL:https://fillum.in/p/356
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nBy Alejandro Jodorowsky. A Christ-like thief and powerful industrial capitalists representing planets in the solar system meet an Alchemist to seek spiritual enlightenment and ascend the Holy Mounta.. more\n\nMore info / Tickets: https://fillum.in/p/356
-DURATION:PT2H
-LOCATION:mool\, south ex 2
-DTSTART:20260809T130000Z
-SUMMARY:The Holy Mountain (1973)
-UID:5b444a26-4544-4663-8aa6-09d8dacb06f0@5b44.org
-URL:https://fillum.in/p/356
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/358
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260809T110000Z
-SUMMARY:World on a Wire (1973)
-UID:9bddb8f9-c90f-47a9-8ce8-9a75db4b0643@9bdd.org
-URL:https://fillum.in/p/358
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA married couple is terrorized by a series of surveillance videotapes left on their front porch\n\nMore info / Tickets: https://fillum.in/p/343
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260808T110000Z
-SUMMARY:Caché (2005)
-UID:c0dc9bfc-3bea-49ee-a61f-6b572c25803b@c0dc.org
-URL:https://fillum.in/p/343
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAndrzej Zulawski’s stunningly choreographed nightmare of a marriage unraveling is an experience unlike any other. Professional spy Mark (Sam Neill) returns to his West Berlin home to find his wife.. more\n\nMore info / Tickets: https://fillum.in/p/343
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260808T083000Z
-SUMMARY:Possession (1981)
-UID:247c6edb-4fb6-42ce-8a26-a8bcc5fc424f@247c.org
-URL:https://fillum.in/p/343
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nWelcome to the NIV 5-Hour Filmmaking Challenge—an adrenaline-filled experience where creativity meets the clock.\n\nA day before the event\, you'll be assigned to a team with fellow filmmakers\, wri.. more\n\nMore info / Tickets: https://fillum.in/p/357
-DURATION:PT2H
-LOCATION:Niv Art Centre\, IGNOU Chowk
-DTSTART:20260809T053000Z
-SUMMARY:NIV 5-Hour Filmmaking Challenge
-UID:a861d146-13fa-437d-8c6b-22ffc19c23ed@a861.org
-URL:https://fillum.in/p/357
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nWelcome to the NIV 5-Hour Filmmaking Challenge—an adrenaline-filled experience where creativity meets the clock.\n\nA day before the event\, you'll be assigned to a team with fellow filmmakers\, wri.. more\n\nMore info / Tickets: https://fillum.in/p/357
-DURATION:PT2H
-LOCATION:Niv Art Centre\, IGNOU Chowk
-DTSTART:20260809T053000Z
-SUMMARY:NIV 5-Hour Filmmaking Challenge
-UID:57a9aebd-f087-4fdd-abe6-4394e5214d09@57a9.org
-URL:https://fillum.in/p/357
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA "metal fetishist" (Shin'ya Tsukamoto)\, driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh\, runs out into the night and is accidentally run down by a Japanese .. more\n\nMore info / Tickets: https://fillum.in/p/343
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260808T123000Z
-SUMMARY:Tetsuo: The Iron Man (1989)
-UID:0a3f46e6-3807-4649-a68f-a168b7d394f3@0a3f.org
-URL:https://fillum.in/p/343
+LOCATION:CCA Building\, Bikaner House
+DTSTART:20260809T060000Z
+SUMMARY:Borderlands (2021)
+UID:27a016da-3083-4ad5-8a07-f6f4fe6e9789@27a0.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all on first come first served basis.\n\nMore info / Tickets: https://fillum.in/screening/5916
@@ -133,8 +34,35 @@ DURATION:PT2H
 LOCATION:Lecture Room I\, IIC Annexe
 DTSTART:20260810T130000Z
 SUMMARY:Outsider: Freud (2024)
-UID:186783b4-c272-4cd4-9fa2-8aef88e4cd9f@1867.org
+UID:47d15011-fb57-4f25-b4e0-238db9a9a01a@47d1.org
 URL:https://fillum.in/screening/5916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260825T130000Z
+SUMMARY:In the Name of Fire (2024)
+UID:70ec4865-bb4c-4b3c-94df-e378704a917a@70ec.org
+URL:https://fillum.in/screening/5970
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nBy Alejandro Jodorowsky. A Christ-like thief and powerful industrial capitalists representing planets in the solar system meet an Alchemist to seek spiritual enlightenment and ascend the Holy Mounta.. more\n\nMore info / Tickets: https://fillum.in/p/356
+DURATION:PT2H
+LOCATION:mool\, south ex 2
+DTSTART:20260809T130000Z
+SUMMARY:The Holy Mountain (1973)
+UID:e9c06e63-6384-4347-9c1f-42793027aff5@e9c0.org
+URL:https://fillum.in/p/356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5969
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260818T130000Z
+SUMMARY:Feminist Fathima (2024)
+UID:9afdc231-d333-4702-b79c-6f330e8d7038@9afd.org
+URL:https://fillum.in/screening/5969
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nSome stories don't announce themselves—they quietly unfold\, leaving behind emotions that stay long after the screen fades to black.\n\nJoin us for a screening of **Taipei Story (1985)**\, Edward Ya.. more\n\nMore info / Tickets: https://fillum.in/p/358
@@ -142,7 +70,7 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260808T110000Z
 SUMMARY:Taipei Story (1985)
-UID:b3aeb4a6-7c63-43b0-94ef-79afc34598dd@b3ae.org
+UID:ade63937-c5e9-4269-9c1c-9d725b85360c@ade6.org
 URL:https://fillum.in/p/358
 END:VEVENT
 BEGIN:VEVENT
@@ -151,34 +79,124 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260808T063000Z
 SUMMARY:Masculin Féminin (1966)
-UID:7ddbbef3-c495-404c-b48a-bf41bd7994f4@7ddb.org
+UID:af4dc87f-7e9f-4d6f-9a4c-dd439647c01d@af4d.org
 URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker. This programming is part of MOOL\, a 20 South Asian artist exhibition curated by Shaleen Wadhwana and presented by Exhibit320.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Out of Sequence\n\nAndrzej Zulawski’s stunningly choreographed nightmare of a marriage unraveling is an experience unlike any other. Professional spy Mark (Sam Neill) returns to his West Berlin home to find his wife.. more\n\nMore info / Tickets: https://fillum.in/p/343
 DURATION:PT2H
-LOCATION:CCA Building\, Bikaner House
-DTSTART:20260809T060000Z
-SUMMARY:Borderlands (2021)
-UID:b6388ad7-417c-4b1e-913c-0aad64b8fcdd@b638.org
-URL:https://fillum.in
+LOCATION:mool\, south ex II
+DTSTART:20260808T083000Z
+SUMMARY:Possession (1981)
+UID:15d0cd30-1e23-4987-bc09-1a2bb5560ac2@15d0.org
+URL:https://fillum.in/p/343
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5969
+DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/358
 DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260818T130000Z
-SUMMARY:Feminist Fathima (2024)
-UID:8096b8b1-2714-488c-b18d-6c29008aad3a@8096.org
-URL:https://fillum.in/screening/5969
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260809T110000Z
+SUMMARY:World on a Wire (1973)
+UID:25b5ae85-a91b-4f25-a80d-5842d4be4c17@25b5.org
+URL:https://fillum.in/p/358
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all on first come first served basis.\n\nMore info / Tickets: https://fillum.in/screening/5968
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nPart of Böttcher’s experimental trilogy of overpaintings\, this short shows the filmmaker\, who paints under the name Strawalde\, taking a reproduction of an old image on a postcard and painting ove.. more\n\nMore info / Tickets: https://fillum.in/screening/5974
 DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260811T130000Z
-SUMMARY:Gondhal (2025)
-UID:cdc51726-3dd9-41d1-8602-283ce5eb9aea@cdc5.org
-URL:https://fillum.in/screening/5968
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20260807T114000Z
+SUMMARY:Postcards III\; Woman at the Clavichord (1981)
+UID:0cfcb83a-0366-4c41-9523-517eeae0e898@0cfc.org
+URL:https://fillum.in/screening/5974
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA "metal fetishist" (Shin'ya Tsukamoto)\, driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh\, runs out into the night and is accidentally run down by a Japanese .. more\n\nMore info / Tickets: https://fillum.in/p/343
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260808T123000Z
+SUMMARY:Tetsuo: The Iron Man (1989)
+UID:5d7fb853-b820-48dc-8253-ca037b2aea3a@5d7f.org
+URL:https://fillum.in/p/343
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nWelcome to the NIV 5-Hour Filmmaking Challenge—an adrenaline-filled experience where creativity meets the clock.\n\nA day before the event\, you'll be assigned to a team with fellow filmmakers\, wri.. more\n\nMore info / Tickets: https://fillum.in/p/357
+DURATION:PT2H
+LOCATION:Niv Art Centre\, IGNOU Chowk
+DTSTART:20260809T053000Z
+SUMMARY:NIV 5-Hour Filmmaking Challenge
+UID:78056533-86dc-40c3-af1f-47fff2b276a8@7805.org
+URL:https://fillum.in/p/357
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nAfter a deadly encounter with two yakuza\, a loser with a crush on his childhood girlfriend goes to heaven and back\, embarking on a psychedelic self-discovery experience with her and his friends.\n\nMore info / Tickets: https://fillum.in/p/356
+DURATION:PT2H
+LOCATION:mool\, south ex 2
+DTSTART:20260809T150000Z
+SUMMARY:Mind Game (2004)
+UID:ebb8eeb2-6ec2-4812-b18d-46767f16e7e1@ebb8.org
+URL:https://fillum.in/p/356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nMoving Images programme opens by attention to the atmosphere in which the artists practice the many ways of making and remaking the world. Across two evenings\, this inaugural weekend follows four Ge.. more\n\nMore info / Tickets: https://fillum.in/screening/5973
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20260807T114000Z
+SUMMARY:A Brief Visit with Hermann Glöckner (1985)
+UID:3d1a8c93-e8d8-42c0-bc1b-67b30c5b713f@3d1a.org
+URL:https://fillum.in/screening/5973
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nBy Sameksha Gallery. Free entry on first come first served basis. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/5961
+DURATION:PT2H
+LOCATION:Sanatan IILM Center for Arts and Ideas\, Deendayal Upadhyay Marg
+DTSTART:20260808T123000Z
+SUMMARY:Coral Woman (2019)
+UID:a87ba522-8576-46b4-bcbf-da7fab24712d@a87b.org
+URL:https://fillum.in/screening/5961
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:c6711cb8-89ed-4d21-bb0f-fd0aba6313fe@c671.org
+URL:https://fillum.in/p/332
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nIn this essayistic autobiography\, Ulrike Ottinger returns to the Paris she arrived in as a twenty-year-old aspiring artist in 1962. Weaving personal memories with the city's cultural and political h.. more\n\nMore info / Tickets: https://fillum.in/screening/5975
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20260808T114000Z
+SUMMARY:Paris Calligrammes (2020)
+UID:d50256c6-f13b-4d1e-b0f4-572a0a180525@d502.org
+URL:https://fillum.in/screening/5975
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nMosh is a 3 part experience that builds upon The Ganzfeld Experiment.\nMosh is a journey that starts with sensory overload (Part I)\, is bridged by sensory deprivation (Part II)\, and ends with sensor.. more\n\nMore info / Tickets: https://fillum.in/p/356
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260809T083000Z
+SUMMARY:MOSH
+UID:10ecfa4a-1963-4eee-8f09-6f656df1e025@10ec.org
+URL:https://fillum.in/p/356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA married couple is terrorized by a series of surveillance videotapes left on their front porch\n\nMore info / Tickets: https://fillum.in/p/343
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260808T110000Z
+SUMMARY:Caché (2005)
+UID:eaf0f36f-5352-4077-bd59-af59c8b1bfcf@eaf0.org
+URL:https://fillum.in/p/343
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nWelcome to the NIV 5-Hour Filmmaking Challenge—an adrenaline-filled experience where creativity meets the clock.\n\nA day before the event\, you'll be assigned to a team with fellow filmmakers\, wri.. more\n\nMore info / Tickets: https://fillum.in/p/357
+DURATION:PT2H
+LOCATION:Niv Art Centre\, IGNOU Chowk
+DTSTART:20260809T053000Z
+SUMMARY:NIV 5-Hour Filmmaking Challenge
+UID:f4dbea81-e307-4b31-8d44-48a53b7bab09@f4db.org
+URL:https://fillum.in/p/357
 END:VEVENT
 END:VCALENDAR
