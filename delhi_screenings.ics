@@ -2,40 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
-DURATION:PT2H
-LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
-DTSTART:20260809T063000Z
-SUMMARY:Akira (1988)
-UID:1926f001-7e3e-442a-9c9e-d2a0af328761@1926.org
-URL:https://fillum.in/p/332
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nMosh is a 3 part experience that builds upon The Ganzfeld Experiment.\nMosh is a journey that starts with sensory overload (Part I)\, is bridged by sensory deprivation (Part II)\, and ends with sensor.. more\n\nMore info / Tickets: https://fillum.in/p/356
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260809T083000Z
-SUMMARY:MOSH
-UID:de9c7cc4-ebb0-4801-a2d2-a79affd69c41@de9c.org
-URL:https://fillum.in/p/356
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: BLCKBSTR\n\nFIRST CUT by BLCKBSTR — The Lineup Is Here. After reviewing submissions from emerging filmmakers\, we’ve selected a lineup of short films for the first edition of FIRST CUT by BLCKBSTR. This isn.. more\n\nMore info / Tickets: https://fillum.in/p/359
-DURATION:PT2H
-LOCATION:Fourth Space\, M Block Market\, GK-2
-DTSTART:20260810T130000Z
-SUMMARY:FIRST CUT by BLCKBSTR
-UID:7f0eeb25-0463-46a2-ab07-b7cab0a73ba0@7f0e.org
-URL:https://fillum.in/p/359
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all on first come first served basis.\n\nMore info / Tickets: https://fillum.in/screening/5968
 DURATION:PT2H
 LOCATION:IIC Annexe - Lecture Room I
 DTSTART:20260811T130000Z
 SUMMARY:Gondhal (2025)
-UID:302d2bf3-9629-42de-b065-366029c14818@302d.org
+UID:6603e213-cd1a-4dcf-a77b-24e9da5da34d@6603.org
 URL:https://fillum.in/screening/5968
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nBy Alejandro Jodorowsky. A Christ-like thief and powerful industrial capitalists representing planets in the solar system meet an Alchemist to seek spiritual enlightenment and ascend the Holy Mounta.. more\n\nMore info / Tickets: https://fillum.in/p/356
+DURATION:PT2H
+LOCATION:mool\, south ex 2
+DTSTART:20260809T130000Z
+SUMMARY:The Holy Mountain (1973)
+UID:b3596bbe-dc70-4063-82a6-826ee026523d@b359.org
+URL:https://fillum.in/p/356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker. This programming is part of MOOL\, a 20 South Asian artist exhibition curated by Shaleen Wadhwana and presented by Exhibit320.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:CCA Building\, Bikaner House
+DTSTART:20260809T060000Z
+SUMMARY:Borderlands (2021)
+UID:a79482b2-95dd-408c-a75c-61552004c4cd@a794.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5969
@@ -43,8 +34,71 @@ DURATION:PT2H
 LOCATION:IIC Annexe - Lecture Room I
 DTSTART:20260818T130000Z
 SUMMARY:Feminist Fathima (2024)
-UID:43c60443-e6e9-4b83-b797-528ebf7799af@43c6.org
+UID:4d540691-baa6-4831-a1a0-c92a166f3c5d@4d54.org
 URL:https://fillum.in/screening/5969
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260825T130000Z
+SUMMARY:In the Name of Fire (2024)
+UID:624670f3-4e25-4ca2-9eee-e9f4375bfa7f@6246.org
+URL:https://fillum.in/screening/5970
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nMosh is a 3 part experience that builds upon The Ganzfeld Experiment.\nMosh is a journey that starts with sensory overload (Part I)\, is bridged by sensory deprivation (Part II)\, and ends with sensor.. more\n\nMore info / Tickets: https://fillum.in/p/356
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260809T083000Z
+SUMMARY:MOSH
+UID:dd8e0f1d-3950-43dc-97ab-86edc51673e7@dd8e.org
+URL:https://fillum.in/p/356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nStep into the world of filmmaking with CINEMASCOPE\, an intensive 10-day practical filmmaking workshop designed for aspiring filmmakers\, storytellers\, actors\, cinematographers\, editors\, and content c.. more\n\nMore info / Tickets: https://fillum.in/p/360
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260817T043000Z
+SUMMARY:CINEMASCOPE – A 10 day Practical Filmmaking Workshop by Ashok Dhingra
+UID:76785b79-7170-41c8-97d2-b901764496b4@7678.org
+URL:https://fillum.in/p/360
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all on first come first served basis.\n\nMore info / Tickets: https://fillum.in/screening/5916
+DURATION:PT2H
+LOCATION:Lecture Room I\, IIC Annexe
+DTSTART:20260810T130000Z
+SUMMARY:Outsider: Freud (2024)
+UID:9ef00342-1383-49f8-90e7-8445d66f973a@9ef0.org
+URL:https://fillum.in/screening/5916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: BLCKBSTR\n\nFIRST CUT by BLCKBSTR — The Lineup Is Here. After reviewing submissions from emerging filmmakers\, we’ve selected a lineup of short films for the first edition of FIRST CUT by BLCKBSTR. This isn.. more\n\nMore info / Tickets: https://fillum.in/p/359
+DURATION:PT2H
+LOCATION:Fourth Space\, M Block Market\, GK-2
+DTSTART:20260810T130000Z
+SUMMARY:FIRST CUT by BLCKBSTR
+UID:6e1ed179-2ef9-4739-95df-1d8eeb2b00f6@6e1e.org
+URL:https://fillum.in/p/359
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nUpdate: Registration closed\n\nWelcome to the NIV 5-Hour Filmmaking Challenge—an adrenaline-filled experience where creativity meets the clock.\n\nA day before the event\, you'll be assigned to a t.. more\n\nMore info / Tickets: https://fillum.in/event/5966
+DURATION:PT2H
+LOCATION:Niv Art Centre\, IGNOU Chowk
+DTSTART:20260809T053000Z
+SUMMARY:NIV 5-Hour Filmmaking Challenge
+UID:6382348b-84f8-45a8-b522-4d83c3215ae6@6382.org
+URL:https://fillum.in/event/5966
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: M!ME\n\nScreening the greatest Anime film ever made.\n\nMore info / Tickets: https://fillum.in/p/332
+DURATION:PT2H
+LOCATION:Niv Art Centre\,IGNOU CHOWK\, Block A 1\, Neb Sarai\, Sainik Farm
+DTSTART:20260809T063000Z
+SUMMARY:Akira (1988)
+UID:64b7d1f8-e78e-493e-9794-db3c8fc91180@64b7.org
+URL:https://fillum.in/p/332
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Studio Montage\n\nOrganized by Progressive Artists' League. Screening will be followed by discussion on the film.\nContact- +919667707585\n\nMore info / Tickets: https://fillum.in/screening/5980
@@ -52,7 +106,7 @@ DURATION:PT2H
 LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
 DTSTART:20260809T103000Z
 SUMMARY:Chorus (1974)
-UID:ba90bd83-566a-47d7-8bef-cf6c4fee7ada@ba90.org
+UID:e1d2b229-9d98-43b6-b0f0-dd8b52231b7d@e1d2.org
 URL:https://fillum.in/screening/5980
 END:VEVENT
 BEGIN:VEVENT
@@ -61,62 +115,8 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260809T110000Z
 SUMMARY:World on a Wire (1973)
-UID:1b7d6b28-c44d-426b-8959-f66178a93757@1b7d.org
+UID:c9965df4-04e8-40a2-a031-0f08dda07e32@c996.org
 URL:https://fillum.in/screening/5971
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nStep into the world of filmmaking with CINEMASCOPE\, an intensive 10-day practical filmmaking workshop designed for aspiring filmmakers\, storytellers\, actors\, cinematographers\, editors\, and content c.. more\n\nMore info / Tickets: https://fillum.in/p/360
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260817T043000Z
-SUMMARY:CINEMASCOPE – A 10 day Practical Filmmaking Workshop by Ashok Dhingra
-UID:22d6ce6f-8c45-4c81-adb6-c64094535d14@22d6.org
-URL:https://fillum.in/p/360
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260825T130000Z
-SUMMARY:In the Name of Fire (2024)
-UID:8c33a986-7a87-4a85-9b2d-12d979bce96c@8c33.org
-URL:https://fillum.in/screening/5970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAfter a deadly encounter with two yakuza\, a loser with a crush on his childhood girlfriend goes to heaven and back\, embarking on a psychedelic self-discovery experience with her and his friends.\n\nMore info / Tickets: https://fillum.in/p/356
-DURATION:PT2H
-LOCATION:mool\, south ex 2
-DTSTART:20260809T150000Z
-SUMMARY:Mind Game (2004)
-UID:df56b721-708d-477e-87d5-d96100ee2229@df56.org
-URL:https://fillum.in/p/356
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nUpdate: Registration closed\n\nWelcome to the NIV 5-Hour Filmmaking Challenge—an adrenaline-filled experience where creativity meets the clock.\n\nA day before the event\, you'll be assigned to a t.. more\n\nMore info / Tickets: https://fillum.in/event/5966
-DURATION:PT2H
-LOCATION:Niv Art Centre\, IGNOU Chowk
-DTSTART:20260809T053000Z
-SUMMARY:NIV 5-Hour Filmmaking Challenge
-UID:aeebcb89-3a22-4ade-81bc-3d0c575b08e9@aeeb.org
-URL:https://fillum.in/event/5966
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all on first come first served basis.\n\nMore info / Tickets: https://fillum.in/screening/5916
-DURATION:PT2H
-LOCATION:Lecture Room I\, IIC Annexe
-DTSTART:20260810T130000Z
-SUMMARY:Outsider: Freud (2024)
-UID:253509c8-f88f-4227-9d28-ccfaec3ef4b5@2535.org
-URL:https://fillum.in/screening/5916
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. Post-screening discussion with the filmmaker. This programming is part of MOOL\, a 20 South Asian artist exhibition curated by Shaleen Wadhwana and presented by Exhibit320.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:CCA Building\, Bikaner House
-DTSTART:20260809T060000Z
-SUMMARY:Borderlands (2021)
-UID:4df8a967-c660-4b27-912e-aa49e2e2325a@4df8.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree Entry. Open to All. The final session of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through nine short films from Colombia\, Mexico and Venezuela\, S.. more\n\nMore info / Tickets: https://fillum.in/event/5967
@@ -124,16 +124,16 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20260812T130000Z
 SUMMARY:The Memory of Gesture - Short Film Collection
-UID:bf0a7911-6ae7-4eb5-b293-38518edae4f3@bf0a.org
+UID:e97cab91-8297-4242-a44b-e2bfb042adbb@e97c.org
 URL:https://fillum.in/event/5967
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nBy Alejandro Jodorowsky. A Christ-like thief and powerful industrial capitalists representing planets in the solar system meet an Alchemist to seek spiritual enlightenment and ascend the Holy Mounta.. more\n\nMore info / Tickets: https://fillum.in/p/356
+DESCRIPTION:Host: Out of Sequence\n\nAfter a deadly encounter with two yakuza\, a loser with a crush on his childhood girlfriend goes to heaven and back\, embarking on a psychedelic self-discovery experience with her and his friends.\n\nMore info / Tickets: https://fillum.in/p/356
 DURATION:PT2H
 LOCATION:mool\, south ex 2
-DTSTART:20260809T130000Z
-SUMMARY:The Holy Mountain (1973)
-UID:ae87e8bd-cacd-4ff5-b67a-4968ab0939b0@ae87.org
+DTSTART:20260809T150000Z
+SUMMARY:Mind Game (2004)
+UID:bb17c5c1-baeb-42d9-87e2-05c799c3b0f6@bb17.org
 URL:https://fillum.in/p/356
 END:VEVENT
 END:VCALENDAR
