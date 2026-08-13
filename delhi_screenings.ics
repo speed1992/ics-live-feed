@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nWith her ravishingly sensual take on Herman Melville’s Billy Budd\, Sailor\, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb.. more\n\nMore info / Tickets: https://fillum.in/p/363
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nStep into the world of filmmaking with CINEMASCOPE\, an intensive 10-day practical filmmaking workshop designed for aspiring filmmakers\, storytellers\, actors\, cinematographers\, editors\, and content c.. more\n\nMore info / Tickets: https://fillum.in/p/360
 DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260822T083000Z
-SUMMARY:Beau Travail (1999)
-UID:25424872-a0b5-4a4e-b509-e34fea614385@2542.org
-URL:https://fillum.in/p/363
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260817T043000Z
+SUMMARY:CINEMASCOPE – A 10 day Practical Filmmaking Workshop by Ashok Dhingra
+UID:4ab06b0b-a919-4a14-9d6a-a302dd991e5d@4ab0.org
+URL:https://fillum.in/p/360
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5969
@@ -16,44 +16,8 @@ DURATION:PT2H
 LOCATION:IIC Annexe - Lecture Room I
 DTSTART:20260818T130000Z
 SUMMARY:Feminist Fathima (2024)
-UID:769deb09-7fb7-4095-ac0a-88cac67ee100@769d.org
+UID:c5ecdeea-979e-4607-a6de-b9f01edcd106@c5ec.org
 URL:https://fillum.in/screening/5969
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260825T130000Z
-SUMMARY:In the Name of Fire (2024)
-UID:7422e8fc-d038-4668-9323-5281decef754@7422.org
-URL:https://fillum.in/screening/5970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: MuzoClass\n\nAn evening for Beatles fans and curious music lovers alike.\nJoin us for a community screening of Beatles '64 a documentary that captures the band's first visit to America and the phenomenon that ch.. more\n\nMore info / Tickets: https://fillum.in/p/361
-DURATION:PT2H
-LOCATION:Niv Art Centre
-DTSTART:20260814T020000Z
-SUMMARY:Beatles '64 (2024)
-UID:9d55e682-295e-43c8-840d-0cb84595bf6a@9d55.org
-URL:https://fillum.in/p/361
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5988
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260821T123000Z
-SUMMARY:A Doctor of Three Wars (2025)
-UID:189e0348-b422-490e-b1c4-67c8c1d9d5d3@189e.org
-URL:https://fillum.in/screening/5988
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260827T123000Z
-SUMMARY:Emma' (2016)
-UID:b1ae0528-7705-40e2-bbb8-4f9c6cc3d5f2@b1ae.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Sohbat\n\nThe screening will be followed by a critical conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/p/362
@@ -61,8 +25,17 @@ DURATION:PT2H
 LOCATION:The Trialogue Studio\, Mayur Vihar
 DTSTART:20260815T123000Z
 SUMMARY:Prisoner No. 626710 is present (2024)
-UID:c476aa1f-f74c-4eef-9832-5882a797e777@c476.org
+UID:cf27be89-9bf5-4329-95c2-806043ae0eff@cf27.org
 URL:https://fillum.in/p/362
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nCompulsively innovative director Jean-Luc Godard presents “a neorealist musical—that is\, a contradiction in terms.” Featuring French superstars Anna Karina\, Jean-Paul Belmondo\, and Jean-Claude.. more\n\nMore info / Tickets: https://fillum.in/p/363
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260822T063000Z
+SUMMARY:A Woman Is a Woman (1961)
+UID:3d632ed2-81a8-4cc9-86ff-d425499034cb@3d63.org
+URL:https://fillum.in/p/363
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 2)\n\nAlso screening (short films):\n- DJUM\n- Gang Permai Dua\n\nMore info / Tickets: https://fillum.in
@@ -70,7 +43,34 @@ DURATION:PT2H
 LOCATION:India International Centre\, Lodhi Estate
 DTSTART:20260828T123000Z
 SUMMARY:Soegija (2012)
-UID:e8a50358-5f28-4c76-b4cb-0e483d55105b@e8a5.org
+UID:0e2893dc-9ce8-4152-9e9d-81a272297e38@0e28.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260829T123000Z
+SUMMARY:The Rainbow Troops (2008)
+UID:9ac01440-a9c2-449b-b1b4-61639c0792f5@9ac0.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: MuzoClass\n\nAn evening for Beatles fans and curious music lovers alike.\nJoin us for a community screening of Beatles '64 a documentary that captures the band's first visit to America and the phenomenon that ch.. more\n\nMore info / Tickets: https://fillum.in/p/361
+DURATION:PT2H
+LOCATION:Niv Art Centre
+DTSTART:20260814T020000Z
+SUMMARY:Beatles '64 (2024)
+UID:e688108d-e042-4da6-af00-5490d27d4e79@e688.org
+URL:https://fillum.in/p/361
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260827T123000Z
+SUMMARY:Emma' (2016)
+UID:d3ab75e7-1bc2-4a4f-81c8-3b9b177dc91e@d3ab.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -79,44 +79,8 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260815T100000Z
 SUMMARY:Mamma Roma (1962)
-UID:e5a23fe0-f42c-4a89-b89f-75eb83301197@e5a2.org
+UID:8a3935fe-e5b0-46aa-8c2f-2e1415719d22@8a39.org
 URL:https://fillum.in/p/364
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat if the world you know is only a simulation?\n\nRainer Werner Fassbinder’s visionary sci-fi masterpiece World on a Wire takes you into a strange world where reality\, identity and technology be.. more\n\nMore info / Tickets: https://fillum.in/p/365
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260816T063000Z
-SUMMARY:World on a Wire (1973)
-UID:e8a8a043-8927-4931-98a7-5b62dce7c912@e8a8.org
-URL:https://fillum.in/p/365
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nStep into the world of filmmaking with CINEMASCOPE\, an intensive 10-day practical filmmaking workshop designed for aspiring filmmakers\, storytellers\, actors\, cinematographers\, editors\, and content c.. more\n\nMore info / Tickets: https://fillum.in/p/360
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260817T043000Z
-SUMMARY:CINEMASCOPE – A 10 day Practical Filmmaking Workshop by Ashok Dhingra
-UID:027bf3c3-47c8-44b1-bb98-491fa380bcd0@027b.org
-URL:https://fillum.in/p/360
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260829T123000Z
-SUMMARY:The Rainbow Troops (2008)
-UID:6fe15d94-365f-40f2-bca1-a418ae2e17e8@6fe1.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nCompulsively innovative director Jean-Luc Godard presents “a neorealist musical—that is\, a contradiction in terms.” Featuring French superstars Anna Karina\, Jean-Paul Belmondo\, and Jean-Claude.. more\n\nMore info / Tickets: https://fillum.in/p/363
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260822T063000Z
-SUMMARY:A Woman Is a Woman (1961)
-UID:730a12b1-c372-4781-bbdb-4b6f4a6e1878@730a.org
-URL:https://fillum.in/p/363
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in
@@ -124,17 +88,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260816T133000Z
 SUMMARY:National Theatre Live: Les Liaisons Dangereuses (2026)
-UID:55bf9f3a-8da4-499c-99cd-2daea1338158@55bf.org
+UID:9f4e0a9e-6efe-4296-a7a7-d0d0b9dcd16f@9f4e.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree Entry. Open to All. The final session of the film series - Responding from the Mountains: A Cinematic Geography of the Caribbean. Through nine short films from Colombia\, Mexico and Venezuela\, S.. more\n\nMore info / Tickets: https://fillum.in/event/5967
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260812T130000Z
-SUMMARY:The Memory of Gesture - Short Film Collection
-UID:6d667c43-3c2b-4c3a-9552-c71b36605f67@6d66.org
-URL:https://fillum.in/event/5967
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5998
@@ -142,7 +97,43 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260813T130000Z
 SUMMARY:Small Change (1976)
-UID:2daddeae-2bd8-4397-aacc-0f1ee9d3e07b@2dad.org
+UID:803bd634-7330-4b79-abab-14eb430066d3@803b.org
 URL:https://fillum.in/screening/5998
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5988
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260821T123000Z
+SUMMARY:A Doctor of Three Wars (2025)
+UID:a8d852f9-0bf8-4311-bcaf-70e2834742a8@a8d8.org
+URL:https://fillum.in/screening/5988
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat if the world you know is only a simulation?\n\nRainer Werner Fassbinder’s visionary sci-fi masterpiece World on a Wire takes you into a strange world where reality\, identity and technology be.. more\n\nMore info / Tickets: https://fillum.in/p/365
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260816T063000Z
+SUMMARY:World on a Wire (1973)
+UID:a380507b-2dc8-4bfb-9291-3f3dc97f990d@a380.org
+URL:https://fillum.in/p/365
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nWith her ravishingly sensual take on Herman Melville’s Billy Budd\, Sailor\, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb.. more\n\nMore info / Tickets: https://fillum.in/p/363
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260822T083000Z
+SUMMARY:Beau Travail (1999)
+UID:8b0cd857-0eb2-4f27-8e80-7413ccd98905@8b0c.org
+URL:https://fillum.in/p/363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260825T130000Z
+SUMMARY:In the Name of Fire (2024)
+UID:8da52f96-2815-402d-8cb5-1831969b03ee@8da5.org
+URL:https://fillum.in/screening/5970
 END:VEVENT
 END:VCALENDAR
