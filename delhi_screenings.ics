@@ -2,49 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6007
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
 DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20260820T123000Z
-SUMMARY:Tear This Heart Out (2008)
-UID:09fb25cf-8674-4202-819a-85c796f34893@09fb.org
-URL:https://fillum.in/screening/6007
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nPier Paolo Pasolini’s raw and moving portrait of a woman trying to build a better life for herself and her son on the outskirts of Rome.\n\nA film about motherhood\, dignity\, poverty\, desire and th.. more\n\nMore info / Tickets: https://fillum.in/p/364
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260815T100000Z
-SUMMARY:Mamma Roma (1962)
-UID:8d8c737d-ff0e-411c-816c-d2ad77fd4401@8d8c.org
-URL:https://fillum.in/p/364
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat if the world you know is only a simulation?\n\nRainer Werner Fassbinder’s visionary sci-fi masterpiece World on a Wire takes you into a strange world where reality\, identity and technology be.. more\n\nMore info / Tickets: https://fillum.in/p/365
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260816T063000Z
-SUMMARY:World on a Wire (1973)
-UID:66ce6228-4ed9-4c5c-9f32-4235b6b7640a@66ce.org
-URL:https://fillum.in/p/365
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Bombay\n\nFree entry on first come first served basis. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/6016
-DURATION:PT2H
-LOCATION:Venue: Prithvi House\, Juhu
-DTSTART:20260819T133000Z
-SUMMARY:Joy House (1964)
-UID:c15b82af-045a-4419-b38c-e477495fe477@c15b.org
-URL:https://fillum.in/screening/6016
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nThe screening will be followed by a critical conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/p/362
-DURATION:PT2H
-LOCATION:The Trialogue Studio\, Mayur Vihar
-DTSTART:20260815T123000Z
-SUMMARY:Prisoner No. 626710 is present (2024)
-UID:a8050631-611e-45c0-9b73-491394c2a17e@a805.org
-URL:https://fillum.in/p/362
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260825T130000Z
+SUMMARY:In the Name of Fire (2024)
+UID:141b7e93-3843-4e64-8f0e-aac66059ae53@141b.org
+URL:https://fillum.in/screening/5970
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nCompulsively innovative director Jean-Luc Godard presents “a neorealist musical—that is\, a contradiction in terms.” Featuring French superstars Anna Karina\, Jean-Paul Belmondo\, and Jean-Claude.. more\n\nMore info / Tickets: https://fillum.in/p/363
@@ -52,98 +16,8 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260822T063000Z
 SUMMARY:A Woman Is a Woman (1961)
-UID:5bebbb66-967a-4d1e-9c2d-b757b7156dc3@5beb.org
+UID:e8d368dc-449b-48b3-bd13-dadae3241759@e8d3.org
 URL:https://fillum.in/p/363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260829T123000Z
-SUMMARY:The Rainbow Troops (2008)
-UID:d4f9f8a2-ad0e-4af5-9dd0-f202a07c5d5d@d4f9.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260816T133000Z
-SUMMARY:National Theatre Live: Les Liaisons Dangereuses (2026)
-UID:5e83f8f0-fdc3-454b-9580-98c0886f2813@5e83.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Tusharr Madhavv\n\nFilm Screening and Discussion in collaboration with Kaddukkas Collective\, Lightcube Film Society\n\nMore info / Tickets: https://fillum.in/p/366
-DURATION:PT2H
-LOCATION:NIV Art Centre
-DTSTART:20260820T131500Z
-SUMMARY:Roohrangi (2025)
-UID:84782fd4-02cb-497c-b486-db06acc8c6ba@8478.org
-URL:https://fillum.in/p/366
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nWith her ravishingly sensual take on Herman Melville’s Billy Budd\, Sailor\, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb.. more\n\nMore info / Tickets: https://fillum.in/p/363
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260822T083000Z
-SUMMARY:Beau Travail (1999)
-UID:26ae7485-8209-4fe3-81d7-f976cf499fbe@26ae.org
-URL:https://fillum.in/p/363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 2)\n\nAlso screening (short films):\n- DJUM\n- Gang Permai Dua\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260828T123000Z
-SUMMARY:Soegija (2012)
-UID:f1d8a23b-7a13-4be5-81af-96a64a42bcbf@f1d8.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy Global Wildlife Fair. Stories from the Northeast\, brought to the screen. Join for an evening of films dedicated to the wildlife\, communities\, landscapes\, and conservation stories of Northeast Ind.. more\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20260818T133000Z
-SUMMARY:Stories from the Ground - Northeast India
-UID:670af641-ae62-4f41-b07f-d41fbdc6fdc5@670a.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260825T130000Z
-SUMMARY:In the Name of Fire (2024)
-UID:e2501f4d-4828-4f27-b87f-677a4342c34c@e250.org
-URL:https://fillum.in/screening/5970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:The Japan Foundation\, Green Park
-DTSTART:20260821T130000Z
-SUMMARY:Sunset Sunrise (2025)
-UID:88254b6b-fd23-4aa2-9559-5836f229b2e3@8825.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5969
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260818T130000Z
-SUMMARY:Feminist Fathima (2024)
-UID:42f6eef5-f28f-4841-ba70-4b9a95892a94@42f6.org
-URL:https://fillum.in/screening/5969
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5988
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260821T123000Z
-SUMMARY:A Doctor of Three Wars (2025)
-UID:78bd2034-dbd9-4670-9139-3942a7716978@78bd.org
-URL:https://fillum.in/screening/5988
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
@@ -151,7 +25,25 @@ DURATION:PT2H
 LOCATION:India International Centre\, Lodhi Estate
 DTSTART:20260827T123000Z
 SUMMARY:Emma' (2016)
-UID:de025c68-6166-4406-87cb-9cbc4e018a1e@de02.org
+UID:07e49f55-8622-4e05-bfa0-15a009a1acc4@07e4.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6007
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20260820T123000Z
+SUMMARY:Tear This Heart Out (2008)
+UID:c8c5703a-9a2a-4619-9ea4-fff8026e16ab@c8c5.org
+URL:https://fillum.in/screening/6007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260816T133000Z
+SUMMARY:National Theatre Live: Les Liaisons Dangereuses (2026)
+UID:e8d68c73-8087-4a4e-85d8-ca01246d1e7b@e8d6.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -160,7 +52,97 @@ DURATION:PT2H
 LOCATION:Mool
 DTSTART:20260818T123000Z
 SUMMARY:Roohrangi (2025)
-UID:3b25cebc-44c7-41ca-94ee-6c57abc5abcc@3b25.org
+UID:5ca5f09c-9dfa-4203-ac20-57cf1234b6dd@5ca5.org
 URL:https://fillum.in/p/367
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 2)\n\nAlso screening (short films):\n- DJUM\n- Gang Permai Dua\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260828T123000Z
+SUMMARY:Soegija (2012)
+UID:8b153cf0-485d-4fca-82bf-c42e4962b4b3@8b15.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Tusharr Madhavv\n\nFilm Screening and Discussion in collaboration with Kaddukkas Collective\, Lightcube Film Society\n\nMore info / Tickets: https://fillum.in/p/366
+DURATION:PT2H
+LOCATION:NIV Art Centre
+DTSTART:20260820T131500Z
+SUMMARY:Roohrangi (2025)
+UID:9a9afd4e-b07a-450e-964a-28dda9b70230@9a9a.org
+URL:https://fillum.in/p/366
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Bombay\n\nFree entry on first come first served basis. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/6016
+DURATION:PT2H
+LOCATION:Venue: Prithvi House\, Juhu
+DTSTART:20260819T133000Z
+SUMMARY:Joy House (1964)
+UID:2a73ccc1-fb8a-4f4f-a7ec-86455872ac20@2a73.org
+URL:https://fillum.in/screening/6016
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5988
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260821T123000Z
+SUMMARY:A Doctor of Three Wars (2025)
+UID:e9bb2600-c118-4f4c-9494-0cfb0ae36bf9@e9bb.org
+URL:https://fillum.in/screening/5988
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260829T123000Z
+SUMMARY:The Rainbow Troops (2008)
+UID:7698b677-a9fc-4f40-8391-555c38e0f4dc@7698.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat if the world you know is only a simulation?\n\nRainer Werner Fassbinder’s visionary sci-fi masterpiece World on a Wire takes you into a strange world where reality\, identity and technology be.. more\n\nMore info / Tickets: https://fillum.in/p/365
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260816T063000Z
+SUMMARY:World on a Wire (1973)
+UID:e9784c31-d37f-4e60-b656-c1dd74a56c69@e978.org
+URL:https://fillum.in/p/365
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nBy Global Wildlife Fair. Stories from the Northeast\, brought to the screen. Join for an evening of films dedicated to the wildlife\, communities\, landscapes\, and conservation stories of Northeast Ind.. more\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20260818T133000Z
+SUMMARY:Stories from the Ground - Northeast India
+UID:513f4fed-e6cd-42c1-87ba-b2abb670fb4b@513f.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nWith her ravishingly sensual take on Herman Melville’s Billy Budd\, Sailor\, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb.. more\n\nMore info / Tickets: https://fillum.in/p/363
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260822T083000Z
+SUMMARY:Beau Travail (1999)
+UID:da14228f-2a4b-44ec-b364-2322a147b0f1@da14.org
+URL:https://fillum.in/p/363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Japan Foundation\n\n\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:The Japan Foundation\, Green Park
+DTSTART:20260821T130000Z
+SUMMARY:Sunset Sunrise (2025)
+UID:d3a3e47b-0342-4780-845c-696300301a43@d3a3.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5969
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260818T130000Z
+SUMMARY:Feminist Fathima (2024)
+UID:0293a06c-083e-4098-8aa8-8f47370bfbf2@0293.org
+URL:https://fillum.in/screening/5969
 END:VEVENT
 END:VCALENDAR
