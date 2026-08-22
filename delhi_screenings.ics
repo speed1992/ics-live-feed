@@ -2,103 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260829T123000Z
-SUMMARY:The Rainbow Troops (2008)
-UID:927ad447-6a4e-4964-9459-de0612bfa201@927a.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Cinergy Club\n\nSession 1: How To Visualise Your Film (10 AM - 2 PM)\nThe participants learn about the Director’s mind functions. They will interpret a scene visually under Devanshu's direct guidance and will lea.. more\n\nMore info / Tickets: https://fillum.in/p/370
-DURATION:PT2H
-LOCATION:Siyah Art House\, Saket
-DTSTART:20260822T043000Z
-SUMMARY:Workshops by Devanshu Singh
-UID:c55b7c4e-dcb0-4e3c-83e1-04bc45208eaf@c55b.org
-URL:https://fillum.in/p/370
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Japan Foundation\n\nUpdate: Registration closed\n\nMore info / Tickets: https://fillum.in/screening/6015
-DURATION:PT2H
-LOCATION:The Japan Foundation\, Green Park
-DTSTART:20260821T130000Z
-SUMMARY:Sunset Sunrise (2025)
-UID:67959204-c58c-4f8c-8985-ca270dea90a4@6795.org
-URL:https://fillum.in/screening/6015
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 2)\n\nAlso screening (short films):\n- DJUM\n- Gang Permai Dua\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260828T123000Z
-SUMMARY:Soegija (2012)
-UID:c750aa52-43a8-4677-83d8-88b3e4fe1cc0@c750.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T053000Z
-SUMMARY:The Conversation (1974)
-UID:7fac9cf4-edeb-4747-a446-7d560f5b71a2@7fac.org
+DTSTART:20260829T053000Z
+SUMMARY:Good Bye\, Lenin! (2003)
+UID:032b4f83-24c5-47ad-8c4a-e3bc93f54318@032b.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T120000Z
-SUMMARY:After Life (1999)
-UID:bebf850f-58a2-4830-902e-034501441858@bebf.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nThe screening will be followed by a conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/p/377
-DURATION:PT2H
-LOCATION:Lilanoor\, South Ex II
-DTSTART:20260829T073000Z
-SUMMARY:Farming the Revolution (2024)
-UID:f08a110c-8780-489d-8b61-45810d8620b7@f08a.org
-URL:https://fillum.in/p/377
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T090000Z
-SUMMARY:The Phantom Carriage (1921)
-UID:eb5370bf-4679-4747-b171-a1b2f6465f8d@eb53.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nCompulsively innovative director Jean-Luc Godard presents “a neorealist musical—that is\, a contradiction in terms.” Featuring French superstars Anna Karina\, Jean-Paul Belmondo\, and Jean-Claude.. more\n\nMore info / Tickets: https://fillum.in/p/363
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260822T063000Z
-SUMMARY:A Woman Is a Woman (1961)
-UID:ed3511fb-2dce-44a2-ab8f-823474ebaeeb@ed35.org
-URL:https://fillum.in/p/363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/5988
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260821T123000Z
-SUMMARY:A Doctor of Three Wars (2025)
-UID:d5b2482d-3c40-431a-a424-24bfbfe0b09e@d5b2.org
-URL:https://fillum.in/screening/5988
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nAn intensive four-hour workshop.\nFrom creating/taking the right brief.\nPreparing yourself to meet professional actors and directors.\nHow to screen-test\nHow to read with the actors.\nHow to rehea.. more\n\nMore info / Tickets: https://fillum.in/p/368
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260823T093000Z
-SUMMARY:Directing Actors - Workshop by National Award Winner Devanshu Singh
-UID:4198ad70-71d0-48ea-a9a2-4b6b898398ea@4198.org
-URL:https://fillum.in/p/368
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nWith her ravishingly sensual take on Herman Melville’s Billy Budd\, Sailor\, Claire Denis firmly established herself as one of the great visual tone poets of our time. Amid the azure waters and sunb.. more\n\nMore info / Tickets: https://fillum.in/p/363
@@ -106,26 +16,35 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260822T083000Z
 SUMMARY:Beau Travail (1999)
-UID:f443235d-e987-457f-9ba1-08039f2f68fa@f443.org
+UID:7bf78375-13ce-4bb1-99a5-66a05a409cd9@7bf7.org
 URL:https://fillum.in/p/363
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260827T123000Z
-SUMMARY:Emma' (2016)
-UID:f64c5ce0-79a1-415d-af91-8fa7ede5102a@f64c.org
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260829T120000Z
+SUMMARY:The Sea Inside (2004)
+UID:5bffd582-4055-43bd-806f-463e4cf5662d@5bff.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\n\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 2)\n\nAlso screening (short films):\n- DJUM\n- Gang Permai Dua\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Remakery\, Khirki Extension
-DTSTART:20260821T133000Z
-SUMMARY:The Giants (2023)
-UID:63200382-e27d-4408-ac21-ede232260031@6320.org
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260828T123000Z
+SUMMARY:Soegija (2012)
+UID:a633f6ed-056a-47ff-893e-da493b4a748f@a633.org
 URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Devanshu Singh\n\nSession 1: Visualising Your Screenplay\n(See Your Film Before You Shoot It)\n11 AM - 2 PM\n\nWhat you'll learn:\na) Discovering the visual design\nb) Finding the subtext and give your script a visua.. more\n\nMore info / Tickets: https://fillum.in/p/369
+DURATION:PT2H
+LOCATION:Museo Camera\, DLF Phase IV
+DTSTART:20260829T053000Z
+SUMMARY:Workshops On Film Direction by Devanshu Singh
+UID:a8c4356f-db1a-4047-91b2-c25e14814392@a8c4.org
+URL:https://fillum.in/p/369
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nFilm #3 at 'Export' on Graphic Design.\n\nDoug Wilson’s Linotype: The Film documents the history and enduring significance of the Linotype machine\, the mechanical typesetting system that transform.. more\n\nMore info / Tickets: https://fillum.in/p/371
@@ -133,89 +52,17 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260823T100000Z
 SUMMARY:Linotype: The Film (2012)
-UID:5f1e1ef6-9564-405f-b3a2-ef1b99e2d84b@5f1e.org
-URL:https://fillum.in/p/371
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260825T130000Z
-SUMMARY:Swaha (In the Name of Fire) (2024)
-UID:dd11dfae-cc99-4595-ba98-7e575888e8d6@dd11.org
-URL:https://fillum.in/screening/5970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: ALT EFF Film Club\n\n\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:GuruJal\, Sector 26A\,
-DTSTART:20260821T133000Z
-SUMMARY:The Giants (2023)
-UID:968e6e25-737d-47e5-8139-e723e9660b56@968e.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Bitchitra Collective\n\nDocNights by Bitchitra Collective is screening two short documentaries created by women on women\, who have already shaped their narratives\, are living peacefully with the lives they have created for.. more\n\nMore info / Tickets: https://fillum.in/p/373
-DURATION:PT2H
-LOCATION:W.I.P Adda\, Lado Sarai
-DTSTART:20260822T133000Z
-SUMMARY:DocNights by Bitchitra Collective presents Documentary Films on Inheritance & Reclamation
-UID:0ed3beb3-3db8-4da2-9201-ee4f864103d9@0ed3.org
-URL:https://fillum.in/p/373
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260829T090000Z
-SUMMARY:Au Hasard Balthazar (1966)
-UID:bbdb7b3b-fb64-4471-8ef8-ebe6e7db48d9@bbdb.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260913T053000Z
-SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:46d28bbb-452d-4a90-a397-1b53f67aba01@46d2.org
-URL:https://fillum.in/p/374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260901T133000Z
-SUMMARY:Curveball (2021)
-UID:810db61c-a095-48b1-9677-dc373aefa892@810d.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nFilm #1 at 'Export' on Graphic Design.\n\nGraphic Means traces the history of graphic design through the tools and processes that have shaped its production. From letterpress and paste-up to phototy.. more\n\nMore info / Tickets: https://fillum.in/p/371
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260823T063000Z
-SUMMARY:Graphic Means: A History of Graphic Design Production (2017)
-UID:5898777b-08c1-437c-b0e4-19e02ad062cd@5898.org
+UID:e344e039-08f3-428f-8b6b-ee96ff36d6ee@e344.org
 URL:https://fillum.in/p/371
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260829T053000Z
-SUMMARY:Good Bye\, Lenin! (2003)
-UID:ec4ab603-f8cd-425e-b924-b3a45a34d6df@ec4a.org
+DTSTART:20260830T090000Z
+SUMMARY:The Phantom Carriage (1921)
+UID:2bc401e7-b1f6-4c65-9c0b-d8975db18bd1@2bc4.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nExport is a day-long gathering starting with film screenings around graphic design\, typography\, semiotics\, and the technologies shaping visual communication\, bringing together designers\, creative pr.. more\n\nMore info / Tickets: https://fillum.in/p/371
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20260823T063000Z
-SUMMARY:Export
-UID:c620ad3c-4bc6-4b1d-b9d9-bffd9cedb007@c620.org
-URL:https://fillum.in/p/371
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nFilm #2 at 'Export' on Graphic Design.\n\nGary Hustwit’s Helvetica is a documentary about one of the most ubiquitous typefaces of the modern world. Designed in Switzerland in 1957 by Max Miedinge.. more\n\nMore info / Tickets: https://fillum.in/p/371
@@ -223,7 +70,7 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20260823T080000Z
 SUMMARY:Helvetica (2007)
-UID:9da5987f-b85a-4dcb-9be9-2c4da11b01e7@9da5.org
+UID:b4bca26f-d20a-4d33-8a30-4f9f148396c7@b4bc.org
 URL:https://fillum.in/p/371
 END:VEVENT
 BEGIN:VEVENT
@@ -232,25 +79,142 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20260823T093000Z
 SUMMARY:Micro-movie marathon
-UID:34738b0f-e8b4-4480-82e0-54d66c52442f@3473.org
+UID:c78d0454-f017-4eea-b3d1-f34eb671733b@c78d.org
 URL:https://fillum.in/event/6055
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nSession 1: Visualising Your Screenplay\n(See Your Film Before You Shoot It)\n11 AM - 2 PM\n\nWhat you'll learn:\na) Discovering the visual design\nb) Finding the subtext and give your script a visua.. more\n\nMore info / Tickets: https://fillum.in/p/369
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Museo Camera\, DLF Phase IV
-DTSTART:20260829T053000Z
-SUMMARY:Workshops On Film Direction by Devanshu Singh
-UID:c64fd7db-66c5-4630-adcc-7a5f4bf86129@c64f.org
-URL:https://fillum.in/p/369
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260829T123000Z
+SUMMARY:The Rainbow Troops (2008)
+UID:ccfc797e-2ed9-4fa6-ac02-b18805f2588e@ccfc.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nCompulsively innovative director Jean-Luc Godard presents “a neorealist musical—that is\, a contradiction in terms.” Featuring French superstars Anna Karina\, Jean-Paul Belmondo\, and Jean-Claude.. more\n\nMore info / Tickets: https://fillum.in/p/363
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260822T063000Z
+SUMMARY:A Woman Is a Woman (1961)
+UID:61ec9503-c4d8-4ce3-9ca7-1b9277e5031b@61ec.org
+URL:https://fillum.in/p/363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nFilm #1 at 'Export' on Graphic Design.\n\nGraphic Means traces the history of graphic design through the tools and processes that have shaped its production. From letterpress and paste-up to phototy.. more\n\nMore info / Tickets: https://fillum.in/p/371
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20260823T063000Z
+SUMMARY:Graphic Means: A History of Graphic Design Production (2017)
+UID:1d996567-c500-4153-b5d0-2daac3821760@1d99.org
+URL:https://fillum.in/p/371
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Devanshu Singh\n\nAn intensive four-hour workshop.\nFrom creating/taking the right brief.\nPreparing yourself to meet professional actors and directors.\nHow to screen-test\nHow to read with the actors.\nHow to rehea.. more\n\nMore info / Tickets: https://fillum.in/p/368
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260823T093000Z
+SUMMARY:Directing Actors - Workshop by National Award Winner Devanshu Singh
+UID:b12960ea-18ea-4f9d-a41e-62658503f784@b129.org
+URL:https://fillum.in/p/368
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260829T120000Z
-SUMMARY:The Sea Inside (2004)
-UID:ceccc934-08db-49ba-882c-23dcf75efa60@cecc.org
+DTSTART:20260829T090000Z
+SUMMARY:Au Hasard Balthazar (1966)
+UID:823acb39-6bab-4e75-9478-c1a70210650b@823a.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260825T130000Z
+SUMMARY:Swaha (In the Name of Fire) (2024)
+UID:476fd308-bb43-4656-965d-eb671802a7b7@476f.org
+URL:https://fillum.in/screening/5970
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260830T053000Z
+SUMMARY:The Conversation (1974)
+UID:80532e40-a20a-4f93-a696-30ad65e5d85d@8053.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Cinergy Club\n\nSession 1: How To Visualise Your Film (10 AM - 2 PM)\nThe participants learn about the Director’s mind functions. They will interpret a scene visually under Devanshu's direct guidance and will lea.. more\n\nMore info / Tickets: https://fillum.in/p/370
+DURATION:PT2H
+LOCATION:Siyah Art House\, Saket
+DTSTART:20260822T043000Z
+SUMMARY:Workshops by Devanshu Singh
+UID:afed1061-6bdd-4f92-aca5-1bf0da11f343@afed.org
+URL:https://fillum.in/p/370
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260827T123000Z
+SUMMARY:Emma' (2016)
+UID:9e2981c8-82f5-47ba-98ca-2791df7ab435@9e29.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sohbat\n\nThe screening will be followed by a conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/p/377
+DURATION:PT2H
+LOCATION:Lilanoor\, South Ex II
+DTSTART:20260829T073000Z
+SUMMARY:Farming the Revolution (2024)
+UID:2baf0c42-df83-4a6e-bcff-504bd5e250c1@2baf.org
+URL:https://fillum.in/p/377
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260830T120000Z
+SUMMARY:After Life (1999)
+UID:43b53afa-ba65-4921-b674-7657a540d8ea@43b5.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260913T053000Z
+SUMMARY:5-Hour Filmmaking Challenge — September Edition!
+UID:c8a16cad-b549-4781-83b8-fb53870f922d@c8a1.org
+URL:https://fillum.in/p/374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nExport is a day-long gathering starting with film screenings around graphic design\, typography\, semiotics\, and the technologies shaping visual communication\, bringing together designers\, creative pr.. more\n\nMore info / Tickets: https://fillum.in/p/371
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260823T063000Z
+SUMMARY:Export
+UID:437ec5a5-7b72-402d-a3a4-9048fd7052e9@437e.org
+URL:https://fillum.in/p/371
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Bitchitra Collective\n\nDocNights by Bitchitra Collective is screening two short documentaries created by women on women\, who have already shaped their narratives\, are living peacefully with the lives they have created for.. more\n\nMore info / Tickets: https://fillum.in/p/373
+DURATION:PT2H
+LOCATION:W.I.P Adda\, Lado Sarai
+DTSTART:20260822T133000Z
+SUMMARY:DocNights by Bitchitra Collective presents Documentary Films on Inheritance & Reclamation
+UID:2b06b0fd-41bc-43d6-a5cb-2000c61a33c5@2b06.org
+URL:https://fillum.in/p/373
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260901T133000Z
+SUMMARY:Curveball (2021)
+UID:a914b202-55c1-46df-8632-0c81832583f3@a914.org
 URL:https://fillum.in
 END:VEVENT
 END:VCALENDAR
