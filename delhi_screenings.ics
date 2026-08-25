@@ -2,148 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260829T090000Z
-SUMMARY:Au Hasard Balthazar (1966)
-UID:3e3defe2-e785-4d6f-b2c8-65df02da7eef@3e3d.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260901T133000Z
-SUMMARY:Curveball (2021)
-UID:24a1e05e-71f1-4cdf-9f66-861ffe0f65a2@24a1.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nAs part of IHC 35mm Film Club. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6085
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260825T133000Z
-SUMMARY:Kranti (1981)
-UID:3dd7caa6-705f-4368-ad83-bda834df139c@3dd7.org
-URL:https://fillum.in/screening/6085
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260829T123000Z
-SUMMARY:The Rainbow Troops (2008)
-UID:86cbc4a6-1951-408b-b429-0f18f1eb84be@86cb.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:India International Centre\, Lodhi Estate
-DTSTART:20260827T123000Z
-SUMMARY:Emma' (2016)
-UID:2e372da6-abe6-497c-b033-38f8a4635c99@2e37.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Sohbat\n\nThe screening will be followed by a conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in/p/377
 DURATION:PT2H
 LOCATION:Lilanoor\, South Ex II
 DTSTART:20260829T073000Z
 SUMMARY:Farming the Revolution (2024)
-UID:91564640-f2a2-43d0-9849-217caa78a80e@9156.org
+UID:9f60b4f8-1758-4657-b63c-10fb8b5adcb8@9f60.org
 URL:https://fillum.in/p/377
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260829T053000Z
-SUMMARY:Good Bye\, Lenin! (2003)
-UID:3ac11db0-e5eb-4b49-8428-207fe984be89@3ac1.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260913T053000Z
-SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:23650d46-0989-4bfb-8990-95d956991215@2365.org
-URL:https://fillum.in/p/374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260829T120000Z
-SUMMARY:The Sea Inside (2004)
-UID:f78f48a2-e105-4771-a38c-e9c5ac0804b7@f78f.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20260825T130000Z
-SUMMARY:Swaha (In the Name of Fire) (2024)
-UID:2287c7a2-4fb6-44a5-b66c-eba26e34446f@2287.org
-URL:https://fillum.in/screening/5970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n‘The Last Letter’ is a pictorial journey of a woman who looks back in history and traces a fading sense of justice and diversity.\n\n‘The Beginning’ is based on Anton Chekhov’s short story.. more\n\nMore info / Tickets: https://fillum.in/event/6088
-DURATION:PT2H
-LOCATION:Press Club of India\, Raisina Road
-DTSTART:20260827T123000Z
-SUMMARY:Short films by Neera Jalchhatri: The Last Letter / The Beginning
-UID:477370c9-3900-4af8-867d-1fed9faaeb7b@4773.org
-URL:https://fillum.in/event/6088
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Screenery\n\nThis year\, Rang De Basanti celebrates 20 years!\n\nAnd for the first time\, the landmark film is being screened outside a traditional theatre.\n\nPresented by Screenery in partnership with SOCIAL\, th.. more\n\nMore info / Tickets: https://fillum.in/p/379
-DURATION:PT2H
-LOCATION:Civil Lines SOCIAL
-DTSTART:20260830T133000Z
-SUMMARY:Rang De Basanti (2006)
-UID:3ea1936f-cebc-4fc2-bd96-861956f87ebe@3ea1.org
-URL:https://fillum.in/p/379
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nCamera Commune presents "Revolution and State Repression"\, a two day affair where we screen films on protests and the reaction of the state machinery to it.\n\nThe films will be preceded by 15 minut.. more\n\nMore info / Tickets: https://fillum.in/screening/6080
-DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20260830T113000Z
-SUMMARY:A Taxi Driver (2017)
-UID:455c04bc-c32d-4adb-914d-ffad06b6ea84@455c.org
-URL:https://fillum.in/screening/6080
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T120000Z
-SUMMARY:After Life (1999)
-UID:e93c2fc2-0b3e-4d06-823a-c887369d9f50@e93c.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T053000Z
-SUMMARY:The Conversation (1974)
-UID:d480a2a3-2190-4473-ade4-1b3e79280877@d480.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T090000Z
-SUMMARY:The Phantom Carriage (1921)
-UID:31f83dfe-edef-4df4-ab8c-e7bbcd8b6da7@31f8.org
-URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Camera Commune\n\nCamera Commune presents "Revolution and State Repression"\, a two day affair where we screen films on protests and the reaction of the state machinery to it.\n\nThe films will be preceded by 15 minut.. more\n\nMore info / Tickets: https://fillum.in/screening/6079
@@ -151,7 +16,7 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex\, Delhi
 DTSTART:20260829T093000Z
 SUMMARY:The Square (2013)
-UID:66c0434f-4301-492b-8c04-b2cbef7a4737@66c0.org
+UID:472622d1-163d-412c-867e-b50152638cdb@4726.org
 URL:https://fillum.in/screening/6079
 END:VEVENT
 BEGIN:VEVENT
@@ -160,8 +25,80 @@ DURATION:PT2H
 LOCATION:Museo Camera\, DLF Phase IV
 DTSTART:20260829T053000Z
 SUMMARY:Workshops On Film Direction by Devanshu Singh
-UID:8f1ed992-fd34-433a-8257-f2725d1bbb6e@8f1e.org
+UID:93b7ee99-cba3-4ff3-9709-2f24ed46d4ad@93b7.org
 URL:https://fillum.in/p/369
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nCamera Commune presents "Revolution and State Repression"\, a two day affair where we screen films on protests and the reaction of the state machinery to it.\n\nThe films will be preceded by 15 minut.. more\n\nMore info / Tickets: https://fillum.in/screening/6080
+DURATION:PT2H
+LOCATION:Mool\, South Ex\, Delhi
+DTSTART:20260830T113000Z
+SUMMARY:A Taxi Driver (2017)
+UID:f95b2a24-0285-4edb-9ce3-9fb957476312@f95b.org
+URL:https://fillum.in/screening/6080
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260829T120000Z
+SUMMARY:The Sea Inside (2004)
+UID:eada015d-9d88-45fe-b075-4809730ad0fa@eada.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260830T053000Z
+SUMMARY:The Conversation (1974)
+UID:5a646570-9e99-47e8-9ba2-0222ef43b2f7@5a64.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/5970
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20260825T130000Z
+SUMMARY:Swaha (In the Name of Fire) (2024)
+UID:3f78d22a-0300-4c36-a6a1-94467048b130@3f78.org
+URL:https://fillum.in/screening/5970
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nAs part of IHC 35mm Film Club. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6085
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260825T133000Z
+SUMMARY:Kranti (1981)
+UID:4dca4bf4-9b16-4958-bf6a-0da8ba59e192@4dca.org
+URL:https://fillum.in/screening/6085
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260830T120000Z
+SUMMARY:After Life (1999)
+UID:8e8d72ce-2190-4e87-a30b-4b24c016f8f9@8e8d.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260901T133000Z
+SUMMARY:Curveball (2021)
+UID:2949e8fe-b492-4c3d-b450-5ad7a0b9ec4b@2949.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260829T053000Z
+SUMMARY:Good Bye\, Lenin! (2003)
+UID:333a2adb-c03a-49af-a497-c3c71b931858@333a.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 2)\n\nAlso screening (short films):\n- DJUM\n- Gang Permai Dua\n\nMore info / Tickets: https://fillum.in
@@ -169,7 +106,70 @@ DURATION:PT2H
 LOCATION:India International Centre\, Lodhi Estate
 DTSTART:20260828T123000Z
 SUMMARY:Soegija (2012)
-UID:c3718d0c-d188-4b70-8f72-0d1e5a1958e2@c371.org
+UID:8c3c78ba-ca2d-49d8-8b89-aab0e3a8023a@8c3c.org
 URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260830T090000Z
+SUMMARY:The Phantom Carriage (1921)
+UID:67890ac5-2058-40cb-b190-0f4d5fc67051@6789.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 1)\n\nAlso screening (short films):\n- Bong! of Womb and Tomb\n- Pamit Ronda (Once Upon a Night)\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260827T123000Z
+SUMMARY:Emma' (2016)
+UID:eee2564d-73df-4a41-a60f-8a9d40a66198@eee2.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Screenery\n\nThis year\, Rang De Basanti celebrates 20 years!\n\nAnd for the first time\, the landmark film is being screened outside a traditional theatre.\n\nPresented by Screenery in partnership with SOCIAL\, th.. more\n\nMore info / Tickets: https://fillum.in/p/379
+DURATION:PT2H
+LOCATION:Civil Lines SOCIAL
+DTSTART:20260830T133000Z
+SUMMARY:Rang De Basanti (2006)
+UID:0898deba-b032-4a08-966b-703020a607d9@0898.org
+URL:https://fillum.in/p/379
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260913T053000Z
+SUMMARY:5-Hour Filmmaking Challenge — September Edition!
+UID:c9cb46a9-9386-43cd-a321-4db50e98b3b3@c9cb.org
+URL:https://fillum.in/p/374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260829T090000Z
+SUMMARY:Au Hasard Balthazar (1966)
+UID:6aa39195-9271-4e5c-afbe-170dca05b7c1@6aa3.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nAs part of Indonesian Film Festival 2026 (Day 3)\n\nAlso screening (short films):\n- Bloody Rose\n- Pabbaruak\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:India International Centre\, Lodhi Estate
+DTSTART:20260829T123000Z
+SUMMARY:The Rainbow Troops (2008)
+UID:c8730b51-6210-4e59-b8a1-8f08b60ec386@c873.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n‘The Last Letter’ is a pictorial journey of a woman who looks back in history and traces a fading sense of justice and diversity.\n\n‘The Beginning’ is based on Anton Chekhov’s short story.. more\n\nMore info / Tickets: https://fillum.in/event/6088
+DURATION:PT2H
+LOCATION:Press Club of India\, Raisina Road
+DTSTART:20260827T123000Z
+SUMMARY:Short films by Neera Jalchhatri: The Last Letter / The Beginning
+UID:7a28f3b2-bcef-4a57-b5bc-170edb20d5ee@7a28.org
+URL:https://fillum.in/event/6088
 END:VEVENT
 END:VCALENDAR
