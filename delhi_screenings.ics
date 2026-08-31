@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T120000Z
-SUMMARY:After Life (1999)
-UID:af4dfc9a-7cf5-43f1-b39a-f01fc99ab188@af4d.org
-URL:https://fillum.in
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260913T053000Z
+SUMMARY:5-Hour Filmmaking Challenge — September Edition!
+UID:c7628db3-cadd-4816-91fb-66216b2a0254@c762.org
+URL:https://fillum.in/p/374
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T090000Z
-SUMMARY:The Phantom Carriage (1921)
-UID:a9087d4e-7b0b-43c7-9958-ccb74e442fec@a908.org
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20260904T113000Z
+SUMMARY:I Live in Behrampada (1993)
+UID:5a0d4e1e-34b1-4dd1-b184-62715aec4185@5a0d.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -25,34 +25,7 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20260901T133000Z
 SUMMARY:Curveball (2021)
-UID:094670a0-6067-4896-979d-c905af3f02e1@0946.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20260904T113000Z
-SUMMARY:I Live in Behrampada (1993)
-UID:0cf3c02c-ab69-4192-813f-5d5b5c43e7f8@0cf3.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/388
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260830T043000Z
-SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
-UID:707947ea-3023-49c4-bed3-934186acad8c@7079.org
-URL:https://fillum.in/p/388
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20260905T093000Z
-SUMMARY:Dr. B.R. Ambedkar: Now & Then (2023)
-UID:5749aa72-6de1-4f97-af37-b1d1d0d43fb4@5749.org
+UID:606c03a6-9150-43d4-ba9f-7e861ee41a09@606c.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -61,53 +34,8 @@ DURATION:PT2H
 LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
 DTSTART:20260905T120000Z
 SUMMARY:Land of My Dreams (2023)
-UID:e4b0512d-0561-4b7f-8c9e-28f6054298af@e4b0.org
+UID:491f8ff4-9cc7-43b9-ab29-fcb31151d1c6@491f.org
 URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260913T053000Z
-SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:937fe905-c377-4b99-8361-bf1439816c58@937f.org
-URL:https://fillum.in/p/374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Studio Montage\n\nOrganized by Progressive Artists' League. Screening will be followed by discussion on the film.\nWhatsApp Contact: 7038203920\n\nMore info / Tickets: https://fillum.in/screening/6099
-DURATION:PT2H
-LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
-DTSTART:20260830T083000Z
-SUMMARY:Tout Va Bien (1972)
-UID:edbf817a-61e4-473e-a510-6ba13c037f84@edbf.org
-URL:https://fillum.in/screening/6099
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n“Strange\, what love does.” The role of a lifetime\, a Hollywood mystery\, a woman in trouble . . . David Lynch’s first digitally shot feature makes visionary use of the medium to weave a vast me.. more\n\nMore info / Tickets: https://fillum.in/p/387
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20260830T063000Z
-SUMMARY:Inland Empire (2006)
-UID:17f5a4dd-f062-4f10-84e3-fb498930e2ef@17f5.org
-URL:https://fillum.in/p/387
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nCamera Commune presents "Revolution and State Repression"\, a two day affair where we screen films on protests and the reaction of the state machinery to it.\n\nThe films will be preceded by 15 minut.. more\n\nMore info / Tickets: https://fillum.in/screening/6080
-DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20260830T113000Z
-SUMMARY:A Taxi Driver (2017)
-UID:54f32d45-3d98-44dc-95b9-fd14066e1e8d@54f3.org
-URL:https://fillum.in/screening/6080
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Screenery\n\nThis year\, Rang De Basanti celebrates 20 years!\n\nAnd for the first time\, the landmark film is being screened outside a traditional theatre.\n\nPresented by Screenery in partnership with SOCIAL\, th.. more\n\nMore info / Tickets: https://fillum.in/p/379
-DURATION:PT2H
-LOCATION:Civil Lines SOCIAL
-DTSTART:20260830T133000Z
-SUMMARY:Rang De Basanti (2006)
-UID:b098eabb-49cd-4f11-85bd-eb075ac26457@b098.org
-URL:https://fillum.in/p/379
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
@@ -115,16 +43,16 @@ DURATION:PT2H
 LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
 DTSTART:20260904T093000Z
 SUMMARY:Kya Hua Iss Sheher Ko? (1986)
-UID:7734af2f-f89a-4b8e-a966-478c30f13dd6@7734.org
+UID:458b65e0-7b95-46b1-87c3-493818981313@458b.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260830T053000Z
-SUMMARY:The Conversation (1974)
-UID:b784dca2-2170-4d49-b333-6afc07941bee@b784.org
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20260905T093000Z
+SUMMARY:Dr. B.R. Ambedkar: Now & Then (2023)
+UID:d61d0634-cd0c-4649-a66b-eeda81bd36c2@d61d.org
 URL:https://fillum.in
 END:VEVENT
 END:VCALENDAR
