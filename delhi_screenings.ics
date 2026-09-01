@@ -5,63 +5,27 @@ BEGIN:VEVENT
 DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
 LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20260905T093000Z
-SUMMARY:Dr. B.R. Ambedkar: Now & Then (2023)
-UID:6d051206-dfb4-48d1-82ee-57c3e8e65ebf@6d05.org
+DTSTART:20260905T120000Z
+SUMMARY:Land of My Dreams (2023)
+UID:b0622187-e3ff-4a5a-bf74-f553a571ca27@b062.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
+DESCRIPTION:Host: The Big Hoom Club\n\n· Pagal Actor Unemployed (Rohan Gadi)\n· Laude Special Drink (Saatvic Virmani)\n· Skinny (Shivrajeshwar Singh)\n· A Body Learning Home (Sakshi Doshi)\n· Aana Jaana (Kshitiz Sharma)\n· How Woul.. more\n\nMore info / Tickets: https://fillum.in/event/6120
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260906T073000Z
-SUMMARY:Paprika (2006)
-UID:5da3bc6b-66e7-4660-b94a-2bf641da98ec@5da3.org
-URL:https://fillum.in/p/390
+LOCATION:Mool\, South Ex 2
+DTSTART:20260905T073000Z
+SUMMARY:Short Film Program - Day 1
+UID:37a38d3c-4be3-48d1-9148-cfa1669cfb11@37a3.org
+URL:https://fillum.in/event/6120
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260905T090000Z
-SUMMARY:Memories of Murder (2003)
-UID:7ca660ff-f962-44da-a740-132080bdff20@7ca6.org
-URL:https://fillum.in/p/390
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260906T053000Z
-SUMMARY:A Short Film About Love (1988)
-UID:166aadfe-fbcb-4bd2-81b1-4f0e5437ce95@166a.org
-URL:https://fillum.in/p/390
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260918T123000Z
-SUMMARY:The Architect (2025)
-UID:5908cc16-adca-44f5-b906-2e4c6e852a29@5908.org
-URL:https://fillum.in/screening/6106
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20260906T093000Z
-SUMMARY:Drive (2011)
-UID:0adc1a6b-5709-4083-9aeb-ba2c59c03b95@0adc.org
-URL:https://fillum.in/p/390
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20260901T133000Z
-SUMMARY:Curveball (2021)
-UID:7afccf4f-5716-4771-992a-782a4c7792e7@7afc.org
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20260904T113000Z
+SUMMARY:I Live in Behrampada (1993)
+UID:f9609b57-05d6-403a-9959-23337f26d72d@f960.org
 URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
@@ -70,26 +34,35 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20260905T113000Z
 SUMMARY:Grave of the Fireflies (1988)
-UID:eedb8922-62ab-46a0-9b02-58ecffeb968c@eedb.org
+UID:fd902635-b675-449a-bec6-1edaf79d47bf@fd90.org
 URL:https://fillum.in/p/390
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/328
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260906T130000Z
-SUMMARY:The Seventh Seal (1957)
-UID:36c4dda8-300b-4b8d-911b-c10a8787fefb@36c4.org
-URL:https://fillum.in/p/328
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20260901T133000Z
+SUMMARY:Curveball (2021)
+UID:1ba4f5db-6981-4475-954e-d5ea7930b51e@1ba4.org
+URL:https://fillum.in
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
 DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20260904T093000Z
-SUMMARY:Kya Hua Iss Sheher Ko? (1986)
-UID:db2961df-c971-44a7-bb60-cc6799e11db2@db29.org
-URL:https://fillum.in
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260906T093000Z
+SUMMARY:Drive (2011)
+UID:a4eb8b75-ef0c-4136-9219-9c5c3913de14@a4eb.org
+URL:https://fillum.in/p/390
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260918T123000Z
+SUMMARY:The Architect (2025)
+UID:8934f66b-6154-4117-b5f4-2c84ce29f3ab@8934.org
+URL:https://fillum.in/screening/6106
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
@@ -97,35 +70,71 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20260905T063000Z
 SUMMARY:The Killing of a Sacred Deer (2017)
-UID:a55de0e9-07bd-4cae-bd39-6b30dc4e0114@a55d.org
+UID:be0a6869-4f8c-4b33-96ce-682559aaed78@be0a.org
 URL:https://fillum.in/p/390
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
+DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260906T073000Z
+SUMMARY:Paprika (2006)
+UID:d7ea87c9-9ec3-4191-a00f-dbcaf0cc531d@d7ea.org
+URL:https://fillum.in/p/390
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20260905T093000Z
+SUMMARY:Dr. B.R. Ambedkar: Now & Then (2023)
+UID:68e02f4d-477d-4e3c-8852-a883b48d3e11@68e0.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
+DURATION:PT2H
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20260904T093000Z
+SUMMARY:Kya Hua Iss Sheher Ko? (1986)
+UID:979aedb8-6504-446e-a823-0564a7361929@979a.org
+URL:https://fillum.in
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260906T053000Z
+SUMMARY:A Short Film About Love (1988)
+UID:0457cef0-5129-4c3e-a22a-f0532ef20672@0457.org
+URL:https://fillum.in/p/390
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Big Hoom Club\n\n· Kuchar (The Itch) (Vaidaangi Sharma)\n· If You Know You Know (Jyotsana Rajpurohit)\n· Chaar Diwaari (Abhishek Vijay)\n· How Not to Deal with Grief (Ashwin Karthikeyan)\n· Ru Ba Ru (Face To Fa.. more\n\nMore info / Tickets: https://fillum.in/event/6121
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20260906T073000Z
+SUMMARY:Short Film Program - Day 2
+UID:4c8528a0-fbd3-4140-afb2-e5c3b023e2ec@4c85.org
+URL:https://fillum.in/event/6121
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\n\n\nMore info / Tickets: https://fillum.in/p/328
 DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260913T053000Z
-SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:d008a2cf-12d7-4332-806c-d1d4835bb663@d008.org
-URL:https://fillum.in/p/374
+DTSTART:20260906T130000Z
+SUMMARY:The Seventh Seal (1957)
+UID:656d7a64-7890-4dab-8fab-27c70d86cef0@656d.org
+URL:https://fillum.in/p/328
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
+DESCRIPTION:Host: Delhi Screen Society\n\nA part of the September Screenings event by DSS!\n\nMore info / Tickets: https://fillum.in/p/390
 DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20260904T113000Z
-SUMMARY:I Live in Behrampada (1993)
-UID:e2b2198d-5f3c-4c83-919b-700e2a79b702@e2b2.org
-URL:https://fillum.in
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Post-screening conversation with the filmmaker.\n\nMore info / Tickets: https://fillum.in
-DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20260905T120000Z
-SUMMARY:Land of My Dreams (2023)
-UID:3e41438d-c8b0-4e9e-a524-0aa0e5a885d4@3e41.org
-URL:https://fillum.in
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20260905T090000Z
+SUMMARY:Memories of Murder (2003)
+UID:f0697a70-d3ac-4d05-8747-8b6b7ca7c02b@f069.org
+URL:https://fillum.in/p/390
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nFree entry on first come first served basis. Post-screening discussion with the filmmakers.\n\nMore info / Tickets: https://fillum.in/screening/6108
@@ -133,7 +142,16 @@ DURATION:PT2H
 LOCATION:Press Club of India\, Raisina Road
 DTSTART:20260903T130000Z
 SUMMARY:Ghubaar (2024)
-UID:3d7cf8eb-5cee-4e66-b5d9-c5e2efe68277@3d7c.org
+UID:0693ab34-2e85-4916-b00b-bacdb85d8c1f@0693.org
 URL:https://fillum.in/screening/6108
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260913T053000Z
+SUMMARY:5-Hour Filmmaking Challenge — September Edition!
+UID:6a8d113c-da1f-45ef-82f9-be014cd8efab@6a8d.org
+URL:https://fillum.in/p/374
 END:VEVENT
 END:VCALENDAR
