@@ -7,8 +7,17 @@ DURATION:PT2H
 LOCATION:Mool
 DTSTART:20260907T130000Z
 SUMMARY:Dr. B.R. Ambedkar: Now & Then (2023)
-UID:4f140eae-ae44-4e55-9a8f-c27974ed73fd@4f14.org
+UID:274f96c8-4721-4153-b36a-5b3dc42bb1f3@274f.org
 URL:https://fillum.in/p/392
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Yura was here.\n\nMore info / Tickets: https://fillum.in/screening/6135
+DURATION:PT2H
+LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
+DTSTART:20260910T113000Z
+SUMMARY:Morning Sunshine (2024)
+UID:e2e369e1-97bc-4dd5-a252-8f17e5398bc9@e2e3.org
+URL:https://fillum.in/screening/6135
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
@@ -16,17 +25,17 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20260913T053000Z
 SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:583585f3-0bfa-4fd4-bc41-f17a6b8ca63f@5835.org
+UID:3f2a6670-65fc-4c98-b432-1d070b36970e@3f2a.org
 URL:https://fillum.in/p/374
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Express Screen Film Club\n\nPost-screening conversation with the film critic Shubhra Gupta.\n\nMore info / Tickets: https://fillum.in/screening/6126
+DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260907T130000Z
-SUMMARY:Shape of Momo (2026)
-UID:fc52648f-01e3-4407-8f99-c74e84352b0a@fc52.org
-URL:https://fillum.in/screening/6126
+LOCATION:Lilanoor\, South Extension 2
+DTSTART:20260913T083000Z
+SUMMARY:Trembling Mountain (2016)
+UID:01b2f12e-a00b-4acb-b76b-c8db529908e7@01b2.org
+URL:https://fillum.in/p/405
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
@@ -34,7 +43,43 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260918T123000Z
 SUMMARY:The Architect (2025)
-UID:ddc3fd01-b4d0-4374-a0e1-618db48ff550@ddc3.org
+UID:8783f43b-a402-4f58-a61b-39ebccad1df3@8783.org
 URL:https://fillum.in/screening/6106
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
+DURATION:PT2H
+LOCATION:Pulp Society\, Okhla
+DTSTART:20260912T063000Z
+SUMMARY:Every Now and Then Girls... (2025)
+UID:34b157d0-edff-47ba-8c28-bff92193c5d7@34b1.org
+URL:https://fillum.in/screening/6139
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Express Screen Film Club\n\nPost-screening conversation with the film critic Shubhra Gupta.\n\nMore info / Tickets: https://fillum.in/screening/6126
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260907T130000Z
+SUMMARY:Shape of Momo (2026)
+UID:5e308699-f40c-449a-8a50-4a8f0620830a@5e30.org
+URL:https://fillum.in/screening/6126
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
+DURATION:PT2H
+LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
+DTSTART:20260910T113000Z
+SUMMARY:Yura Was Here (2026)
+UID:4c3e69e1-510a-419c-9dde-546e2b1d541b@4c3e.org
+URL:https://fillum.in/screening/6134
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260912T093000Z
+SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
+UID:c4c15876-2c9f-49a1-805c-5df0297577e3@c4c1.org
+URL:https://fillum.in/p/395
 END:VEVENT
 END:VCALENDAR
