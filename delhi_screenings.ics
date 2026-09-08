@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
+DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260912T093000Z
-SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
-UID:470c6e08-a226-47ed-854d-5e38a3a2f3ea@470c.org
-URL:https://fillum.in/p/395
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260918T123000Z
-SUMMARY:The Architect (2025)
-UID:e45e3c8a-37b0-4181-b1b1-859b127689ca@e45e.org
-URL:https://fillum.in/screening/6106
+LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
+DTSTART:20260910T113000Z
+SUMMARY:Yura Was Here (2026)
+UID:747d0c25-4a25-4a28-a33a-79c434a42d22@747d.org
+URL:https://fillum.in/screening/6134
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Yura was here.\n\nMore info / Tickets: https://fillum.in/screening/6135
@@ -25,7 +16,7 @@ DURATION:PT2H
 LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
 DTSTART:20260910T113000Z
 SUMMARY:Morning Sunshine (2024)
-UID:f9d13ea3-fd2f-43f7-ad63-5f9ee13264de@f9d1.org
+UID:a4601896-d89f-4633-8947-5e4b0257596b@a460.org
 URL:https://fillum.in/screening/6135
 END:VEVENT
 BEGIN:VEVENT
@@ -34,26 +25,26 @@ DURATION:PT2H
 LOCATION:Pulp Society\, Okhla
 DTSTART:20260912T063000Z
 SUMMARY:Every Now and Then Girls... (2025)
-UID:7fb1b75f-9b7b-4f0f-86d5-aed1d3f9d13a@7fb1.org
+UID:8ef25add-b93c-47ff-9f35-c9ff3bd14a5b@8ef2.org
 URL:https://fillum.in/screening/6139
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
+DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
 DURATION:PT2H
-LOCATION:Lilanoor\, South Extension 2
-DTSTART:20260913T083000Z
-SUMMARY:Trembling Mountain (2016)
-UID:f48052e7-869d-4fc6-b53a-231b31c93b73@f480.org
-URL:https://fillum.in/p/405
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260912T093000Z
+SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
+UID:0be93bee-4347-4fe5-a843-1ca348f7019c@0be9.org
+URL:https://fillum.in/p/395
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
 DURATION:PT2H
-LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
-DTSTART:20260910T113000Z
-SUMMARY:Yura Was Here (2026)
-UID:44b671fa-1dd8-4bf8-b3a5-66767b76e40b@44b6.org
-URL:https://fillum.in/screening/6134
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260918T123000Z
+SUMMARY:The Architect (2025)
+UID:248d23b0-7fa9-4f97-9917-5c1eacf1bf98@248d.org
+URL:https://fillum.in/screening/6106
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
@@ -61,7 +52,16 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20260913T053000Z
 SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:ed29efaa-4565-469d-986b-201986ac85b9@ed29.org
+UID:9f544c50-89d6-44f7-b211-f154f6286163@9f54.org
 URL:https://fillum.in/p/374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
+DURATION:PT2H
+LOCATION:Lilanoor\, South Extension 2
+DTSTART:20260913T083000Z
+SUMMARY:Trembling Mountain (2016)
+UID:ee55bc05-34ae-4879-b1a6-fda8361ef6b8@ee55.org
+URL:https://fillum.in/p/405
 END:VEVENT
 END:VCALENDAR
