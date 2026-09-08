@@ -2,40 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Jyoti Nisha\n\nFilmmaker Jyoti Nisha through an Ambedkarite Bahujan feminist lens\, explores the history of caste inequality in India\, reframes questions of representation\, social justice and upper caste ways of lo.. more\n\nMore info / Tickets: https://fillum.in/p/392
-DURATION:PT2H
-LOCATION:Mool
-DTSTART:20260907T130000Z
-SUMMARY:Dr. B.R. Ambedkar: Now & Then (2023)
-UID:274f96c8-4721-4153-b36a-5b3dc42bb1f3@274f.org
-URL:https://fillum.in/p/392
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Yura was here.\n\nMore info / Tickets: https://fillum.in/screening/6135
-DURATION:PT2H
-LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
-DTSTART:20260910T113000Z
-SUMMARY:Morning Sunshine (2024)
-UID:e2e369e1-97bc-4dd5-a252-8f17e5398bc9@e2e3.org
-URL:https://fillum.in/screening/6135
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
+DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
 DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260913T053000Z
-SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:3f2a6670-65fc-4c98-b432-1d070b36970e@3f2a.org
-URL:https://fillum.in/p/374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
-DURATION:PT2H
-LOCATION:Lilanoor\, South Extension 2
-DTSTART:20260913T083000Z
-SUMMARY:Trembling Mountain (2016)
-UID:01b2f12e-a00b-4acb-b76b-c8db529908e7@01b2.org
-URL:https://fillum.in/p/405
+DTSTART:20260912T093000Z
+SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
+UID:470c6e08-a226-47ed-854d-5e38a3a2f3ea@470c.org
+URL:https://fillum.in/p/395
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
@@ -43,8 +16,17 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260918T123000Z
 SUMMARY:The Architect (2025)
-UID:8783f43b-a402-4f58-a61b-39ebccad1df3@8783.org
+UID:e45e3c8a-37b0-4181-b1b1-859b127689ca@e45e.org
 URL:https://fillum.in/screening/6106
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Yura was here.\n\nMore info / Tickets: https://fillum.in/screening/6135
+DURATION:PT2H
+LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
+DTSTART:20260910T113000Z
+SUMMARY:Morning Sunshine (2024)
+UID:f9d13ea3-fd2f-43f7-ad63-5f9ee13264de@f9d1.org
+URL:https://fillum.in/screening/6135
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
@@ -52,17 +34,17 @@ DURATION:PT2H
 LOCATION:Pulp Society\, Okhla
 DTSTART:20260912T063000Z
 SUMMARY:Every Now and Then Girls... (2025)
-UID:34b157d0-edff-47ba-8c28-bff92193c5d7@34b1.org
+UID:7fb1b75f-9b7b-4f0f-86d5-aed1d3f9d13a@7fb1.org
 URL:https://fillum.in/screening/6139
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Express Screen Film Club\n\nPost-screening conversation with the film critic Shubhra Gupta.\n\nMore info / Tickets: https://fillum.in/screening/6126
+DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260907T130000Z
-SUMMARY:Shape of Momo (2026)
-UID:5e308699-f40c-449a-8a50-4a8f0620830a@5e30.org
-URL:https://fillum.in/screening/6126
+LOCATION:Lilanoor\, South Extension 2
+DTSTART:20260913T083000Z
+SUMMARY:Trembling Mountain (2016)
+UID:f48052e7-869d-4fc6-b53a-231b31c93b73@f480.org
+URL:https://fillum.in/p/405
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
@@ -70,16 +52,16 @@ DURATION:PT2H
 LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
 DTSTART:20260910T113000Z
 SUMMARY:Yura Was Here (2026)
-UID:4c3e69e1-510a-419c-9dde-546e2b1d541b@4c3e.org
+UID:44b671fa-1dd8-4bf8-b3a5-66767b76e40b@44b6.org
 URL:https://fillum.in/screening/6134
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
 DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260912T093000Z
-SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
-UID:c4c15876-2c9f-49a1-805c-5df0297577e3@c4c1.org
-URL:https://fillum.in/p/395
+DTSTART:20260913T053000Z
+SUMMARY:5-Hour Filmmaking Challenge — September Edition!
+UID:ed29efaa-4565-469d-986b-201986ac85b9@ed29.org
+URL:https://fillum.in/p/374
 END:VEVENT
 END:VCALENDAR
