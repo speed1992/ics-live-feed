@@ -2,49 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
-DURATION:PT2H
-LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
-DTSTART:20260910T113000Z
-SUMMARY:Yura Was Here (2026)
-UID:747d0c25-4a25-4a28-a33a-79c434a42d22@747d.org
-URL:https://fillum.in/screening/6134
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Yura was here.\n\nMore info / Tickets: https://fillum.in/screening/6135
 DURATION:PT2H
 LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
 DTSTART:20260910T113000Z
 SUMMARY:Morning Sunshine (2024)
-UID:a4601896-d89f-4633-8947-5e4b0257596b@a460.org
+UID:527ebb93-115d-4ad6-bc16-1abc13ba9193@527e.org
 URL:https://fillum.in/screening/6135
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
-DURATION:PT2H
-LOCATION:Pulp Society\, Okhla
-DTSTART:20260912T063000Z
-SUMMARY:Every Now and Then Girls... (2025)
-UID:8ef25add-b93c-47ff-9f35-c9ff3bd14a5b@8ef2.org
-URL:https://fillum.in/screening/6139
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260912T093000Z
-SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
-UID:0be93bee-4347-4fe5-a843-1ca348f7019c@0be9.org
-URL:https://fillum.in/p/395
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6145
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260918T123000Z
-SUMMARY:The Architect (2025)
-UID:248d23b0-7fa9-4f97-9917-5c1eacf1bf98@248d.org
-URL:https://fillum.in/screening/6106
+DTSTART:20260910T130000Z
+SUMMARY:Calamity (2020)
+UID:29cadacd-871d-4a84-8004-5ad6b7692a51@29ca.org
+URL:https://fillum.in/screening/6145
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
@@ -52,8 +25,35 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20260913T053000Z
 SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:9f544c50-89d6-44f7-b211-f154f6286163@9f54.org
+UID:65b49bda-eef8-4285-9e92-34acddbd812a@65b4.org
 URL:https://fillum.in/p/374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSome love stories are never meant to have a happy ending.\n\nTwo people meet.\nThey fall in love.\nWar tears them apart.\nAnd when they find each other again\, nothing is quite the same.\n\nA hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/406
+DURATION:PT2H
+LOCATION:iPley music Studio\, GK-1
+DTSTART:20260913T110000Z
+SUMMARY:Floating Clouds (1955)
+UID:d1f6dd78-4caa-4605-a9b5-811b9a74f10d@d1f6.org
+URL:https://fillum.in/p/406
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260923T133000Z
+SUMMARY:Visthapana (2026)
+UID:e59c46ad-0426-458c-b287-d910d675282f@e59c.org
+URL:https://fillum.in/screening/6147
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
+DURATION:PT2H
+LOCATION:Pulp Society\, Okhla
+DTSTART:20260912T063000Z
+SUMMARY:Every Now and Then Girls... (2025)
+UID:e30ed9ca-44cd-4473-8128-51c8553e3db9@e30e.org
+URL:https://fillum.in/screening/6139
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
@@ -61,7 +61,43 @@ DURATION:PT2H
 LOCATION:Lilanoor\, South Extension 2
 DTSTART:20260913T083000Z
 SUMMARY:Trembling Mountain (2016)
-UID:ee55bc05-34ae-4879-b1a6-fda8361ef6b8@ee55.org
+UID:465cf66c-7da0-45a1-abf4-9b1738ecb1d3@465c.org
 URL:https://fillum.in/p/405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260912T093000Z
+SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
+UID:1b309a4e-75e9-4823-86b0-b2f8375548e9@1b30.org
+URL:https://fillum.in/p/395
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nTwo children.\nA vanished mother.\nA world where kindness comes at a price.\n\nSeparated by fate and trapped under the rule of a merciless man\, they must find a way to survive without losing what ma.. more\n\nMore info / Tickets: https://fillum.in/p/406
+DURATION:PT2H
+LOCATION:iPley music Studio\, GK-1
+DTSTART:20260912T110000Z
+SUMMARY:Sansho the Bailiff (1954)
+UID:064ab5a1-4203-455d-8eec-43d1c60f3c93@064a.org
+URL:https://fillum.in/p/406
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260918T123000Z
+SUMMARY:The Architect (2025)
+UID:85b35969-1cd6-4975-b145-5114d5a5ed59@85b3.org
+URL:https://fillum.in/screening/6106
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
+DURATION:PT2H
+LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
+DTSTART:20260910T113000Z
+SUMMARY:Yura Was Here (2026)
+UID:d1fd9c25-0012-4116-ac61-b8f956d6f8ca@d1fd.org
+URL:https://fillum.in/screening/6134
 END:VEVENT
 END:VCALENDAR
