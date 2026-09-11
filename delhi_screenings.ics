@@ -2,49 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
-DURATION:PT2H
-LOCATION:TOT studio\, Lajpat Nagar
-DTSTART:20260919T100000Z
-SUMMARY:Devi (1960)
-UID:0baa8664-9597-4eda-8e3e-990bb6636804@0baa.org
-URL:https://fillum.in/p/407
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nTwo children.\nA vanished mother.\nA world where kindness comes at a price.\n\nSeparated by fate and trapped under the rule of a merciless man\, they must find a way to survive without losing what ma.. more\n\nMore info / Tickets: https://fillum.in/p/406
-DURATION:PT2H
-LOCATION:iPley music Studio\, GK-1
-DTSTART:20260912T110000Z
-SUMMARY:Sansho the Bailiff (1954)
-UID:75848baf-6211-4621-9e92-b670eff8262f@7584.org
-URL:https://fillum.in/p/406
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260923T133000Z
-SUMMARY:Visthapana (2026)
-UID:81033d47-e018-4570-865d-53c1715c88d7@8103.org
-URL:https://fillum.in/screening/6147
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nSome love stories are never meant to have a happy ending.\n\nTwo people meet.\nThey fall in love.\nWar tears them apart.\nAnd when they find each other again\, nothing is quite the same.\n\nA hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/406
 DURATION:PT2H
 LOCATION:iPley music Studio\, GK-1
 DTSTART:20260913T110000Z
 SUMMARY:Floating Clouds (1955)
-UID:93520025-d0f4-48e4-a253-1818ff24e1be@9352.org
+UID:29383447-5247-4b0f-b19b-a380308d7875@2938.org
 URL:https://fillum.in/p/406
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260912T093000Z
-SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
-UID:9728765f-c61f-42a3-b8a1-4f59d650a98e@9728.org
-URL:https://fillum.in/p/395
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
@@ -52,62 +16,8 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20260913T053000Z
 SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:8d5f5886-9522-4f3f-b00b-adb261f93625@8d5f.org
+UID:c815d16e-e2bc-4486-8245-c62d8cb0adc6@c815.org
 URL:https://fillum.in/p/374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260917T133000Z
-SUMMARY:Oslo: A Tail of Promise (2025)
-UID:35d424f7-6b53-4b5b-9a30-0e336a64a9a7@35d4.org
-URL:https://fillum.in/screening/6154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Morning Sunshine.\n\nMore info / Tickets: https://fillum.in/screening/6134
-DURATION:PT2H
-LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
-DTSTART:20260910T113000Z
-SUMMARY:Yura Was Here (2026)
-UID:89f0fece-7c5f-4b0a-bacc-cc5a2aa1aec2@89f0.org
-URL:https://fillum.in/screening/6134
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
-DURATION:PT2H
-LOCATION:Lilanoor\, South Extension 2
-DTSTART:20260913T083000Z
-SUMMARY:Trembling Mountain (2016)
-UID:08c67dae-2a79-4008-a59b-8c0ea7ca2253@08c6.org
-URL:https://fillum.in/p/405
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6145
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260910T130000Z
-SUMMARY:Calamity (2020)
-UID:3bf61c29-d694-4485-a5c1-a49a6ce3a145@3bf6.org
-URL:https://fillum.in/screening/6145
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Russian House in New Delhi\n\nFree entry. ID Card required. There will also be screening of - Yura was here.\n\nMore info / Tickets: https://fillum.in/screening/6135
-DURATION:PT2H
-LOCATION:Russian Centre of Science and Culture\, Firoz Shah Road
-DTSTART:20260910T113000Z
-SUMMARY:Morning Sunshine (2024)
-UID:c00f2ff4-55f5-4655-9d05-c599c6817f0b@c00f.org
-URL:https://fillum.in/screening/6135
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
-DURATION:PT2H
-LOCATION:Pulp Society\, Okhla
-DTSTART:20260912T063000Z
-SUMMARY:Every Now and Then Girls... (2025)
-UID:ffe87b21-a9d3-4eab-b45a-f72960ded521@ffe8.org
-URL:https://fillum.in/screening/6139
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
@@ -115,7 +25,70 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260918T123000Z
 SUMMARY:The Architect (2025)
-UID:01465f50-3d03-4e1b-98d9-4a44966ebb30@0146.org
+UID:ab5ef792-4579-484f-8d0e-99b06479cb7c@ab5e.org
 URL:https://fillum.in/screening/6106
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
+DURATION:PT2H
+LOCATION:Lilanoor\, South Ex 2
+DTSTART:20260913T083000Z
+SUMMARY:Trembling Mountain (2016)
+UID:27901ed3-7cde-4cb9-b15b-730d66fb4281@2790.org
+URL:https://fillum.in/p/405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nTwo children.\nA vanished mother.\nA world where kindness comes at a price.\n\nSeparated by fate and trapped under the rule of a merciless man\, they must find a way to survive without losing what ma.. more\n\nMore info / Tickets: https://fillum.in/p/406
+DURATION:PT2H
+LOCATION:iPley music Studio\, GK-1
+DTSTART:20260912T110000Z
+SUMMARY:Sansho the Bailiff (1954)
+UID:6a8b73a7-ab48-4c05-87bd-02ef869600f5@6a8b.org
+URL:https://fillum.in/p/406
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260917T133000Z
+SUMMARY:Oslo: A Tail of Promise (2025)
+UID:5ad9a148-e4a5-4c2a-88c9-a721adc0d9c1@5ad9.org
+URL:https://fillum.in/screening/6154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
+DURATION:PT2H
+LOCATION:Pulp Society\, Okhla
+DTSTART:20260912T063000Z
+SUMMARY:Every Now and Then Girls... (2025)
+UID:d3cffce7-8a45-4abe-b66a-d0497e78d464@d3cf.org
+URL:https://fillum.in/screening/6139
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260912T093000Z
+SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
+UID:a6fef482-68c1-4126-b865-646b911374ed@a6fe.org
+URL:https://fillum.in/p/395
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
+DURATION:PT2H
+LOCATION:TOT studio\, Lajpat Nagar
+DTSTART:20260919T100000Z
+SUMMARY:Devi (1960)
+UID:114e6178-2d2c-495f-ab46-56d9c33a2466@114e.org
+URL:https://fillum.in/p/407
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260923T133000Z
+SUMMARY:Visthapana (2026)
+UID:513c2b32-3f4b-447b-a6f3-d6d9c27ded00@513c.org
+URL:https://fillum.in/screening/6147
 END:VEVENT
 END:VCALENDAR
