@@ -2,76 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
-DURATION:PT2H
-LOCATION:Pulp Society\, Okhla
-DTSTART:20260912T063000Z
-SUMMARY:Every Now and Then Girls... (2025)
-UID:b34cbc02-b17c-4916-8865-133bad09f011@b34c.org
-URL:https://fillum.in/screening/6139
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nTwo children.\nA vanished mother.\nA world where kindness comes at a price.\n\nSeparated by fate and trapped under the rule of a merciless man\, they must find a way to survive without losing what ma.. more\n\nMore info / Tickets: https://fillum.in/p/406
-DURATION:PT2H
-LOCATION:iPley music Studio\, GK-1
-DTSTART:20260912T110000Z
-SUMMARY:Sansho the Bailiff (1954)
-UID:f579df43-23fe-4140-9682-36336aaa7869@f579.org
-URL:https://fillum.in/p/406
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260913T053000Z
-SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:a9ac8a82-31c6-404a-959c-4d65fd45a4f9@a9ac.org
-URL:https://fillum.in/p/374
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260918T123000Z
 SUMMARY:The Architect (2025)
-UID:ccc8cdd0-0867-48b8-98fe-277b6ad34e42@ccc8.org
+UID:2a8cff96-30b0-4424-91e3-2277c261c4b9@2a8c.org
 URL:https://fillum.in/screening/6106
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20260912T093000Z
-SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
-UID:945845bb-f8ff-4e81-8ecb-e9bf72955998@9458.org
-URL:https://fillum.in/p/395
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260917T133000Z
-SUMMARY:Oslo: A Tail of Promise (2025)
-UID:f4c461e1-c773-4284-8793-85455c78b864@f4c4.org
-URL:https://fillum.in/screening/6154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
-DURATION:PT2H
-LOCATION:TOT studio\, Lajpat Nagar
-DTSTART:20260919T100000Z
-SUMMARY:Devi (1960)
-UID:e0425e34-bd23-4437-95f0-25f79ecd55df@e042.org
-URL:https://fillum.in/p/407
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSome love stories are never meant to have a happy ending.\n\nTwo people meet.\nThey fall in love.\nWar tears them apart.\nAnd when they find each other again\, nothing is quite the same.\n\nA hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/406
-DURATION:PT2H
-LOCATION:iPley music Studio\, GK-1
-DTSTART:20260913T110000Z
-SUMMARY:Floating Clouds (1955)
-UID:39b9f8ca-7fec-478e-b05a-ad9014cb1c13@39b9.org
-URL:https://fillum.in/p/406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
@@ -79,8 +16,44 @@ DURATION:PT2H
 LOCATION:Gulmohar\, India Habitat Centre
 DTSTART:20260923T133000Z
 SUMMARY:Visthapana (2026)
-UID:c3dcc5cd-c59e-4e7c-924d-e2531c584c8a@c3dc.org
+UID:4a1e1c7c-6577-491d-8466-af76d91e4d71@4a1e.org
 URL:https://fillum.in/screening/6147
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Devanshu Singh\n\nDevanshu Singh is a National Award winning filmmaker and educator known for feature films ‘Chintu Ka Birthday’ and ‘14 Phere’\, and several viral AIB sketches.\n\nApart from directing ads\, mu.. more\n\nMore info / Tickets: https://fillum.in/p/395
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260912T093000Z
+SUMMARY:Scene Work - Workshop by National Award Winner Devanshu Singh
+UID:3a2dac4c-282b-4880-8a5e-bd969ed070f1@3a2d.org
+URL:https://fillum.in/p/395
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nPost-screening Q&A. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6139
+DURATION:PT2H
+LOCATION:Pulp Society\, Okhla
+DTSTART:20260912T063000Z
+SUMMARY:Every Now and Then Girls... (2025)
+UID:ad13020d-3d2c-466d-a768-ea48ff9b422b@ad13.org
+URL:https://fillum.in/screening/6139
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260917T133000Z
+SUMMARY:Oslo: A Tail of Promise (2025)
+UID:e589e6c6-e80e-4f43-a3c8-d4c5b543a21f@e589.org
+URL:https://fillum.in/screening/6154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nTwo children.\nA vanished mother.\nA world where kindness comes at a price.\n\nSeparated by fate and trapped under the rule of a merciless man\, they must find a way to survive without losing what ma.. more\n\nMore info / Tickets: https://fillum.in/p/406
+DURATION:PT2H
+LOCATION:iPley music Studio\, GK-1
+DTSTART:20260912T110000Z
+SUMMARY:Sansho the Bailiff (1954)
+UID:7f6a79eb-0b36-4db7-918f-31a41dadbb2e@7f6a.org
+URL:https://fillum.in/p/406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Sohbat\n\nLangtang Lirung in Nepal has witnessed two devastating moments\, eleven years apart.\n\nIn 2015\, an earthquake-triggered avalanche devastated Langtang.\nIn August 2026\, the collapse of glacier and b.. more\n\nMore info / Tickets: https://fillum.in/p/405
@@ -88,7 +61,34 @@ DURATION:PT2H
 LOCATION:Lilanoor\, South Ex 2
 DTSTART:20260913T083000Z
 SUMMARY:Trembling Mountain (2016)
-UID:cdc8fa82-4912-4574-8141-81d3b4213f86@cdc8.org
+UID:daed417a-e0a5-4dca-9cf3-12a26ae98ba0@daed.org
 URL:https://fillum.in/p/405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
+DURATION:PT2H
+LOCATION:TOT studio\, Lajpat Nagar
+DTSTART:20260919T100000Z
+SUMMARY:Devi (1960)
+UID:5505b7da-96bf-4e71-8ccb-7b46a8926732@5505.org
+URL:https://fillum.in/p/407
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20260913T053000Z
+SUMMARY:5-Hour Filmmaking Challenge — September Edition!
+UID:5cccb4e1-68db-4fe4-9084-3dc421291365@5ccc.org
+URL:https://fillum.in/p/374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSome love stories are never meant to have a happy ending.\n\nTwo people meet.\nThey fall in love.\nWar tears them apart.\nAnd when they find each other again\, nothing is quite the same.\n\nA hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/406
+DURATION:PT2H
+LOCATION:iPley music Studio\, GK-1
+DTSTART:20260913T110000Z
+SUMMARY:Floating Clouds (1955)
+UID:daeafdd2-2297-45e9-82b0-0e97cf987b44@daea.org
+URL:https://fillum.in/p/406
 END:VEVENT
 END:VCALENDAR
