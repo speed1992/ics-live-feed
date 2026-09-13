@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
+DESCRIPTION:Host: SomeArt\n\nSome love stories are never meant to have a happy ending.\n\nTwo people meet.\nThey fall in love.\nWar tears them apart.\nAnd when they find each other again\, nothing is quite the same.\n\nA hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/406
 DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260923T133000Z
-SUMMARY:Visthapana (2026)
-UID:b9415629-5ee7-4306-8d91-5bfaecab8152@b941.org
-URL:https://fillum.in/screening/6147
+LOCATION:iPley music Studio\, GK-1
+DTSTART:20260913T110000Z
+SUMMARY:Floating Clouds (1955)
+UID:17cf3e19-1880-46f3-b549-a34f9c263110@17cf.org
+URL:https://fillum.in/p/406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: First Ray Films\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
@@ -16,7 +16,34 @@ DURATION:PT2H
 LOCATION:Cinepolis: DLF Avenue\, Saket
 DTSTART:20260918T123000Z
 SUMMARY:Om Ka Hari (2026)
-UID:d4c808b7-2ed1-46c6-8702-b07e081a4ac7@d4c8.org
+UID:47ccae05-05f1-4bac-8632-505b5f50649d@47cc.org
+URL:https://fillum.in/screening/6159
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260917T133000Z
+SUMMARY:Oslo: A Tail of Promise (2025)
+UID:161773e0-7458-49b7-a3b5-ae7bb5c86141@1617.org
+URL:https://fillum.in/screening/6154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
+DURATION:PT2H
+LOCATION:TOT studio\, Lajpat Nagar
+DTSTART:20260919T100000Z
+SUMMARY:Devi (1960)
+UID:62231d1d-8ae1-49ce-8bd2-9cd6ee2955a7@6223.org
+URL:https://fillum.in/p/407
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: First Ray Films\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
+DURATION:PT2H
+LOCATION:Cinepolis: DLF Avenue\, Saket
+DTSTART:20260918T123000Z
+SUMMARY:Om Ka Hari (2026)
+UID:1a868857-d265-4198-8e8e-ba3e32e5b2a9@1a86.org
 URL:https://fillum.in/screening/6159
 END:VEVENT
 BEGIN:VEVENT
@@ -25,26 +52,8 @@ DURATION:PT2H
 LOCATION:Lilanoor\, South Ex 2
 DTSTART:20260913T083000Z
 SUMMARY:Trembling Mountain (2016)
-UID:995dcb77-3d17-46d5-9579-df91fd422951@995d.org
+UID:1aec38f0-ca5d-451b-9dd4-24c00db11c4f@1aec.org
 URL:https://fillum.in/p/405
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: First Ray Films\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
-DURATION:PT2H
-LOCATION:Cinepolis: DLF Avenue\, Saket
-DTSTART:20260918T123000Z
-SUMMARY:Om Ka Hari (2026)
-UID:365a294b-757f-4c03-a408-ef8a3559a065@365a.org
-URL:https://fillum.in/screening/6159
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
-DURATION:PT2H
-LOCATION:TOT studio\, Lajpat Nagar
-DTSTART:20260919T100000Z
-SUMMARY:Devi (1960)
-UID:605c4da3-022e-4046-a0a2-cebd71411d16@605c.org
-URL:https://fillum.in/p/407
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/374
@@ -52,7 +61,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20260913T053000Z
 SUMMARY:5-Hour Filmmaking Challenge — September Edition!
-UID:4c788205-b19e-404b-8f0b-e33a0123fc9c@4c78.org
+UID:be8c06ee-3d7e-4d00-ac15-a5dac5ae7de9@be8c.org
 URL:https://fillum.in/p/374
 END:VEVENT
 BEGIN:VEVENT
@@ -61,25 +70,25 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260918T123000Z
 SUMMARY:The Architect (2025)
-UID:4e75e44c-78af-4d31-b391-c16fa2160295@4e75.org
+UID:45307cc1-5ca7-4c77-b879-fcfa8142d27a@4530.org
 URL:https://fillum.in/screening/6106
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
+DESCRIPTION:Host: Artdemic\n\nAn evening of experimental films and performances\n\n6:00 - 7:00 PM Experimental Film Screening\n\n7:30 - 8:30 PM - Film Performance (ft. Karan Talwar & Keyuri Bhogale)\n\n8:30 - 10:00 PM - Musical.. more\n\nMore info / Tickets: https://fillum.in/event/6161
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260917T133000Z
-SUMMARY:Oslo: A Tail of Promise (2025)
-UID:ac32475e-a946-47d5-824a-884aac62e7bb@ac32.org
-URL:https://fillum.in/screening/6154
+LOCATION:Gujral House. Lajpat Nagar III
+DTSTART:20260918T123000Z
+SUMMARY:Wild Vueing Weekend
+UID:ea8824b3-7ecd-4901-a45a-8f48b8a62aea@ea88.org
+URL:https://fillum.in/event/6161
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nSome love stories are never meant to have a happy ending.\n\nTwo people meet.\nThey fall in love.\nWar tears them apart.\nAnd when they find each other again\, nothing is quite the same.\n\nA hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/406
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
 DURATION:PT2H
-LOCATION:iPley music Studio\, GK-1
-DTSTART:20260913T110000Z
-SUMMARY:Floating Clouds (1955)
-UID:2e42b9ee-8425-4c90-b262-fe80a768b832@2e42.org
-URL:https://fillum.in/p/406
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260923T133000Z
+SUMMARY:Visthapana (2026)
+UID:af0383a1-d06f-4bc1-bc2f-405f94416975@af03.org
+URL:https://fillum.in/screening/6147
 END:VEVENT
 END:VCALENDAR
