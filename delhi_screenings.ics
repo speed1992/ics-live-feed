@@ -7,17 +7,8 @@ DURATION:PT2H
 LOCATION:TOT studio\, Lajpat Nagar
 DTSTART:20260919T100000Z
 SUMMARY:Devi (1960)
-UID:72b0cc61-1bf4-4fd0-b058-7512ea442f36@72b0.org
+UID:a81af5a5-60f9-4673-af62-6422b79538ca@a81a.org
 URL:https://fillum.in/p/407
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Artdemic\n\nAn evening of experimental films and performances\n\n6:00 - 7:00 PM Experimental Film Screening\n\n7:30 - 8:30 PM - Film Performance (ft. Karan Talwar & Keyuri Bhogale)\n\n8:30 - 10:00 PM - Musical.. more\n\nMore info / Tickets: https://fillum.in/event/6161
-DURATION:PT2H
-LOCATION:Gujral House. Lajpat Nagar III
-DTSTART:20260918T123000Z
-SUMMARY:Wild Vueing Weekend
-UID:0da579a2-51fb-4258-baff-2227869520af@0da5.org
-URL:https://fillum.in/event/6161
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
@@ -25,8 +16,17 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20260917T133000Z
 SUMMARY:Oslo: A Tail of Promise (2025)
-UID:0277b27e-1c0b-4b1a-a2b7-7e8e98b0a68c@0277.org
+UID:649f8f5a-0162-4ba2-88a0-6f63182aa244@649f.org
 URL:https://fillum.in/screening/6154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20260918T123000Z
+SUMMARY:The Architect (2025)
+UID:41297f45-a89c-47c8-b567-c847efe19bc8@4129.org
+URL:https://fillum.in/screening/6106
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: First Ray Films\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
@@ -34,7 +34,25 @@ DURATION:PT2H
 LOCATION:Cinepolis: DLF Avenue\, Saket
 DTSTART:20260918T123000Z
 SUMMARY:Om Ka Hari (2026)
-UID:61851935-89b9-4d8e-bdab-daa24bd2638f@6185.org
+UID:23fc20a5-f928-4c90-9a65-5142e590844e@23fc.org
+URL:https://fillum.in/screening/6159
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Artdemic\n\nAn evening of experimental films and performances\n\n6:00 - 7:00 PM Experimental Film Screening\n\n7:30 - 8:30 PM - Film Performance (ft. Karan Talwar & Keyuri Bhogale)\n\n8:30 - 10:00 PM - Musical.. more\n\nMore info / Tickets: https://fillum.in/event/6161
+DURATION:PT2H
+LOCATION:Gujral House. Lajpat Nagar III
+DTSTART:20260918T123000Z
+SUMMARY:Wild Vueing Weekend
+UID:a46e7c8d-5fe8-4121-86e3-eaa222f2629a@a46e.org
+URL:https://fillum.in/event/6161
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: First Ray Films\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
+DURATION:PT2H
+LOCATION:Cinepolis: DLF Avenue\, Saket
+DTSTART:20260918T123000Z
+SUMMARY:Om Ka Hari (2026)
+UID:3150c3ab-afc4-4f2c-9a65-97c3baf9901a@3150.org
 URL:https://fillum.in/screening/6159
 END:VEVENT
 BEGIN:VEVENT
@@ -43,25 +61,7 @@ DURATION:PT2H
 LOCATION:Gulmohar\, India Habitat Centre
 DTSTART:20260923T133000Z
 SUMMARY:Visthapana (2026)
-UID:31b6366d-d2da-48fc-bda7-4ff9979b7647@31b6.org
+UID:145102e9-d461-4356-b41e-320317664af1@1451.org
 URL:https://fillum.in/screening/6147
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: First Ray Films\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relationship. Film's cast members will also be present at the scree.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
-DURATION:PT2H
-LOCATION:Cinepolis: DLF Avenue\, Saket
-DTSTART:20260918T123000Z
-SUMMARY:Om Ka Hari (2026)
-UID:c021aabc-2f67-40c9-8c9d-6e0711cdfa14@c021.org
-URL:https://fillum.in/screening/6159
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260918T123000Z
-SUMMARY:The Architect (2025)
-UID:8d37ac07-9e74-4fd3-9dd1-f998f2eeef83@8d37.org
-URL:https://fillum.in/screening/6106
 END:VEVENT
 END:VCALENDAR
