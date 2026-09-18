@@ -2,49 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Artdemic\n\nAn evening of experimental films and performances\n\n6:00 - 7:00 PM Experimental Film Screening\n\n7:30 - 8:30 PM - Film Performance (ft. Karan Talwar & Keyuri Bhogale)\n\n8:30 - 10:00 PM - Musical.. more\n\nMore info / Tickets: https://fillum.in/event/6161
-DURATION:PT2H
-LOCATION:Gujral House. Lajpat Nagar III
-DTSTART:20260918T123000Z
-SUMMARY:Wild Vueing Weekend
-UID:bec13beb-ec12-48c7-a481-312e0cdcce5f@bec1.org
-URL:https://fillum.in/event/6161
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat if you knew the world was about to end?\n\nAnd what if there was only one thing you could do to stop it?\n\nA man makes a desperate promise.\nA world on the edge of catastrophe.\nAnd a sacrific.. more\n\nMore info / Tickets: https://fillum.in/p/415
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260920T063000Z
-SUMMARY:The Sacrifice (1986)
-UID:774b9f53-1cc7-4c1f-9a24-df41bcd12349@774b.org
-URL:https://fillum.in/p/415
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20260919T103000Z
-SUMMARY:Angel Dust (1994)
-UID:11c70c3d-1d4e-4520-9d73-21d1e747d153@11c7.org
-URL:https://fillum.in/p/411
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Films From Underground\n\nThis time\, we're taking Hometown to Saket Social.\n\nFilms From Underground presents Hometown Edition #4 — 4 homegrown indie shorts\, one afternoon for independent cinema\, the filmmakers who put th.. more\n\nMore info / Tickets: https://fillum.in/p/416
 DURATION:PT2H
 LOCATION:Saket Social\, DLF Saket
 DTSTART:20260927T083000Z
 SUMMARY:Home Town Edition #4
-UID:0144390c-60bf-4c60-b7a7-c404c69f65ae@0144.org
+UID:0ce1052d-debe-417c-93e7-96be76c80a8f@0ce1.org
 URL:https://fillum.in/p/416
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20260919T083000Z
-SUMMARY:Ring (1998)
-UID:c73d2706-a71e-48a0-b353-2706408321ac@c73d.org
-URL:https://fillum.in/p/411
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
@@ -52,89 +16,8 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20260919T063000Z
 SUMMARY:Shutter (2004)
-UID:d794e130-6071-4c07-be63-460bfd751a52@d794.org
+UID:764a07d0-0742-4ed9-8e54-e2421f369a7a@764a.org
 URL:https://fillum.in/p/411
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
-DURATION:PT2H
-LOCATION:TOT studio\, Lajpat Nagar
-DTSTART:20260919T100000Z
-SUMMARY:Devi (1960)
-UID:ec61e8de-1376-46c1-8007-4c1af6922da3@ec61.org
-URL:https://fillum.in/p/407
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20260919T130000Z
-SUMMARY:Taste of Fear (1961)
-UID:bd116185-5114-457b-b7a8-e8bccfb11e8e@bd11.org
-URL:https://fillum.in/p/411
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6154
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20260917T133000Z
-SUMMARY:Oslo: A Tail of Promise (2025)
-UID:9d2958e6-2791-458b-99c0-a5cc351e7e5b@9d29.org
-URL:https://fillum.in/screening/6154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: First Ray Films\n\nUpdate: Registration is over-capacity. RSVP for waitlist.\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relati.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
-DURATION:PT2H
-LOCATION:Cinepolis: DLF Avenue\, Saket
-DTSTART:20260918T122500Z
-SUMMARY:Om Ka Hari (2026)
-UID:2bca9b24-2396-4e26-af8f-2640ddd44be8@2bca.org
-URL:https://fillum.in/screening/6159
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nUpdate: Registration closed due to capacity limit.\n\nSolidarity screening and discussion.\n\nMore info / Tickets: https://fillum.in/screening/6171
-DURATION:PT2H
-LOCATION:Mool\, South Ex
-DTSTART:20260920T130000Z
-SUMMARY:Prisoner No. 626710 is present (2024)
-UID:5797210c-7cd9-496d-a9a0-fba9459eb626@5797.org
-URL:https://fillum.in/screening/6171
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA LOVE STORY. A WAR. A PROMISE THAT MAY NEVER BE KEPT.\n\nShe waits.\nHe leaves for war.\nAnd then… silence.\n\nBefore the war\, there was love.\nAfter the war\, nothing would ever be the same.\n\nS.. more\n\nMore info / Tickets: https://fillum.in/p/412
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260919T103000Z
-SUMMARY:The Cranes Are Flying (1957)
-UID:0c57c680-7ae4-4988-8b6e-da25e219e2a9@0c57.org
-URL:https://fillum.in/p/412
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6175
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20260917T130000Z
-SUMMARY:Ernest & Celestine: A Trip to Charabia (2022)
-UID:996ee94f-ea39-4ddd-aabe-47ff4d127192@996e.org
-URL:https://fillum.in/screening/6175
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: First Ray Films\n\nUpdate: Registration is over-capacity. RSVP for waitlist.\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relati.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
-DURATION:PT2H
-LOCATION:Cinepolis: DLF Avenue\, Saket
-DTSTART:20260918T122500Z
-SUMMARY:Om Ka Hari (2026)
-UID:15c98263-0e85-46d1-8289-c553ff48dc48@15c9.org
-URL:https://fillum.in/screening/6159
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6187
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20260917T123000Z
-SUMMARY:Dr. Prakash Baba Amte: The Real Hero (2014)
-UID:96271e1b-0712-4c00-9b33-1bd4b489b6b8@9627.org
-URL:https://fillum.in/screening/6187
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6106
@@ -142,17 +25,35 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20260918T123000Z
 SUMMARY:The Architect (2025)
-UID:a8a0121a-4256-402c-987e-22b694c10385@a8a0.org
+UID:004ecd9b-78e7-47d2-8364-a42c132d8bd0@004e.org
 URL:https://fillum.in/screening/6106
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
+DESCRIPTION:Host: First Ray Films\n\nUpdate: Registration is over-capacity. RSVP for waitlist.\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relati.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
 DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260923T133000Z
-SUMMARY:Visthapana (2026)
-UID:42bf975f-d593-41d9-81b8-6d3e9ac912c8@42bf.org
-URL:https://fillum.in/screening/6147
+LOCATION:Cinepolis: DLF Avenue\, Saket
+DTSTART:20260918T122500Z
+SUMMARY:Om Ka Hari (2026)
+UID:8bec854a-dd23-4368-b4b0-e898a2b6b9e0@8bec.org
+URL:https://fillum.in/screening/6159
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20261006T133000Z
+SUMMARY:Nico (2022)
+UID:38acde93-a234-43a1-a31a-c6304be94e1e@38ac.org
+URL:https://fillum.in/screening/6193
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: First Ray Films\n\nUpdate: Registration is over-capacity. RSVP for waitlist.\n\nFirst Ray Films in association with Fillum is hosting a special screening for this heartfelt tale about a dysfunctional father-son relati.. more\n\nMore info / Tickets: https://fillum.in/screening/6159
+DURATION:PT2H
+LOCATION:Cinepolis: DLF Avenue\, Saket
+DTSTART:20260918T122500Z
+SUMMARY:Om Ka Hari (2026)
+UID:8adcdffa-f242-40bc-a4f5-0ee8e3d68bbc@8adc.org
+URL:https://fillum.in/screening/6159
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
@@ -160,8 +61,62 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20260919T143000Z
 SUMMARY:[REC] (2007)
-UID:894cd1bd-7545-4639-a673-569d21c15851@894c.org
+UID:496653df-e008-4121-a459-d5d6a342fdb1@4966.org
 URL:https://fillum.in/p/411
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20260919T083000Z
+SUMMARY:Ring (1998)
+UID:6d513208-4631-482d-a154-f69aa2aa83dc@6d51.org
+URL:https://fillum.in/p/411
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
+DURATION:PT2H
+LOCATION:Museo Camera
+DTSTART:20261104T110000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:daf02eeb-cca4-4a86-a73e-5d9dec21a165@daf0.org
+URL:https://fillum.in/screening/6195
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260923T133000Z
+SUMMARY:Visthapana (2026)
+UID:5d3d6fd9-2094-4654-b838-8ddcb4cef21e@5d3d.org
+URL:https://fillum.in/screening/6147
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA LOVE STORY. A WAR. A PROMISE THAT MAY NEVER BE KEPT.\n\nShe waits.\nHe leaves for war.\nAnd then… silence.\n\nBefore the war\, there was love.\nAfter the war\, nothing would ever be the same.\n\nS.. more\n\nMore info / Tickets: https://fillum.in/p/412
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260919T103000Z
+SUMMARY:The Cranes Are Flying (1957)
+UID:71eaab01-8dce-4141-8868-0183cb009e7d@71ea.org
+URL:https://fillum.in/p/412
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Japan Foundation\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6192
+DURATION:PT2H
+LOCATION:The Japan Foundation
+DTSTART:20260925T130000Z
+SUMMARY:The Complex (2013)
+UID:0fc8b534-7077-4687-94ab-11aa1e00faaa@0fc8.org
+URL:https://fillum.in/screening/6192
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Artdemic\n\nAn evening of experimental films and performances\n\n6:00 - 7:00 PM Experimental Film Screening\n\n7:30 - 8:30 PM - Film Performance (ft. Karan Talwar & Keyuri Bhogale)\n\n8:30 - 10:00 PM - Musical.. more\n\nMore info / Tickets: https://fillum.in/event/6161
+DURATION:PT2H
+LOCATION:Gujral House. Lajpat Nagar III
+DTSTART:20260918T123000Z
+SUMMARY:Wild Vueing Weekend
+UID:86c25ef5-fe0b-4bd5-b9d3-515ab10ae413@86c2.org
+URL:https://fillum.in/event/6161
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Sohbat\n\nLalit Vachani joins us in Delhi for this screening and conversation.\nSeptember 13 is observed as Political Prisoners Day in India. It also marks six years since activist and scholar Umar Khalid was.. more\n\nMore info / Tickets: https://fillum.in/p/413
@@ -169,7 +124,61 @@ DURATION:PT2H
 LOCATION:Malviya Nagar
 DTSTART:20260926T123000Z
 SUMMARY:Prisoner No. 626710 is present (2024)
-UID:9d10b97b-e853-4799-9555-75349d108a59@9d10.org
+UID:8c7fc0b5-a6bb-4367-b13a-1da72cd3ab64@8c7f.org
 URL:https://fillum.in/p/413
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat if you knew the world was about to end?\n\nAnd what if there was only one thing you could do to stop it?\n\nA man makes a desperate promise.\nA world on the edge of catastrophe.\nAnd a sacrific.. more\n\nMore info / Tickets: https://fillum.in/p/415
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260920T063000Z
+SUMMARY:The Sacrifice (1986)
+UID:06f0788f-e441-467b-aa04-d0bb5c049a56@06f0.org
+URL:https://fillum.in/p/415
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Movie Club\n\n\n\nMore info / Tickets: https://fillum.in/p/407
+DURATION:PT2H
+LOCATION:TOT studio\, Lajpat Nagar
+DTSTART:20260919T100000Z
+SUMMARY:Devi (1960)
+UID:a16073d9-2a12-40ac-822f-c33e1f5df0fe@a160.org
+URL:https://fillum.in/p/407
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
+DURATION:PT2H
+LOCATION:Stein Auditorium India Habitat Centre
+DTSTART:20261001T133000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:858f7cf7-1f08-439c-9ed3-9b6d96ab69d4@858f.org
+URL:https://fillum.in/screening/6194
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nUpdate: Registration closed due to capacity limit.\n\nSolidarity screening and discussion.\n\nMore info / Tickets: https://fillum.in/screening/6171
+DURATION:PT2H
+LOCATION:Mool\, South Ex
+DTSTART:20260920T130000Z
+SUMMARY:Prisoner No. 626710 is present (2024)
+UID:fa65d5bf-afec-4e3c-bad9-ca18cbaf7c87@fa65.org
+URL:https://fillum.in/screening/6171
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20260919T103000Z
+SUMMARY:Angel Dust (1994)
+UID:f2cfab41-73e9-4421-8a9d-9c3a4e105ec9@f2cf.org
+URL:https://fillum.in/p/411
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned ice cream store in Jangpura (at their usual spot). The basement has comfortable mat.. more\n\nMore info / Tickets: https://fillum.in/p/411
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20260919T130000Z
+SUMMARY:Taste of Fear (1961)
+UID:f3d036cd-8a82-4655-8162-a7fdab2236b4@f3d0.org
+URL:https://fillum.in/p/411
 END:VEVENT
 END:VCALENDAR
