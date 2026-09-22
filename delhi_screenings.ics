@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
+DESCRIPTION:Host: Sohbat\n\nLalit Vachani joins us in Delhi for this screening and conversation.\nSeptember 13 is observed as Political Prisoners Day in India. It also marks six years since activist and scholar Umar Khalid was.. more\n\nMore info / Tickets: https://fillum.in/p/413
 DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261005T133000Z
-SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
-UID:24941112-ca2b-4451-a039-9f4777d2318a@2494.org
-URL:https://fillum.in/event/6197
+LOCATION:Malviya Nagar
+DTSTART:20260926T123000Z
+SUMMARY:Prisoner No. 626710 is present (2024)
+UID:5a90ce0b-e475-47af-88e2-7135def6240b@5a90.org
+URL:https://fillum.in/p/413
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
@@ -16,7 +16,7 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20261006T133000Z
 SUMMARY:Nico (2022)
-UID:b200ee88-2306-4d17-b567-d17af057c40a@b200.org
+UID:3f628e1c-8e08-41a2-9685-1265b121c36b@3f62.org
 URL:https://fillum.in/screening/6193
 END:VEVENT
 BEGIN:VEVENT
@@ -25,26 +25,8 @@ DURATION:PT2H
 LOCATION:Museo Camera
 DTSTART:20261004T110000Z
 SUMMARY:Bhangaar (Obsolete) (2023)
-UID:b54fe0f0-12e5-4379-9ea1-2832969675de@b54f.org
+UID:e6721633-1fbd-4099-8ade-a0d68d4e9661@e672.org
 URL:https://fillum.in/screening/6195
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
-DURATION:PT2H
-LOCATION:Gulmohar\, India Habitat Centre
-DTSTART:20260923T133000Z
-SUMMARY:Visthapana (2026)
-UID:3779a193-637c-47e4-8560-eaad73883745@3779.org
-URL:https://fillum.in/screening/6147
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
-DURATION:PT2H
-LOCATION:Stein Auditorium India Habitat Centre
-DTSTART:20261001T133000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:2bc1ef83-52da-4ae0-8aad-3b41ba384caf@2bc1.org
-URL:https://fillum.in/screening/6194
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: The Japan Foundation\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6192
@@ -52,26 +34,8 @@ DURATION:PT2H
 LOCATION:The Japan Foundation
 DTSTART:20260925T130000Z
 SUMMARY:The Complex (2013)
-UID:0406e533-7747-4eed-bdf6-378c96d7d0c3@0406.org
+UID:eb05f609-82b4-4fda-a48c-66371a12825c@eb05.org
 URL:https://fillum.in/screening/6192
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nLalit Vachani joins us in Delhi for this screening and conversation.\nSeptember 13 is observed as Political Prisoners Day in India. It also marks six years since activist and scholar Umar Khalid was.. more\n\nMore info / Tickets: https://fillum.in/p/413
-DURATION:PT2H
-LOCATION:Malviya Nagar
-DTSTART:20260926T123000Z
-SUMMARY:Prisoner No. 626710 is present (2024)
-UID:27d36c67-0a20-48e2-846e-8822a74f2212@27d3.org
-URL:https://fillum.in/p/413
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261004T133000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:e836028c-892b-487a-8cf2-d8719d95a6a8@e836.org
-URL:https://fillum.in/screening/6196
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Films From Underground\n\nThis time\, we're taking Hometown to Saket Social.\n\nFilms From Underground presents Hometown Edition #4 — 4 homegrown indie shorts\, one afternoon for independent cinema\, the filmmakers who put th.. more\n\nMore info / Tickets: https://fillum.in/p/416
@@ -79,7 +43,43 @@ DURATION:PT2H
 LOCATION:Saket Social\, DLF Saket
 DTSTART:20260927T083000Z
 SUMMARY:Home Town Edition #4
-UID:4527eb5d-b835-4323-962a-54116cb18863@4527.org
+UID:56e2aaf0-ca2d-43f7-9ca8-f2f6be600505@56e2.org
 URL:https://fillum.in/p/416
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
+DURATION:PT2H
+LOCATION:Stein Auditorium India Habitat Centre
+DTSTART:20261001T133000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:ca785ee9-5947-452c-a1da-e6dec6c106a1@ca78.org
+URL:https://fillum.in/screening/6194
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261004T133000Z
+SUMMARY:To Die a Frenchman (2026)
+UID:7ec9fde8-08df-4475-a8cd-7fd76d16470f@7ec9.org
+URL:https://fillum.in/screening/6196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261005T133000Z
+SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
+UID:e56b2b4b-6fa0-4ed6-bc36-769eff60cf2b@e56b.org
+URL:https://fillum.in/event/6197
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry. In association with Global Wildlife Fair and RoundGlass Sustain\n\nMore info / Tickets: https://fillum.in/screening/6147
+DURATION:PT2H
+LOCATION:Gulmohar\, India Habitat Centre
+DTSTART:20260923T133000Z
+SUMMARY:Visthapana (2026)
+UID:9e49a301-b814-44f2-92e7-389b512d2805@9e49.org
+URL:https://fillum.in/screening/6147
 END:VEVENT
 END:VCALENDAR
