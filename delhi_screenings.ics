@@ -2,121 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nScreening #1 for 'One Night Stand'\, a one day suite takeover in collaboration with No Taboo Experience at a screening room in ONEOFF Hotel\, GK 2.\n\nThe event also features specialty coffee worksho.. more\n\nMore info / Tickets: https://fillum.in/p/421
-DURATION:PT2H
-LOCATION:ONEOFF Hotel\, GK 2
-DTSTART:20260926T073000Z
-SUMMARY:A Short Film About Love (1988)
-UID:1962e43e-bb26-465d-91fc-54075eba1dd9@1962.org
-URL:https://fillum.in/p/421
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20261006T133000Z
-SUMMARY:Nico (2022)
-UID:8c387134-2cad-4d5c-946f-d0c29c270ec3@8c38.org
-URL:https://fillum.in/screening/6193
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6224
-DURATION:PT2H
-LOCATION:IP Extension\, Patparganj
-DTSTART:20260927T083000Z
-SUMMARY:Nine to Five (1980)
-UID:0376288f-3761-41ee-b406-4545ce47f78b@0376.org
-URL:https://fillum.in/screening/6224
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Space - W.I.P Labs\n\nA young mechanic strives to buy a second-hand bike\, on which he has worked on for months himself. But little does he realize\; that there are many forces around\, that are ready to stop him from achie.. more\n\nMore info / Tickets: https://fillum.in/p/425
-DURATION:PT2H
-LOCATION:W.I.P aDDa\, Lado Sarai
-DTSTART:20260927T130000Z
-SUMMARY:Ghubaar (2024)
-UID:346d9076-75fc-4099-864c-4ee4078c8d81@346d.org
-URL:https://fillum.in/p/425
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nScreening #2 for 'One Night Stand'\, a one day suite takeover in collaboration with No Taboo Experience at a screening room in ONEOFF Hotel\, GK 2.\n\nThe event also features specialty coffee worksho.. more\n\nMore info / Tickets: https://fillum.in/p/421
-DURATION:PT2H
-LOCATION:ONEOFF Hotel\, GK 2
-DTSTART:20260926T133000Z
-SUMMARY:Y Tu Mamá También (2001)
-UID:c39b4bb2-6d66-445b-95e9-c6a3e2da270c@c39b.org
-URL:https://fillum.in/p/421
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Khatarnaak Films\n\nTicket includes snacks and drinks.\n\nMore info / Tickets: https://fillum.in/p/422
-DURATION:PT2H
-LOCATION:Q Block Jangpura Extension
-DTSTART:20260926T083000Z
-SUMMARY:Tag (2015)
-UID:4792daa9-118f-4fed-af23-161c552167c9@4792.org
-URL:https://fillum.in/p/422
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nHow do you survive when the world around you has disappeared?\n\nA brother.\nA little sister.\nA city consumed by war.\n\nWith nothing left but each other\, two children struggle to find food\, shelte.. more\n\nMore info / Tickets: https://fillum.in/p/423
+DESCRIPTION:Host: SomeArt\n\nHe has one chance.\n\nNo weapons.\nNo allies.\nNo room for mistakes.\n\nA man imprisoned by the Nazis has been sentenced to death. But before the execution comes\, he begins planning the impossible .. more\n\nMore info / Tickets: https://fillum.in/p/423
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260927T103000Z
-SUMMARY:Grave of the Fireflies (1988)
-UID:c2117783-f97e-4800-8fec-a2c5acd87770@c211.org
+DTSTART:20260926T063000Z
+SUMMARY:A Man Escaped (1956)
+UID:16e97f5c-d052-4011-a523-4b428b97c85d@16e9.org
 URL:https://fillum.in/p/423
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: GALLERYSKE\n\n\n\nMore info / Tickets: https://fillum.in/p/424
-DURATION:PT2H
-LOCATION:B-74\, Defence Colony
-DTSTART:20260926T113000Z
-SUMMARY:Meshes of the Afternoon (1943)
-UID:23c66196-98d1-4b2b-8c5a-7f70d60f7086@23c6.org
-URL:https://fillum.in/p/424
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nThe film will be followed by Q&A with the director. We will be discussing the land grab by corporates and the persecution of Indigenous activists in Kaziranga.\n\nMore info / Tickets: https://fillum.in/screening/6221
-DURATION:PT2H
-LOCATION:mool\, B-17 (basement)\, South Extension 2
-DTSTART:20260927T113000Z
-SUMMARY:He Used To Bring Me Apples (2020)
-UID:a195d40c-446d-464f-bc0c-1ed9c282482f@a195.org
-URL:https://fillum.in/screening/6221
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261004T133000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:7f212be6-76ec-47e0-b327-59fc38a8615b@7f21.org
-URL:https://fillum.in/screening/6196
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nThis time\, we're taking Hometown to Saket Social.\n\nFilms From Underground presents Hometown Edition #4 — 4 homegrown indie shorts\, one afternoon for independent cinema\, the filmmakers who put th.. more\n\nMore info / Tickets: https://fillum.in/p/416
-DURATION:PT2H
-LOCATION:Saket Social\, DLF Saket
-DTSTART:20260927T083000Z
-SUMMARY:Home Town Edition #4
-UID:6355a383-e00b-4198-8d5f-4a0324e6ae11@6355.org
-URL:https://fillum.in/p/416
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nTHE ACCUSED - Subhankar Das\n\nA HANDSHAKE - Kanhaiya Trivedi\n\nRIWAYAAT - Nishant Singh Rajput\n\nOVER THINKING OVER LOVE OVER - Harsh Vardhan Ojha\n\nMERA SUPERMAN - Sarvjit & Harry Khalsa\n\nJoi.. more\n\nMore info / Tickets: https://fillum.in/event/6220
-DURATION:PT2H
-LOCATION:Niv Art Centre (Studio A)\, Neb Sarai
-DTSTART:20260927T123000Z
-SUMMARY:Flicks & Frames - 28th Edition
-UID:681cb0ad-b404-490b-9bfd-9a063f1fbed2@681c.org
-URL:https://fillum.in/event/6220
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
-DURATION:PT2H
-LOCATION:Stein Auditorium India Habitat Centre
-DTSTART:20261001T133000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:81e8d15f-cd76-469e-88b6-dbfa4ed9a8a2@81e8.org
-URL:https://fillum.in/screening/6194
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Khatarnaak Films\n\nTickets include snacks and drinks.\n\nMore info / Tickets: https://fillum.in/p/422
@@ -124,26 +16,8 @@ DURATION:PT2H
 LOCATION:Q Block Jangpura Extension
 DTSTART:20260926T103000Z
 SUMMARY:964 Pinocchio (1991)
-UID:85c3fd11-effe-47fe-a9e0-d933cdb77f09@85c3.org
+UID:7af583d4-fcd6-4d98-9e1a-fde0ef18639d@7af5.org
 URL:https://fillum.in/p/422
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
-DURATION:PT2H
-LOCATION:Museo Camera
-DTSTART:20261004T110000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:c68ee01d-cb3e-449c-8841-3bcaa1c53cb0@c68e.org
-URL:https://fillum.in/screening/6195
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nHe has one chance.\n\nNo weapons.\nNo allies.\nNo room for mistakes.\n\nA man imprisoned by the Nazis has been sentenced to death. But before the execution comes\, he begins planning the impossible .. more\n\nMore info / Tickets: https://fillum.in/p/423
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260926T063000Z
-SUMMARY:A Man Escaped (1956)
-UID:fa36618d-4104-48f1-8d90-aad382410568@fa36.org
-URL:https://fillum.in/p/423
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nWhat if the forest next door was hiding a secret?\n\nTwo sisters.\nA mysterious new home.\nA forest filled with whispers\, spirits and creatures you could never have imagined.\n\nWhen childhood curio.. more\n\nMore info / Tickets: https://fillum.in/p/423
@@ -151,17 +25,98 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260927T063000Z
 SUMMARY:My Neighbor Totoro (1988)
-UID:2aabc6d5-92e4-44ac-9ca3-5468a0105ff5@2aab.org
+UID:cd013ac6-17ea-4bf2-992b-1ffe1ea17c7f@cd01.org
 URL:https://fillum.in/p/423
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Sohbat\n\nLalit Vachani joins us in Delhi for this screening and conversation.\nSeptember 13 is observed as Political Prisoners Day in India. It also marks six years since activist and scholar Umar Khalid was.. more\n\nMore info / Tickets: https://fillum.in/p/413
+DESCRIPTION:Host: Khatarnaak Films\n\nTicket includes snacks and drinks.\n\nMore info / Tickets: https://fillum.in/p/422
 DURATION:PT2H
-LOCATION:Malviya Nagar
-DTSTART:20260926T123000Z
-SUMMARY:Prisoner No. 626710 is present (2024)
-UID:f93e18b7-909c-4e03-a0be-413acf736481@f93e.org
-URL:https://fillum.in/p/413
+LOCATION:Q Block Jangpura Extension
+DTSTART:20260926T083000Z
+SUMMARY:Tag (2015)
+UID:b5ca5005-d308-42e7-a14d-40548434b170@b5ca.org
+URL:https://fillum.in/p/422
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
+DURATION:PT2H
+LOCATION:Stein Auditorium India Habitat Centre
+DTSTART:20261001T133000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:596a0953-01e8-41a9-a74e-ee7e6eb6edd2@596a.org
+URL:https://fillum.in/screening/6194
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nHow do you survive when the world around you has disappeared?\n\nA brother.\nA little sister.\nA city consumed by war.\n\nWith nothing left but each other\, two children struggle to find food\, shelte.. more\n\nMore info / Tickets: https://fillum.in/p/423
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260927T103000Z
+SUMMARY:Grave of the Fireflies (1988)
+UID:9d54e105-a255-4c02-948d-e123dfc3f61b@9d54.org
+URL:https://fillum.in/p/423
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nScreening #2 for 'One Night Stand'\, a one day suite takeover in collaboration with No Taboo Experience at a screening room in ONEOFF Hotel\, GK 2.\n\nThe event also features specialty coffee worksho.. more\n\nMore info / Tickets: https://fillum.in/p/421
+DURATION:PT2H
+LOCATION:ONEOFF Hotel\, GK 2
+DTSTART:20260926T133000Z
+SUMMARY:Y Tu Mamá También (2001)
+UID:33e09e74-70b0-4eaa-85f1-5f0922eea96b@33e0.org
+URL:https://fillum.in/p/421
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nTHE ACCUSED - Subhankar Das\n\nA HANDSHAKE - Kanhaiya Trivedi\n\nRIWAYAAT - Nishant Singh Rajput\n\nOVER THINKING OVER LOVE OVER - Harsh Vardhan Ojha\n\nMERA SUPERMAN - Sarvjit & Harry Khalsa\n\nJoi.. more\n\nMore info / Tickets: https://fillum.in/event/6220
+DURATION:PT2H
+LOCATION:Niv Art Centre (Studio A)\, Neb Sarai
+DTSTART:20260927T123000Z
+SUMMARY:Flicks & Frames - 28th Edition
+UID:2544d119-e0f8-468a-b48c-de9cfd63675a@2544.org
+URL:https://fillum.in/event/6220
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nScreening #1 for 'One Night Stand'\, a one day suite takeover in collaboration with No Taboo Experience at a screening room in ONEOFF Hotel\, GK 2.\n\nThe event also features specialty coffee worksho.. more\n\nMore info / Tickets: https://fillum.in/p/421
+DURATION:PT2H
+LOCATION:ONEOFF Hotel\, GK 2
+DTSTART:20260926T073000Z
+SUMMARY:A Short Film About Love (1988)
+UID:9e7eeead-9aa3-4a53-9799-f4a28ed134b3@9e7e.org
+URL:https://fillum.in/p/421
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
+DURATION:PT2H
+LOCATION:Museo Camera
+DTSTART:20261004T110000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:9d3e1e3f-515f-4ca1-bbcc-efef10aae5f8@9d3e.org
+URL:https://fillum.in/screening/6195
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: GALLERYSKE\n\n\n\nMore info / Tickets: https://fillum.in/p/424
+DURATION:PT2H
+LOCATION:B-74\, Defence Colony
+DTSTART:20260926T113000Z
+SUMMARY:Meshes of the Afternoon (1943)
+UID:4d6494b1-8f49-4aed-94ed-af9e44bcb51f@4d64.org
+URL:https://fillum.in/p/424
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6224
+DURATION:PT2H
+LOCATION:IP Extension\, Patparganj
+DTSTART:20260927T083000Z
+SUMMARY:Nine to Five (1980)
+UID:04dfd448-7621-48a4-ba0d-eb1deda1b1cf@04df.org
+URL:https://fillum.in/screening/6224
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nThis time\, we're taking Hometown to Saket Social.\n\nFilms From Underground presents Hometown Edition #4 — 4 homegrown indie shorts\, one afternoon for independent cinema\, the filmmakers who put th.. more\n\nMore info / Tickets: https://fillum.in/p/416
+DURATION:PT2H
+LOCATION:Saket Social\, DLF Saket
+DTSTART:20260927T083000Z
+SUMMARY:Home Town Edition #4
+UID:c5ae3c32-f750-46ba-9c31-8c6083c78ac8@c5ae.org
+URL:https://fillum.in/p/416
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nHis hands are faster than your eyes.\n\nA crowded street.\nA passing stranger.\nOne moment of distraction.\n\nAnd your wallet is gone.\n\nBut this isn't simply a story about a thief. It is a hauntin.. more\n\nMore info / Tickets: https://fillum.in/p/423
@@ -169,7 +124,7 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260926T103000Z
 SUMMARY:Pickpocket (1959)
-UID:3c36d30f-5eea-47ed-bfe7-9bbba9869188@3c36.org
+UID:8729d237-99cd-472d-af37-5a7355034f4c@8729.org
 URL:https://fillum.in/p/423
 END:VEVENT
 BEGIN:VEVENT
@@ -178,8 +133,26 @@ DURATION:PT2H
 LOCATION:Q Block Jangpura Extension
 DTSTART:20260926T123000Z
 SUMMARY:The Happiness of the Katakuris (2002)
-UID:40fcc410-731b-40f5-89c2-a051b33b889f@40fc.org
+UID:51aa8944-666e-461a-8e5e-3fa98f03ccc1@51aa.org
 URL:https://fillum.in/p/422
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261004T133000Z
+SUMMARY:To Die a Frenchman (2026)
+UID:7c826f95-f565-49a3-86c7-e840172dd3e3@7c82.org
+URL:https://fillum.in/screening/6196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sohbat\n\nLalit Vachani joins us in Delhi for this screening and conversation.\nSeptember 13 is observed as Political Prisoners Day in India. It also marks six years since activist and scholar Umar Khalid was.. more\n\nMore info / Tickets: https://fillum.in/p/413
+DURATION:PT2H
+LOCATION:Malviya Nagar
+DTSTART:20260926T123000Z
+SUMMARY:Prisoner No. 626710 is present (2024)
+UID:f87006ae-4cf2-4d86-9c5d-8d71e00e8403@f870.org
+URL:https://fillum.in/p/413
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
@@ -187,7 +160,7 @@ DURATION:PT2H
 LOCATION:India Habitat Centre
 DTSTART:20261005T133000Z
 SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
-UID:21c21c2d-029d-4422-a265-e8d830ad6400@21c2.org
+UID:0940401c-cacc-4979-bdce-6e0fd0ccf228@0940.org
 URL:https://fillum.in/event/6197
 END:VEVENT
 BEGIN:VEVENT
@@ -196,7 +169,25 @@ DURATION:PT2H
 LOCATION:Q Block Jangpura Extension
 DTSTART:20260926T143000Z
 SUMMARY:Battle Royale (2000)
-UID:7fd8a5b4-e11b-4d2b-834a-8625f61604ca@7fd8.org
+UID:35683879-62f9-4a62-8c71-b51f7797dbf0@3568.org
 URL:https://fillum.in/p/422
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nThe film will be followed by Q&A with the director. We will be discussing the land grab by corporates and the persecution of Indigenous activists in Kaziranga.\n\nMore info / Tickets: https://fillum.in/screening/6221
+DURATION:PT2H
+LOCATION:mool\, B-17 (basement)\, South Extension 2
+DTSTART:20260927T113000Z
+SUMMARY:He Used To Bring Me Apples (2020)
+UID:861ac1e9-2e3d-492c-930b-3d67aa56a0e9@861a.org
+URL:https://fillum.in/screening/6221
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20261006T133000Z
+SUMMARY:Nico (2022)
+UID:d8edeabe-3ec1-4e1e-96f9-462f4845f217@d8ed.org
+URL:https://fillum.in/screening/6193
 END:VEVENT
 END:VCALENDAR
