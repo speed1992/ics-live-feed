@@ -2,30 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nTHE ACCUSED - Subhankar Das\n\nA HANDSHAKE - Kanhaiya Trivedi\n\nRIWAYAAT - Nishant Singh Rajput\n\nOVER THINKING OVER LOVE OVER - Harsh Vardhan Ojha\n\nMERA SUPERMAN - Sarvjit & Harry Khalsa\n\nJoi.. more\n\nMore info / Tickets: https://fillum.in/event/6220
-DURATION:PT2H
-LOCATION:Niv Art Centre (Studio A)\, Neb Sarai
-DTSTART:20260927T123000Z
-SUMMARY:Flicks & Frames - 28th Edition
-UID:8770bac3-5ec8-422e-980c-6ced9a92dcd8@8770.org
-URL:https://fillum.in/event/6220
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20261006T133000Z
-SUMMARY:Nico (2022)
-UID:46bd1b8d-dc05-46fa-9cc4-37d97b6c8f40@46bd.org
-URL:https://fillum.in/screening/6193
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Films From Underground\n\nThis time\, we're taking Hometown to Saket Social.\n\nFilms From Underground presents Hometown Edition #4 — 4 homegrown indie shorts\, one afternoon for independent cinema\, the filmmakers who put th.. more\n\nMore info / Tickets: https://fillum.in/p/416
 DURATION:PT2H
 LOCATION:Saket Social\, DLF Saket
 DTSTART:20260927T083000Z
 SUMMARY:Home Town Edition #4
-UID:77aa2b62-618b-484e-8f25-e5fb76b088e8@77aa.org
+UID:ed4eae00-5894-425b-bf12-20dcbb3c9b89@ed4e.org
 URL:https://fillum.in/p/416
 END:VEVENT
 BEGIN:VEVENT
@@ -34,35 +16,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium India Habitat Centre
 DTSTART:20261001T133000Z
 SUMMARY:Bhangaar (Obsolete) (2023)
-UID:e36b602a-e3ba-47d8-b501-5880adf1ddf0@e36b.org
+UID:f845f12b-f53f-457e-a967-c97f3bcc966d@f845.org
 URL:https://fillum.in/screening/6194
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
-DURATION:PT2H
-LOCATION:Museo Camera
-DTSTART:20261004T110000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:a608f9bb-61d5-4115-a9bf-a5e79598b74d@a608.org
-URL:https://fillum.in/screening/6195
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261004T133000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:918f1254-aac7-4536-934f-04b663c94489@918f.org
-URL:https://fillum.in/screening/6196
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nHow do you survive when the world around you has disappeared?\n\nA brother.\nA little sister.\nA city consumed by war.\n\nWith nothing left but each other\, two children struggle to find food\, shelte.. more\n\nMore info / Tickets: https://fillum.in/p/423
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260927T103000Z
-SUMMARY:Grave of the Fireflies (1988)
-UID:e05652bb-cc8d-40fd-b97e-c9b0c86f8bd8@e056.org
-URL:https://fillum.in/p/423
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
@@ -70,26 +25,17 @@ DURATION:PT2H
 LOCATION:India Habitat Centre
 DTSTART:20261005T133000Z
 SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
-UID:22d81eae-fb39-4033-aded-d1d00627c57c@22d8.org
+UID:ee1ebf65-8c25-4964-99ee-4ae15d1d339b@ee1e.org
 URL:https://fillum.in/event/6197
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nThe film will be followed by Q&A with the director. We will be discussing the land grab by corporates and the persecution of Indigenous activists in Kaziranga.\n\nMore info / Tickets: https://fillum.in/screening/6221
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nTHE ACCUSED - Subhankar Das\n\nA HANDSHAKE - Kanhaiya Trivedi\n\nRIWAYAAT - Nishant Singh Rajput\n\nOVER THINKING OVER LOVE OVER - Harsh Vardhan Ojha\n\nMERA SUPERMAN - Sarvjit & Harry Khalsa\n\nJoi.. more\n\nMore info / Tickets: https://fillum.in/event/6220
 DURATION:PT2H
-LOCATION:mool\, B-17 (basement)\, South Extension 2
-DTSTART:20260927T113000Z
-SUMMARY:He Used To Bring Me Apples (2020)
-UID:4a1d2196-50dc-455a-8a44-5868aa7029cd@4a1d.org
-URL:https://fillum.in/screening/6221
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6224
-DURATION:PT2H
-LOCATION:IP Extension\, Patparganj
-DTSTART:20260927T083000Z
-SUMMARY:Nine to Five (1980)
-UID:8eef03d2-5059-467f-9b8c-4a26828ba4b5@8eef.org
-URL:https://fillum.in/screening/6224
+LOCATION:Niv Art Centre (Studio A)\, Neb Sarai
+DTSTART:20260927T123000Z
+SUMMARY:Flicks & Frames - 28th Edition
+UID:02121185-e18a-424e-aba0-33c159095cdf@0212.org
+URL:https://fillum.in/event/6220
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nWhat if the forest next door was hiding a secret?\n\nTwo sisters.\nA mysterious new home.\nA forest filled with whispers\, spirits and creatures you could never have imagined.\n\nWhen childhood curio.. more\n\nMore info / Tickets: https://fillum.in/p/423
@@ -97,7 +43,61 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20260927T063000Z
 SUMMARY:My Neighbor Totoro (1988)
-UID:ff09d838-1e86-43c5-9506-130118130b46@ff09.org
+UID:399e50c1-d5ae-4f06-880f-e540f71d350c@399e.org
 URL:https://fillum.in/p/423
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nHow do you survive when the world around you has disappeared?\n\nA brother.\nA little sister.\nA city consumed by war.\n\nWith nothing left but each other\, two children struggle to find food\, shelte.. more\n\nMore info / Tickets: https://fillum.in/p/423
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20260927T103000Z
+SUMMARY:Grave of the Fireflies (1988)
+UID:e1cccae5-83fa-4755-b092-d8ce17840630@e1cc.org
+URL:https://fillum.in/p/423
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6224
+DURATION:PT2H
+LOCATION:IP Extension\, Patparganj
+DTSTART:20260927T083000Z
+SUMMARY:Nine to Five (1980)
+UID:9d11feef-18f0-40cf-b91b-cb452a41f631@9d11.org
+URL:https://fillum.in/screening/6224
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
+DURATION:PT2H
+LOCATION:Museo Camera
+DTSTART:20261004T110000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:72481536-b4cf-4b6e-8ba1-0d3f32012fd1@7248.org
+URL:https://fillum.in/screening/6195
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nThe film will be followed by Q&A with the director. We will be discussing the land grab by corporates and the persecution of Indigenous activists in Kaziranga.\n\nMore info / Tickets: https://fillum.in/screening/6221
+DURATION:PT2H
+LOCATION:mool\, B-17 (basement)\, South Extension 2
+DTSTART:20260927T113000Z
+SUMMARY:He Used To Bring Me Apples (2020)
+UID:79402326-41da-4cdd-b558-ed5c9cdfd8b3@7940.org
+URL:https://fillum.in/screening/6221
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261004T133000Z
+SUMMARY:To Die a Frenchman (2026)
+UID:1da4f5c7-ba55-4fd8-b3f7-0ad74f95f42b@1da4.org
+URL:https://fillum.in/screening/6196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20261006T133000Z
+SUMMARY:Nico (2022)
+UID:6b0ccb49-d031-42fc-a56b-3812f6defaa1@6b0c.org
+URL:https://fillum.in/screening/6193
 END:VEVENT
 END:VCALENDAR
