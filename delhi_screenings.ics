@@ -2,67 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nThis time\, we're taking Hometown to Saket Social.\n\nFilms From Underground presents Hometown Edition #4 — 4 homegrown indie shorts\, one afternoon for independent cinema\, the filmmakers who put th.. more\n\nMore info / Tickets: https://fillum.in/p/416
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6243
 DURATION:PT2H
-LOCATION:Saket Social\, DLF Saket
-DTSTART:20260927T083000Z
-SUMMARY:Home Town Edition #4
-UID:ed4eae00-5894-425b-bf12-20dcbb3c9b89@ed4e.org
-URL:https://fillum.in/p/416
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
-DURATION:PT2H
-LOCATION:Stein Auditorium India Habitat Centre
-DTSTART:20261001T133000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:f845f12b-f53f-457e-a967-c97f3bcc966d@f845.org
-URL:https://fillum.in/screening/6194
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261005T133000Z
-SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
-UID:ee1ebf65-8c25-4964-99ee-4ae15d1d339b@ee1e.org
-URL:https://fillum.in/event/6197
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nTHE ACCUSED - Subhankar Das\n\nA HANDSHAKE - Kanhaiya Trivedi\n\nRIWAYAAT - Nishant Singh Rajput\n\nOVER THINKING OVER LOVE OVER - Harsh Vardhan Ojha\n\nMERA SUPERMAN - Sarvjit & Harry Khalsa\n\nJoi.. more\n\nMore info / Tickets: https://fillum.in/event/6220
-DURATION:PT2H
-LOCATION:Niv Art Centre (Studio A)\, Neb Sarai
-DTSTART:20260927T123000Z
-SUMMARY:Flicks & Frames - 28th Edition
-UID:02121185-e18a-424e-aba0-33c159095cdf@0212.org
-URL:https://fillum.in/event/6220
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat if the forest next door was hiding a secret?\n\nTwo sisters.\nA mysterious new home.\nA forest filled with whispers\, spirits and creatures you could never have imagined.\n\nWhen childhood curio.. more\n\nMore info / Tickets: https://fillum.in/p/423
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260927T063000Z
-SUMMARY:My Neighbor Totoro (1988)
-UID:399e50c1-d5ae-4f06-880f-e540f71d350c@399e.org
-URL:https://fillum.in/p/423
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nHow do you survive when the world around you has disappeared?\n\nA brother.\nA little sister.\nA city consumed by war.\n\nWith nothing left but each other\, two children struggle to find food\, shelte.. more\n\nMore info / Tickets: https://fillum.in/p/423
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20260927T103000Z
-SUMMARY:Grave of the Fireflies (1988)
-UID:e1cccae5-83fa-4755-b092-d8ce17840630@e1cc.org
-URL:https://fillum.in/p/423
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6224
-DURATION:PT2H
-LOCATION:IP Extension\, Patparganj
-DTSTART:20260927T083000Z
-SUMMARY:Nine to Five (1980)
-UID:9d11feef-18f0-40cf-b91b-cb452a41f631@9d11.org
-URL:https://fillum.in/screening/6224
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20260928T133000Z
+SUMMARY:Kummatty (1979)
+UID:a0340cf3-1d1a-451b-8a83-72da04083759@a034.org
+URL:https://fillum.in/screening/6243
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
@@ -70,26 +16,8 @@ DURATION:PT2H
 LOCATION:Museo Camera
 DTSTART:20261004T110000Z
 SUMMARY:Bhangaar (Obsolete) (2023)
-UID:72481536-b4cf-4b6e-8ba1-0d3f32012fd1@7248.org
+UID:a389415e-7e61-4f47-bb2c-e580e1d650a4@a389.org
 URL:https://fillum.in/screening/6195
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nThe film will be followed by Q&A with the director. We will be discussing the land grab by corporates and the persecution of Indigenous activists in Kaziranga.\n\nMore info / Tickets: https://fillum.in/screening/6221
-DURATION:PT2H
-LOCATION:mool\, B-17 (basement)\, South Extension 2
-DTSTART:20260927T113000Z
-SUMMARY:He Used To Bring Me Apples (2020)
-UID:79402326-41da-4cdd-b558-ed5c9cdfd8b3@7940.org
-URL:https://fillum.in/screening/6221
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261004T133000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:1da4f5c7-ba55-4fd8-b3f7-0ad74f95f42b@1da4.org
-URL:https://fillum.in/screening/6196
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
@@ -97,7 +25,43 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20261006T133000Z
 SUMMARY:Nico (2022)
-UID:6b0ccb49-d031-42fc-a56b-3812f6defaa1@6b0c.org
+UID:3ee0c525-9bc4-4c21-82fe-56109e1cba73@3ee0.org
 URL:https://fillum.in/screening/6193
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6196
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261004T133000Z
+SUMMARY:To Die a Frenchman (2026)
+UID:b9750c5a-49ab-49ed-925a-141e48af90e3@b975.org
+URL:https://fillum.in/screening/6196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
+DURATION:PT2H
+LOCATION:GALLERYSKE\, B-74\, Defence Colony
+DTSTART:20261017T113000Z
+SUMMARY:The Society of the Spectacle (1974)
+UID:56527645-bded-4ca1-ba26-759f2a514530@5652.org
+URL:https://fillum.in/p/428
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261005T133000Z
+SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
+UID:e61a6970-31a6-4d40-b82a-49ee3b7daffb@e61a.org
+URL:https://fillum.in/event/6197
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
+DURATION:PT2H
+LOCATION:Stein Auditorium India Habitat Centre
+DTSTART:20261001T133000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:c5bb23d6-1ffc-4c31-b3b5-48c167378efb@c5bb.org
+URL:https://fillum.in/screening/6194
 END:VEVENT
 END:VCALENDAR
