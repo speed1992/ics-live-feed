@@ -2,12 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Host: Gully Labs\n\nWelcome to Cinema Ghar\, a cozy monthly gathering dedicated to celebrating independent filmmakers and passionate storytellers. Join us for an intimate evening of diverse short films\, engaging post-sc.. more\n\nMore info / Tickets: https://fillum.in/p/430
+DURATION:PT2H
+LOCATION:Gully Labs Baithak\, Panchsheel Park
+DTSTART:20261002T140000Z
+SUMMARY:SUBKO x GULLY LABS presents: CINEMAGHAR
+UID:b47f150e-c7af-47e2-8b10-703e1a00b528@b47f.org
+URL:https://fillum.in/p/430
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
+DURATION:PT2H
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20261006T133000Z
+SUMMARY:Nico (2022)
+UID:c758fe02-31aa-4d1f-9c36-27e01fc533c2@c758.org
+URL:https://fillum.in/screening/6193
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6194
 DURATION:PT2H
 LOCATION:Stein Auditorium India Habitat Centre
 DTSTART:20261001T133000Z
 SUMMARY:Bhangaar (Obsolete) (2023)
-UID:01866660-943f-4014-8f5f-2c515621a856@0186.org
+UID:a32c92e0-0932-466f-a18a-84387167d317@a32c.org
 URL:https://fillum.in/screening/6194
 END:VEVENT
 BEGIN:VEVENT
@@ -16,17 +34,8 @@ DURATION:PT2H
 LOCATION:India Habitat Centre
 DTSTART:20261004T133000Z
 SUMMARY:To Die a Frenchman (2026)
-UID:00ebbedb-a31b-40bb-8b94-2e315c758445@00eb.org
+UID:1ff7749c-dae3-4a7b-aa73-325ab9e8fbb2@1ff7.org
 URL:https://fillum.in/screening/6196
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
-DURATION:PT2H
-LOCATION:Museo Camera
-DTSTART:20261004T110000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:c22caf3c-1f62-4f35-acea-ed8fbf8d955c@c22c.org
-URL:https://fillum.in/screening/6195
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
@@ -34,25 +43,25 @@ DURATION:PT2H
 LOCATION:GALLERYSKE\, B-74\, Defence Colony
 DTSTART:20261017T113000Z
 SUMMARY:The Society of the Spectacle (1974)
-UID:c3f8ac2b-5160-4bb2-a060-fe970bcc9ef1@c3f8.org
+UID:c89fea57-b3b2-4126-bfad-1f2dee3671d6@c89f.org
 URL:https://fillum.in/p/428
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
 DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20261006T133000Z
-SUMMARY:Nico (2022)
-UID:177dde1d-e808-41b2-94c6-af433f7d65d6@177d.org
-URL:https://fillum.in/screening/6193
+LOCATION:Museo Camera
+DTSTART:20261004T110000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:898d8769-398c-4cdc-b004-ffbaf125c2f1@898d.org
+URL:https://fillum.in/screening/6195
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/screening/6197
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
 DURATION:PT2H
 LOCATION:India Habitat Centre
 DTSTART:20261005T133000Z
 SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
-UID:469b21b3-4885-40ac-85d3-5d3d66901e6b@469b.org
-URL:https://fillum.in/screening/6197
+UID:a0b054a7-d62b-4226-94b1-394ffad6c19e@a0b0.org
+URL:https://fillum.in/event/6197
 END:VEVENT
 END:VCALENDAR
