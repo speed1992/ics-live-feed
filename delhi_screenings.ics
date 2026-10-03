@@ -2,31 +2,76 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Seating on first come\, first serve basis. Post-screening conversation with the filmmaker(s).\n\n· Provisions for Everybody\, 2018\n· The Blood of Stars\, 2017\n· A Planet Turns on its A.. more\n\nMore info / Tickets: https://fillum.in/event/6271
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:952a056c-1acd-459f-b556-8f3102468b46@952a.org
-URL:https://fillum.in/screening/6272
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20261010T093000Z
+SUMMARY:Time is Never Ripe - Documentaries by Raqs Collective
+UID:542ee212-4b05-4101-9c63-f1bad025a1be@542e.org
+URL:https://fillum.in/event/6271
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nMichael Haneke’s most notorious provocation\, Funny Games spares no detail in its depiction of the agony of a bourgeois family held captive at their vacation home by a pair of white-gloved young me.. more\n\nMore info / Tickets: https://fillum.in/p/432
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6258
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261009T130000Z
+SUMMARY:Marmaille (2024)
+UID:02986c92-164e-4074-b0d7-e2ccc36ee0ae@0298.org
+URL:https://fillum.in/screening/6258
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261005T133000Z
+SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
+UID:83d988bd-807c-48cf-ac04-c2591776d4cc@83d9.org
+URL:https://fillum.in/event/6197
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA staggering work of existential science fiction\, The Face of Another dissects identity with the sure hand of a surgeon. Okuyama (Yojimbo's Tatsuya Nakadai)\, after being burned and disfigured in an .. more\n\nMore info / Tickets: https://fillum.in/p/432
 DURATION:PT2H
 LOCATION:Mool\, South Ex II
-DTSTART:20261004T120000Z
-SUMMARY:Funny Games (1997)
-UID:bad0e572-c65f-48d7-9dce-55d328ad0476@bad0.org
+DTSTART:20261004T063000Z
+SUMMARY:The Face of Another (1966)
+UID:4882e5ba-dd14-4c13-ac7f-e65198ace836@4882.org
 URL:https://fillum.in/p/432
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Priyanka Sarkar\n\nFree Entry · RSVP Required\n\nANKA SESSIONS 01 marks the first public chapter of ANKA\, an evolving interdisciplinary artistic practice by filmmaker and performance artist Priyanka Sarkar.\n\nAn eve.. more\n\nMore info / Tickets: https://fillum.in/event/6273
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
-LOCATION:STRANGR\, GK-1
-DTSTART:20261008T140000Z
-SUMMARY:Anka Sessions 01
-UID:3e6b6578-56e5-4674-93ca-3047330284e8@3e6b.org
-URL:https://fillum.in/event/6273
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:e4d11ef0-5796-4001-87fb-b70177e2fe2a@e4d1.org
+URL:https://fillum.in/screening/6264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
+DURATION:PT2H
+LOCATION:GALLERYSKE\, B-74\, Defence Colony
+DTSTART:20261017T113000Z
+SUMMARY:The Society of the Spectacle (1974)
+UID:a6d73422-9854-410e-92bf-5d26f230ee84@a6d7.org
+URL:https://fillum.in/p/428
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
+DURATION:PT2H
+LOCATION:Museo Camera
+DTSTART:20261004T110000Z
+SUMMARY:Bhangaar (Obsolete) (2023)
+UID:5e4ba4db-1def-496c-b0c9-e7af27ef43b5@5e4b.org
+URL:https://fillum.in/screening/6195
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nFaith. Doubt. Love. And a miracle that challenges everything we believe.\n\nA quiet\, powerful masterpiece where the boundaries between the spiritual and the impossible begin to disappear.\n\nJoin us.. more\n\nMore info / Tickets: https://fillum.in/p/431
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261003T093000Z
+SUMMARY:Ordet (1955)
+UID:8c44b63f-6bba-46f7-b60d-455fc792a013@8c44.org
+URL:https://fillum.in/p/431
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nA little boy. A world waiting to be discovered.\nA family trying to hold on.\n\nSatyajit Ray’s unforgettable debut captures childhood\, poverty\, hope and the quiet beauty of everyday life with extr.. more\n\nMore info / Tickets: https://fillum.in/p/431
@@ -34,7 +79,7 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20261004T064000Z
 SUMMARY:Pather Panchali (1955)
-UID:acb99236-da3f-443c-ba85-4b42c7aecb9d@acb9.org
+UID:0f6a452d-1194-451e-a5b9-569aba7e4542@0f6a.org
 URL:https://fillum.in/p/431
 END:VEVENT
 BEGIN:VEVENT
@@ -43,116 +88,8 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex II
 DTSTART:20261004T093000Z
 SUMMARY:Goodnight Mommy (2015)
-UID:b64481f5-42fd-459a-afcf-5a465a50d077@b644.org
+UID:bf08cdc1-0fa7-433c-a775-564351d73e04@bf08.org
 URL:https://fillum.in/p/432
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA staggering work of existential science fiction\, The Face of Another dissects identity with the sure hand of a surgeon. Okuyama (Yojimbo's Tatsuya Nakadai)\, after being burned and disfigured in an .. more\n\nMore info / Tickets: https://fillum.in/p/432
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261004T063000Z
-SUMMARY:The Face of Another (1966)
-UID:2df8ad01-ad7c-4a1e-a8b3-6c2fce82f893@2df8.org
-URL:https://fillum.in/p/432
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nFaith. Doubt. Love. And a miracle that challenges everything we believe.\n\nA quiet\, powerful masterpiece where the boundaries between the spiritual and the impossible begin to disappear.\n\nJoin us.. more\n\nMore info / Tickets: https://fillum.in/p/431
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261003T093000Z
-SUMMARY:Ordet (1955)
-UID:53666d4f-bc98-4cac-a945-556d6752332f@5366.org
-URL:https://fillum.in/p/431
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6258
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261009T130000Z
-SUMMARY:Marmaille (2024)
-UID:d898858e-f841-401a-ad32-9f0a815d8da6@d898.org
-URL:https://fillum.in/screening/6258
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:45a7829e-5ad6-4c01-9264-31b20e4ecd20@45a7.org
-URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
-DURATION:PT2H
-LOCATION:GALLERYSKE\, B-74\, Defence Colony
-DTSTART:20261017T113000Z
-SUMMARY:The Society of the Spectacle (1974)
-UID:cb4c2148-8715-43fc-ac6e-7f7b364afd85@cb4c.org
-URL:https://fillum.in/p/428
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Seating on first come\, first serve basis. Post-screening conversation with the filmmaker(s).\n\n· Provisions for Everybody\, 2018\n· The Blood of Stars\, 2017\n· A Planet Turns on its A.. more\n\nMore info / Tickets: https://fillum.in/event/6271
-DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20261010T093000Z
-SUMMARY:Time is Never Ripe - Documentaries by Raqs Collective
-UID:fd0289b5-cb52-4a3a-82da-8f17746ab834@fd02.org
-URL:https://fillum.in/event/6271
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6195
-DURATION:PT2H
-LOCATION:Museo Camera
-DTSTART:20261004T110000Z
-SUMMARY:Bhangaar (Obsolete) (2023)
-UID:c51d6c87-fc17-43d2-bf3a-c80c2255fec5@c51d.org
-URL:https://fillum.in/screening/6195
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Postcards\n\nPostcards is coming together with The Philosophy Project to host a screening of "The Weight of Water: The Human Cost of the Climate Crisis" co-directed by Neelima Vallangi and Deej Phillips\, on 3rd .. more\n\nMore info / Tickets: https://fillum.in/screening/6265
-DURATION:PT2H
-LOCATION:Q Block Road\, Jungpura (Full address on approval)
-DTSTART:20261003T093000Z
-SUMMARY:The Weight of Water: The Human Cost of Climate Crisis (2022)
-UID:bd2c5912-387f-4d7e-9837-e6908ef6e8a1@bd2c.org
-URL:https://fillum.in/screening/6265
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA boy grows up.\nA mother struggles to let go.\nAnd the world beyond home begins to call.\n\nThe second chapter of Ray’s celebrated Apu Trilogy is a deeply moving portrait of growing up\, ambition\,.. more\n\nMore info / Tickets: https://fillum.in/p/431
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261004T103000Z
-SUMMARY:Aparajito (1956)
-UID:3b19f134-9448-4803-a926-c9827e0207e7@3b19.org
-URL:https://fillum.in/p/431
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:4dbd9b18-79ac-415b-9bd8-8f11305ce518@4dbd.org
-URL:https://fillum.in/screening/6264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA haunting tale of innocence\, faith\, violence and revenge.\n\nIn medieval Sweden\, a young girl sets out on a simple journey—one that takes a devastating turn and forces questions of morality\, fait.. more\n\nMore info / Tickets: https://fillum.in/p/431
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261003T064000Z
-SUMMARY:The Virgin Spring (1960)
-UID:8d8513d9-4295-4f8e-9afd-e188fca75ec3@8d85.org
-URL:https://fillum.in/p/431
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nUpdate: Cancelled\n\nMore info / Tickets: https://fillum.in/screening/6196
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261004T133000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:b58062ee-5730-4c81-b401-007d48eb1d7e@b580.org
-URL:https://fillum.in/screening/6196
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Intro and post-screening discussion.\n\nMore info / Tickets: https://fillum.in/screening/6257
@@ -160,8 +97,35 @@ DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20261006T130000Z
 SUMMARY:The Disenchantment (1976)
-UID:e05e44e6-5afc-4ca9-ba61-627fd532611b@e05e.org
+UID:6ddb6a22-4af7-4cdb-905f-d7f12d65fede@6ddb.org
 URL:https://fillum.in/screening/6257
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nUpdate: Cancelled\n\nMore info / Tickets: https://fillum.in/screening/6196
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261004T133000Z
+SUMMARY:To Die a Frenchman (2026)
+UID:805a3f55-205f-4dd0-b3a8-3c52553586b0@805a.org
+URL:https://fillum.in/screening/6196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:2429798e-e166-4432-8593-d4cf2241038e@2429.org
+URL:https://fillum.in/screening/6272
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA haunting tale of innocence\, faith\, violence and revenge.\n\nIn medieval Sweden\, a young girl sets out on a simple journey—one that takes a devastating turn and forces questions of morality\, fait.. more\n\nMore info / Tickets: https://fillum.in/p/431
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261003T064000Z
+SUMMARY:The Virgin Spring (1960)
+UID:6ac3c7b3-cdda-43db-9c12-0e8f28522c8b@6ac3.org
+URL:https://fillum.in/p/431
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6193
@@ -169,16 +133,61 @@ DURATION:PT2H
 LOCATION:Siddhartha Hall\, Goethe-Institut
 DTSTART:20261006T133000Z
 SUMMARY:Nico (2022)
-UID:f09b373c-ad28-4d9c-855c-93055d02ca04@f09b.org
+UID:02e62ce6-0cfb-40e4-bfe8-d68e5a15a240@02e6.org
 URL:https://fillum.in/screening/6193
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry.\n\nTHE BECOMING OF A WILDSCAPE\n(18:09 mins | English\, Tamil\, Kannada w. English subs | 2026 | Docu)\nDir. Tanmayi Gidh (Untold Earth) |\nProd. Zerodha Broking Pvt Ltd. and Teepoi Prod.. more\n\nMore info / Tickets: https://fillum.in/event/6197
+DESCRIPTION:Host: Out of Sequence\n\nMichael Haneke’s most notorious provocation\, Funny Games spares no detail in its depiction of the agony of a bourgeois family held captive at their vacation home by a pair of white-gloved young me.. more\n\nMore info / Tickets: https://fillum.in/p/432
 DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261005T133000Z
-SUMMARY:EcoReels Selections and Conversation with Pradip Krishnen
-UID:4331564a-0898-470f-b5d8-475f3bde1955@4331.org
-URL:https://fillum.in/event/6197
+LOCATION:Mool\, South Ex II
+DTSTART:20261004T120000Z
+SUMMARY:Funny Games (1997)
+UID:36a7b52e-8e91-482d-b1f0-2d887936112a@36a7.org
+URL:https://fillum.in/p/432
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:8ffb7e17-154d-4663-952a-245a341060f9@8ffb.org
+URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Priyanka Sarkar\n\nFree Entry · RSVP Required\n\nANKA SESSIONS 01 marks the first public chapter of ANKA\, an evolving interdisciplinary artistic practice by filmmaker and performance artist Priyanka Sarkar.\n\nAn eve.. more\n\nMore info / Tickets: https://fillum.in/event/6273
+DURATION:PT2H
+LOCATION:STRANGR\, GK-1
+DTSTART:20261008T140000Z
+SUMMARY:Anka Sessions 01
+UID:9590c2f9-de6e-4ffb-80da-be0e6898136e@9590.org
+URL:https://fillum.in/event/6273
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA boy grows up.\nA mother struggles to let go.\nAnd the world beyond home begins to call.\n\nThe second chapter of Ray’s celebrated Apu Trilogy is a deeply moving portrait of growing up\, ambition\,.. more\n\nMore info / Tickets: https://fillum.in/p/431
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261004T103000Z
+SUMMARY:Aparajito (1956)
+UID:90203b2d-cadf-4176-a51c-f6521048e34d@9020.org
+URL:https://fillum.in/p/431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Postcards\n\nPostcards is coming together with The Philosophy Project to host a screening of "The Weight of Water: The Human Cost of the Climate Crisis" co-directed by Neelima Vallangi and Deej Phillips\, on 3rd .. more\n\nMore info / Tickets: https://fillum.in/screening/6265
+DURATION:PT2H
+LOCATION:Q Block Road\, Jungpura (Full address on approval)
+DTSTART:20261003T093000Z
+SUMMARY:The Weight of Water: The Human Cost of Climate Crisis (2022)
+UID:51260769-12b8-434b-a8b2-810b8828d8a8@5126.org
+URL:https://fillum.in/screening/6265
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6276
+DURATION:PT2H
+LOCATION:IP Extension\, Patparganj
+DTSTART:20261004T103000Z
+SUMMARY:Devi (1960)
+UID:cefa56f1-9c56-43a2-9180-fec5bc90c0a5@cefa.org
+URL:https://fillum.in/screening/6276
 END:VEVENT
 END:VCALENDAR
