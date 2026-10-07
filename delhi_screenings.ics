@@ -2,139 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
-DURATION:PT2H
-LOCATION:GALLERYSKE\, B-74\, Defence Colony
-DTSTART:20261017T113000Z
-SUMMARY:The Society of the Spectacle (1974)
-UID:3b0695d2-21fa-4ac7-8479-5369f49a177a@3b06.org
-URL:https://fillum.in/p/428
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:a819f272-5abb-4bfe-be72-60a333ff7dca@a819.org
-URL:https://fillum.in/screening/6264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6258
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261009T130000Z
-SUMMARY:Marmaille (2024)
-UID:a95f1530-a66c-4482-950c-4168e16cafcc@a95f.org
-URL:https://fillum.in/screening/6258
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA biblical epic that only the Marxist dissident Pier Paolo Pasolini could make\, this intensely faithful adaptation of Saint Matthew’s Gospel depicts the life and teachings of Jesus Christ (Enrique.. more\n\nMore info / Tickets: https://fillum.in/p/434
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20261011T113000Z
-SUMMARY:The Gospel According to St. Matthew (1965)
-UID:729e66e6-62ac-4989-9169-1a9e7597ca0d@729e.org
-URL:https://fillum.in/p/434
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nTravelogue\, memoir\, and outrageous cinematic spectacle converge in this kaleidoscopic valentine to the Eternal City\, composed by one of its most iconic inhabitants. Leisurely one moment and breathle.. more\n\nMore info / Tickets: https://fillum.in/p/434
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20261011T090000Z
-SUMMARY:Roma (1972)
-UID:848af11e-f8b0-4e89-9120-28e085f254f7@848a.org
-URL:https://fillum.in/p/434
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in/screening/6289
-DURATION:PT2H
-LOCATION:Pyare Lal Bhawan - Gandhi Memorial Hall\, ITO
-DTSTART:20261010T093000Z
-SUMMARY:Daughter of the Mountains (2026)
-UID:adeef148-0b92-4fdb-b183-5dbbbad34763@adee.org
-URL:https://fillum.in/screening/6289
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nSix days. A father and daughter. A horse that refuses to move. And a world that seems to be slowly shutting itself down.\n\nFilms From Underground presents Béla Tarr’s The Turin Horse (2011) — .. more\n\nMore info / Tickets: https://fillum.in/p/437
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261011T113000Z
-SUMMARY:The Turin Horse (2011)
-UID:aed711ee-1005-4374-9de6-a8a39bf761d4@aed7.org
-URL:https://fillum.in/p/437
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:b2d7438e-0294-4457-bcb6-50279f62d786@b2d7.org
-URL:https://fillum.in/screening/6272
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nHayao Miyazaki\n\nBetween the world of humans and the spirits of the forest\, a battle for survival begins.\n\nA powerful tale of nature\, humanity\, violence and coexistence — from one of animation'.. more\n\nMore info / Tickets: https://fillum.in/p/446
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261011T064000Z
-SUMMARY:Princess Mononoke (1997)
-UID:2f295e87-72a9-4838-835b-a0edb2bad961@2f29.org
-URL:https://fillum.in/p/446
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Priyanka Sarkar\n\nFree Entry · RSVP Required\n\nANKA SESSIONS 01 marks the first public chapter of ANKA\, an evolving interdisciplinary artistic practice by filmmaker and performance artist Priyanka Sarkar.\n\nAn eve.. more\n\nMore info / Tickets: https://fillum.in/event/6273
-DURATION:PT2H
-LOCATION:STRANGR\, GK-1
-DTSTART:20261008T140000Z
-SUMMARY:Anka Sessions 01
-UID:a16075f5-b81d-48e3-a810-aef2ee3382b3@a160.org
-URL:https://fillum.in/event/6273
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261014T130000Z
-SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
-UID:327a50db-1dd6-4701-a833-860bdc0257fc@327a.org
-URL:https://fillum.in/screening/6287
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Seating on first come\, first serve basis. Post-screening conversation with the filmmaker(s).\n\n· Provisions for Everybody\, 2018\n· The Blood of Stars\, 2017\n· A Planet Turns on its A.. more\n\nMore info / Tickets: https://fillum.in/event/6271
-DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20261010T093000Z
-SUMMARY:Time is Never Ripe - Works by Raqs Collective
-UID:f8c0a02b-cd08-443a-898c-7296589ab4d6@f8c0.org
-URL:https://fillum.in/event/6271
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261010T090000Z
 SUMMARY:The Beyond (1981)
-UID:a05f6dd8-c646-4cf3-bcbd-99ea8c839acc@a05f.org
+UID:7ca66c0a-41c4-49ff-96f5-62ee1970b466@7ca6.org
 URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA psychological thriller by Satoshi Kon.\n\nStep into a world where identity\, fame and reality begin to blur.\n\nJoin us for an intimate screening with snacks\, drinks and a post-screening discussion.. more\n\nMore info / Tickets: https://fillum.in/p/446
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261010T064000Z
-SUMMARY:Perfect Blue (1997)
-UID:2fb7b87f-ab5a-4cb0-924c-e468c8b61d02@2fb7.org
-URL:https://fillum.in/p/446
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nJodorowsky's Santa Sangre explores the extreme (yes: perverse) ties between a boy and his mother with macabre\, Fellini-esque verve.\n\nMore info / Tickets: https://fillum.in/p/434
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20261011T063000Z
-SUMMARY:Santa sangre (1989)
-UID:3d29bf50-0453-4ba4-977a-bd6540376e13@3d29.org
-URL:https://fillum.in/p/434
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
@@ -142,44 +16,53 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261010T130000Z
 SUMMARY:Gonjiam: Haunted Asylum (2018)
-UID:ad35d879-4f8a-4bc5-8610-cb4ec34fd6f2@ad35.org
+UID:33df811f-8521-4479-acfa-fffc4b3b6b44@33df.org
 URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
+DESCRIPTION:Host: Out of Sequence\n\nJodorowsky's Santa Sangre explores the extreme (yes: perverse) ties between a boy and his mother with macabre\, Fellini-esque verve.\n\nMore info / Tickets: https://fillum.in/p/434
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261010T110000Z
-SUMMARY:KINKI (2025)
-UID:a19a79b2-9d5e-47a4-bbb3-0bfe230fb58b@a19a.org
-URL:https://fillum.in/p/436
+LOCATION:mool\, south ex II
+DTSTART:20261011T063000Z
+SUMMARY:Santa sangre (1989)
+UID:e2200fb9-e0c8-42c1-9f63-7835460f5467@e220.org
+URL:https://fillum.in/p/434
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy Conscious Cinema Initiative. Free entry. Open to all. Followed by Q&A with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6288
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
 DURATION:PT2H
-LOCATION:Museo Camera
-DTSTART:20261007T120000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:9271943f-d77f-4245-827c-ec3c3edf74d4@9271.org
-URL:https://fillum.in/screening/6288
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261014T130000Z
+SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
+UID:6fffb9b4-94a1-4021-8cee-86728d1ad672@6fff.org
+URL:https://fillum.in/screening/6287
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
+DESCRIPTION:Host: SomeArt\n\nHayao Miyazaki\n\nBetween the world of humans and the spirits of the forest\, a battle for survival begins.\n\nA powerful tale of nature\, humanity\, violence and coexistence — from one of animation'.. more\n\nMore info / Tickets: https://fillum.in/p/446
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261010T143000Z
-SUMMARY:Ju-on: The Grudge (2002)
-UID:728b79a9-611b-45a7-86ef-aac293a45de7@728b.org
-URL:https://fillum.in/p/436
+LOCATION:iPley Music\, GK-1
+DTSTART:20261011T064000Z
+SUMMARY:Princess Mononoke (1997)
+UID:4adc489e-fc92-425b-99d7-caf8ac72e17f@4adc.org
+URL:https://fillum.in/p/446
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6286
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20261009T130000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:792609d9-55c0-4fca-af68-167496228e57@7926.org
-URL:https://fillum.in/screening/6286
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:cf1afe0b-fc9a-4957-a081-5391fb56d3d5@cf1a.org
+URL:https://fillum.in/screening/6264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:5ddf7100-b865-466c-97d6-316a95b2ad42@5ddf.org
+URL:https://fillum.in/screening/6272
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
@@ -187,8 +70,53 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261023T133000Z
 SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:73ab1180-f722-4d3d-9daf-9ebf9b8154b4@73ab.org
+UID:807d549a-3821-41c5-8619-69050b104c74@807d.org
 URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Seating on first come\, first serve basis. Post-screening conversation with the filmmaker(s).\n\n· Provisions for Everybody\, 2018\n· The Blood of Stars\, 2017\n· A Planet Turns on its A.. more\n\nMore info / Tickets: https://fillum.in/event/6271
+DURATION:PT2H
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20261010T093000Z
+SUMMARY:Time is Never Ripe - Works by Raqs Collective
+UID:e1abf3c1-bcc4-40c0-b5d7-80c4d165eb1b@e1ab.org
+URL:https://fillum.in/event/6271
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in/screening/6289
+DURATION:PT2H
+LOCATION:Pyare Lal Bhawan - Gandhi Memorial Hall\, ITO
+DTSTART:20261010T093000Z
+SUMMARY:Daughter of the Mountains (2026)
+UID:b7e05f2b-2c79-44ed-8ac4-fe011a688fa3@b7e0.org
+URL:https://fillum.in/screening/6289
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\nFree entry. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6286
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room I
+DTSTART:20261009T130000Z
+SUMMARY:To Die a Frenchman (2026)
+UID:42bc62ce-05f6-4ec6-9b32-8a64d80c8a8f@42bc.org
+URL:https://fillum.in/screening/6286
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nSix days. A father and daughter. A horse that refuses to move. And a world that seems to be slowly shutting itself down.\n\nFilms From Underground presents Béla Tarr’s The Turin Horse (2011) — .. more\n\nMore info / Tickets: https://fillum.in/p/437
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261011T113000Z
+SUMMARY:The Turin Horse (2011)
+UID:7e812987-e9bc-4814-9fd2-0f5a3ed29341@7e81.org
+URL:https://fillum.in/p/437
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
+DURATION:PT2H
+LOCATION:GALLERYSKE\, B-74\, Defence Colony
+DTSTART:20261017T113000Z
+SUMMARY:The Society of the Spectacle (1974)
+UID:1fc767aa-b2f8-45ba-85cb-ee0884da40df@1fc7.org
+URL:https://fillum.in/p/428
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
@@ -196,7 +124,34 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261010T063000Z
 SUMMARY:Noroi: The Curse (2005)
-UID:96c40e22-43ec-400b-bae7-3dd473362865@96c4.org
+UID:04c91e8b-bca1-4018-a062-775882f1c696@04c9.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nTravelogue\, memoir\, and outrageous cinematic spectacle converge in this kaleidoscopic valentine to the Eternal City\, composed by one of its most iconic inhabitants. Leisurely one moment and breathle.. more\n\nMore info / Tickets: https://fillum.in/p/434
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20261011T090000Z
+SUMMARY:Roma (1972)
+UID:4eca6a68-926c-4dcf-bf67-f4878109abb0@4eca.org
+URL:https://fillum.in/p/434
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6258
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261009T130000Z
+SUMMARY:Marmaille (2024)
+UID:01a8f398-2657-41d7-8634-6de2d488cc72@01a8.org
+URL:https://fillum.in/screening/6258
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261010T143000Z
+SUMMARY:Ju-on: The Grudge (2002)
+UID:d2abc80f-9289-4326-a3e8-96a72f3ace98@d2ab.org
 URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +160,26 @@ DURATION:PT2H
 LOCATION:iPley Music\, GK-1
 DTSTART:20261011T103000Z
 SUMMARY:Spirited Away (2001)
-UID:2cbab3cf-d690-4ba9-87ab-fca73b0c3d44@2cba.org
+UID:6a9db2c0-a0aa-4de2-a9d8-9d829ffda677@6a9d.org
 URL:https://fillum.in/p/446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA psychological thriller by Satoshi Kon.\n\nStep into a world where identity\, fame and reality begin to blur.\n\nJoin us for an intimate screening with snacks\, drinks and a post-screening discussion.. more\n\nMore info / Tickets: https://fillum.in/p/446
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261010T064000Z
+SUMMARY:Perfect Blue (1997)
+UID:9d8dc461-bf79-40fd-8723-49f82dcce182@9d8d.org
+URL:https://fillum.in/p/446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress .. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261010T110000Z
+SUMMARY:KINKI (2025)
+UID:02b5ecb9-906b-4213-9040-27cfe98014f3@02b5.org
+URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nKatsuhiro Otomo\n\nNeo-Tokyo. A city rebuilt from destruction.\nPower\, rebellion and chaos collide when a mysterious force awakens.\n\nExperience one of the most influential films in the history of .. more\n\nMore info / Tickets: https://fillum.in/p/446
@@ -214,7 +187,25 @@ DURATION:PT2H
 LOCATION:iPley Music\, GK-1
 DTSTART:20261010T103000Z
 SUMMARY:Akira (1988)
-UID:a881404e-a814-4099-9711-c5fa3800c1b1@a881.org
+UID:c2e7325a-35a2-46f2-889f-e3dd7d72e4df@c2e7.org
 URL:https://fillum.in/p/446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Priyanka Sarkar\n\nFree Entry · RSVP Required\n\nANKA SESSIONS 01 marks the first public chapter of ANKA\, an evolving interdisciplinary artistic practice by filmmaker and performance artist Priyanka Sarkar.\n\nAn eve.. more\n\nMore info / Tickets: https://fillum.in/event/6273
+DURATION:PT2H
+LOCATION:STRANGR\, GK-1
+DTSTART:20261008T140000Z
+SUMMARY:Anka Sessions 01
+UID:62f40898-0ba1-45da-bdd9-11afc3a00ddd@62f4.org
+URL:https://fillum.in/event/6273
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA biblical epic that only the Marxist dissident Pier Paolo Pasolini could make\, this intensely faithful adaptation of Saint Matthew’s Gospel depicts the life and teachings of Jesus Christ (Enrique.. more\n\nMore info / Tickets: https://fillum.in/p/434
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20261011T113000Z
+SUMMARY:The Gospel According to St. Matthew (1965)
+UID:c162fc1a-37f5-49f8-a206-fd0f3e5d8887@c162.org
+URL:https://fillum.in/p/434
 END:VEVENT
 END:VCALENDAR
