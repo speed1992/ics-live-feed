@@ -2,30 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T090000Z
-SUMMARY:The Beyond (1981)
-UID:63188105-423f-4135-a145-e05c0c4c468b@6318.org
-URL:https://fillum.in/p/436
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:a8314174-51bb-4fb0-8c58-da76adc85237@a831.org
+URL:https://fillum.in/screening/6272
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in/screening/6289
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T130000Z
-SUMMARY:Gonjiam: Haunted Asylum (2018)
-UID:93b7abb9-bafd-4298-ae58-6f564124091a@93b7.org
-URL:https://fillum.in/p/436
+LOCATION:Pyare Lal Bhawan - Gandhi Memorial Hall\, ITO
+DTSTART:20261010T093000Z
+SUMMARY:Daughter of the Mountains (2026)
+UID:09e22f33-7448-4967-9f06-f89af002abbb@09e2.org
+URL:https://fillum.in/screening/6289
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA psychological thriller by Satoshi Kon.\n\nStep into a world where identity\, fame and reality begin to blur.\n\nJoin us for an intimate screening with snacks\, drinks and a post-screening discussion.. more\n\nMore info / Tickets: https://fillum.in/p/446
+DESCRIPTION:Host: SomeArt\n\nKatsuhiro Otomo\n\nNeo-Tokyo. A city rebuilt from destruction.\nPower\, rebellion and chaos collide when a mysterious force awakens.\n\nExperience one of the most influential films in the history of .. more\n\nMore info / Tickets: https://fillum.in/p/446
 DURATION:PT2H
 LOCATION:iPley Music\, GK-1
-DTSTART:20261010T064000Z
-SUMMARY:Perfect Blue (1997)
-UID:7ddb605c-5c09-472e-9024-581e24b3c784@7ddb.org
+DTSTART:20261010T103000Z
+SUMMARY:Akira (1988)
+UID:80dd09ad-2e2e-4038-b22e-982c4c56f643@80dd.org
 URL:https://fillum.in/p/446
 END:VEVENT
 BEGIN:VEVENT
@@ -34,35 +34,8 @@ DURATION:PT2H
 LOCATION:GALLERYSKE\, B-74\, Defence Colony
 DTSTART:20261017T113000Z
 SUMMARY:The Society of the Spectacle (1974)
-UID:10648718-cef0-42b2-8e27-d490720dc009@1064.org
+UID:addda78d-d6ac-484e-921d-8bf2332f93f7@addd.org
 URL:https://fillum.in/p/428
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261014T130000Z
-SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
-UID:6e07d70a-5cee-445b-9795-98b2a494c52e@6e07.org
-URL:https://fillum.in/screening/6287
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T143000Z
-SUMMARY:Ju-on: The Grudge (2002)
-UID:12f828aa-ac08-493e-8481-e5967fab6b50@12f8.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6258
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261009T130000Z
-SUMMARY:Marmaille (2024)
-UID:8804ef41-11a2-4747-a832-2b88962b8a5a@8804.org
-URL:https://fillum.in/screening/6258
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
@@ -70,35 +43,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261023T133000Z
 SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:62ac343c-72d1-4ddc-aebc-b7917d6898ef@62ac.org
+UID:fb273aa8-878d-4fdb-bc12-4d745e2e400f@fb27.org
 URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:2243db50-7a4f-4e5f-8882-b6806406e13a@2243.org
-URL:https://fillum.in/screening/6272
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T063000Z
-SUMMARY:Noroi: The Curse (2005)
-UID:4136b759-6a42-4f54-97f3-d8391b0d1f98@4136.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nKatsuhiro Otomo\n\nNeo-Tokyo. A city rebuilt from destruction.\nPower\, rebellion and chaos collide when a mysterious force awakens.\n\nExperience one of the most influential films in the history of .. more\n\nMore info / Tickets: https://fillum.in/p/446
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261010T103000Z
-SUMMARY:Akira (1988)
-UID:45ecd00f-e189-4f35-8414-73f0b7ccfa27@45ec.org
-URL:https://fillum.in/p/446
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nA mysterious world.\nA young girl.\nAnd a journey into a realm filled with spirits\, wonder and forgotten memories.\n\nExperience one of the most beloved masterpieces of Japanese animation.\n\nJoin u.. more\n\nMore info / Tickets: https://fillum.in/p/446
@@ -106,35 +52,17 @@ DURATION:PT2H
 LOCATION:iPley Music\, GK-1
 DTSTART:20261011T103000Z
 SUMMARY:Spirited Away (2001)
-UID:fcb4cca8-e983-44b4-b8fa-84bf3b6dd678@fcb4.org
+UID:995f50d3-1fb5-4d20-9a40-d3bed5c2a541@995f.org
 URL:https://fillum.in/p/446
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/screening/6286
+DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room I
-DTSTART:20261009T130000Z
-SUMMARY:To Die a Frenchman (2026)
-UID:44121dfb-ce5d-44d5-b239-5fdf3daf8c4d@4412.org
-URL:https://fillum.in/screening/6286
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:17617fa8-dc7f-4e05-a882-92ebe725e9f4@1761.org
-URL:https://fillum.in/screening/6264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Seating on first come\, first serve basis. Post-screening conversation with the filmmaker(s).\n\n· Provisions for Everybody\, 2018\n· The Blood of Stars\, 2017\n· A Planet Turns on its A.. more\n\nMore info / Tickets: https://fillum.in/event/6271
-DURATION:PT2H
-LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
-DTSTART:20261010T093000Z
-SUMMARY:Time is Never Ripe - Works by Raqs Collective
-UID:605114fc-00b2-49ea-9d38-637619edb6bf@6051.org
-URL:https://fillum.in/event/6271
+LOCATION:Jangpura
+DTSTART:20261024T143000Z
+SUMMARY:Ju-on: The Grudge (2002)
+UID:eac4398d-4f3d-456e-90a2-286eb312c72c@eac4.org
+URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nTravelogue\, memoir\, and outrageous cinematic spectacle converge in this kaleidoscopic valentine to the Eternal City\, composed by one of its most iconic inhabitants. Leisurely one moment and breathle.. more\n\nMore info / Tickets: https://fillum.in/p/434
@@ -142,7 +70,7 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20261011T090000Z
 SUMMARY:Roma (1972)
-UID:6b75ae05-e52a-4b6c-ada2-91f4c3c10e63@6b75.org
+UID:81400776-bd23-4fad-ad53-ba22340e548e@8140.org
 URL:https://fillum.in/p/434
 END:VEVENT
 BEGIN:VEVENT
@@ -151,8 +79,17 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20261011T113000Z
 SUMMARY:The Gospel According to St. Matthew (1965)
-UID:cae19b79-3842-4a97-bb1b-746bd7e5c76c@cae1.org
+UID:85c0c80c-b5c3-416b-b0ee-136b0f895ef2@85c0.org
 URL:https://fillum.in/p/434
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:dac6b259-c082-4783-8ff8-352a95e33429@dac6.org
+URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Films From Underground\n\nSix days. A father and daughter. A horse that refuses to move. And a world that seems to be slowly shutting itself down.\n\nFilms From Underground presents Béla Tarr’s The Turin Horse (2011) — .. more\n\nMore info / Tickets: https://fillum.in/p/437
@@ -160,8 +97,26 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261011T113000Z
 SUMMARY:The Turin Horse (2011)
-UID:cecad175-1520-41f1-bcb5-4ab79aa38c73@ceca.org
+UID:dafe7187-ebe4-4bcb-9e08-ec50689fc1ed@dafe.org
 URL:https://fillum.in/p/437
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261014T130000Z
+SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
+UID:f79d6643-6f2f-4bea-b243-115ec67eda00@f79d.org
+URL:https://fillum.in/screening/6287
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T063000Z
+SUMMARY:Noroi: The Curse (2005)
+UID:0a60b8b9-af47-4429-83df-ed1afc763dad@0a60.org
+URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: SomeArt\n\nHayao Miyazaki\n\nBetween the world of humans and the spirits of the forest\, a battle for survival begins.\n\nA powerful tale of nature\, humanity\, violence and coexistence — from one of animation'.. more\n\nMore info / Tickets: https://fillum.in/p/446
@@ -169,26 +124,26 @@ DURATION:PT2H
 LOCATION:iPley Music\, GK-1
 DTSTART:20261011T064000Z
 SUMMARY:Princess Mononoke (1997)
-UID:d11f0843-8727-46f0-9263-7ee331966c85@d11f.org
+UID:3b129ce9-deb1-40d2-a7bc-b392e5d82432@3b12.org
 URL:https://fillum.in/p/446
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nJodorowsky's Santa Sangre explores the extreme (yes: perverse) ties between a boy and his mother with macabre\, Fellini-esque verve.\n\nMore info / Tickets: https://fillum.in/p/434
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20261011T063000Z
-SUMMARY:Santa sangre (1989)
-UID:293cee3a-39a9-4a71-9c9c-15ea0c8a8356@293c.org
-URL:https://fillum.in/p/434
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
 LOCATION:Jangpura
-DTSTART:20261024T110000Z
-SUMMARY:KINKI (2025)
-UID:1857face-ebef-4ff9-a795-d1489066635a@1857.org
+DTSTART:20261024T130000Z
+SUMMARY:Gonjiam: Haunted Asylum (2018)
+UID:793d1c69-efa3-4868-8e38-4386245c53db@793d.org
 URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nFree entry. Seating on first come\, first serve basis. Post-screening conversation with the filmmaker(s).\n\n· Provisions for Everybody\, 2018\n· The Blood of Stars\, 2017\n· A Planet Turns on its A.. more\n\nMore info / Tickets: https://fillum.in/event/6271
+DURATION:PT2H
+LOCATION:Anant Art\, B-5/3\, Safdarjung Enclave
+DTSTART:20261010T093000Z
+SUMMARY:Time is Never Ripe - Works by Raqs Collective
+UID:eaa6d990-15e1-419b-a47e-d3b4955877a1@eaa6.org
+URL:https://fillum.in/event/6271
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Cinergy Club\n\nA curated evening of psychological thriller short films\, paired with a live mentalist act and an immersive art experience. Part of Cinergy's "Art Under One Roof" series\, the event blends cinema\, liv.. more\n\nMore info / Tickets: https://fillum.in/p/447
@@ -196,16 +151,43 @@ DURATION:PT2H
 LOCATION:Social\, Saket
 DTSTART:20261017T083000Z
 SUMMARY:Cinergy: Beyond Perception
-UID:387060cc-9d7d-4dad-8a06-b5607ede64ce@3870.org
+UID:b40c1e7d-6d28-414c-af1a-112fd3152a64@b40c.org
 URL:https://fillum.in/p/447
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\n\n\nMore info / Tickets: https://fillum.in/screening/6289
+DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
-LOCATION:Pyare Lal Bhawan - Gandhi Memorial Hall\, ITO
-DTSTART:20261010T093000Z
-SUMMARY:Daughter of the Mountains (2026)
-UID:f86c4f47-8723-459a-a420-9e19fd62d851@f86c.org
-URL:https://fillum.in/screening/6289
+LOCATION:Jangpura
+DTSTART:20261024T090000Z
+SUMMARY:The Beyond (1981)
+UID:f29d16b1-f926-47ab-b814-ab32a60e1abc@f29d.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA psychological thriller by Satoshi Kon.\n\nStep into a world where identity\, fame and reality begin to blur.\n\nJoin us for an intimate screening with snacks\, drinks and a post-screening discussion.. more\n\nMore info / Tickets: https://fillum.in/p/446
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261010T064000Z
+SUMMARY:Perfect Blue (1997)
+UID:f4ef7021-c5a6-4212-ae80-0c54410446d9@f4ef.org
+URL:https://fillum.in/p/446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T110000Z
+SUMMARY:KINKI (2025)
+UID:fd4aff17-6bf0-45c7-9deb-16e89f25649f@fd4a.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nJodorowsky's Santa Sangre explores the extreme (yes: perverse) ties between a boy and his mother with macabre\, Fellini-esque verve.\n\nMore info / Tickets: https://fillum.in/p/434
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20261011T063000Z
+SUMMARY:Santa sangre (1989)
+UID:73c3db92-fee1-44dc-b6d7-a3e92c4f86e9@73c3.org
+URL:https://fillum.in/p/434
 END:VEVENT
 END:VCALENDAR
