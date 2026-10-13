@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:a5f1a41f-2fc0-4961-afec-c59de3d54dcb@a5f1.org
-URL:https://fillum.in/screening/6263
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:960326b1-7cf3-4590-8dd2-43c3fd5bd784@9603.org
+URL:https://fillum.in/screening/6272
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Cinergy Club\n\nA curated evening of psychological thriller short films\, paired with a live mentalist act and an immersive art experience. Part of Cinergy's "Art Under One Roof" series\, the event blends cinema\, liv.. more\n\nMore info / Tickets: https://fillum.in/p/447
@@ -16,26 +16,8 @@ DURATION:PT2H
 LOCATION:Social\, Saket
 DTSTART:20261017T083000Z
 SUMMARY:Cinergy: Beyond Perception
-UID:66d2d4e5-1b41-495a-b933-d76a199764ad@66d2.org
+UID:47fe06cf-1a16-4ed8-9249-5d58e8c0b793@47fe.org
 URL:https://fillum.in/p/447
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6348
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261013T123000Z
-SUMMARY:Saving Jaguars and Ourselves (2026)
-UID:1fc51ed5-a276-4545-be06-b61649b9423d@1fc5.org
-URL:https://fillum.in/screening/6348
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:862eb12b-5f92-4e8f-8e0c-19dcd9337872@862e.org
-URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
@@ -43,8 +25,17 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20261014T130000Z
 SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
-UID:587500ac-0f77-4a7a-ab89-19c84fa1275a@5875.org
+UID:290376e9-09c7-463c-bc5b-7318d5980f2b@2903.org
 URL:https://fillum.in/screening/6287
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:e18973b2-eed8-4309-aac5-3704ed632151@e189.org
+URL:https://fillum.in/screening/6263
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
@@ -52,16 +43,16 @@ DURATION:PT2H
 LOCATION:GALLERYSKE\, B-74\, Defence Colony
 DTSTART:20261017T113000Z
 SUMMARY:The Society of the Spectacle (1974)
-UID:3335b6c5-ee8a-4186-81dd-cf9d43b97c97@3335.org
+UID:c45afe6f-86f4-451d-9d2b-5c1f7ca5f920@c45a.org
 URL:https://fillum.in/p/428
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:a59315a7-6318-45a7-95e0-e00a977bb591@a593.org
-URL:https://fillum.in/screening/6272
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:bfbb6d73-34e3-4697-a7f7-9956c4d1b5d0@bfbb.org
+URL:https://fillum.in/screening/6264
 END:VEVENT
 END:VCALENDAR
