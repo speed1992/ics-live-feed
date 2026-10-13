@@ -2,58 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:efb1cab0-992a-4de6-a408-e10a4ae37dde@efb1.org
-URL:https://fillum.in/screening/6272
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
-DURATION:PT2H
-LOCATION:GALLERYSKE\, B-74\, Defence Colony
-DTSTART:20261017T113000Z
-SUMMARY:The Society of the Spectacle (1974)
-UID:7c635993-b3e9-4e45-9b24-fabf06b8dc69@7c63.org
-URL:https://fillum.in/p/428
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261014T130000Z
-SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
-UID:8e5f0d14-24ae-4aff-99d2-c5f027b6e2d0@8e5f.org
-URL:https://fillum.in/screening/6287
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T110000Z
-SUMMARY:KINKI (2025)
-UID:721c6ce5-929e-4810-b63e-ce385d47056a@721c.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
 DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:3e5f9869-6f9c-41a9-8347-3cb17f53f0be@3e5f.org
-URL:https://fillum.in/screening/6264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T143000Z
-SUMMARY:Ju-on: The Grudge (2002)
-UID:f35973d1-5ac2-4d2e-bc4c-e8b2f2a66171@f359.org
-URL:https://fillum.in/p/436
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:a5f1a41f-2fc0-4961-afec-c59de3d54dcb@a5f1.org
+URL:https://fillum.in/screening/6263
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Cinergy Club\n\nA curated evening of psychological thriller short films\, paired with a live mentalist act and an immersive art experience. Part of Cinergy's "Art Under One Roof" series\, the event blends cinema\, liv.. more\n\nMore info / Tickets: https://fillum.in/p/447
@@ -61,35 +16,8 @@ DURATION:PT2H
 LOCATION:Social\, Saket
 DTSTART:20261017T083000Z
 SUMMARY:Cinergy: Beyond Perception
-UID:cc25dce5-7238-4692-b6c2-e828bcdd319d@cc25.org
+UID:66d2d4e5-1b41-495a-b933-d76a199764ad@66d2.org
 URL:https://fillum.in/p/447
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:38a46548-e101-4dbb-8c54-54e09e8448fa@38a4.org
-URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T130000Z
-SUMMARY:Gonjiam: Haunted Asylum (2018)
-UID:c147329d-8c12-4964-8d5f-ea7192c9269c@c147.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T090000Z
-SUMMARY:The Beyond (1981)
-UID:746f94e6-7206-4b2b-9f06-b99e445f3ca0@746f.org
-URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Aravali International Film Festival\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6348
@@ -97,16 +25,43 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261013T123000Z
 SUMMARY:Saving Jaguars and Ourselves (2026)
-UID:1d962108-a000-4dd5-907d-0e6c17ecf292@1d96.org
+UID:1fc51ed5-a276-4545-be06-b61649b9423d@1fc5.org
 URL:https://fillum.in/screening/6348
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nUpdate - Postponed to 24th October in light of Authoritarianism.\n\nLimited Capacity.\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Ja.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T063000Z
-SUMMARY:Noroi: The Curse (2005)
-UID:c346971f-f0d0-4e7b-8a0c-3c1e813f6bbf@c346.org
-URL:https://fillum.in/p/436
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:862eb12b-5f92-4e8f-8e0c-19dcd9337872@862e.org
+URL:https://fillum.in/screening/6264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261014T130000Z
+SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
+UID:587500ac-0f77-4a7a-ab89-19c84fa1275a@5875.org
+URL:https://fillum.in/screening/6287
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
+DURATION:PT2H
+LOCATION:GALLERYSKE\, B-74\, Defence Colony
+DTSTART:20261017T113000Z
+SUMMARY:The Society of the Spectacle (1974)
+UID:3335b6c5-ee8a-4186-81dd-cf9d43b97c97@3335.org
+URL:https://fillum.in/p/428
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:a59315a7-6318-45a7-95e0-e00a977bb591@a593.org
+URL:https://fillum.in/screening/6272
 END:VEVENT
 END:VCALENDAR
