@@ -2,22 +2,58 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:960326b1-7cf3-4590-8dd2-43c3fd5bd784@9603.org
-URL:https://fillum.in/screening/6272
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Cinergy Club\n\nA curated evening of psychological thriller short films\, paired with a live mentalist act and an immersive art experience. Part of Cinergy's "Art Under One Roof" series\, the event blends cinema\, liv.. more\n\nMore info / Tickets: https://fillum.in/p/447
 DURATION:PT2H
 LOCATION:Social\, Saket
 DTSTART:20261017T083000Z
 SUMMARY:Cinergy: Beyond Perception
-UID:47fe06cf-1a16-4ed8-9249-5d58e8c0b793@47fe.org
+UID:32e9d0f4-36c2-497d-b581-60a08143b6b9@32e9.org
 URL:https://fillum.in/p/447
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nSome spirits return. Some horrors never die.\n\nStep into the eerie world of Kuroneko\, Kaneto Shind?’s haunting Japanese horror masterpiece\, where folklore\, vengeance\, and the supernatural intertw.. more\n\nMore info / Tickets: https://fillum.in/p/451
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261017T103000Z
+SUMMARY:Kuroneko (1968)
+UID:da8d9386-9515-4c88-830f-750d6199e1ed@da8d.org
+URL:https://fillum.in/p/451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nDisclaimer - Extremely scary\, discretion is advised. Strictly 18+.\n\nA shaman's family learn that their goddess is supposedly controlling one of them. However\, their lives take a frightening turn w.. more\n\nMore info / Tickets: https://fillum.in/p/452
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261018T090000Z
+SUMMARY:The Medium (2021)
+UID:7a053a86-6b72-4a26-8a47-983563f8aaf4@7a05.org
+URL:https://fillum.in/p/452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA missing girl. A remote island. Smiling strangers who seem to know more than they reveal.\n\nWhen a police sergeant arrives searching for answers\, he finds a community where ancient rituals thrive\,.. more\n\nMore info / Tickets: https://fillum.in/p/451
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261018T103000Z
+SUMMARY:The Wicker Man (1973)
+UID:dbc2d38f-8452-43da-b357-f90991233571@dbc2.org
+URL:https://fillum.in/p/451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies\, but a blood transfusion of unknown origin brings him back to life. .. more\n\nMore info / Tickets: https://fillum.in/p/452
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261018T113000Z
+SUMMARY:Thirst (2009)
+UID:27958d15-1fe3-40f9-a245-e3151a9e3fbb@2795.org
+URL:https://fillum.in/p/452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:8c3f93cd-5421-435d-a9c9-003ae9459a97@8c3f.org
+URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6287
@@ -25,7 +61,7 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20261014T130000Z
 SUMMARY:Ivan the Terrible\, Part II: The Boyars' Plot (1958)
-UID:290376e9-09c7-463c-bc5b-7318d5980f2b@2903.org
+UID:11f8acde-93eb-4867-94bc-4e0b386f4dbe@11f8.org
 URL:https://fillum.in/screening/6287
 END:VEVENT
 BEGIN:VEVENT
@@ -34,8 +70,17 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261023T133000Z
 SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:e18973b2-eed8-4309-aac5-3704ed632151@e189.org
+UID:325eaaa0-7ed7-4713-b13e-64cc8fd26cdd@325e.org
 URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nAfter an outburst at school involving her son\, a concerned single mother demands answers\, triggering a sequence of deepening suspicion and turmoil.\n\nMore info / Tickets: https://fillum.in/p/452
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261018T063000Z
+SUMMARY:Monster (2023)
+UID:f2cca3bd-5272-4471-94eb-8cb34490eb57@f2cc.org
+URL:https://fillum.in/p/452
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
@@ -43,16 +88,34 @@ DURATION:PT2H
 LOCATION:GALLERYSKE\, B-74\, Defence Colony
 DTSTART:20261017T113000Z
 SUMMARY:The Society of the Spectacle (1974)
-UID:c45afe6f-86f4-451d-9d2b-5c1f7ca5f920@c45a.org
+UID:303c412d-f020-4eaf-b157-712591c4bdb2@303c.org
 URL:https://fillum.in/p/428
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DESCRIPTION:Host: SomeArt\n\ndark world of Viy\, a landmark Soviet horror film inspired by Nikolai Gogol’s chilling tale.\n\nA young seminary student finds himself trapped in a terrifying encounter with the supernatural\, where.. more\n\nMore info / Tickets: https://fillum.in/p/451
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:bfbb6d73-34e3-4697-a7f7-9956c4d1b5d0@bfbb.org
-URL:https://fillum.in/screening/6264
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261018T064000Z
+SUMMARY:Viy (1967)
+UID:a3a1bbf4-3ac8-49f1-9ac9-42f71825d588@a3a1.org
+URL:https://fillum.in/p/451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA haunting masterpiece of Japanese cinema\, Onibaba by Kaneto Shind? plunges you into a world of desperation\, desire\, and terror\, where survival comes at a chilling cost.\n\nSet against a desolate la.. more\n\nMore info / Tickets: https://fillum.in/p/451
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261017T064000Z
+SUMMARY:Onibaba (1964)
+UID:f3f6aec6-4429-4d04-b2be-4d072ee642c5@f3f6.org
+URL:https://fillum.in/p/451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:26bca3c2-fa39-4961-85c2-6fec02c0f4b9@26bc.org
+URL:https://fillum.in/screening/6272
 END:VEVENT
 END:VCALENDAR
