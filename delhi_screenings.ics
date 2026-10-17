@@ -2,66 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:3399ee12-23c2-4632-a4e4-5f21d1a12a32@3399.org
-URL:https://fillum.in/screening/6272
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6372
-DURATION:PT2H
-LOCATION:Green Park
-DTSTART:20261018T073000Z
-SUMMARY:The Voice of Hind Rajab (2025)
-UID:3a1e06b1-0bd4-4036-8c57-f10e8b2fd213@3a1e.org
-URL:https://fillum.in/screening/6372
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nDisclaimer - Extremely scary\, discretion is advised. Strictly 18+.\n\nA shaman's family learn that their goddess is supposedly controlling one of them. However\, their lives take a frightening turn w.. more\n\nMore info / Tickets: https://fillum.in/p/452
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261018T090000Z
-SUMMARY:The Medium (2021)
-UID:e4adb23a-566e-46be-8507-67fcc3f44ee6@e4ad.org
-URL:https://fillum.in/p/452
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
-DURATION:PT2H
-LOCATION:GALLERYSKE\, B-74\, Defence Colony
-DTSTART:20261017T113000Z
-SUMMARY:The Society of the Spectacle (1974)
-UID:f5a47a20-8edc-43b6-903b-c4b6feece68c@f5a4.org
-URL:https://fillum.in/p/428
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Cinergy Club\n\nA curated evening of psychological thriller short films\, paired with a live mentalist act and an immersive art experience. Part of Cinergy's "Art Under One Roof" series\, the event blends cinema\, liv.. more\n\nMore info / Tickets: https://fillum.in/p/447
 DURATION:PT2H
 LOCATION:Social\, Saket
 DTSTART:20261017T083000Z
 SUMMARY:Cinergy: Beyond Perception
-UID:f8a1bb3e-7189-44ae-af4e-df1c79d1b1fb@f8a1.org
+UID:dc07e057-561e-45ef-9fd2-afcfe85aae1f@dc07.org
 URL:https://fillum.in/p/447
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6371
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:334eeef5-618f-4495-88f5-a8cd09dc0ed5@334e.org
-URL:https://fillum.in/screening/6264
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261019T130000Z
+SUMMARY:Ride Away (2025)
+UID:9c2d1e34-d0ea-4a98-8b4f-42a23ae323c9@9c2d.org
+URL:https://fillum.in/screening/6371
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA missing girl. A remote island. Smiling strangers who seem to know more than they reveal.\n\nWhen a police sergeant arrives searching for answers\, he finds a community where ancient rituals thrive\,.. more\n\nMore info / Tickets: https://fillum.in/p/451
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:5cd51b11-2824-49eb-be48-c117796c2c05@5cd5.org
+URL:https://fillum.in/screening/6272
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nA haunting masterpiece of Japanese cinema\, Onibaba by Kaneto Shind? plunges you into a world of desperation\, desire\, and terror\, where survival comes at a chilling cost.\n\nSet against a desolate la.. more\n\nMore info / Tickets: https://fillum.in/p/451
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261018T103000Z
-SUMMARY:The Wicker Man (1973)
-UID:6911c4df-b4c8-4034-a39d-3b0ea4693f17@6911.org
+DTSTART:20261017T064000Z
+SUMMARY:Onibaba (1964)
+UID:7c0278b3-7850-4be9-9667-d3d032934108@7c02.org
 URL:https://fillum.in/p/451
 END:VEVENT
 BEGIN:VEVENT
@@ -70,44 +43,17 @@ DURATION:PT2H
 LOCATION:B-74\, Defence Colony
 DTSTART:20261018T092000Z
 SUMMARY:Film screenings at PHOTOINK - II
-UID:5e438b44-ab73-4332-9dc8-32e71da419f2@5e43.org
+UID:e41e4aa7-e350-4e91-bf94-083b05a86be8@e41e.org
 URL:https://fillum.in/event/6367
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DESCRIPTION:Host: GALLERYSKE\n\nPresented alongside Fever Dreams\, Avinash Veeraraghavan's solo exhibition at GALLERYSKE\, we have collaborated with Mool for a Screening Room that brings together three landmark films spanning expres.. more\n\nMore info / Tickets: https://fillum.in/p/428
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:ad1d6adc-0cb3-4722-ab38-0880f6fa618c@ad1d.org
-URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies\, but a blood transfusion of unknown origin brings him back to life. .. more\n\nMore info / Tickets: https://fillum.in/p/452
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261018T113000Z
-SUMMARY:Thirst (2009)
-UID:fb611d0c-63f9-424e-93a3-e3073ee1e31d@fb61.org
-URL:https://fillum.in/p/452
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy HIFAF. Free entry on first come first served basis. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/6368
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261019T120000Z
-SUMMARY:Second Chance (2024)
-UID:8a9b5025-0ce6-4ddf-ba65-36f79e1a5b11@8a9b.org
-URL:https://fillum.in/screening/6368
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA haunting masterpiece of Japanese cinema\, Onibaba by Kaneto Shind? plunges you into a world of desperation\, desire\, and terror\, where survival comes at a chilling cost.\n\nSet against a desolate la.. more\n\nMore info / Tickets: https://fillum.in/p/451
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261017T064000Z
-SUMMARY:Onibaba (1964)
-UID:cef71433-4e2f-423a-92bf-4531ad3fe938@cef7.org
-URL:https://fillum.in/p/451
+LOCATION:GALLERYSKE\, B-74\, Defence Colony
+DTSTART:20261017T113000Z
+SUMMARY:The Society of the Spectacle (1974)
+UID:56307ff9-f7ab-4329-a6a9-77c445273071@5630.org
+URL:https://fillum.in/p/428
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: PHOTOINK\n\nA day-long programme of films on industry and labour\, selected by artists Madhuban Mitra and Manas Bhattacharya. Conceived in close dialogue with and as a response to At Work\, this programme extends.. more\n\nMore info / Tickets: https://fillum.in/event/6366
@@ -115,7 +61,7 @@ DURATION:PT2H
 LOCATION:B-74\, Defence Colony
 DTSTART:20261018T053000Z
 SUMMARY:Film screenings at PHOTOINK - I
-UID:f1cb1f8b-98a9-4b40-9dd9-9c5707684208@f1cb.org
+UID:37c765e9-63d4-4293-96a8-d12267297daa@37c7.org
 URL:https://fillum.in/event/6366
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +70,16 @@ DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
 DTSTART:20261017T103000Z
 SUMMARY:Kuroneko (1968)
-UID:5b3a719e-31b7-4e28-aa68-10f4615b4e6d@5b3a.org
+UID:7710121f-560a-4a1c-b0c0-472a51c11d56@7710.org
+URL:https://fillum.in/p/451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\ndark world of Viy\, a landmark Soviet horror film inspired by Nikolai Gogol’s chilling tale.\n\nA young seminary student finds himself trapped in a terrifying encounter with the supernatural\, where.. more\n\nMore info / Tickets: https://fillum.in/p/451
+DURATION:PT2H
+LOCATION:iPley Music Studio\, GK-1
+DTSTART:20261018T064000Z
+SUMMARY:Viy (1967)
+UID:41d577a6-25bd-47e8-b540-b5a229855445@41d5.org
 URL:https://fillum.in/p/451
 END:VEVENT
 BEGIN:VEVENT
@@ -133,25 +88,70 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex II
 DTSTART:20261018T063000Z
 SUMMARY:Monster (2023)
-UID:c6238ca4-8d2f-4522-9dc5-694df9abbeae@c623.org
+UID:3ca0f7e4-1a0c-4b71-bff0-e92c80ab8cc2@3ca0.org
 URL:https://fillum.in/p/452
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6371
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261019T130000Z
-SUMMARY:Ride Away (2025)
-UID:e2e8e657-766a-4a25-a243-144e81e8ec69@e2e8.org
-URL:https://fillum.in/screening/6371
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\ndark world of Viy\, a landmark Soviet horror film inspired by Nikolai Gogol’s chilling tale.\n\nA young seminary student finds himself trapped in a terrifying encounter with the supernatural\, where.. more\n\nMore info / Tickets: https://fillum.in/p/451
+DESCRIPTION:Host: SomeArt\n\nA missing girl. A remote island. Smiling strangers who seem to know more than they reveal.\n\nWhen a police sergeant arrives searching for answers\, he finds a community where ancient rituals thrive\,.. more\n\nMore info / Tickets: https://fillum.in/p/451
 DURATION:PT2H
 LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261018T064000Z
-SUMMARY:Viy (1967)
-UID:0bff2cac-fbe2-4c19-883f-035a9aa34534@0bff.org
+DTSTART:20261018T103000Z
+SUMMARY:The Wicker Man (1973)
+UID:42c0705f-bc04-4810-97cf-633a6e66df0e@42c0.org
 URL:https://fillum.in/p/451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies\, but a blood transfusion of unknown origin brings him back to life. .. more\n\nMore info / Tickets: https://fillum.in/p/452
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261018T113000Z
+SUMMARY:Thirst (2009)
+UID:2e817a4b-6651-426a-bb42-a0aecfbaef16@2e81.org
+URL:https://fillum.in/p/452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6372
+DURATION:PT2H
+LOCATION:Green Park
+DTSTART:20261018T073000Z
+SUMMARY:The Voice of Hind Rajab (2025)
+UID:1865cf4f-75c7-4e6d-8be6-a9cb0d83e768@1865.org
+URL:https://fillum.in/screening/6372
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:4f1e48ac-e2cb-43d3-a10f-1e60fb0aeae2@4f1e.org
+URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nDisclaimer - Extremely scary\, discretion is advised. Strictly 18+.\n\nA shaman's family learn that their goddess is supposedly controlling one of them. However\, their lives take a frightening turn w.. more\n\nMore info / Tickets: https://fillum.in/p/452
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261018T090000Z
+SUMMARY:The Medium (2021)
+UID:8fa0b1fc-6ffe-4d00-b002-511844068dde@8fa0.org
+URL:https://fillum.in/p/452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:b48fe769-f39e-45c9-bd03-29ece3843232@b48f.org
+URL:https://fillum.in/screening/6264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nBy HIFAF. Free entry on first come first served basis. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/6368
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261019T120000Z
+SUMMARY:Second Chance (2024)
+UID:8666ef39-e1ae-43bc-bf34-71d348c6b9a3@8666.org
+URL:https://fillum.in/screening/6368
 END:VEVENT
 END:VCALENDAR
