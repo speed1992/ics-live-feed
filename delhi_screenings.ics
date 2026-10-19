@@ -2,48 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:7ae7ee5c-0504-427b-b5a3-c7c08b8aeb62@7ae7.org
-URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261027T133000Z
 SUMMARY:Yaadon Ki Baaraat (1973)
-UID:de1758e5-6969-40e3-b403-f9df4a584791@de17.org
+UID:588a7456-5d1a-4d2f-8966-7d3a9d532409@588a.org
 URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6371
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261019T130000Z
-SUMMARY:Ride Away (2025)
-UID:edc8c8fc-ec1e-4162-b736-7c393d5ad944@edc8.org
-URL:https://fillum.in/screening/6371
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nBy HIFAF. Free entry on first come first served basis. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/6368
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261019T120000Z
-SUMMARY:Second Chance (2024)
-UID:a2768254-c09c-48c1-aae9-d5d711e79967@a276.org
-URL:https://fillum.in/screening/6368
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:ffa12c28-4cbf-4fb9-937a-93242df84d96@ffa1.org
-URL:https://fillum.in/screening/6272
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:4465ed12-ce70-4d9f-8d05-b1589dc95a42@4465.org
+URL:https://fillum.in/screening/6263
 END:VEVENT
 END:VCALENDAR
