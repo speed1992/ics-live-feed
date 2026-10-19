@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:4d37561c-6e82-45f7-81e2-11e55a6e340d@4d37.org
-URL:https://fillum.in/screening/6264
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
 DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261023T133000Z
 SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:dbdc7a21-8d2a-4f46-a33e-f7889d54225f@dbdc.org
+UID:7ae7ee5c-0504-427b-b5a3-c7c08b8aeb62@7ae7.org
 URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:de1758e5-6969-40e3-b403-f9df4a584791@de17.org
+URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6371
@@ -25,71 +25,8 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261019T130000Z
 SUMMARY:Ride Away (2025)
-UID:ef89a486-e919-4103-b6ca-d6a291a781c3@ef89.org
+UID:edc8c8fc-ec1e-4162-b736-7c393d5ad944@edc8.org
 URL:https://fillum.in/screening/6371
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261019T130000Z
-SUMMARY:Leo from Chicago (2025)
-UID:55880660-0b2a-4dc5-a415-193f6741f2fb@5588.org
-URL:https://fillum.in/screening/6272
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nAfter an outburst at school involving her son\, a concerned single mother demands answers\, triggering a sequence of deepening suspicion and turmoil.\n\nMore info / Tickets: https://fillum.in/p/452
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261018T063000Z
-SUMMARY:Monster (2023)
-UID:4ae34576-e91c-4832-8c19-7d459f0c100d@4ae3.org
-URL:https://fillum.in/p/452
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nDisclaimer - Extremely scary\, discretion is advised. Strictly 18+.\n\nA shaman's family learn that their goddess is supposedly controlling one of them. However\, their lives take a frightening turn w.. more\n\nMore info / Tickets: https://fillum.in/p/452
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261018T090000Z
-SUMMARY:The Medium (2021)
-UID:58de4962-d0e9-4a99-86b7-fdb8d7b38fe6@58de.org
-URL:https://fillum.in/p/452
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\ndark world of Viy\, a landmark Soviet horror film inspired by Nikolai Gogol’s chilling tale.\n\nA young seminary student finds himself trapped in a terrifying encounter with the supernatural\, where.. more\n\nMore info / Tickets: https://fillum.in/p/451
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261018T064000Z
-SUMMARY:Viy (1967)
-UID:7872748f-95f7-4d1f-95d8-94a98f1b7fdc@7872.org
-URL:https://fillum.in/p/451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nA missing girl. A remote island. Smiling strangers who seem to know more than they reveal.\n\nWhen a police sergeant arrives searching for answers\, he finds a community where ancient rituals thrive\,.. more\n\nMore info / Tickets: https://fillum.in/p/451
-DURATION:PT2H
-LOCATION:iPley Music Studio\, GK-1
-DTSTART:20261018T103000Z
-SUMMARY:The Wicker Man (1973)
-UID:9b6f1b16-6609-4397-9c3f-827e23b55b45@9b6f.org
-URL:https://fillum.in/p/451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Work in Progress Film Club\n\nHome screening set up with a projector and speaker\, followed by a discussion. Please feel free to bring your own snacks. Please do not consume or carry any alcohol.\n\nRSVPs will be confirmed by Sun.. more\n\nMore info / Tickets: https://fillum.in/screening/6372
-DURATION:PT2H
-LOCATION:Green Park
-DTSTART:20261018T073000Z
-SUMMARY:The Voice of Hind Rajab (2025)
-UID:fb45e89a-693a-441f-b707-0978fb8069b4@fb45.org
-URL:https://fillum.in/screening/6372
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies\, but a blood transfusion of unknown origin brings him back to life. .. more\n\nMore info / Tickets: https://fillum.in/p/452
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261018T113000Z
-SUMMARY:Thirst (2009)
-UID:a8580c65-0bbd-471e-82a6-bd66cfbd61e5@a858.org
-URL:https://fillum.in/p/452
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nBy HIFAF. Free entry on first come first served basis. No registration required.\n\nMore info / Tickets: https://fillum.in/screening/6368
@@ -97,25 +34,16 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261019T120000Z
 SUMMARY:Second Chance (2024)
-UID:87533d16-0bca-4eb5-8605-c44b5f86320f@8753.org
+UID:a2768254-c09c-48c1-aae9-d5d711e79967@a276.org
 URL:https://fillum.in/screening/6368
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: PHOTOINK\n\nA day-long programme of films on industry and labour\, selected by artists Madhuban Mitra and Manas Bhattacharya. Conceived in close dialogue with and as a response to At Work\, this programme extends.. more\n\nMore info / Tickets: https://fillum.in/event/6366
+DESCRIPTION:Host: India International Centre\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6272
 DURATION:PT2H
-LOCATION:B-74\, Defence Colony
-DTSTART:20261018T053000Z
-SUMMARY:Film screenings at PHOTOINK - I
-UID:b3ac8375-3592-4cc4-adb1-3033ff664db5@b3ac.org
-URL:https://fillum.in/event/6366
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: PHOTOINK\n\nA day-long programme of films on industry and labour\, selected by artists Madhuban Mitra and Manas Bhattacharya. Conceived in close dialogue with and as a response to At Work\, this programme extends.. more\n\nMore info / Tickets: https://fillum.in/event/6367
-DURATION:PT2H
-LOCATION:B-74\, Defence Colony
-DTSTART:20261018T092000Z
-SUMMARY:Film screenings at PHOTOINK - II
-UID:ec091eea-a481-4150-bfef-ef28306613c5@ec09.org
-URL:https://fillum.in/event/6367
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261019T130000Z
+SUMMARY:Leo from Chicago (2025)
+UID:ffa12c28-4cbf-4fb9-937a-93242df84d96@ffa1.org
+URL:https://fillum.in/screening/6272
 END:VEVENT
 END:VCALENDAR
