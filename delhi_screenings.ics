@@ -5,19 +5,10 @@ BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
 LOCATION:Jangpura
-DTSTART:20261024T130000Z
-SUMMARY:Gonjiam: Haunted Asylum (2018)
-UID:47d7c328-8b9b-4510-b2e0-6c329a63bd66@47d7.org
+DTSTART:20261024T110000Z
+SUMMARY:KINKI (2025)
+UID:d881b5ca-455b-4d5a-a295-1f2dc7f19e84@d881.org
 URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:94fff081-6507-4623-952b-d2ccb9fd08c8@94ff.org
-URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
@@ -25,7 +16,16 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261024T063000Z
 SUMMARY:Noroi: The Curse (2005)
-UID:4636add4-b039-467b-a94d-a53b8275d0e9@4636.org
+UID:821a48b3-6697-4d52-8b53-16e7fc56e6d8@821a.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T130000Z
+SUMMARY:Gonjiam: Haunted Asylum (2018)
+UID:f6dbb427-d8d0-428a-b1f0-5ae1655c0632@f6db.org
 URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
@@ -34,17 +34,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261023T133000Z
 SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:25e62450-d217-4f17-88e4-6195530f96a1@25e6.org
+UID:d2f68bf8-a937-437f-8ef1-3359b886db11@d2f6.org
 URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T090000Z
-SUMMARY:The Beyond (1981)
-UID:147c909f-8683-4439-a46d-be5a09759dd6@147c.org
-URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
@@ -52,16 +43,25 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261024T143000Z
 SUMMARY:Ju-on: The Grudge (2002)
-UID:216a0258-cbba-4a01-8fab-d6d997504ef5@216a.org
+UID:0ae3ee47-2aff-46d9-b100-9aab2628b61d@0ae3.org
 URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:f5940553-52c7-44ca-ad3c-01a96bfe1572@f594.org
+URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
 LOCATION:Jangpura
-DTSTART:20261024T110000Z
-SUMMARY:KINKI (2025)
-UID:a12fd2a8-2e8b-43c4-999e-217f94e48c08@a12f.org
+DTSTART:20261024T090000Z
+SUMMARY:The Beyond (1981)
+UID:f188680d-5550-425f-962c-457df410da84@f188.org
 URL:https://fillum.in/p/436
 END:VEVENT
 END:VCALENDAR
