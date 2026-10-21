@@ -2,57 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T110000Z
-SUMMARY:KINKI (2025)
-UID:d881b5ca-455b-4d5a-a295-1f2dc7f19e84@d881.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T063000Z
-SUMMARY:Noroi: The Curse (2005)
-UID:821a48b3-6697-4d52-8b53-16e7fc56e6d8@821a.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T130000Z
-SUMMARY:Gonjiam: Haunted Asylum (2018)
-UID:f6dbb427-d8d0-428a-b1f0-5ae1655c0632@f6db.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:d2f68bf8-a937-437f-8ef1-3359b886db11@d2f6.org
-URL:https://fillum.in/screening/6263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T143000Z
-SUMMARY:Ju-on: The Grudge (2002)
-UID:0ae3ee47-2aff-46d9-b100-9aab2628b61d@0ae3.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261027T133000Z
 SUMMARY:Yaadon Ki Baaraat (1973)
-UID:f5940553-52c7-44ca-ad3c-01a96bfe1572@f594.org
+UID:e9db7c84-78ca-4326-be4d-f2449611a76c@e9db.org
 URL:https://fillum.in/screening/6264
 END:VEVENT
 BEGIN:VEVENT
@@ -61,7 +16,70 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261024T090000Z
 SUMMARY:The Beyond (1981)
-UID:f188680d-5550-425f-962c-457df410da84@f188.org
+UID:55013404-e61f-4119-b98c-22744b10e9a5@5501.org
 URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:bcec5a89-0926-4369-8c66-13c928bae4ef@bcec.org
+URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat happens when deception becomes the perfect disguise?\n\nA world of hidden identities\, dangerous secrets\, and unexpected twists unfolds as a sharp-witted undercover officer navigates the shadowy.. more\n\nMore info / Tickets: https://fillum.in/p/455
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261024T060000Z
+SUMMARY:Johny Mera Naam (1970)
+UID:e2e890ae-57c7-489c-a1df-697c40781c4d@e2e8.org
+URL:https://fillum.in/p/455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T110000Z
+SUMMARY:KINKI (2025)
+UID:f6a39f19-e9d4-4ee2-96c2-8c0cc9b8cbee@f6a3.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T130000Z
+SUMMARY:Gonjiam: Haunted Asylum (2018)
+UID:2ed56722-cf8b-443f-a743-50001334d668@2ed5.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T143000Z
+SUMMARY:Ju-on: The Grudge (2002)
+UID:a3f34fd7-1ac1-42e6-9ed7-b5b73613005c@a3f3.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T063000Z
+SUMMARY:Noroi: The Curse (2005)
+UID:8ef9cda1-bd3d-4fa6-91ef-26c868e35643@8ef9.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat if the perfect crime begins with the perfect disguise?\n\nA priceless necklace disappears\, suspicion runs wild\, and a man finds himself trapped in a web of mistaken identity\, deception\, and dan.. more\n\nMore info / Tickets: https://fillum.in/p/455
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261024T103000Z
+SUMMARY:Jewel Thief (1967)
+UID:3afe9590-137e-4655-b15d-dc1a95ae1efe@3afe.org
+URL:https://fillum.in/p/455
 END:VEVENT
 END:VCALENDAR
