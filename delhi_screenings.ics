@@ -2,31 +2,49 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6390
+DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/455
 DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261024T123000Z
-SUMMARY:Deep Quiet Room (2026)
-UID:4d4ccf0a-1ca0-4a0b-bf4e-4ef44e13b216@4d4c.org
-URL:https://fillum.in/screening/6390
+LOCATION:iPley Music\, GK-1
+DTSTART:20261025T103000Z
+SUMMARY:Amarcord (1973)
+UID:40661c82-5719-4217-a5e4-09f7ecbd8db9@4066.org
+URL:https://fillum.in/p/455
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
 DURATION:PT2H
 LOCATION:Jangpura
-DTSTART:20261024T063000Z
-SUMMARY:Noroi: The Curse (2005)
-UID:bf53f140-09f9-4708-a9a1-779903ee1d74@bf53.org
+DTSTART:20261024T110000Z
+SUMMARY:KINKI (2025)
+UID:397afa11-5e15-4dce-b96f-9936fff47dc9@397a.org
 URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat if the perfect crime begins with the perfect disguise?\n\nA priceless necklace disappears\, suspicion runs wild\, and a man finds himself trapped in a web of mistaken identity\, deception\, and dan.. more\n\nMore info / Tickets: https://fillum.in/p/455
+DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6389
 DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261024T103000Z
-SUMMARY:Jewel Thief (1967)
-UID:3edcea75-2425-4fdc-ab45-d260a7ec3a77@3edc.org
-URL:https://fillum.in/p/455
+LOCATION:Triveni Kala Sangam
+DTSTART:20261024T101000Z
+SUMMARY:Before the Bright Day (2025)
+UID:40546161-07b3-4fc7-a76d-92f84c72f153@4054.org
+URL:https://fillum.in/screening/6389
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Space - W.I.P Labs\n\nMaimuna (30) faces a predicament when her ex-husband\, Wazeer (40) comes back alive after 3 years of his disappearance who was supposedly dead\, demanding from her and her current husband\, Ziya (25) e.. more\n\nMore info / Tickets: https://fillum.in/p/459
+DURATION:PT2H
+LOCATION:W.I.P aDDa\, Lado Sarai
+DTSTART:20261024T130000Z
+SUMMARY:Girrd (2026)
+UID:faf22a9d-ae92-4344-b30e-9fc9ca13cafb@faf2.org
+URL:https://fillum.in/p/459
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n“We’ve met before\, haven’t we?”\n\nA mesmerizing meditation on the mysterious nature of identity\, Lost Highway\, David Lynch’s seventh feature film\, is one of the filmmaker’s most potent .. more\n\nMore info / Tickets: https://fillum.in/p/456
+DURATION:PT2H
+LOCATION:mool\, south ex II
+DTSTART:20261025T063000Z
+SUMMARY:Lost Highway (1997)
+UID:f377c1a4-e848-4296-84da-76970492b0cb@f377.org
+URL:https://fillum.in/p/456
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6387
@@ -34,8 +52,26 @@ DURATION:PT2H
 LOCATION:Triveni Kala Sangam
 DTSTART:20261024T040000Z
 SUMMARY:A Chip Odyssey (2025)
-UID:58e3ef1c-b135-4bbe-8f5a-4fc06d51c75b@58e3.org
+UID:21c34808-2cb9-4a22-b76a-c6c525a589ed@21c3.org
 URL:https://fillum.in/screening/6387
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261023T133000Z
+SUMMARY:National Theatre Live: The Misanthrope (2026)
+UID:81053d0c-dc8e-4cd3-9477-611a033592da@8105.org
+URL:https://fillum.in/screening/6263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T130000Z
+SUMMARY:Gonjiam: Haunted Asylum (2018)
+UID:d13de673-cb56-4755-a792-4d415713c2fc@d13d.org
+URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nAn in-depth look at artist/filmmaker David Lynch's movies\, paintings\, drawings\, photographs\, and various other works of art. Features interview footage and commentary by family members\, friends\, fan.. more\n\nMore info / Tickets: https://fillum.in/p/456
@@ -43,7 +79,7 @@ DURATION:PT2H
 LOCATION:mool\, south ex II
 DTSTART:20261025T093000Z
 SUMMARY:Pretty as a Picture: The Art of David Lynch (1997)
-UID:1dc58450-86d5-4691-813d-10742f1802c7@1dc5.org
+UID:f6df5db2-6f57-4141-b965-35d2e91f380f@f6df.org
 URL:https://fillum.in/p/456
 END:VEVENT
 BEGIN:VEVENT
@@ -52,152 +88,8 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261122T041500Z
 SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:4570be09-b58e-42ec-b8aa-1766158e398a@4570.org
+UID:fc5bec8d-fc3d-492f-beda-589e9fe9805d@fc5b.org
 URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T130000Z
-SUMMARY:Gonjiam: Haunted Asylum (2018)
-UID:a550cdc9-8152-404b-9f53-f956c9d38347@a550.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\nWhat happens when deception becomes the perfect disguise?\n\nA world of hidden identities\, dangerous secrets\, and unexpected twists unfolds as a sharp-witted undercover officer navigates the shadowy.. more\n\nMore info / Tickets: https://fillum.in/p/455
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261024T060000Z
-SUMMARY:Johny Mera Naam (1970)
-UID:a078390a-9329-420f-8654-b7d0091a1570@a078.org
-URL:https://fillum.in/p/455
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6389
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261024T101000Z
-SUMMARY:Before the Bright Day (2025)
-UID:579c64de-bf31-49c3-8135-b091128de2cf@579c.org
-URL:https://fillum.in/screening/6389
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n“We’ve met before\, haven’t we?”\n\nA mesmerizing meditation on the mysterious nature of identity\, Lost Highway\, David Lynch’s seventh feature film\, is one of the filmmaker’s most potent .. more\n\nMore info / Tickets: https://fillum.in/p/456
-DURATION:PT2H
-LOCATION:mool\, south ex II
-DTSTART:20261025T063000Z
-SUMMARY:Lost Highway (1997)
-UID:477b729c-a4ef-48a9-9f2b-308b5cb37260@477b.org
-URL:https://fillum.in/p/456
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nA dream of dark and troubling things...\n\nDavid Lynch's 1977 debut feature\, Eraserhead\, is both a lasting cult sensation and a work of extraordinary craft and beauty. With its mesmerizing black-an.. more\n\nMore info / Tickets: https://fillum.in/p/456
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261025T113000Z
-SUMMARY:Eraserhead (1977)
-UID:12d69d9a-20cb-4dba-9949-3dcc6bbd935d@12d6.org
-URL:https://fillum.in/p/456
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T143000Z
-SUMMARY:Ju-on: The Grudge (2002)
-UID:19c4d3a9-12aa-4a05-b2f9-999835905bbe@19c4.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6392
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261025T063500Z
-SUMMARY:Alifu\, the Prince/ss (2017)
-UID:b914c797-d030-4619-9df1-460c5ef677fd@b914.org
-URL:https://fillum.in/screening/6392
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6388
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261024T060000Z
-SUMMARY:HERO! HITO! (2025)
-UID:90a2ca2d-cc6f-4691-9699-968658f0cf7b@90a2.org
-URL:https://fillum.in/screening/6388
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261024T110000Z
-SUMMARY:KINKI (2025)
-UID:64470cf4-5ed7-48f2-866e-512f61356066@6447.org
-URL:https://fillum.in/p/436
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6391
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261025T043000Z
-SUMMARY:Dear Tenant (2020)
-UID:d168bb7f-5c90-4066-96a9-8cf55d76d97c@d168.org
-URL:https://fillum.in/screening/6391
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Sunset Cinema Club\n\n\n\nMore info / Tickets: https://fillum.in/p/457
-DURATION:PT2H
-LOCATION:Seven Barrel Brewpub\, DLF Phase 1\, Gurgaon
-DTSTART:20261025T133000Z
-SUMMARY:Before Sunrise (1995)
-UID:5f09d3da-7c75-4aac-9802-8081ecfca845@5f09.org
-URL:https://fillum.in/p/457
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261027T133000Z
-SUMMARY:Yaadon Ki Baaraat (1973)
-UID:96fd6b0b-ccf3-4e1b-94c5-183fd966968c@96fd.org
-URL:https://fillum.in/screening/6264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/455
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261025T063500Z
-SUMMARY:12 Angry Men (1957)
-UID:b305cadb-2e52-41c7-a559-3d28415bd77c@b305.org
-URL:https://fillum.in/p/455
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/455
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261025T103000Z
-SUMMARY:Amarcord (1973)
-UID:5f8b6632-b795-491a-b709-6eb5c429ad43@5f8b.org
-URL:https://fillum.in/p/455
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Cinergy Club\n\nFilmmakers across Delhi got one prompt\, Darr-de-Disco\, and a deadline. Their job was to make a short film that is genuinely scary and genuinely funny. Now the best 5 films hit the big screen\, and yo.. more\n\nMore info / Tickets: https://fillum.in/p/460
-DURATION:PT2H
-LOCATION:Social Vasant Kunj
-DTSTART:20261030T133000Z
-SUMMARY:Bhootflix Night: Darr-de-Disco
-UID:4c8a88ef-be29-4ae8-a7c0-336d6d58f460@4c8a.org
-URL:https://fillum.in/p/460
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Space - W.I.P Labs\n\nMaimuna (30) faces a predicament when her ex-husband\, Wazeer (40) comes back alive after 3 years of his disappearance who was supposedly dead\, demanding from her and her current husband\, Ziya (25) e.. more\n\nMore info / Tickets: https://fillum.in/p/459
-DURATION:PT2H
-LOCATION:W.I.P aDDa\, Lado Sarai
-DTSTART:20261024T130000Z
-SUMMARY:Girrd (2026)
-UID:9cac5934-3e70-4275-b410-cbd22e39e6f8@9cac.org
-URL:https://fillum.in/p/459
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
@@ -205,16 +97,142 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261024T090000Z
 SUMMARY:The Beyond (1981)
-UID:59f46bdc-90f6-4ba3-a3e6-6085468f0d4f@59f4.org
+UID:3976af7b-2507-4f96-a21c-8760985120e6@3976.org
 URL:https://fillum.in/p/436
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\n\n\nMore info / Tickets: https://fillum.in/screening/6263
+DESCRIPTION:Host: Progressive Students Youth Association\n\nPSYA invites you to our monthly Art and Literature session for a screening of Soviet film Triumph Over Violence depicting the rise and fall of fascism in Germany. Especially relevant in the times we.. more\n\nMore info / Tickets: https://fillum.in/screening/6400
+DURATION:PT2H
+LOCATION:Saket (Location will be sent separately)
+DTSTART:20261024T113000Z
+SUMMARY:Triumph Over Violence (1965)
+UID:b92708b7-a80e-4b63-ae2f-fd98c2741c57@b927.org
+URL:https://fillum.in/screening/6400
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6264
 DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261023T133000Z
-SUMMARY:National Theatre Live: The Misanthrope (2026)
-UID:c588bf5f-0b29-48f5-bc36-b83858d3f565@c588.org
-URL:https://fillum.in/screening/6263
+DTSTART:20261027T133000Z
+SUMMARY:Yaadon Ki Baaraat (1973)
+UID:fe854a39-d463-4f21-b1bd-0f3471f5b111@fe85.org
+URL:https://fillum.in/screening/6264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat if the perfect crime begins with the perfect disguise?\n\nA priceless necklace disappears\, suspicion runs wild\, and a man finds himself trapped in a web of mistaken identity\, deception\, and dan.. more\n\nMore info / Tickets: https://fillum.in/p/455
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261024T103000Z
+SUMMARY:Jewel Thief (1967)
+UID:4fba0489-0210-48a3-bbec-b897f50207c0@4fba.org
+URL:https://fillum.in/p/455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6391
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261025T043000Z
+SUMMARY:Dear Tenant (2020)
+UID:3f774c3c-7b81-4b67-90ce-635469a00619@3f77.org
+URL:https://fillum.in/screening/6391
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Your Attention Span Sucks\n\nA few first-time filmmakers are hosting a free documentary screening event this Sunday\, and we’d love for you to be a part of it! (All they need is an audience )\n\nWe’re screening 4 cool docume.. more\n\nMore info / Tickets: https://fillum.in/event/6408
+DURATION:PT2H
+LOCATION:Trevon Inn\, Sector 31
+DTSTART:20261025T093000Z
+SUMMARY:Short Docu Collection
+UID:5d68f2fa-baf5-46d9-807a-4315da5d0385@5d68.org
+URL:https://fillum.in/event/6408
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Cinergy Club\n\nFilmmakers across Delhi got one prompt\, Darr-de-Disco\, and a deadline. Their job was to make a short film that is genuinely scary and genuinely funny. Now the best 5 films hit the big screen\, and yo.. more\n\nMore info / Tickets: https://fillum.in/p/460
+DURATION:PT2H
+LOCATION:Social Vasant Kunj
+DTSTART:20261030T133000Z
+SUMMARY:Bhootflix Night: Darr-de-Disco
+UID:2d0b37e4-5a39-471b-ae8d-15b79d2e21cc@2d0b.org
+URL:https://fillum.in/p/460
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T063000Z
+SUMMARY:Noroi: The Curse (2005)
+UID:cce0c5cf-7f83-4d4a-88ed-7c728134bfdb@cce0.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6388
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261024T060000Z
+SUMMARY:HERO! HITO! (2025)
+UID:2e5d0796-7f49-4f6a-b5ee-763ec6e8e25f@2e5d.org
+URL:https://fillum.in/screening/6388
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIn collaboration with Khatarnaak films - a new horror film collective based out of an abandoned tea salon in Jangpura (at their usual spot). The basement has comfortable mattress seating\, projection.. more\n\nMore info / Tickets: https://fillum.in/p/436
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261024T143000Z
+SUMMARY:Ju-on: The Grudge (2002)
+UID:ca8f09c6-3543-46ee-928f-be099e18d738@ca8f.org
+URL:https://fillum.in/p/436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/455
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261025T063500Z
+SUMMARY:12 Angry Men (1957)
+UID:fcce1ead-03c6-419c-af30-60b42beeb9ad@fcce.org
+URL:https://fillum.in/p/455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Sunset Cinema Club\n\n\n\nMore info / Tickets: https://fillum.in/p/457
+DURATION:PT2H
+LOCATION:Seven Barrel Brewpub\, DLF Phase 1\, Gurgaon
+DTSTART:20261025T133000Z
+SUMMARY:Before Sunrise (1995)
+UID:86915751-70f3-4c0b-ae0b-2c103fc1d10a@8691.org
+URL:https://fillum.in/p/457
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: SomeArt\n\nWhat happens when deception becomes the perfect disguise?\n\nA world of hidden identities\, dangerous secrets\, and unexpected twists unfolds as a sharp-witted undercover officer navigates the shadowy.. more\n\nMore info / Tickets: https://fillum.in/p/455
+DURATION:PT2H
+LOCATION:iPley Music\, GK-1
+DTSTART:20261024T060000Z
+SUMMARY:Johny Mera Naam (1970)
+UID:0ed596b6-1f44-4df7-b428-6b64f72bc74a@0ed5.org
+URL:https://fillum.in/p/455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6390
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261024T123000Z
+SUMMARY:Deep Quiet Room (2026)
+UID:94bdb696-c8ee-4f7b-95fc-508956d06553@94bd.org
+URL:https://fillum.in/screening/6390
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: \n\nFree entry. As part of Taiwan Film Festival in India.\n\nMore info / Tickets: https://fillum.in/screening/6392
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261025T063500Z
+SUMMARY:Alifu\, the Prince/ss (2017)
+UID:25fc3030-0d68-4141-a8f6-37e2d1b2c508@25fc.org
+URL:https://fillum.in/screening/6392
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA dream of dark and troubling things...\n\nDavid Lynch's 1977 debut feature\, Eraserhead\, is both a lasting cult sensation and a work of extraordinary craft and beauty. With its mesmerizing black-an.. more\n\nMore info / Tickets: https://fillum.in/p/456
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261025T113000Z
+SUMMARY:Eraserhead (1977)
+UID:67ee1901-8603-4d68-84e4-fe899d935c84@67ee.org
+URL:https://fillum.in/p/456
 END:VEVENT
 END:VCALENDAR
