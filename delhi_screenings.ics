@@ -2,166 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Express Screen Film Club\n\n\n\nMore info / Tickets: https://fillum.in/screening/6467
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261103T133000Z
-SUMMARY:Toh\, Ti Ani Fuji (2026)
-UID:614904a6-a393-4fa6-82e8-e41c87cba164@6149.org
-URL:https://fillum.in/screening/6467
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nPart 2. Free Entry.\n\nMore info / Tickets: https://fillum.in/screening/6428
-DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20261101T093000Z
-SUMMARY:La Commune (Paris\, 1871) (2003)
-UID:b93692ed-d808-46f9-b760-6e19d862979a@b936.org
-URL:https://fillum.in/screening/6428
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Week around the world.\n\nMore info / Tickets: https://fillum.in/screening/6465
-DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20261101T123000Z
-SUMMARY:Gazawyat (2026)
-UID:20d8cffd-d07b-43a3-a2ca-dd912dce90a7@20d8.org
-URL:https://fillum.in/screening/6465
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6451
-DURATION:PT2H
-LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
-DTSTART:20261104T150000Z
-SUMMARY:The Flowers Stand Silently\, Witnessing (2024)
-UID:47101766-bb3a-4d2c-868f-b3ea78ab4ec5@4710.org
-URL:https://fillum.in/screening/6451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\nGazawyat: Fidaa\nDirected by Khaled Tuaima. Documentary\, 2026\, 11 min.\nThe film follows Fidaa Abu Maryam on her journey to wield storytelling as a psychological shield. By gathering the testimonies.. more\n\nMore info / Tickets: https://fillum.in/screening/6452
-DURATION:PT2H
-LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
-DTSTART:20261104T120000Z
-SUMMARY:Gazawyat (2026)
-UID:c5eef2b4-4374-4187-ab49-6668f709aac7@c5ee.org
-URL:https://fillum.in/screening/6452
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6422
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261103T150000Z
-SUMMARY:Ghatashraddha (The Ritual) (1977)
-UID:17093ab1-de79-4427-a369-2851f0a290fc@1709.org
-URL:https://fillum.in/screening/6422
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026. There will also be screening of Gazawyat\, a collection of short films by Palestinian women.\n\nMore info / Tickets: https://fillum.in/screening/6430
-DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20261101T123000Z
-SUMMARY:With Hasan in Gaza (2026)
-UID:1b1ecf82-a138-4919-a69e-355b36e7bbb9@1b1e.org
-URL:https://fillum.in/screening/6430
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6417
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261102T073000Z
-SUMMARY:Mirch Masala (1987)
-UID:c8d1ed8c-f5c1-4dde-8b2a-70a1d85955d6@c8d1.org
-URL:https://fillum.in/screening/6417
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6433
-DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20261103T133000Z
-SUMMARY:The Ordinaries (2022)
-UID:6c06ca6c-2373-4bba-9d96-bd4c8e7baa87@6c06.org
-URL:https://fillum.in/screening/6433
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6457
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261104T130000Z
-SUMMARY:Dream of Another Summer (2026)
-UID:8c88ffa3-7d54-4583-9157-a891372e94bd@8c88.org
-URL:https://fillum.in/screening/6457
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6415
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261101T150000Z
-SUMMARY:Maya Miriga (1984)
-UID:2a90c45d-b04d-4320-9743-075df9c38d9e@2a90.org
-URL:https://fillum.in/screening/6415
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6450
 DURATION:PT2H
 LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
 DTSTART:20261104T135000Z
 SUMMARY:Foragers (2022)
-UID:d7fd235b-35ab-4a30-9212-157a07883027@d7fd.org
+UID:3ac05d75-b5ba-4057-af1c-43e0b3b31af3@3ac0.org
 URL:https://fillum.in/screening/6450
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6419
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261102T150000Z
-SUMMARY:The Red Turtle (2016)
-UID:6082b1ac-35cb-4193-9cc1-e30d8b68aaf2@6082.org
-URL:https://fillum.in/screening/6419
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6420
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261103T053000Z
-SUMMARY:The Pianist (2002)
-UID:a94eb0d3-ee43-456f-b221-8e7418e0b068@a94e.org
-URL:https://fillum.in/screening/6420
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:48f31559-1161-4204-b167-9ffa0c6fb7e8@48f3.org
-URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6414
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261101T100000Z
-SUMMARY:In Which Annie Gives It Those Ones (1989)
-UID:dfe95802-97be-4b71-8a0b-e7fb4bbb183a@dfe9.org
-URL:https://fillum.in/screening/6414
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6413
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261101T073000Z
-SUMMARY:Angoor (1982)
-UID:9b8211e2-32ca-4262-8efb-8f3e95486be6@9b82.org
-URL:https://fillum.in/screening/6413
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/466
-DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261101T103000Z
-SUMMARY:The Conformist (1971)
-UID:2562810a-ab9c-4a75-bb47-6e3a46369003@2562.org
-URL:https://fillum.in/p/466
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6416
@@ -169,44 +16,44 @@ DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
 DTSTART:20261102T053000Z
 SUMMARY:Niagara (1953)
-UID:c627d6ed-6f92-4307-a284-cfe53070296f@c627.org
+UID:13b4e3e4-f638-419c-b068-1dc46c581b62@13b4.org
 URL:https://fillum.in/screening/6416
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: SomeArt\n\n\n\nMore info / Tickets: https://fillum.in/p/466
+DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6433
 DURATION:PT2H
-LOCATION:iPley Music\, GK-1
-DTSTART:20261101T064000Z
-SUMMARY:The Wages of Fear (1953)
-UID:ded4d70b-3d3f-40c9-a492-bf90e2c9f456@ded4.org
-URL:https://fillum.in/p/466
+LOCATION:Siddhartha Hall\, Goethe-Institut
+DTSTART:20261103T133000Z
+SUMMARY:The Ordinaries (2022)
+UID:9132b700-35f3-4516-bee3-ccf546b3154b@9132.org
+URL:https://fillum.in/screening/6433
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6421
+DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6417
 DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261103T083000Z
-SUMMARY:Jaane Bhi Do Yaaro (1983)
-UID:cb0c56a9-51d2-4b3a-b26a-ba11777f61cf@cb0c.org
-URL:https://fillum.in/screening/6421
+DTSTART:20261102T073000Z
+SUMMARY:Mirch Masala (1987)
+UID:e5792044-f5d2-42c8-bfbd-4f13cb90790c@e579.org
+URL:https://fillum.in/screening/6417
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6418
+DESCRIPTION:Host: Express Screen Film Club\n\n\n\nMore info / Tickets: https://fillum.in/screening/6467
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261103T133000Z
+SUMMARY:Toh\, Ti Ani Fuji (2026)
+UID:9c173d6a-92b4-4558-aae2-1e5f33656678@9c17.org
+URL:https://fillum.in/screening/6467
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6419
 DURATION:PT2H
 LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261102T103000Z
-SUMMARY:The Man Who Knew Too Much (1934)
-UID:e093999d-10de-48d3-8946-a7d518ab2541@e093.org
-URL:https://fillum.in/screening/6418
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6449
-DURATION:PT2H
-LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
-DTSTART:20261104T093000Z
-SUMMARY:With Hasan in Gaza (2026)
-UID:c7129147-825c-4456-be2d-0fb8baeee210@c712.org
-URL:https://fillum.in/screening/6449
+DTSTART:20261102T150000Z
+SUMMARY:The Red Turtle (2016)
+UID:535646a9-c1a0-4021-9af9-0400d2400d55@5356.org
+URL:https://fillum.in/screening/6419
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026. There will also be screening of The Dream and Gazawyat\, a collection of short films by Palestinian women.\n\nMore info / Tickets: https://fillum.in/screening/6431
@@ -214,7 +61,88 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex\, Delhi
 DTSTART:20261107T123000Z
 SUMMARY:Return to Haifa (1982)
-UID:f09169fc-8935-40d9-910b-b7d4e2d866b5@f091.org
+UID:fa13ccc6-0dc4-4082-a724-2e7c903670cd@fa13.org
 URL:https://fillum.in/screening/6431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6422
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261103T150000Z
+SUMMARY:Ghatashraddha (The Ritual) (1977)
+UID:3ad2b200-f4a5-4e58-83d0-bd857f511ecc@3ad2.org
+URL:https://fillum.in/screening/6422
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6418
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261102T103000Z
+SUMMARY:The Man Who Knew Too Much (1934)
+UID:21aa95da-b52d-4ecf-8e4f-0796361cb2fe@21aa.org
+URL:https://fillum.in/screening/6418
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\nGazawyat: Fidaa\nDirected by Khaled Tuaima. Documentary\, 2026\, 11 min.\nThe film follows Fidaa Abu Maryam on her journey to wield storytelling as a psychological shield. By gathering the testimonies.. more\n\nMore info / Tickets: https://fillum.in/screening/6452
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20261104T120000Z
+SUMMARY:Gazawyat (2026)
+UID:b48037e3-5fbc-4d33-9997-d654e6631c87@b480.org
+URL:https://fillum.in/screening/6452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6457
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261104T130000Z
+SUMMARY:Dream of Another Summer (2026)
+UID:5352ee1a-6cda-4311-810a-ae4403c41174@5352.org
+URL:https://fillum.in/screening/6457
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:c8e620df-8afc-4a04-9b1e-6b23b5f38e90@c8e6.org
+URL:https://fillum.in/p/458
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6451
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20261104T150000Z
+SUMMARY:The Flowers Stand Silently\, Witnessing (2024)
+UID:b5625348-26da-49e5-8dc8-d15c1393f05f@b562.org
+URL:https://fillum.in/screening/6451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6420
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261103T053000Z
+SUMMARY:The Pianist (2002)
+UID:15f76c69-d264-4e8a-89d9-d89fceeefbe5@15f7.org
+URL:https://fillum.in/screening/6420
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6421
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261103T083000Z
+SUMMARY:Jaane Bhi Do Yaaro (1983)
+UID:20367ac4-6bda-4018-9c73-2657f1650922@2036.org
+URL:https://fillum.in/screening/6421
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6449
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20261104T093000Z
+SUMMARY:With Hasan in Gaza (2026)
+UID:1ee12eb5-6c3b-4882-bc04-7ba9b612312b@1ee1.org
+URL:https://fillum.in/screening/6449
 END:VEVENT
 END:VCALENDAR
