@@ -2,94 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6451
-DURATION:PT2H
-LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
-DTSTART:20261104T150000Z
-SUMMARY:The Flowers Stand Silently\, Witnessing (2024)
-UID:198e1401-b524-4e83-ac60-c5095c0885d0@198e.org
-URL:https://fillum.in/screening/6451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6420
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261103T053000Z
-SUMMARY:The Pianist (2002)
-UID:26a03924-dee3-422c-9fc8-001a7869793b@26a0.org
-URL:https://fillum.in/screening/6420
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6421
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261103T083000Z
-SUMMARY:Jaane Bhi Do Yaaro (1983)
-UID:f5b8de0f-e1a5-4acb-8fd4-1dada6976108@f5b8.org
-URL:https://fillum.in/screening/6421
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6472
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261105T130000Z
-SUMMARY:Level Five (1997)
-UID:5068434c-6b87-4f4e-a5de-f2fab303f234@5068.org
-URL:https://fillum.in/screening/6472
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:eb655f94-c808-4327-be3e-2542ae043678@eb65.org
-URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6457
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261104T130000Z
-SUMMARY:Dream of Another Summer (2026)
-UID:953afd63-a973-474a-a266-a437c44a9039@953a.org
-URL:https://fillum.in/screening/6457
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Express Screen Film Club\n\n\n\nMore info / Tickets: https://fillum.in/screening/6467
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261103T133000Z
-SUMMARY:Toh\, Ti Ani Fuji (2026)
-UID:4a8e7454-55a0-4819-a1be-b818a9a7048b@4a8e.org
-URL:https://fillum.in/screening/6467
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026. There will also be screening of The Dream and Gazawyat\, a collection of short films by Palestinian women.\n\nMore info / Tickets: https://fillum.in/screening/6431
-DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20261107T123000Z
-SUMMARY:Return to Haifa (1982)
-UID:4a8c20b5-0105-46ad-9a04-eef523629d15@4a8c.org
-URL:https://fillum.in/screening/6431
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Anant Foundation for the Arts\n\nGazawyat: Fidaa\nDirected by Khaled Tuaima. Documentary\, 2026\, 11 min.\nThe film follows Fidaa Abu Maryam on her journey to wield storytelling as a psychological shield. By gathering the testimonies.. more\n\nMore info / Tickets: https://fillum.in/screening/6452
 DURATION:PT2H
 LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
 DTSTART:20261104T120000Z
 SUMMARY:Gazawyat (2026)
-UID:90b8e9e1-8eaa-47a2-b556-a804f022f305@90b8.org
+UID:9044284d-70fe-4bed-a6ec-d647075300a2@9044.org
 URL:https://fillum.in/screening/6452
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6450
-DURATION:PT2H
-LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
-DTSTART:20261104T135000Z
-SUMMARY:Foragers (2022)
-UID:8b072f61-ddb9-48b2-8130-4b9913f00ca2@8b07.org
-URL:https://fillum.in/screening/6450
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
@@ -97,35 +16,17 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261121T090000Z
 SUMMARY:Where Is My Friend's House? (1987)
-UID:6931a2ce-e4d3-4c9b-a9e1-23c0ef6f7389@6931.org
+UID:a5fad4cd-b59f-4b6f-98ae-f52d6bf66f7e@a5fa.org
 URL:https://fillum.in/screening/6471
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Goethe-Institut New Delhi\n\nFree entry. Post-screening discussion with Vani Subramanian.\n\nMore info / Tickets: https://fillum.in/screening/6433
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
 DURATION:PT2H
-LOCATION:Siddhartha Hall\, Goethe-Institut
-DTSTART:20261103T133000Z
-SUMMARY:The Ordinaries (2022)
-UID:b9393747-c3f7-453f-8ed5-05ae5cfa9463@b939.org
-URL:https://fillum.in/screening/6433
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of IIC Experience 2026. Free entry on first come first served basis. Open to all.\n\nMore info / Tickets: https://fillum.in/screening/6422
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261103T150000Z
-SUMMARY:Ghatashraddha (The Ritual) (1977)
-UID:34da7321-c3e2-4010-986c-382af3a113c3@34da.org
-URL:https://fillum.in/screening/6422
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6449
-DURATION:PT2H
-LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
-DTSTART:20261104T093000Z
-SUMMARY:With Hasan in Gaza (2026)
-UID:85a6a2af-e333-4db6-9741-a9d7dbcf0113@85a6.org
-URL:https://fillum.in/screening/6449
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:677afcb9-aaa3-4e89-afd8-bd039e45e67c@677a.org
+URL:https://fillum.in/p/458
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
@@ -133,7 +34,61 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261122T050000Z
 SUMMARY:Citizen Kane (1941)
-UID:0d10f7c0-0cdb-409c-a9f1-e9adf99a630f@0d10.org
+UID:b20bf7fb-6d29-4349-b61c-8d658ca6a59b@b20b.org
 URL:https://fillum.in/screening/6470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6450
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20261104T135000Z
+SUMMARY:Foragers (2022)
+UID:634423b8-5c19-4cd7-bebb-4292d8cc881b@6344.org
+URL:https://fillum.in/screening/6450
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6449
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20261104T093000Z
+SUMMARY:With Hasan in Gaza (2026)
+UID:916f9c05-6c26-4dbc-9fba-a19d8cdb6224@916f.org
+URL:https://fillum.in/screening/6449
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6472
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261105T130000Z
+SUMMARY:Level Five (1997)
+UID:0e57dbc7-3e2d-46a3-bd06-758909de83f4@0e57.org
+URL:https://fillum.in/screening/6472
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6457
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261104T130000Z
+SUMMARY:Dream of Another Summer (2026)
+UID:b73918b5-9e7a-464f-a5e2-368bf87903b2@b739.org
+URL:https://fillum.in/screening/6457
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026. There will also be screening of The Dream and Gazawyat\, a collection of short films by Palestinian women.\n\nMore info / Tickets: https://fillum.in/screening/6431
+DURATION:PT2H
+LOCATION:Mool\, South Ex\, Delhi
+DTSTART:20261107T123000Z
+SUMMARY:Return to Haifa (1982)
+UID:09e15911-0df5-4e9d-ba80-8ece429345be@09e1.org
+URL:https://fillum.in/screening/6431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Anant Foundation for the Arts\n\n\n\nMore info / Tickets: https://fillum.in/screening/6451
+DURATION:PT2H
+LOCATION:Anant Art Gallery\, B-5/3\, Safdarjung Enclave\, New Delhi
+DTSTART:20261104T150000Z
+SUMMARY:The Flowers Stand Silently\, Witnessing (2024)
+UID:6ec8a953-25a3-454c-8aba-0106912cd12d@6ec8.org
+URL:https://fillum.in/screening/6451
 END:VEVENT
 END:VCALENDAR
