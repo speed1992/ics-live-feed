@@ -2,66 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026.\n\nMore info / Tickets: https://fillum.in/screening/6474
-DURATION:PT2H
-LOCATION:Mool\, South Ex
-DTSTART:20261107T123000Z
-SUMMARY:The Dream (1987)
-UID:45a5dfa9-d990-4061-a073-cf75d3b1ae3e@45a5.org
-URL:https://fillum.in/screening/6474
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T050000Z
-SUMMARY:Citizen Kane (1941)
-UID:0c9ffeb7-3556-471f-b516-bdca8013c8b8@0c9f.org
-URL:https://fillum.in/screening/6470
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T090000Z
-SUMMARY:Where Is My Friend's House? (1987)
-UID:c37e4e33-0707-42c5-8781-052f2f98d370@c37e.org
-URL:https://fillum.in/screening/6471
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026.\n\nMore info / Tickets: https://fillum.in/screening/6473
-DURATION:PT2H
-LOCATION:Mool\, South Ex
-DTSTART:20261107T123000Z
-SUMMARY:Gazawyat (2026)
-UID:1c77af6f-1250-4424-b29f-58be330f50c1@1c77.org
-URL:https://fillum.in/screening/6473
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:e095993d-0b47-40de-8bf6-734528b32a06@e095.org
-URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6475
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261110T133000Z
-SUMMARY:Sangate Aika (1959)
-UID:46787514-50f0-4ebd-a961-3bfc5c8f1b38@4678.org
-URL:https://fillum.in/screening/6475
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026. There will also be screening of The Dream and Gazawyat\, a collection of short films by Palestinian women.\n\nMore info / Tickets: https://fillum.in/screening/6431
 DURATION:PT2H
 LOCATION:Mool\, South Ex
 DTSTART:20261107T123000Z
 SUMMARY:Return to Haifa (1982)
-UID:a335d118-994c-4cd3-802c-86cc0d7fb9d2@a335.org
+UID:d4804ef2-038d-4423-ad56-dbc6b0fc7b5f@d480.org
 URL:https://fillum.in/screening/6431
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +16,79 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261105T130000Z
 SUMMARY:Level Five (1997)
-UID:4d464cd0-2ba5-43ba-abb7-46120c6655f3@4d46.org
+UID:c34ee6f9-ffa9-4578-ac3b-f6f116f60ac3@c34e.org
 URL:https://fillum.in/screening/6472
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026.\n\nMore info / Tickets: https://fillum.in/screening/6474
+DURATION:PT2H
+LOCATION:Mool\, South Ex
+DTSTART:20261107T123000Z
+SUMMARY:The Dream (1987)
+UID:16ce5052-66e4-42dc-b470-aa5c687ea9ac@16ce.org
+URL:https://fillum.in/screening/6474
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6475
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261110T133000Z
+SUMMARY:Sangate Aika (1959)
+UID:054af4e0-5726-4806-b553-2b4687d91392@054a.org
+URL:https://fillum.in/screening/6475
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261116T133000Z
+SUMMARY:Izhakalkkappuram (2026)
+UID:ba75fa6d-09f3-4cec-a7e9-4e125a8c7fa7@ba75.org
+URL:https://fillum.in/screening/6482
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T090000Z
+SUMMARY:Where Is My Friend's House? (1987)
+UID:8aa33eb5-15ef-4012-9ef5-85d5806638b9@8aa3.org
+URL:https://fillum.in/screening/6471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:543172d2-4087-4d2f-9220-1fd949c25c86@5431.org
+URL:https://fillum.in/p/458
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T050000Z
+SUMMARY:Citizen Kane (1941)
+UID:2b572edf-6da4-4760-a20e-14a663901de8@2b57.org
+URL:https://fillum.in/screening/6470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Progressive Students Youth Association\n\nPSYA invites you to join the celebration marking 109th anniversary of the October Revolution. In these tumultuous times when crisis of the status quo has brought people to the streets looking to cha.. more\n\nMore info / Tickets: https://fillum.in/screening/6483
+DURATION:PT2H
+LOCATION:Saket (Location will be sent separately)
+DTSTART:20261107T133000Z
+SUMMARY:No Path Through Fire (1967)
+UID:fd870059-40de-4dee-ab5e-65e939dd4e10@fd87.org
+URL:https://fillum.in/screening/6483
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026.\n\nMore info / Tickets: https://fillum.in/screening/6473
+DURATION:PT2H
+LOCATION:Mool\, South Ex
+DTSTART:20261107T123000Z
+SUMMARY:Gazawyat (2026)
+UID:8c07f316-1b1f-4c6f-9cb7-289147cef585@8c07.org
+URL:https://fillum.in/screening/6473
 END:VEVENT
 END:VCALENDAR
