@@ -7,52 +7,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20261114T073000Z
 SUMMARY:Persona (1966)
-UID:470949e6-156a-4c52-a01c-60c0411ab96e@4709.org
-URL:https://fillum.in/p/478
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6475
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261110T133000Z
-SUMMARY:Sangate Aika (1959)
-UID:b974f09b-6dd7-401f-8879-c0e610a792ae@b974.org
-URL:https://fillum.in/screening/6475
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T090000Z
-SUMMARY:Where Is My Friend's House? (1987)
-UID:71c5f52b-651c-4b69-86b8-46bfb168d510@71c5.org
-URL:https://fillum.in/screening/6471
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:7d469e4a-f565-47e4-ba79-5b03be6af805@7d46.org
-URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T050000Z
-SUMMARY:Citizen Kane (1941)
-UID:d51bf45d-4ca6-4ed0-b2cd-780f01f00c9e@d51b.org
-URL:https://fillum.in/screening/6470
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20261114T093000Z
-SUMMARY:Rashomon (1950)
-UID:c4511367-aff8-415b-a573-7e3eac36050e@c451.org
+UID:40255951-94d7-4699-ac4d-abe344a3d791@4025.org
 URL:https://fillum.in/p/478
 END:VEVENT
 BEGIN:VEVENT
@@ -61,17 +16,17 @@ DURATION:PT2H
 LOCATION:Saket Social\, DLF Avenue
 DTSTART:20261115T090000Z
 SUMMARY:Hometown Edition #6 (Films From Underground)
-UID:bcdf7def-0069-45d2-ad3d-9c0c5fcd5882@bcdf.org
+UID:3f61aa3b-6941-494d-b56c-172de1c613f5@3f61.org
 URL:https://fillum.in/p/481
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
 DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261116T133000Z
-SUMMARY:Izhakalkkappuram (2026)
-UID:2d255f3a-7353-48c0-82c9-a0319d7d61f4@2d25.org
-URL:https://fillum.in/screening/6482
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:8a6078fd-61a4-443e-a30e-e60a595c9b60@8a60.org
+URL:https://fillum.in/p/458
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: The Yellow Orange\n\n\n\nMore info / Tickets: https://fillum.in/p/480
@@ -79,7 +34,7 @@ DURATION:PT2H
 LOCATION:NIV Art Centre
 DTSTART:20261114T133000Z
 SUMMARY:Ustad Bantoo (2026)
-UID:7c08aaf9-fcc1-40bd-a4b5-b049f468ff1a@7c08.org
+UID:d89264f0-97b9-4585-9c98-cbf666a70e33@d892.org
 URL:https://fillum.in/p/480
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +43,52 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20261114T053000Z
 SUMMARY:Close-Up (1990)
-UID:f91eb8e1-4a06-4fa2-b789-1ae1210bbdf6@f91e.org
+UID:dfde7333-dae7-4a12-9dd6-7a7fe4632443@dfde.org
 URL:https://fillum.in/p/478
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T090000Z
+SUMMARY:Where Is My Friend's House? (1987)
+UID:71429f86-9fe4-488a-89f9-6a3938ca293e@7142.org
+URL:https://fillum.in/screening/6471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6475
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261110T133000Z
+SUMMARY:Sangate Aika (1959)
+UID:462120a7-a977-4146-9825-9caefb18a73d@4621.org
+URL:https://fillum.in/screening/6475
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20261114T093000Z
+SUMMARY:Rashomon (1950)
+UID:f4224b49-c965-4c22-81e9-fb352890a0e9@f422.org
+URL:https://fillum.in/p/478
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261116T133000Z
+SUMMARY:Izhakalkkappuram (2026)
+UID:0a740843-4125-42ac-bd30-29cc308bbf92@0a74.org
+URL:https://fillum.in/screening/6482
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T050000Z
+SUMMARY:Citizen Kane (1941)
+UID:e66b0d9e-70c0-4d65-9d24-2f91f670cd21@e66b.org
+URL:https://fillum.in/screening/6470
 END:VEVENT
 END:VCALENDAR
