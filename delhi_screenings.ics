@@ -2,30 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Progressive Students Youth Association\n\nPSYA invites you to join the celebration marking 109th anniversary of the October Revolution. In these tumultuous times when crisis of the status quo has brought people to the streets looking to cha.. more\n\nMore info / Tickets: https://fillum.in/screening/6483
-DURATION:PT2H
-LOCATION:Saket (Location will be sent separately)
-DTSTART:20261107T133000Z
-SUMMARY:No Path Through Fire (1967)
-UID:52f9c371-2f45-43f5-bf94-ed0eefb8707e@52f9.org
-URL:https://fillum.in/screening/6483
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026.\n\nMore info / Tickets: https://fillum.in/screening/6473
-DURATION:PT2H
-LOCATION:Mool\, South Ex
-DTSTART:20261107T123000Z
-SUMMARY:Gazawyat (2026)
-UID:f9f22f61-de56-4d85-95de-5fcc0379ddf1@f9f2.org
-URL:https://fillum.in/screening/6473
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
 DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20261114T073000Z
 SUMMARY:Persona (1966)
-UID:8eddbd09-5515-438a-a0de-a733101bc955@8edd.org
+UID:470949e6-156a-4c52-a01c-60c0411ab96e@4709.org
 URL:https://fillum.in/p/478
 END:VEVENT
 BEGIN:VEVENT
@@ -34,44 +16,8 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261110T133000Z
 SUMMARY:Sangate Aika (1959)
-UID:6954cfc3-0271-440c-8dce-ce33a6e6cdc9@6954.org
+UID:b974f09b-6dd7-401f-8879-c0e610a792ae@b974.org
 URL:https://fillum.in/screening/6475
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026. There will also be screening of The Dream and Gazawyat\, a collection of short films by Palestinian women.\n\nMore info / Tickets: https://fillum.in/screening/6431
-DURATION:PT2H
-LOCATION:Mool\, South Ex
-DTSTART:20261107T123000Z
-SUMMARY:Return to Haifa (1982)
-UID:aa0e6acf-c3dc-4b30-b2b4-474c49006276@aa0e.org
-URL:https://fillum.in/screening/6431
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nHome Town Edition #6\nSix editions in\, the idea hasn't changed: homegrown independent films\, a proper screen and a room full of people who want to be there.\n\nThis edition brings four new films to .. more\n\nMore info / Tickets: https://fillum.in/p/481
-DURATION:PT2H
-LOCATION:Saket Social\, DLF Avenue
-DTSTART:20261115T090000Z
-SUMMARY:Hometown Edition #6 (Films From Underground)
-UID:0672f921-d577-4960-9bdd-911a85e7b7e5@0672.org
-URL:https://fillum.in/p/481
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T050000Z
-SUMMARY:Citizen Kane (1941)
-UID:c1594044-be15-46c8-9c92-5a86d9f0e1e9@c159.org
-URL:https://fillum.in/screening/6470
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261116T133000Z
-SUMMARY:Izhakalkkappuram (2026)
-UID:942f582b-6440-4884-a948-77080990a4fe@942f.org
-URL:https://fillum.in/screening/6482
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
@@ -79,17 +25,8 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261121T090000Z
 SUMMARY:Where Is My Friend's House? (1987)
-UID:cb3ceaab-c596-4823-af46-e627ed711c76@cb3c.org
+UID:71c5f52b-651c-4b69-86b8-46bfb168d510@71c5.org
 URL:https://fillum.in/screening/6471
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20261114T093000Z
-SUMMARY:Rashomon (1950)
-UID:e697f41a-0044-47e7-93ef-36f3882c3662@e697.org
-URL:https://fillum.in/p/478
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
@@ -97,8 +34,53 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261122T041500Z
 SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:00b86581-7bbf-44e2-badd-840ab7c15b84@00b8.org
+UID:7d469e4a-f565-47e4-ba79-5b03be6af805@7d46.org
 URL:https://fillum.in/p/458
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T050000Z
+SUMMARY:Citizen Kane (1941)
+UID:d51bf45d-4ca6-4ed0-b2cd-780f01f00c9e@d51b.org
+URL:https://fillum.in/screening/6470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20261114T093000Z
+SUMMARY:Rashomon (1950)
+UID:c4511367-aff8-415b-a573-7e3eac36050e@c451.org
+URL:https://fillum.in/p/478
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Films From Underground\n\nHome Town Edition #6\nSix editions in\, the idea hasn't changed: homegrown independent films\, a proper screen and a room full of people who want to be there.\n\nThis edition brings four new films to .. more\n\nMore info / Tickets: https://fillum.in/p/481
+DURATION:PT2H
+LOCATION:Saket Social\, DLF Avenue
+DTSTART:20261115T090000Z
+SUMMARY:Hometown Edition #6 (Films From Underground)
+UID:bcdf7def-0069-45d2-ad3d-9c0c5fcd5882@bcdf.org
+URL:https://fillum.in/p/481
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261116T133000Z
+SUMMARY:Izhakalkkappuram (2026)
+UID:2d255f3a-7353-48c0-82c9-a0319d7d61f4@2d25.org
+URL:https://fillum.in/screening/6482
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Yellow Orange\n\n\n\nMore info / Tickets: https://fillum.in/p/480
+DURATION:PT2H
+LOCATION:NIV Art Centre
+DTSTART:20261114T133000Z
+SUMMARY:Ustad Bantoo (2026)
+UID:7c08aaf9-fcc1-40bd-a4b5-b049f468ff1a@7c08.org
+URL:https://fillum.in/p/480
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
@@ -106,16 +88,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20261114T053000Z
 SUMMARY:Close-Up (1990)
-UID:2e922c5f-7ae4-4c66-907f-6439ec5e0298@2e92.org
+UID:f91eb8e1-4a06-4fa2-b789-1ae1210bbdf6@f91e.org
 URL:https://fillum.in/p/478
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Voices Against Genocide\n\nAs part of the Palestine Cinema Days Around the World 2026.\n\nMore info / Tickets: https://fillum.in/screening/6474
-DURATION:PT2H
-LOCATION:Mool\, South Ex
-DTSTART:20261107T123000Z
-SUMMARY:The Dream (1987)
-UID:3a385e44-e2b7-412e-8b68-7abe2618eb90@3a38.org
-URL:https://fillum.in/screening/6474
 END:VEVENT
 END:VCALENDAR
