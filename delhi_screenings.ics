@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
+DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:3e3d81ab-75cd-443b-bc2c-b36903152ea4@3e3d.org
-URL:https://fillum.in/p/458
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20261114T073000Z
+SUMMARY:Persona (1966)
+UID:c9408907-1eb7-483a-b6d7-9c97b58206d5@c940.org
+URL:https://fillum.in/p/478
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
@@ -16,53 +16,17 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261121T090000Z
 SUMMARY:Where Is My Friend's House? (1987)
-UID:61630145-d355-4e56-99fd-d434b5b333d6@6163.org
+UID:1a0a0b37-a5af-4170-8d3d-3a2e65a6e00c@1a0a.org
 URL:https://fillum.in/screening/6471
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
+DESCRIPTION:Host: Films From Underground\n\nHome Town Edition #6\nSix editions in\, the idea hasn't changed: homegrown independent films\, a proper screen and a room full of people who want to be there.\n\nThis edition brings four new films to .. more\n\nMore info / Tickets: https://fillum.in/p/481
 DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20261114T073000Z
-SUMMARY:Persona (1966)
-UID:61702d76-3e36-49db-9f2a-95943a12242e@6170.org
-URL:https://fillum.in/p/478
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Saket
-DTSTART:20261114T093000Z
-SUMMARY:Rashomon (1950)
-UID:e6ca77d2-44e4-42ef-bef5-efd26c487f17@e6ca.org
-URL:https://fillum.in/p/478
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261116T133000Z
-SUMMARY:Izhakalkkappuram (2026)
-UID:a5ea7915-a34e-49cd-a010-38146fb50ca7@a5ea.org
-URL:https://fillum.in/screening/6482
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6497
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261112T130000Z
-SUMMARY:Knit's Island (2024)
-UID:e23b2c1e-f017-4c9d-b51d-925a99922e1b@e23b.org
-URL:https://fillum.in/screening/6497
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Studio Montage\n\nOrganized by Progressive Artists' League. Screening will be followed by discussion on the film.\nWhatsApp Contact: 7038203920\n\nMore info / Tickets: https://fillum.in/screening/6503
-DURATION:PT2H
-LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
-DTSTART:20261115T103000Z
-SUMMARY:This Changes Everything (2015)
-UID:388eec1c-f220-4aaa-891c-e5bb8e537f05@388e.org
-URL:https://fillum.in/screening/6503
+LOCATION:Saket Social\, DLF Avenue
+DTSTART:20261115T090000Z
+SUMMARY:Hometown Edition #6 (Films From Underground)
+UID:3549aab7-3123-4438-b1d3-0fe08285595c@3549.org
+URL:https://fillum.in/p/481
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
@@ -70,7 +34,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Saket
 DTSTART:20261114T053000Z
 SUMMARY:Close-Up (1990)
-UID:8d3ff129-899f-445b-aa73-3a14ad2673cc@8d3f.org
+UID:ffc0d7c8-72a6-476f-860b-b3a79fdbfe4c@ffc0.org
 URL:https://fillum.in/p/478
 END:VEVENT
 BEGIN:VEVENT
@@ -79,7 +43,7 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261122T050000Z
 SUMMARY:Citizen Kane (1941)
-UID:acb34e70-4021-44eb-8549-e66451e4416b@acb3.org
+UID:1a358b9a-051a-4cef-8f82-a190c5f3ee33@1a35.org
 URL:https://fillum.in/screening/6470
 END:VEVENT
 BEGIN:VEVENT
@@ -88,16 +52,43 @@ DURATION:PT2H
 LOCATION:NIV Art Centre
 DTSTART:20261114T133000Z
 SUMMARY:Ustad Bantoo (2026)
-UID:9ab81634-1a31-4a5d-b984-117860d3b367@9ab8.org
+UID:7b3eac85-2c94-455e-a5d6-868fda14fbc1@7b3e.org
 URL:https://fillum.in/p/480
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nHome Town Edition #6\nSix editions in\, the idea hasn't changed: homegrown independent films\, a proper screen and a room full of people who want to be there.\n\nThis edition brings four new films to .. more\n\nMore info / Tickets: https://fillum.in/p/481
+DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
 DURATION:PT2H
-LOCATION:Saket Social\, DLF Avenue
-DTSTART:20261115T090000Z
-SUMMARY:Hometown Edition #6 (Films From Underground)
-UID:18545a83-7bd0-45d4-9efc-81b69a40ce46@1854.org
-URL:https://fillum.in/p/481
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261116T133000Z
+SUMMARY:Izhakalkkappuram (2026)
+UID:6059dc45-4d22-4c89-b89d-b12ef60a16d9@6059.org
+URL:https://fillum.in/screening/6482
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Delhi Screen Society\n\nThis November 14th\, join us at Niv Art Centre for three remarkable films by three legendary filmmakers. Post-screening discussions will follow each film\, offering a space for curated conversations\, .. more\n\nMore info / Tickets: https://fillum.in/p/478
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Saket
+DTSTART:20261114T093000Z
+SUMMARY:Rashomon (1950)
+UID:6d956cdb-e04d-405c-8934-446b93d3638d@6d95.org
+URL:https://fillum.in/p/478
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:7ea1d2bf-2630-4bbe-93d0-cd02f87500bf@7ea1.org
+URL:https://fillum.in/p/458
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Studio Montage\n\nOrganized by Progressive Artists' League. Screening will be followed by discussion on the film.\nWhatsApp Contact: 7038203920\n\nMore info / Tickets: https://fillum.in/screening/6503
+DURATION:PT2H
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20261115T103000Z
+SUMMARY:This Changes Everything (2015)
+UID:ead83dba-34a4-4b72-8669-b76a52f2c340@ead8.org
+URL:https://fillum.in/screening/6503
 END:VEVENT
 END:VCALENDAR
