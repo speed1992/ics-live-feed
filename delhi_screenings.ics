@@ -2,31 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T050000Z
-SUMMARY:Citizen Kane (1941)
-UID:a829bfb9-ba36-42a3-bca1-c32fc6704522@a829.org
-URL:https://fillum.in/screening/6470
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Studio Montage\n\nOrganized by Progressive Artists' League. Screening will be followed by discussion on the film.\nWhatsApp Contact: 7038203920\n\nMore info / Tickets: https://fillum.in/screening/6503
-DURATION:PT2H
-LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
-DTSTART:20261115T103000Z
-SUMMARY:This Changes Everything (2015)
-UID:af824d9e-ee35-44ac-a852-87e535605546@af82.org
-URL:https://fillum.in/screening/6503
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Films From Underground\n\nHome Town Edition #6\nSix editions in\, the idea hasn't changed: homegrown independent films\, a proper screen and a room full of people who want to be there.\n\nThis edition brings four new films to .. more\n\nMore info / Tickets: https://fillum.in/p/481
-DURATION:PT2H
-LOCATION:Saket Social\, DLF Avenue
-DTSTART:20261115T090000Z
-SUMMARY:Hometown Edition #6 (Films From Underground)
-UID:25f03aeb-4c98-4d68-9c53-9bceedfa3cbf@25f0.org
-URL:https://fillum.in/p/481
+DTSTART:20261121T090000Z
+SUMMARY:Where Is My Friend's House? (1987)
+UID:74fcb7a5-98a8-4e30-adbb-8b4aa8aa7928@74fc.org
+URL:https://fillum.in/screening/6471
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Camera Commune\n\nOn occasion of the 109th anniversary of the Great October Revolution\, join Camera Commune for a discussion on the revolution\, on Sergei Eisenstein's early works and film theories\, and a screening of.. more\n\nMore info / Tickets: https://fillum.in/screening/6511
@@ -34,8 +16,17 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex\, Delhi
 DTSTART:20261121T113000Z
 SUMMARY:October (Ten Days that Shook the World) (1928)
-UID:02233b4c-3ae2-4bdb-9a9e-ce4ed3ad4e73@0223.org
+UID:7296d28e-5726-4f87-ae2f-475134f62118@7296.org
 URL:https://fillum.in/screening/6511
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T050000Z
+SUMMARY:Citizen Kane (1941)
+UID:d3f6d595-904e-4878-92f7-040280659452@d3f6.org
+URL:https://fillum.in/screening/6470
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
@@ -43,7 +34,7 @@ DURATION:PT2H
 LOCATION:Stein Auditorium\, India Habitat Centre
 DTSTART:20261116T133000Z
 SUMMARY:Izhakalkkappuram (2026)
-UID:2c08a3d0-de6f-4c94-b931-d5ef9df26517@2c08.org
+UID:191cd5f8-52f9-40c2-9f35-3274c01286eb@191c.org
 URL:https://fillum.in/screening/6482
 END:VEVENT
 BEGIN:VEVENT
@@ -52,16 +43,7 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261122T041500Z
 SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:784001f1-3620-4995-98e0-38fd38dbfce5@7840.org
+UID:a040d029-5ecd-4da0-9ab1-f8b500dc6581@a040.org
 URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T090000Z
-SUMMARY:Where Is My Friend's House? (1987)
-UID:57fe521c-b723-49dc-896c-42d72f0373bf@57fe.org
-URL:https://fillum.in/screening/6471
 END:VEVENT
 END:VCALENDAR
