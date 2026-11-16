@@ -2,40 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6471
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6539
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T050000Z
+SUMMARY:27 Down (1974)
+UID:e12f9c0f-579d-442d-a0d3-eb148b7c8677@e12f.org
+URL:https://fillum.in/screening/6539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6471
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261121T090000Z
 SUMMARY:Where Is My Friend's House? (1987)
-UID:74fcb7a5-98a8-4e30-adbb-8b4aa8aa7928@74fc.org
+UID:ec332f01-4cc1-4a52-9c3a-6fae0f16d063@ec33.org
 URL:https://fillum.in/screening/6471
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nOn occasion of the 109th anniversary of the Great October Revolution\, join Camera Commune for a discussion on the revolution\, on Sergei Eisenstein's early works and film theories\, and a screening of.. more\n\nMore info / Tickets: https://fillum.in/screening/6511
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6542
 DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20261121T113000Z
-SUMMARY:October (Ten Days that Shook the World) (1928)
-UID:7296d28e-5726-4f87-ae2f-475134f62118@7296.org
-URL:https://fillum.in/screening/6511
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T123000Z
+SUMMARY:The Exterminating Angel
+UID:9c9bd5f6-3334-4f4d-b9dd-73869c36f960@9c9b.org
+URL:https://fillum.in/screening/6542
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6470
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261122T050000Z
 SUMMARY:Citizen Kane (1941)
-UID:d3f6d595-904e-4878-92f7-040280659452@d3f6.org
+UID:74359b84-19cd-47b7-b29f-7dacaa52b265@7435.org
 URL:https://fillum.in/screening/6470
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261116T133000Z
-SUMMARY:Izhakalkkappuram (2026)
-UID:191cd5f8-52f9-40c2-9f35-3274c01286eb@191c.org
-URL:https://fillum.in/screening/6482
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
@@ -43,7 +43,43 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261122T041500Z
 SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:a040d029-5ecd-4da0-9ab1-f8b500dc6581@a040.org
+UID:17f069b3-da8c-478d-82f5-5c9e407e306e@17f0.org
 URL:https://fillum.in/p/458
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6541
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T083000Z
+SUMMARY:Toni Erdmann (2016)
+UID:1b1acbee-2c66-4a87-bc9c-080b30ded4bd@1b1a.org
+URL:https://fillum.in/screening/6541
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6540
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T120000Z
+SUMMARY:La Haine (1995)
+UID:9b0a6de8-6fad-44ad-9a43-874733cd510b@9b0a.org
+URL:https://fillum.in/screening/6540
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Habitat World\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6482
+DURATION:PT2H
+LOCATION:Stein Auditorium\, India Habitat Centre
+DTSTART:20261116T133000Z
+SUMMARY:Izhakalkkappuram (2026)
+UID:ec086981-c13d-4c3d-b9d8-fd5b24844afb@ec08.org
+URL:https://fillum.in/screening/6482
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Camera Commune\n\nOn occasion of the 109th anniversary of the Great October Revolution\, join Camera Commune for a discussion on the revolution\, on Sergei Eisenstein's early works and film theories\, and a screening of.. more\n\nMore info / Tickets: https://fillum.in/screening/6511
+DURATION:PT2H
+LOCATION:Mool\, South Ex\, Delhi
+DTSTART:20261121T113000Z
+SUMMARY:October (Ten Days that Shook the World) (1928)
+UID:162a2afe-da5c-4a31-ae3b-74e2a9d20fdc@162a.org
+URL:https://fillum.in/screening/6511
 END:VEVENT
 END:VCALENDAR
