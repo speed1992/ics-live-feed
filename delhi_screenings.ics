@@ -2,39 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:3dd2162a-0ee2-446c-9c08-21ee1605a269@3dd2.org
-URL:https://fillum.in/p/458
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6549
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room 1
-DTSTART:20261128T123000Z
-SUMMARY:Man with a Movie Camera (1929)
-UID:b2a2ff0e-49a9-4e1f-907d-9d074b526925@b2a2.org
-URL:https://fillum.in/screening/6549
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6540
 DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T050000Z
-SUMMARY:Citizen Kane (1941)
-UID:062df98c-590b-40ae-9e78-ed4abbc4daef@062d.org
-URL:https://fillum.in/screening/6470
+DTSTART:20261121T120000Z
+SUMMARY:La Haine (1995)
+UID:6ba1dbe2-4d0a-45ec-8e57-1d4276c1d042@6ba1.org
+URL:https://fillum.in/screening/6540
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
 LOCATION:Alliance Francaise
-DTSTART:20261201T091500Z
-SUMMARY:I Will Send the Sky (2026)
-UID:bfe41c10-5ea9-472b-b288-fe94798b4817@bfe4.org
+DTSTART:20261130T080000Z
+SUMMARY:KALKI (2026)
+UID:1b7b2890-7c61-46ba-b8e6-e1a17030567d@1b7b.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry. Followed by Online Q&A with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6548
+DURATION:PT2H
+LOCATION:C. D. Deshmukh Auditorium\, India International Centre
+DTSTART:20261118T123000Z
+SUMMARY:The Second Wind (2025)
+UID:57a2389c-1c80-4c4d-b2d2-85ffdbeb067f@57a2.org
+URL:https://fillum.in/screening/6548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6471
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T090000Z
+SUMMARY:Where Is My Friend's House? (1987)
+UID:f2266b03-e1c7-4e17-a89a-fe9905cd870f@f226.org
+URL:https://fillum.in/screening/6471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6541
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T083000Z
+SUMMARY:Toni Erdmann (2016)
+UID:5f589aee-97e7-48bb-ae07-5f726a087be5@5f58.org
+URL:https://fillum.in/screening/6541
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Allianc Francaise
+DTSTART:20261201T090000Z
+SUMMARY:Tenfa (2026)
+UID:bac6d91d-1c33-472e-bd18-49dcf454f8bd@bac6.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
@@ -43,70 +61,34 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261121T050000Z
 SUMMARY:27 Down (1974)
-UID:22d087df-52ec-41d6-96dc-e5d9a2ecd361@22d0.org
+UID:4533af97-b69d-4926-9cbd-fbd8cc31ade4@4533.org
 URL:https://fillum.in/screening/6539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Museo Camera\n\nIn association with Kriti Film Club.\n\nMore info / Tickets: https://fillum.in/screening/6556
+DURATION:PT2H
+LOCATION:Museo Camera\, DLF Phase IV
+DTSTART:20261122T113000Z
+SUMMARY:Cinema Pe Cinema: The Theatres. The Movies. And Us (2024)
+UID:0c4c8b64-0966-44b8-a389-9cc947ad20c1@0c4c.org
+URL:https://fillum.in/screening/6556
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6542
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T123000Z
+SUMMARY:The Exterminating Angel
+UID:a8b9e20b-44b8-4846-905d-393111901aca@a8b9.org
+URL:https://fillum.in/screening/6542
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
 LOCATION:Alliance Française
-DTSTART:20261202T133000Z
-SUMMARY:Flowers of Acacia (2026)
-UID:4a0a28e9-f47a-4930-bd12-422173481f1d@4a0a.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Francaise
-DTSTART:20261130T123000Z
-SUMMARY:A Women’s Court (2026)
-UID:bbb362e9-254c-469b-8f4c-bb18de175bc3@bbb3.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6541
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T083000Z
-SUMMARY:Toni Erdmann (2016)
-UID:96f36d11-1c43-4586-8b71-098141e826e9@96f3.org
-URL:https://fillum.in/screening/6541
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Francaise
-DTSTART:20261201T083000Z
-SUMMARY:O’Sey Balamma (2026)
-UID:807504d3-2df1-42d0-9cea-c09cc549a367@8075.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Allianc Francaise
-DTSTART:20261201T090000Z
-SUMMARY:Tenfa (2026)
-UID:a2529145-59fb-463f-80d6-3d1e92e51f8e@a252.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6471
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T090000Z
-SUMMARY:Where Is My Friend's House? (1987)
-UID:1e0989ad-8b6f-4dd3-8ef6-dbdbc94d25e0@1e09.org
-URL:https://fillum.in/screening/6471
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Francaise
-DTSTART:20261130T080000Z
-SUMMARY:KALKI (2026)
-UID:542a0049-9a9b-4928-b7ca-13b61aaa9f8b@542a.org
+DTSTART:20261130T060000Z
+SUMMARY:Khelne Chalogi? (2026)
+UID:00883007-d619-4b31-9741-b7d765c5fd84@0088.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
@@ -115,17 +97,17 @@ DURATION:PT2H
 LOCATION:India Habitat Centre
 DTSTART:20261130T140000Z
 SUMMARY:Herland (2026)
-UID:629feb91-624f-4f88-ae3a-c1dddcd1922b@629f.org
+UID:c81996c9-911c-471b-984c-24d9d74be7bc@c819.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Camera Commune\n\nOn occasion of the 109th anniversary of the Great October Revolution\, join Camera Commune for a discussion on the revolution\, on Sergei Eisenstein's early works and film theories\, and a screening of.. more\n\nMore info / Tickets: https://fillum.in/screening/6511
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6470
 DURATION:PT2H
-LOCATION:Mool\, South Ex\, Delhi
-DTSTART:20261121T113000Z
-SUMMARY:October (Ten Days that Shook the World) (1928)
-UID:2a3c4f3d-67d4-4749-9f20-a6020ae147f4@2a3c.org
-URL:https://fillum.in/screening/6511
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T050000Z
+SUMMARY:Citizen Kane (1941)
+UID:afec02ca-28de-4360-8d02-1008a4bfd07d@afec.org
+URL:https://fillum.in/screening/6470
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Out of Sequence\n\nBéla Tarr’s 1994 masterpiece immerses viewers in the darkest\, dankest\, grimmest and most godforsaken of worlds — a derelict Hungarian village\, its inhabitants adrift after the fall of Communism.. more\n\nMore info / Tickets: https://fillum.in/p/491
@@ -133,43 +115,70 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex II
 DTSTART:20261213T063000Z
 SUMMARY:Satantango (1994)
-UID:2aa08956-ac73-43f4-b528-b313acb2ec04@2aa0.org
+UID:ada74b85-6ae7-4b38-89b8-03dda75fb202@ada7.org
 URL:https://fillum.in/p/491
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6542
+DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6549
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T123000Z
-SUMMARY:The Exterminating Angel
-UID:30cd775e-9e7f-476b-a9de-b985bbb69372@30cd.org
-URL:https://fillum.in/screening/6542
+LOCATION:IIC Annexe - Lecture Room 1
+DTSTART:20261128T123000Z
+SUMMARY:Man with a Movie Camera (1929)
+UID:62a3be65-6347-43e5-9fa6-f8b30375b772@62a3.org
+URL:https://fillum.in/screening/6549
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6540
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T120000Z
-SUMMARY:La Haine (1995)
-UID:9521d0e5-9dbf-45ee-b5df-23fe6ce11b7d@9521.org
-URL:https://fillum.in/screening/6540
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:19fba7c0-2e83-40a0-9a68-6b61ef8a5642@19fb.org
+URL:https://fillum.in/p/458
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6548
+DESCRIPTION:Host: Camera Commune\n\nOn occasion of the 109th anniversary of the Great October Revolution\, join Camera Commune for a discussion on the revolution\, on Sergei Eisenstein's early works and film theories\, and a screening of.. more\n\nMore info / Tickets: https://fillum.in/screening/6511
 DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261118T123000Z
-SUMMARY:The Second Wind (2025)
-UID:42415c40-e053-4b52-9916-d4e7bf35591a@4241.org
-URL:https://fillum.in/screening/6548
+LOCATION:Mool\, South Ex\, Delhi
+DTSTART:20261121T113000Z
+SUMMARY:October (Ten Days that Shook the World) (1928)
+UID:d3b83b1c-27f8-4953-9859-335cceed1977@d3b8.org
+URL:https://fillum.in/screening/6511
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Francaise
+DTSTART:20261201T083000Z
+SUMMARY:O’Sey Balamma (2026)
+UID:505c9b30-975c-49d5-9917-1600fd7acace@505c.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Francaise
+DTSTART:20261201T091500Z
+SUMMARY:I Will Send the Sky (2026)
+UID:140ce7aa-f398-4411-87e7-3f8b7774227e@140c.org
+URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
 LOCATION:Alliance Française
-DTSTART:20261130T060000Z
-SUMMARY:Khelne Chalogi? (2026)
-UID:2b6907a5-a007-422e-84a7-f9b58b78800f@2b69.org
+DTSTART:20261202T133000Z
+SUMMARY:Flowers of Acacia (2026)
+UID:d30616f2-0092-4c3c-a85a-ca61522ac5be@d306.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Francaise
+DTSTART:20261130T123000Z
+SUMMARY:A Women’s Court (2026)
+UID:7f4108d6-2d7e-4185-be0e-ba92bc426e26@7f41.org
 URL:https://fillum.in/p/486
 END:VEVENT
 END:VCALENDAR
