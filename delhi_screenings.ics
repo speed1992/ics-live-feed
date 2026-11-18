@@ -2,30 +2,48 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6560
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room 1
-DTSTART:20261120T123000Z
-SUMMARY:Paswaar (2025)
-UID:38365592-185d-4d7a-a765-140a17035612@3836.org
-URL:https://fillum.in/screening/6560
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6558
 DURATION:PT2H
 LOCATION:Instituto Cervantes
 DTSTART:20261125T123000Z
 SUMMARY:Dedicated to my ex (2019)
-UID:af0ca63f-a3c7-47f5-9912-94b65194cc89@af0c.org
+UID:30df2883-253e-47e5-8eb6-218debb342cb@30df.org
 URL:https://fillum.in/screening/6558
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- The Story of Monsters and Captive Women\n(8:15 mins | Bengali with English subs | 2024 | Fiction | Bangladesh)\nDir. and Prod. Partha Sen Gupta\nThis.. more\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
-LOCATION:Alliance Francaise
-DTSTART:20261201T083000Z
-SUMMARY:O’Sey Balamma (2026)
-UID:103a68a7-d7bc-4f3b-a033-df8b09f86679@103a.org
+LOCATION:Alliance Française
+DTSTART:20261201T124500Z
+SUMMARY:Theme: Gender Bender II
+UID:81ee51e4-458e-4be0-8163-928e49d57d8f@81ee.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n- The Other Field\n(5 mins | Hindi with English subs | 2026 | Docu | India)\nDir. Nidhi Narnaware\nBorn into the harsh realities of ragpicking in Bhopal\, a young girl grows up navigating survival at.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T061500Z
+SUMMARY:Theme: Girl Stories
+UID:c5912cf1-02e5-400e-8e50-322e7c5335ae@c591.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nA disturbed woman is receiving a radical form of psychotherapy at a remote\, mysterious institute. Meanwhile\, her five-year-old daughter\, under the care of her estranged husband\, is being terrorized .. more\n\nMore info / Tickets: https://fillum.in/p/493
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261122T083000Z
+SUMMARY:The Brood (1979)
+UID:b0c3b0a6-3381-4cc0-b1df-327ddc740c33@b0c3.org
+URL:https://fillum.in/p/493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Namak\n(5:47 mins | Hindi with English subs | 2026 | Fiction | India)\nDir. Anoj Kumar | Prod. Chitthi Studio\nIn a bare\, one-room home\, Gorki serves h.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T100000Z
+SUMMARY:Theme: No More Violence
+UID:db3e25b9-418c-4912-b51f-3e25c6cdeae0@db3e.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
@@ -34,71 +52,44 @@ DURATION:PT2H
 LOCATION:Alliance Française
 DTSTART:20261202T133000Z
 SUMMARY:Flowers of Acacia (2026)
-UID:090d8413-c10d-49f6-8cd6-a1ded13d9de8@090d.org
+UID:bc3f90fb-e0e8-4c6b-90ed-a56502138c81@bc3f.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/493
+DESCRIPTION:Host: Studio Montage\n\nPart of Kino Eye Film Festival Organized by Progressive Artists' League celebrating 109th anniversary of the Great October Revolution.\nContact: 7038203920.\nPost Screening Discussion.\n\nMore info / Tickets: https://fillum.in/screening/6579
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261122T103000Z
-SUMMARY:Godzilla vs. Hedorah (1971)
-UID:fa8a83f3-43aa-4404-9b8a-e7bb02ebcebd@fa8a.org
-URL:https://fillum.in/p/493
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20261120T093000Z
+SUMMARY:October (Ten Days that Shook the World) (1928)
+UID:5f90bcfd-727b-47ad-a9ad-f60dbd1102c7@5f90.org
+URL:https://fillum.in/screening/6579
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Fursat\n(7 mins | Bengali\, Hindi\, English with Eng. subs | 2025 | Docu | India)\nDir. Dr. Mihika Sengupta\nA short poetic observational film that asks .. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261206T133000Z
+SUMMARY:Theme: DREAMS\, DESIRES AND DEFIANCE
+UID:12291758-b0a3-40d6-8e33-ba1d2ac6b721@1229.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- That Long Silence\n(19:50 mins | Gujarati\, Hindi with English subs | 2026 | Docu | India)\nDir. Ketan Rathod | Prod. Maraa Arts Collective\, Ketan Ratho.. more\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
 LOCATION:Alliance Française
-DTSTART:20261130T060000Z
-SUMMARY:Khelne Chalogi? (2026)
-UID:b38149f5-3ba9-4ff5-ba54-caec8298763c@b381.org
+DTSTART:20261201T083000Z
+SUMMARY:That Long Silence
+UID:e1585d1b-e2af-4343-ba17-dfe8396e9d28@e158.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Museo Camera\n\nIn association with Kriti Film Club.\n\nMore info / Tickets: https://fillum.in/screening/6556
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Tara\n(22:37 mins | Hindi\, English with English subs | 2025 | Fiction | India)\nDir. Ashutosh S. Shankar | Prod. Zena Sagar\, Rita Meher\, Neeraj Churi\,.. more\n\nMore info / Tickets: https://fillum.in/event/6577
 DURATION:PT2H
-LOCATION:Museo Camera\, DLF Phase IV
-DTSTART:20261122T113000Z
-SUMMARY:Cinema Pe Cinema: The Theatres. The Movies. And Us (2024)
-UID:9b91bc72-793e-4f08-902b-e3426c74a323@9b91.org
-URL:https://fillum.in/screening/6556
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Francaise
-DTSTART:20261130T080000Z
-SUMMARY:KALKI (2026)
-UID:738e593d-8aaa-4ad1-bee4-b7fafb01d05c@738e.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry. Followed by Online Q&A with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6548
-DURATION:PT2H
-LOCATION:C. D. Deshmukh Auditorium\, India International Centre
-DTSTART:20261118T123000Z
-SUMMARY:The Second Wind (2025)
-UID:d0aeb7d6-e544-46b4-9f0b-d767b63406bf@d0ae.org
-URL:https://fillum.in/screening/6548
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nBéla Tarr’s 1994 masterpiece immerses viewers in the darkest\, dankest\, grimmest and most godforsaken of worlds — a derelict Hungarian village\, its inhabitants adrift after the fall of Communism.. more\n\nMore info / Tickets: https://fillum.in/p/491
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261213T063000Z
-SUMMARY:Satantango (1994)
-UID:fa6119f2-05fb-435b-aea9-d4f15813b2e0@fa61.org
-URL:https://fillum.in/p/491
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
-DURATION:PT2H
-LOCATION:Niv Art Centre\, Neb Sarai
-DTSTART:20261122T041500Z
-SUMMARY:5-Hour Filmmaking Challenge — November Edition!
-UID:322aa907-1c08-4a15-b0fb-de9c8fcccf41@322a.org
-URL:https://fillum.in/p/458
+LOCATION:Alliance Française
+DTSTART:20261201T134500Z
+SUMMARY:Theme: Queer Stories
+UID:4e76af72-e4d0-449d-b9b5-1c85e06095e7@4e76.org
+URL:https://fillum.in/event/6577
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Camera Commune\n\nOn occasion of the 109th anniversary of the Great October Revolution\, join Camera Commune for a discussion on the revolution\, on Sergei Eisenstein's early works and film theories\, and a screening of.. more\n\nMore info / Tickets: https://fillum.in/screening/6511
@@ -106,107 +97,44 @@ DURATION:PT2H
 LOCATION:Mool\, South Ex\, Delhi
 DTSTART:20261121T113000Z
 SUMMARY:October (Ten Days that Shook the World) (1928)
-UID:d335ea9b-c41f-445b-8fda-b7f17cab7077@d335.org
+UID:a0cfb159-ef0b-4c09-abe9-9a7a0b21bd6a@a0cf.org
 URL:https://fillum.in/screening/6511
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Main Bhi Hoon Satrangi | ??? ?? ?? ??????\n(10 mins | Hindi with English subs | 2025 | Docu | India)\nDir. Nidhi Narnaware and Nikita Sisodiya | Prod. .. more\n\nMore info / Tickets: https://fillum.in/event/6571
 DURATION:PT2H
-LOCATION:Allianc Francaise
-DTSTART:20261201T090000Z
-SUMMARY:Tenfa (2026)
-UID:5220c175-57fd-4af0-aa4b-071bf0bc293b@5220.org
-URL:https://fillum.in/p/486
+LOCATION:Alliance Française
+DTSTART:20261130T090000Z
+SUMMARY:Theme: Women Are Power
+UID:43d8f399-d0dc-49b6-8a5b-3d3a86053302@43d8.org
+URL:https://fillum.in/event/6571
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/493
+DESCRIPTION:Host: Museo Camera\n\nIn association with Kriti Film Club.\n\nMore info / Tickets: https://fillum.in/screening/6556
 DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261122T063000Z
-SUMMARY:Creature from the Black Lagoon (1954)
-UID:f81601ef-3953-4663-8999-9de2603e49a5@f816.org
-URL:https://fillum.in/p/493
+LOCATION:Museo Camera\, DLF Phase IV
+DTSTART:20261122T113000Z
+SUMMARY:Cinema Pe Cinema: The Theatres. The Movies. And Us (2024)
+UID:25a34543-d8f6-4f3e-9da1-a0e856b236e1@25a3.org
+URL:https://fillum.in/screening/6556
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6559
+DESCRIPTION:Host: Kriti Film Club\n\n- Hai kaam Aahe (This is work)\n(27 mins | Marathi\, Hindi with English subs | 2024 | Docu | India)\nDir. Preeti Kanungo\n\nThe film follows the mothers who work as helpers in the Aaganwadi situated .. more\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261119T130000Z
-SUMMARY:Sailing Home (2024)
-UID:ab6e80ee-14d1-4775-a5b0-abbe1d713e1b@ab6e.org
-URL:https://fillum.in/screening/6559
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6549
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room 1
-DTSTART:20261128T123000Z
-SUMMARY:Man with a Movie Camera (1929)
-UID:03fb2764-1af7-4bf6-94e0-c02e26215d7b@03fb.org
-URL:https://fillum.in/screening/6549
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/493
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261122T083000Z
-SUMMARY:The Brood (1979)
-UID:73e558b0-80bd-4f02-b3e3-1baa10882b3d@73e5.org
-URL:https://fillum.in/p/493
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6471
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T090000Z
-SUMMARY:Where Is My Friend's House? (1987)
-UID:410c91e8-f137-423a-ae69-75c59914f148@410c.org
-URL:https://fillum.in/screening/6471
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261130T140000Z
-SUMMARY:Herland (2026)
-UID:db048841-637b-44dd-ade5-e5667bfc395f@db04.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/493
-DURATION:PT2H
-LOCATION:Jangpura
-DTSTART:20261122T123000Z
-SUMMARY:The Host (2006)
-UID:2bc55d2b-8968-4ad6-bce8-4fd09324778a@2bc5.org
-URL:https://fillum.in/p/493
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Francaise
+LOCATION:Alliance Française
 DTSTART:20261201T091500Z
-SUMMARY:I Will Send the Sky (2026)
-UID:af6cdeaf-0826-4960-a94c-7c2449ae462d@af6c.org
+SUMMARY:Theme: Care\, Community & Belonging
+UID:93e7944b-f602-4fcc-b26b-67fcf301bd7b@93e7.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Gods Do Not Follow\n(16:35 mins | Kullavi\, Pahari\, Hindi with English subs | 2025 | Fiction | India)\nDir. Ishan Pehal | Prod. Dhruv Bakshi\, Anmol Sidh.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DESCRIPTION:Host: Out of Sequence\n\nBéla Tarr’s 1994 masterpiece immerses viewers in the darkest\, dankest\, grimmest and most godforsaken of worlds — a derelict Hungarian village\, its inhabitants adrift after the fall of Communism.. more\n\nMore info / Tickets: https://fillum.in/p/491
 DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261205T133000Z
-SUMMARY:Theme: CHALLENGING BIASES/ QUEER STORIES
-UID:292a2f6b-e978-43c8-bc18-ae3307d516a6@292a.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6542
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T123000Z
-SUMMARY:The Exterminating Angel (1962)
-UID:4f7e14f7-08f8-4e1f-8d9c-8f10e9d63f8f@4f7e.org
-URL:https://fillum.in/screening/6542
+LOCATION:Mool\, South Ex II
+DTSTART:20261213T063000Z
+SUMMARY:Satantango (1994)
+UID:180130dc-4c3f-49de-88e6-f5b57d81100b@1801.org
+URL:https://fillum.in/p/491
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6541
@@ -214,8 +142,53 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261122T083000Z
 SUMMARY:Toni Erdmann (2016)
-UID:221a98b5-5cc5-4612-8d26-b459b0ad2047@221a.org
+UID:7625ea62-120b-4788-9faa-9c32f6eae51f@7625.org
 URL:https://fillum.in/screening/6541
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\n\n\nMore info / Tickets: https://fillum.in/p/493
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261122T123000Z
+SUMMARY:The Host (2006)
+UID:e1bfcd89-a00b-45d3-a076-c0ba2ba5102d@e1bf.org
+URL:https://fillum.in/p/493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Niv Art Centre & Film Studios\n\nCan you write\, shoot\, edit & premiere a film in just 5 hours?\n\nThe theme is revealed on the spot. Bring your creativity\, build your team\, and turn an idea into a short film before the clock runs o.. more\n\nMore info / Tickets: https://fillum.in/p/458
+DURATION:PT2H
+LOCATION:Niv Art Centre\, Neb Sarai
+DTSTART:20261122T041500Z
+SUMMARY:5-Hour Filmmaking Challenge — November Edition!
+UID:9e866207-6a6b-4441-bf69-308bfaa9c786@9e86.org
+URL:https://fillum.in/p/458
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Lonely Trees\n(27 mins | Hindi with English subs | 2026 | Docu-fiction | India)\nDir. Reyan Bisht\nA woman leaves her home in the darkness of the night.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261201T110000Z
+SUMMARY:Theme: Gender Bender
+UID:d25b7916-0dae-4b7e-ab03-77e26b110739@d25b.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n- Filme Camra | In the Filmy Room\n(22:33 mins | Hindi with English subs | 2025 | Docu | India)\nDir. Payal Chauhan | Prod. National Institute of Design Ford Foundation\nA participatory documentary .. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Francaise
+DTSTART:20261130T080000Z
+SUMMARY:Theme: Gender Bender
+UID:f33ad865-3ecc-422d-9654-96a0e823413d@f33a.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nIntended to address the crisis levels of pollution in postwar Japan\, Godzilla vs. Hedorah finds the King of the Monsters fighting an alien life form that arrives on Earth and steadily grows by feedi.. more\n\nMore info / Tickets: https://fillum.in/p/493
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261122T103000Z
+SUMMARY:Godzilla vs. Hedorah (1971)
+UID:d3b856db-267c-4d64-85b3-19dd9d230da0@d3b8.org
+URL:https://fillum.in/p/493
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Short Film Tour\n\nShorts In Spotlight\, powered by Short Film Tour\, returns for its fifth edition\, an intimate cinematic evening at NIV Art Centre. This curated showcase brings together a compelling mix of stories exp.. more\n\nMore info / Tickets: https://fillum.in/p/492
@@ -223,16 +196,97 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261212T113000Z
 SUMMARY:SHORTS IN SPOTLIGHT - Vol 5
-UID:91452b07-36cc-4e82-a216-ac419f7cd4e7@9145.org
+UID:8fd9ce5a-bf18-409a-9813-ad1676759c17@8fd9.org
 URL:https://fillum.in/p/492
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T050000Z
+SUMMARY:Citizen Kane (1941)
+UID:31132167-ff32-4a7d-9be0-c25dd3da2a96@3113.org
+URL:https://fillum.in/screening/6470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6559
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261119T130000Z
+SUMMARY:Sailing Home (2024)
+UID:85672adb-4fe3-4567-b061-400dbc8479b4@8567.org
+URL:https://fillum.in/screening/6559
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- WE\, the Puffcorns of India\n(19 mins | Marathi with English subs | 2024 | Fiction | India)\nDir. Aditya Mungde | Prod. Sunita Mungde\nOn their journey.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261202T123000Z
+SUMMARY:Theme: Education\, Nurturance and Freedom
+UID:feeae7bc-dde3-44ad-b10c-4a68b79713d4@feea.org
+URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261130T140000Z
+SUMMARY:Herland (2026)
+UID:f5344a84-cd5c-4e7b-befa-90c21e49b732@f534.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6540
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T120000Z
+SUMMARY:La Haine (1995)
+UID:afb888d1-98fc-424c-8aca-3adc854ac5d8@afb8.org
+URL:https://fillum.in/screening/6540
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n- Duniya Roz Banti Hai\n(18:24 mins | Hindi\, Maithili with English subs | 2026 | Docu | India)\nDir. Samiksha Kherde | Prod. The Third Eye\nThis film follows women who gather in Nari Adalats in rura.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
 LOCATION:Alliance Francaise
-DTSTART:20261130T123000Z
-SUMMARY:A Women’s Court (2026)
-UID:9ca9b05b-2a0e-4a41-b231-63512daf9c79@9ca9.org
+DTSTART:20261130T124500Z
+SUMMARY:Theme: Women Are Power II
+UID:a96964b4-df2f-4c96-846e-d34b8c54306e@a969.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nFree entry. Post-screening discussion with the filmmaker.\n\nMore info / Tickets: https://fillum.in/screening/6560
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room 1
+DTSTART:20261120T123000Z
+SUMMARY:Paswaar (2025)
+UID:dc62de49-6717-4b56-b0f0-b592cb0d9fac@dc62.org
+URL:https://fillum.in/screening/6560
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Studio Montage\n\nShort\, silent\, Ciné-tracts produced in France during the May 1968 uprising\, will be screened as part of the 'Kino Eye Film Festival' organized by Progressive Artists' League celebrating 109th anniv.. more\n\nMore info / Tickets: https://fillum.in/screening/6583
+DURATION:PT2H
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20261122T053000Z
+SUMMARY:Film-Tract n° 1968 (1968)
+UID:775bc202-0066-4a95-a55d-19eb8c2375f5@775b.org
+URL:https://fillum.in/screening/6583
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nCreature From the Black Lagoon is a Universal Horror film from 1954 and one of the key components of the "Universal Horror" canon. In the heart of the Brazilian Jungle\, a scientist named Carl Maia f.. more\n\nMore info / Tickets: https://fillum.in/p/493
+DURATION:PT2H
+LOCATION:Jangpura
+DTSTART:20261122T063000Z
+SUMMARY:Creature from the Black Lagoon (1954)
+UID:f52d3441-bcae-410d-b757-be84d8475d33@f52d.org
+URL:https://fillum.in/p/493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Zindagi Ka Naam Dosti\n(13:46 mins | Hindi with English subs | 2026 | Docu | India)\nDir. Alfisha Mahaladbade\, Bandana Gupta\, Mehak Shaikh\, Priya Jha\, .. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T053000Z
+SUMMARY:Theme: Love\, Labour and Memories
+UID:fd4f5b4a-6138-4d35-861b-c3d807253f0c@fd4f.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
@@ -241,26 +295,26 @@ DURATION:PT2H
 LOCATION:Jangpura
 DTSTART:20261122T143000Z
 SUMMARY:Save the Green Planet! (2003)
-UID:3ca62ad6-688f-4976-a3ee-fb9212786f56@3ca6.org
+UID:3c830172-15b1-4d4e-a6d0-be9d6b3773b3@3c83.org
 URL:https://fillum.in/p/493
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6470
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Gods Do Not Follow\n(16:35 mins | Kullavi\, Pahari\, Hindi with English subs | 2025 | Fiction | India)\nDir. Ishan Pehal | Prod. Dhruv Bakshi\, Anmol Sidh.. more\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261122T050000Z
-SUMMARY:Citizen Kane (1941)
-UID:dd8f06bb-97a1-48fd-b34d-600a0bba1ce3@dd8f.org
-URL:https://fillum.in/screening/6470
+LOCATION:India Habitat Centre
+DTSTART:20261205T133000Z
+SUMMARY:Theme: CHALLENGING BIASES / QUEER STORIES
+UID:af21a105-74e0-46fd-9697-5a4440e8a4a2@af21.org
+URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6540
+DESCRIPTION:Host: Studio Montage\n\nPart of Kino Eye Film Festival Organized by Progressive Artists' League celebrating 109th anniversary of the Great October Revolution.\nContact: 7038203920.\nPost Screening Discussion.\n\nMore info / Tickets: https://fillum.in/screening/6582
 DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261121T120000Z
-SUMMARY:La Haine (1995)
-UID:8c9cc04b-3b14-4005-9a40-101e22cd5875@8c9c.org
-URL:https://fillum.in/screening/6540
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20261121T103000Z
+SUMMARY:A Sixth Part of the World (1926)
+UID:bfcff5dd-2908-4e5a-b022-f5e9d0a32d8a@bfcf.org
+URL:https://fillum.in/screening/6582
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6539
@@ -268,7 +322,61 @@ DURATION:PT2H
 LOCATION:M. L. Bhartia Auditorium\, Alliance Française
 DTSTART:20261121T050000Z
 SUMMARY:27 Down (1974)
-UID:72eae1cb-127a-4b18-ab06-72d199cc9d28@72ea.org
+UID:f0e9be77-6da8-40f2-9c8d-08c8a1bdbe5d@f0e9.org
 URL:https://fillum.in/screening/6539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6549
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room 1
+DTSTART:20261128T123000Z
+SUMMARY:Man with a Movie Camera (1929)
+UID:bba918d2-d4f2-4bfc-910c-9cfb9b8571f8@bba9.org
+URL:https://fillum.in/screening/6549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6542
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261122T123000Z
+SUMMARY:The Exterminating Angel (1962)
+UID:bb958a68-fade-4807-8f9a-318515124c65@bb95.org
+URL:https://fillum.in/screening/6542
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Dongar / Pani | (Land / Water)\n(24 mins | Marathi\, English with English subtitles | 2024 | Fiction | India)Dir. Sanjivani Kamble | Prod. Sandhya Kambl.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261207T133000Z
+SUMMARY:Theme: OF SILENCES AND RELATIONSHIPS
+UID:d30bcb26-bc41-47cd-a6e6-925638797791@d30b.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Studio Montage\n\nPart of Kino Eye Film Festival Organized by Progressive Artists' League celebrating 109th anniversary of the Great October Revolution.\nContact: 7038203920.\nPost Screening Discussion.\n\nMore info / Tickets: https://fillum.in/screening/6581
+DURATION:PT2H
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20261121T093000Z
+SUMMARY:Sentimental Romance (1931)
+UID:9a514632-4d95-4908-bddf-f5981603c106@9a51.org
+URL:https://fillum.in/screening/6581
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Navrasa Duende Movie Club\n\nClick the book button below for free membership.\n\nMore info / Tickets: https://fillum.in/screening/6471
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261121T090000Z
+SUMMARY:Where Is My Friend's House? (1987)
+UID:add6328f-7c79-41e2-afe7-75abdf925901@add6.org
+URL:https://fillum.in/screening/6471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Studio Montage\n\nPart of Kino Eye Film Festival Organized by Progressive Artists' League celebrating 109th anniversary of the Great October Revolution.\nContact: 7038203920.\nPost Screening Discussion.\n\nMore info / Tickets: https://fillum.in/screening/6580
+DURATION:PT2H
+LOCATION:267 - 3rd floor\, Pocket B\, Sukhdev Vihar
+DTSTART:20261121T053000Z
+SUMMARY:Arsenal (1929)
+UID:40d7631f-e8da-4ae8-b716-3c1696a775cf@40d7.org
+URL:https://fillum.in/screening/6580
 END:VEVENT
 END:VCALENDAR
