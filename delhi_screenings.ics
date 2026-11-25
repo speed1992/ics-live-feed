@@ -2,175 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6625
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261202T103000Z
-SUMMARY:The Dance Club (2025)
-UID:0d5dfc87-666b-439c-8e02-cbefa5c54476@0d5d.org
-URL:https://fillum.in/screening/6625
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Namak\n(5:47 mins | Hindi with English subs | 2026 | Fiction | India)\nDir. Anoj Kumar | Prod. Chitthi Studio\nIn a bare\, one-room home\, Gorki serves h.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261130T100000Z
-SUMMARY:Theme: No More Violence
-UID:82486e6a-2064-42b2-bbb0-71c5d29a01d6@8248.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261202T133000Z
-SUMMARY:Flowers of Acacia (2026)
-UID:87bc8401-cdd7-4faa-a2a6-3ba23980b45e@87bc.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6614
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6615
 DURATION:PT2H
 LOCATION:Instituto Cervantes
-DTSTART:20261126T130000Z
-SUMMARY:Sirat (2025)
-UID:dc906f31-1cde-4bbd-ba3f-5b8ff2f1bde6@dc90.org
-URL:https://fillum.in/screening/6614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6622
-DURATION:PT2H
-LOCATION:Liszt Institute\, Hungarian Cultural Centre
-DTSTART:20261126T130000Z
-SUMMARY:Drazen (2024)
-UID:beee486a-cca5-487e-813b-8923fa010ef5@beee.org
-URL:https://fillum.in/screening/6622
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6663
-DURATION:PT2H
-LOCATION:M. L. Bhartia Auditorium\, Alliance Française
-DTSTART:20261126T130000Z
-SUMMARY:The Empire (2024)
-UID:d9c72b21-761e-4346-b2fd-3445c0273aa7@d9c7.org
-URL:https://fillum.in/screening/6663
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6612
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room 1
-DTSTART:20261201T130000Z
-SUMMARY:Maria's Silence (2024)
-UID:83a9d31b-ae67-46b0-97eb-e00bb62679ae@83a9.org
-URL:https://fillum.in/screening/6612
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n- Duniya Roz Banti Hai\n(18:24 mins | Hindi\, Maithili with English subs | 2026 | Docu | India)\nDir. Samiksha Kherde | Prod. The Third Eye\nThis film follows women who gather in Nari Adalats in rura.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261130T124500Z
-SUMMARY:Theme: Women Are Power II
-UID:6045f5a4-e7f3-47d4-b294-a99238b0531f@6045.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6628
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261203T103000Z
-SUMMARY:No Ghosts on Good Street (2026)
-UID:d7eb183f-e187-4239-90e2-a81d31460552@d7eb.org
-URL:https://fillum.in/screening/6628
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6631
-DURATION:PT2H
-LOCATION:Goethe-Institut
-DTSTART:20261128T130000Z
-SUMMARY:MERCKX (2025)
-UID:326b1a78-97ad-4873-a1af-75b8529c8b37@326b.org
-URL:https://fillum.in/screening/6631
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\nOf Bleeding Goddesses\n(38 mins | Hindi\, Nimadi with English subs | 2026 | Docu | India)\nDir. Sana Salim | Prod. Pinky Brahma Choudhury\, Shobhit Jain\nI.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261201T124500Z
-SUMMARY:Theme: Gender Bender III
-UID:b3121839-e24c-4bf8-aadb-394285c3d5ee@b312.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: The Big Hoom Club\n\nWith a very special Post FIlm Discussion Panel with the Filmmaker Samarth Mahajan\, Historian Dr. Sujata Menon & Public Historian Eshan Sharma!!\n\nThe Big Hoom Club is a space for community screenin.. more\n\nMore info / Tickets: https://fillum.in/p/502
-DURATION:PT2H
-LOCATION:Mool\, South Ex 2
-DTSTART:20261127T113000Z
-SUMMARY:The Unreserved (2017)
-UID:35d97c5c-4e43-46b6-9f16-99059b4ebfef@35d9.org
-URL:https://fillum.in/p/502
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6619
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261201T103000Z
-SUMMARY:Taste of Freedom (2024)
-UID:fb38cae7-ec38-4135-a5d9-7caeda37c173@fb38.org
-URL:https://fillum.in/screening/6619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6606
-DURATION:PT2H
-LOCATION:Stein Auditorium\, India Habitat Centre
-DTSTART:20261125T133000Z
-SUMMARY:The Last Viking (2025)
-UID:2374bc1b-be46-4c60-88bd-5f7b9d9f2721@2374.org
-URL:https://fillum.in/screening/6606
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6627
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261203T043000Z
-SUMMARY:A Boat in the Garden (2025)
-UID:f683d835-f1cc-4ac5-b79f-cf701a106068@f683.org
-URL:https://fillum.in/screening/6627
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6629
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261203T133000Z
-SUMMARY:The Richest Woman in the World (2025)
-UID:51a9a40d-8684-4183-89da-7501ac72e76f@51a9.org
-URL:https://fillum.in/screening/6629
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Zindagi Ka Naam Dosti\n(13:46 mins | Hindi with English subs | 2026 | Docu | India)\nDir. Alfisha Mahaladbade\, Bandana Gupta\, Mehak Shaikh\, Priya Jha\, .. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261130T053000Z
-SUMMARY:Theme: Love\, Labour and Memories
-UID:6208f654-2ac0-40b0-bf70-229355b5a48e@6208.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6633
-DURATION:PT2H
-LOCATION:Goethe-Institut
-DTSTART:20261129T130000Z
-SUMMARY:Projecto Global (2026)
-UID:50434ab6-9976-4775-9aa8-bf1c0113dcdf@5043.org
-URL:https://fillum.in/screening/6633
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Out of Sequence\n\nBéla Tarr’s 1994 masterpiece immerses viewers in the darkest\, dankest\, grimmest and most godforsaken of worlds — a derelict Hungarian village\, its inhabitants adrift after the fall of Communism.. more\n\nMore info / Tickets: https://fillum.in/p/491
-DURATION:PT2H
-LOCATION:Mool\, South Ex II
-DTSTART:20261213T063000Z
-SUMMARY:Satantango (1994)
-UID:1f83f55a-902f-454f-bb4f-fa731c123782@1f83.org
-URL:https://fillum.in/p/491
+DTSTART:20261127T103000Z
+SUMMARY:Bring Me Home (2024)
+UID:9df56e5c-4434-4203-bfb7-a02907441d6b@9df5.org
+URL:https://fillum.in/screening/6615
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: American Center New Delhi\n\n\n\nMore info / Tickets: https://fillum.in/screening/6659
@@ -178,53 +16,8 @@ DURATION:PT2H
 LOCATION:American Center\, Kasturba Gandhi Marg
 DTSTART:20261204T083000Z
 SUMMARY:Fantasia (1940)
-UID:4f8ec4bf-3a76-44e5-9c13-4e7e4bc00564@4f8e.org
+UID:46b34f11-4540-4095-b9ea-9c0d922a22a3@46b3.org
 URL:https://fillum.in/screening/6659
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6611
-DURATION:PT2H
-LOCATION:CD Deshmukh Auditorium\, India International Centre
-DTSTART:20261130T130000Z
-SUMMARY:Rose (2026)
-UID:308afb22-8117-4464-8837-a0ca9aef0421@308a.org
-URL:https://fillum.in/screening/6611
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6609
-DURATION:PT2H
-LOCATION:Gulmohar Hall\, India Habitat Centre
-DTSTART:20261129T133000Z
-SUMMARY:Dodo (2022)
-UID:6735427c-dadf-45af-9e53-8f59c9a5af03@6735.org
-URL:https://fillum.in/screening/6609
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n- The Other Field\n(5 mins | Hindi with English subs | 2026 | Docu | India)\nDir. Nidhi Narnaware\nBorn into the harsh realities of ragpicking in Bhopal\, a young girl grows up navigating survival at.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261130T061500Z
-SUMMARY:Theme: Girl Stories
-UID:517d7b80-a132-46e5-9abd-ab75f27b6e2e@517d.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Tara\n(22:37 mins | Hindi\, English with English subs | 2025 | Fiction | India)\nDir. Ashutosh S. Shankar | Prod. Zena Sagar\, Rita Meher\, Neeraj Churi\,.. more\n\nMore info / Tickets: https://fillum.in/event/6577
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261201T134500Z
-SUMMARY:Theme: Queer Stories
-UID:11997ed2-622b-4ca4-86bd-984c015526ea@1199.org
-URL:https://fillum.in/event/6577
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6613
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room 1
-DTSTART:20261202T130000Z
-SUMMARY:Cesta do nemožna (2019)
-UID:9926a2cc-670e-4b46-87d7-2fd9cbe25788@9926.org
-URL:https://fillum.in/screening/6613
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6621
@@ -232,89 +25,8 @@ DURATION:PT2H
 LOCATION:Liszt Institute\, Hungarian Cultural Centre
 DTSTART:20261126T110000Z
 SUMMARY:Sand in Your Hair (2025)
-UID:412d9ab0-27db-44de-b355-991cdf589478@412d.org
+UID:e1535c2f-e683-4225-aaba-e360bc04988a@e153.org
 URL:https://fillum.in/screening/6621
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Gods Do Not Follow\n(16:35 mins | Kullavi\, Pahari\, Hindi with English subs | 2025 | Fiction | India)\nDir. Ishan Pehal | Prod. Dhruv Bakshi\, Anmol Sidh.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261205T133000Z
-SUMMARY:CHALLENGING BIASES / QUEER STORIES
-UID:d57a7413-86af-4499-b7bf-d61a453831df@d57a.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6620
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261202T103000Z
-SUMMARY:Nasty (2024)
-UID:5e079af2-1b1c-4e3a-b4d7-85e750a4b1aa@5e07.org
-URL:https://fillum.in/screening/6620
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Space - W.I.P Labs\n\nWorkshop on creating cinema without a camera through the creation\, manipulation\, and alteration of moving images through the use of light on the emulsion.\n\nSupported by: Institut Ramon Llull\n\nFa.. more\n\nMore info / Tickets: https://fillum.in/p/500
-DURATION:PT2H
-LOCATION:W.I.P aDDa\, Lado Sarai
-DTSTART:20261127T083000Z
-SUMMARY:Filming with Light | A Workshop by Luis Macías
-UID:acd0b76b-590b-46e0-a2b7-ab179205342e@acd0.org
-URL:https://fillum.in/p/500
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261130T114500Z
-SUMMARY:Kuchar (2025)
-UID:efa76046-1d00-4f6d-bc90-ee34fa5ef343@efa7.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6626
-DURATION:PT2H
-LOCATION:Triveni Kala Sangam
-DTSTART:20261202T130000Z
-SUMMARY:Stormskerry Maja (2024)
-UID:625ded36-0f8a-4fc5-8062-34d9ce054c45@625d.org
-URL:https://fillum.in/screening/6626
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Fursat\n(7 mins | Bengali\, Hindi\, English with Eng. subs | 2025 | Docu | India)\nDir. Dr. Mihika Sengupta\nA short poetic observational film that asks .. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261206T133000Z
-SUMMARY:DREAMS\, DESIRES AND DEFIANCE
-UID:83745fc3-a6ce-4434-9a47-c24b23532294@8374.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6615
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261127T103000Z
-SUMMARY:Bring Me Home (2024)
-UID:c4042970-c0b7-43fb-ad09-8c5b89bca350@c404.org
-URL:https://fillum.in/screening/6615
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Instituto Cervantes Nueva Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6558
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261125T123000Z
-SUMMARY:Dedicated to my ex (2019)
-UID:013349ce-c2db-4a69-afaf-d5b13881db46@0133.org
-URL:https://fillum.in/screening/6558
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Arthshila Delhi\n\nUpdate: Sold Out\n\nMore info / Tickets: https://fillum.in/screening/6634
-DURATION:PT2H
-LOCATION:Arthshila\, Okhla Phase II
-DTSTART:20261129T120000Z
-SUMMARY:Ustad Bantoo (2026)
-UID:dee22bdb-710d-4aac-8f94-f4d1da30185d@dee2.org
-URL:https://fillum.in/screening/6634
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Lonely Trees\n(27 mins | Hindi with English subs | 2026 | Docu-fiction | India)\nDir. Reyan Bisht\nA woman leaves her home in the darkness of the night.. more\n\nMore info / Tickets: https://fillum.in/p/486
@@ -322,25 +34,7 @@ DURATION:PT2H
 LOCATION:Alliance Française
 DTSTART:20261201T110000Z
 SUMMARY:Theme: Gender Bender II
-UID:7c772df2-6301-4969-82fd-385e858a5ffd@7c77.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6624
-DURATION:PT2H
-LOCATION:Liszt Institute\, Hungarian Cultural Centre
-DTSTART:20261204T130000Z
-SUMMARY:Zejtune (2026)
-UID:f577cd8e-4927-4f1d-885f-9baf7a1c5af5@f577.org
-URL:https://fillum.in/screening/6624
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Dongar / Pani | (Land / Water)\n(24 mins | Marathi\, English with English subtitles | 2024 | Fiction | India)Dir. Sanjivani Kamble | Prod. Sandhya Kambl.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:India Habitat Centre
-DTSTART:20261207T133000Z
-SUMMARY:OF SILENCES AND RELATIONSHIPS
-UID:2c8350d6-22b2-4d0c-b8fe-2017cf6699c9@2c83.org
+UID:8ef33964-e028-4543-944a-e3348f3dda73@8ef3.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
@@ -349,142 +43,16 @@ DURATION:PT2H
 LOCATION:Niv Art Centre\, Neb Sarai
 DTSTART:20261212T113000Z
 SUMMARY:SHORTS IN SPOTLIGHT - Vol 5
-UID:1035bb47-abd7-443e-9406-2194857e479f@1035.org
+UID:b968de6c-3543-4810-af7b-cd84245a9fcd@b968.org
 URL:https://fillum.in/p/492
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6549
-DURATION:PT2H
-LOCATION:IIC Annexe - Lecture Room 1
-DTSTART:20261128T123000Z
-SUMMARY:Man with a Movie Camera (1929)
-UID:6d4e6c3c-b908-4878-97db-d084b3fd0fac@6d4e.org
-URL:https://fillum.in/screening/6549
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Space - W.I.P Labs\n\nCurated as a companion program to his ongoing project The Spectral Mountain\, this 45-minute 16mm screening brings together five recent works by filmmaker Luis Macías that examine nature\, perception.. more\n\nMore info / Tickets: https://fillum.in/p/500
-DURATION:PT2H
-LOCATION:W.I.P aDDa\, Lado Sarai
-DTSTART:20261127T140000Z
-SUMMARY:Your Eyes Are Spectral Machines | A Workshop by Luis Macías
-UID:7bca339c-74c0-44a7-ab24-a3df3f63dae9@7bca.org
-URL:https://fillum.in/p/500
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Main Bhi Hoon Satrangi\n(10 mins | Hindi with English subs | 2025 | Docu | India)\nDir. Nidhi Narnaware and Nikita Sisodiya | Prod. Green hub\nSantra h.. more\n\nMore info / Tickets: https://fillum.in/event/6571
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Zindagi Ka Naam Dosti\n(13:46 mins | Hindi with English subs | 2026 | Docu | India)\nDir. Alfisha Mahaladbade\, Bandana Gupta\, Mehak Shaikh\, Priya Jha\, .. more\n\nMore info / Tickets: https://fillum.in/p/486
 DURATION:PT2H
 LOCATION:Alliance Française
-DTSTART:20261130T090000Z
-SUMMARY:Theme: Women Are Power
-UID:e9a27de0-dd28-423a-a733-c08db6e78f06@e9a2.org
-URL:https://fillum.in/event/6571
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n- Hai kaam Aahe (This is work)\n(27 mins | Marathi\, Hindi with English subs | 2024 | Docu | India)\nDir. Preeti Kanungo\n\nThe film follows the mothers who work as helpers in the Aaganwadi situated .. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261201T091500Z
-SUMMARY:Care\, Community & Belonging
-UID:40b53087-5adf-4d56-afca-5f42303de357@40b5.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6610
-DURATION:PT2H
-LOCATION:CD Deshmukh Auditorium\, India International Centre
-DTSTART:20261130T103000Z
-SUMMARY:A Year of School (2026)
-UID:581c7df3-3564-4fed-921d-9d3db14f20c2@581c.org
-URL:https://fillum.in/screening/6610
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6618
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261201T103000Z
-SUMMARY:Hidden People (2025)
-UID:08323bd5-a8e1-480f-bd68-1dc2bedc5856@0832.org
-URL:https://fillum.in/screening/6618
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6623
-DURATION:PT2H
-LOCATION:Liszt Institute\, Hungarian Cultural Centre
-DTSTART:20261203T130000Z
-SUMMARY:Mommy Blue (2026)
-UID:0b15a0a2-bf9d-434a-aabe-96fa7281fc12@0b15.org
-URL:https://fillum.in/screening/6623
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Attic 77\n\nAt Attic 77\, you're not just watching films by some seriously talented filmmakers. At every Director's Cut\, we've seen people ask some of the sharpest questions in the room and walk out understandin.. more\n\nMore info / Tickets: https://fillum.in/p/501
-DURATION:PT2H
-LOCATION:Attic 77\, GK-2
-DTSTART:20261129T113000Z
-SUMMARY:Director's Cut
-UID:817c83c5-b8a0-45d1-9090-52820c308106@817c.org
-URL:https://fillum.in/p/501
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- WE\, the Puffcorns of India\n(19 mins | Marathi with English subs | 2024 | Fiction | India)\nDir. Aditya Mungde | Prod. Sunita Mungde\nOn their journey.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261202T123000Z
-SUMMARY:Education\, Nurturance\, Freedom
-UID:8f51ec01-4fce-46a7-9d96-18a1255a4825@8f51.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6617
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261129T063000Z
-SUMMARY:Wolfwalkers (2020)
-UID:5eaee7a0-60d4-48d4-9f44-cc7ff2cef768@5eae.org
-URL:https://fillum.in/screening/6617
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6616
-DURATION:PT2H
-LOCATION:Instituto Cervantes
-DTSTART:20261127T130000Z
-SUMMARY:Summer School\, 2001 (2025)
-UID:a1a714e1-8a81-451e-b279-1361a0b93151@a1a7.org
-URL:https://fillum.in/screening/6616
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6607
-DURATION:PT2H
-LOCATION:Gulmohar Hall\, India Habitat Centre
-DTSTART:20261127T133000Z
-SUMMARY:Maricel (1970)
-UID:5d861ad1-8a5f-4477-b96f-9ba084f967ad@5d86.org
-URL:https://fillum.in/screening/6607
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6632
-DURATION:PT2H
-LOCATION:Goethe-Institut
-DTSTART:20261129T103000Z
-SUMMARY:Rolling Papers (2025)
-UID:a73596db-4131-41e3-8fde-3e0b864dde31@a735.org
-URL:https://fillum.in/screening/6632
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- That Long Silence\n(19:50 mins | Gujarati\, Hindi with English subs | 2026 | Docu | India)\nDir. Ketan Rathod | Prod. Maraa Arts Collective\, Ketan Ratho.. more\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261201T083000Z
-SUMMARY:Theme: Love\, Labor & Memories
-UID:4fc60af9-5b5a-4047-a15d-4cc78a948a58@4fc6.org
-URL:https://fillum.in/p/486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
-DURATION:PT2H
-LOCATION:Alliance Française
-DTSTART:20261130T140000Z
-SUMMARY:Herland (2026)
-UID:dc71a230-3c5c-41e8-9369-cb10c72f6345@dc71.org
+DTSTART:20261130T053000Z
+SUMMARY:Theme: Love\, Labour and Memories
+UID:ac2c8314-f468-4ec6-8ecb-afcb7a6033b0@ac2c.org
 URL:https://fillum.in/p/486
 END:VEVENT
 BEGIN:VEVENT
@@ -493,17 +61,17 @@ DURATION:PT2H
 LOCATION:Goethe-Institut
 DTSTART:20261128T103000Z
 SUMMARY:22 Lengths (2025)
-UID:00f4cc52-6ea9-46df-9d31-1dd6f328f701@00f4.org
+UID:bc885e32-64de-4660-9a6b-c27b42bac816@bc88.org
 URL:https://fillum.in/screening/6630
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6608
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6626
 DURATION:PT2H
-LOCATION:Gulmohar Hall\, India Habitat Centre
-DTSTART:20261128T133000Z
-SUMMARY:Jippie No More! (2023)
-UID:4576f1f0-683c-484c-8aa1-78a3a3ce3bcc@4576.org
-URL:https://fillum.in/screening/6608
+LOCATION:Triveni Kala Sangam
+DTSTART:20261202T130000Z
+SUMMARY:Stormskerry Maja (2024)
+UID:6e707126-82d1-4ae5-858f-b0359d307e78@6e70.org
+URL:https://fillum.in/screening/6626
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Host: Kriti Film Club\n\n- Filme Camra | In the Filmy Room\n(22:33 mins | Hindi with English subs | 2025 | Docu | India)\nDir. Payal Chauhan | Prod. National Institute of Design Ford Foundation\nA participatory documentary .. more\n\nMore info / Tickets: https://fillum.in/p/486
@@ -511,7 +79,421 @@ DURATION:PT2H
 LOCATION:Alliance Française
 DTSTART:20261130T080000Z
 SUMMARY:Theme: Gender Bender
-UID:e9fc2664-514e-4590-9d96-bbb0b74727c8@e9fc.org
+UID:02807130-a3c2-4265-a235-92fa1545baf0@0280.org
 URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6614
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261126T130000Z
+SUMMARY:Sirat (2025)
+UID:1cca3f5a-7e2a-4561-ae74-8a23264c299f@1cca.org
+URL:https://fillum.in/screening/6614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: The Big Hoom Club\n\nWith a very special Post FIlm Discussion Panel with the Filmmaker Samarth Mahajan\, Historian Dr. Sujata Menon & Public Historian Eshan Sharma!!\n\nThe Big Hoom Club is a space for community screenin.. more\n\nMore info / Tickets: https://fillum.in/p/502
+DURATION:PT2H
+LOCATION:Mool\, South Ex 2
+DTSTART:20261127T113000Z
+SUMMARY:The Unreserved (2017)
+UID:d0b28737-46c2-44ac-a29f-40062e57764e@d0b2.org
+URL:https://fillum.in/p/502
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Tara\n(22:37 mins | Hindi\, English with English subs | 2025 | Fiction | India)\nDir. Ashutosh S. Shankar | Prod. Zena Sagar\, Rita Meher\, Neeraj Churi\,.. more\n\nMore info / Tickets: https://fillum.in/event/6577
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261201T134500Z
+SUMMARY:Theme: Queer Stories
+UID:35487751-590f-41d9-b6ec-ea1ee8af03bc@3548.org
+URL:https://fillum.in/event/6577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6631
+DURATION:PT2H
+LOCATION:Goethe-Institut
+DTSTART:20261128T130000Z
+SUMMARY:MERCKX (2025)
+UID:4264cdf1-4ddd-47da-8603-21897196477d@4264.org
+URL:https://fillum.in/screening/6631
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6628
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261203T103000Z
+SUMMARY:No Ghosts on Good Street (2026)
+UID:727b21dc-cc5f-42af-b582-868754e4dbec@727b.org
+URL:https://fillum.in/screening/6628
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6617
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261129T063000Z
+SUMMARY:Wolfwalkers (2020)
+UID:c479572b-cf95-4eef-9b49-f27fd16c94f2@c479.org
+URL:https://fillum.in/screening/6617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T140000Z
+SUMMARY:Herland (2026)
+UID:a078c7c5-bd57-48e7-a2dc-c1a528932138@a078.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6625
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261202T103000Z
+SUMMARY:The Dance Club (2025)
+UID:cf7b0c44-b883-4c75-8509-109f3460f2b3@cf7b.org
+URL:https://fillum.in/screening/6625
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6629
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261203T133000Z
+SUMMARY:The Richest Woman in the World (2025)
+UID:d967c2a9-f98a-4256-bf42-151151007753@d967.org
+URL:https://fillum.in/screening/6629
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6618
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261201T103000Z
+SUMMARY:Hidden People (2025)
+UID:c9801b66-bc86-488f-bb0b-2e910b644d69@c980.org
+URL:https://fillum.in/screening/6618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6624
+DURATION:PT2H
+LOCATION:Liszt Institute\, Hungarian Cultural Centre
+DTSTART:20261204T130000Z
+SUMMARY:Zejtune (2026)
+UID:d5e9f757-2298-4d82-8781-be1b94767120@d5e9.org
+URL:https://fillum.in/screening/6624
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\nOf Bleeding Goddesses\n(38 mins | Hindi\, Nimadi with English subs | 2026 | Docu | India)\nDir. Sana Salim | Prod. Pinky Brahma Choudhury\, Shobhit Jain\nI.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261201T124500Z
+SUMMARY:Theme: Gender Bender III
+UID:b92cfbad-4437-4b59-9f87-56f30457dd21@b92c.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261202T133000Z
+SUMMARY:Flowers of Acacia (2026)
+UID:a21ed8ce-b6dc-41f0-8bd2-72190f49e560@a21e.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6620
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261202T103000Z
+SUMMARY:Nasty (2024)
+UID:8b09d243-db63-462e-941c-7e6476843090@8b09.org
+URL:https://fillum.in/screening/6620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Fursat\n(7 mins | Bengali\, Hindi\, English with Eng. subs | 2025 | Docu | India)\nDir. Dr. Mihika Sengupta\nA short poetic observational film that asks .. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261206T133000Z
+SUMMARY:DREAMS\, DESIRES AND DEFIANCE
+UID:9345dbc5-11a2-45db-ba78-d5401dc71597@9345.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- That Long Silence\n(19:50 mins | Gujarati\, Hindi with English subs | 2026 | Docu | India)\nDir. Ketan Rathod | Prod. Maraa Arts Collective\, Ketan Ratho.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261201T083000Z
+SUMMARY:Theme: Love\, Labor & Memories
+UID:e62e14bd-7a91-4d9b-b3dc-95eca9e31580@e62e.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: India International Centre\n\nAs part of Days of Ukrainian Cinema. Free entry.\n\nMore info / Tickets: https://fillum.in/screening/6549
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room 1
+DTSTART:20261128T123000Z
+SUMMARY:Man with a Movie Camera (1929)
+UID:9918b397-c018-4290-8adf-e3c4029fa6b6@9918.org
+URL:https://fillum.in/screening/6549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Gods Do Not Follow\n(16:35 mins | Kullavi\, Pahari\, Hindi with English subs | 2025 | Fiction | India)\nDir. Ishan Pehal | Prod. Dhruv Bakshi\, Anmol Sidh.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261205T133000Z
+SUMMARY:CHALLENGING BIASES / QUEER STORIES
+UID:614dc033-9180-47f4-b5ff-acfca07f73f2@614d.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6612
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room 1
+DTSTART:20261201T130000Z
+SUMMARY:Maria's Silence (2024)
+UID:e990e92b-5bba-4bee-b66c-661fe84dedc0@e990.org
+URL:https://fillum.in/screening/6612
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6623
+DURATION:PT2H
+LOCATION:Liszt Institute\, Hungarian Cultural Centre
+DTSTART:20261203T130000Z
+SUMMARY:Mommy Blue (2026)
+UID:5438409c-36b6-479f-b9d1-c5d914f1b54c@5438.org
+URL:https://fillum.in/screening/6623
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n- Hai kaam Aahe (This is work)\n(27 mins | Marathi\, Hindi with English subs | 2024 | Docu | India)\nDir. Preeti Kanungo\n\nThe film follows the mothers who work as helpers in the Aaganwadi situated .. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261201T091500Z
+SUMMARY:Care\, Community & Belonging
+UID:c9ce1c46-5801-4900-b94d-bda1c5ff69f8@c9ce.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Out of Sequence\n\nBéla Tarr’s 1994 masterpiece immerses viewers in the darkest\, dankest\, grimmest and most godforsaken of worlds — a derelict Hungarian village\, its inhabitants adrift after the fall of Communism.. more\n\nMore info / Tickets: https://fillum.in/p/491
+DURATION:PT2H
+LOCATION:Mool\, South Ex II
+DTSTART:20261213T063000Z
+SUMMARY:Satantango (1994)
+UID:6fc095ee-150c-49b5-8768-31998817dfa6@6fc0.org
+URL:https://fillum.in/p/491
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n- Duniya Roz Banti Hai\n(18:24 mins | Hindi\, Maithili with English subs | 2026 | Docu | India)\nDir. Samiksha Kherde | Prod. The Third Eye\nThis film follows women who gather in Nari Adalats in rura.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T124500Z
+SUMMARY:Theme: Women Are Power II
+UID:092a7f30-b13b-4296-86a9-85f2e554ab68@092a.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6619
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261201T103000Z
+SUMMARY:Taste of Freedom (2024)
+UID:c46b47fd-5b4b-47b9-ad06-9d2a6de61d24@c46b.org
+URL:https://fillum.in/screening/6619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6622
+DURATION:PT2H
+LOCATION:Liszt Institute\, Hungarian Cultural Centre
+DTSTART:20261126T130000Z
+SUMMARY:Drazen (2024)
+UID:c24f53b5-b079-4cce-84d8-e9494fcccaf5@c24f.org
+URL:https://fillum.in/screening/6622
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Space - W.I.P Labs\n\nCurated as a companion program to his ongoing project The Spectral Mountain\, this 45-minute 16mm screening brings together five recent works by filmmaker Luis Macías that examine nature\, perception.. more\n\nMore info / Tickets: https://fillum.in/p/500
+DURATION:PT2H
+LOCATION:W.I.P aDDa\, Lado Sarai
+DTSTART:20261127T140000Z
+SUMMARY:Your Eyes Are Spectral Machines | A Workshop by Luis Macías
+UID:12860110-894b-4fd7-a256-8372ff7788f7@1286.org
+URL:https://fillum.in/p/500
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6613
+DURATION:PT2H
+LOCATION:IIC Annexe - Lecture Room 1
+DTSTART:20261202T130000Z
+SUMMARY:Cesta do nemožna (2019)
+UID:8aa586fa-d886-4ce8-9efd-7c57b46c1363@8aa5.org
+URL:https://fillum.in/screening/6613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6627
+DURATION:PT2H
+LOCATION:Triveni Kala Sangam
+DTSTART:20261203T043000Z
+SUMMARY:A Boat in the Garden (2025)
+UID:87aa2f93-0c0b-4e93-ae7d-291f1961cb41@87aa.org
+URL:https://fillum.in/screening/6627
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6607
+DURATION:PT2H
+LOCATION:Gulmohar Hall\, India Habitat Centre
+DTSTART:20261127T133000Z
+SUMMARY:Maricel (1970)
+UID:9e6eaf38-c4e3-483f-baf1-7e0bb95fbbff@9e6e.org
+URL:https://fillum.in/screening/6607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Namak\n(5:47 mins | Hindi with English subs | 2026 | Fiction | India)\nDir. Anoj Kumar | Prod. Chitthi Studio\nIn a bare\, one-room home\, Gorki serves h.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T100000Z
+SUMMARY:Theme: No More Violence
+UID:b913fe80-7f5c-4e85-b3aa-e1d116068fb2@b913.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6633
+DURATION:PT2H
+LOCATION:Goethe-Institut
+DTSTART:20261129T130000Z
+SUMMARY:Projecto Global (2026)
+UID:d079f292-e865-4e6e-9513-162ba6562f7b@d079.org
+URL:https://fillum.in/screening/6633
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6609
+DURATION:PT2H
+LOCATION:Gulmohar Hall\, India Habitat Centre
+DTSTART:20261129T133000Z
+SUMMARY:Dodo (2022)
+UID:1cefa949-3cd8-4fd6-8dd6-9852afcda8cb@1cef.org
+URL:https://fillum.in/screening/6609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- WE\, the Puffcorns of India\n(19 mins | Marathi with English subs | 2024 | Fiction | India)\nDir. Aditya Mungde | Prod. Sunita Mungde\nOn their journey.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261202T123000Z
+SUMMARY:Education\, Nurturance\, Freedom
+UID:897a7088-68f0-4148-8263-2a79b90fbd84@897a.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T114500Z
+SUMMARY:Kuchar (2025)
+UID:fe5a50c5-46a9-45f7-9a5a-9c3f70cd31da@fe5a.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n- The Other Field\n(5 mins | Hindi with English subs | 2026 | Docu | India)\nDir. Nidhi Narnaware\nBorn into the harsh realities of ragpicking in Bhopal\, a young girl grows up navigating survival at.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T061500Z
+SUMMARY:Theme: Girl Stories
+UID:064a8030-89dc-43d3-b1bb-5576f9bdb651@064a.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Main Bhi Hoon Satrangi\n(10 mins | Hindi with English subs | 2025 | Docu | India)\nDir. Nidhi Narnaware and Nikita Sisodiya | Prod. Green hub\nSantra h.. more\n\nMore info / Tickets: https://fillum.in/event/6571
+DURATION:PT2H
+LOCATION:Alliance Française
+DTSTART:20261130T090000Z
+SUMMARY:Theme: Women Are Power
+UID:68b0de26-d150-4af8-b2e0-61d9de35c776@68b0.org
+URL:https://fillum.in/event/6571
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6610
+DURATION:PT2H
+LOCATION:CD Deshmukh Auditorium\, India International Centre
+DTSTART:20261130T103000Z
+SUMMARY:A Year of School (2026)
+UID:95be7eff-aa37-4247-94ec-720164e7c9b1@95be.org
+URL:https://fillum.in/screening/6610
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6608
+DURATION:PT2H
+LOCATION:Gulmohar Hall\, India Habitat Centre
+DTSTART:20261128T133000Z
+SUMMARY:Jippie No More! (2023)
+UID:9c78ce55-dada-4e8b-8ff5-80f5bbe0930d@9c78.org
+URL:https://fillum.in/screening/6608
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Arthshila Delhi\n\nUpdate: Sold Out\n\nMore info / Tickets: https://fillum.in/screening/6634
+DURATION:PT2H
+LOCATION:Arthshila\, Okhla Phase II
+DTSTART:20261129T120000Z
+SUMMARY:Ustad Bantoo (2026)
+UID:53883f29-48b1-4750-bdc0-81034101519f@5388.org
+URL:https://fillum.in/screening/6634
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6616
+DURATION:PT2H
+LOCATION:Instituto Cervantes
+DTSTART:20261127T130000Z
+SUMMARY:Summer School\, 2001 (2025)
+UID:fd56d7c7-a0a6-47de-bab1-b5bffd3b9625@fd56.org
+URL:https://fillum.in/screening/6616
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Alliance Française de Delhi\n\nFree entry.\n\nMore info / Tickets: https://fillum.in/screening/6663
+DURATION:PT2H
+LOCATION:M. L. Bhartia Auditorium\, Alliance Française
+DTSTART:20261126T130000Z
+SUMMARY:The Empire (2024)
+UID:b9a54572-f65e-4a95-b3fd-066e465fdb8c@b9a5.org
+URL:https://fillum.in/screening/6663
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6611
+DURATION:PT2H
+LOCATION:CD Deshmukh Auditorium\, India International Centre
+DTSTART:20261130T130000Z
+SUMMARY:Rose (2026)
+UID:afb410d0-3b1b-462f-9216-6420fd43e0e8@afb4.org
+URL:https://fillum.in/screening/6611
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Kriti Film Club\n\n7th Beyond Borders Feminist Film Festival\n\n- Dongar / Pani | (Land / Water)\n(24 mins | Marathi\, English with English subtitles | 2024 | Fiction | India)Dir. Sanjivani Kamble | Prod. Sandhya Kambl.. more\n\nMore info / Tickets: https://fillum.in/p/486
+DURATION:PT2H
+LOCATION:India Habitat Centre
+DTSTART:20261207T133000Z
+SUMMARY:OF SILENCES AND RELATIONSHIPS
+UID:a49d4087-aed0-4dfc-8836-15aa201a986a@a49d.org
+URL:https://fillum.in/p/486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Space - W.I.P Labs\n\nWorkshop on creating cinema without a camera through the creation\, manipulation\, and alteration of moving images through the use of light on the emulsion.\n\nSupported by: Institut Ramon Llull\n\nFa.. more\n\nMore info / Tickets: https://fillum.in/p/500
+DURATION:PT2H
+LOCATION:W.I.P aDDa\, Lado Sarai
+DTSTART:20261127T083000Z
+SUMMARY:Filming with Light | A Workshop by Luis Macías
+UID:0f79e765-6632-4a6b-aa7d-d90b356cfc65@0f79.org
+URL:https://fillum.in/p/500
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: Attic 77\n\nAt Attic 77\, you're not just watching films by some seriously talented filmmakers. At every Director's Cut\, we've seen people ask some of the sharpest questions in the room and walk out understandin.. more\n\nMore info / Tickets: https://fillum.in/p/501
+DURATION:PT2H
+LOCATION:Attic 77\, GK-2
+DTSTART:20261129T113000Z
+SUMMARY:Director's Cut
+UID:7230618a-37ee-41d7-a1f5-655fd66a3ccd@7230.org
+URL:https://fillum.in/p/501
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Host: EUFF - European Union Film Festival\n\n\n\nMore info / Tickets: https://fillum.in/screening/6632
+DURATION:PT2H
+LOCATION:Goethe-Institut
+DTSTART:20261129T103000Z
+SUMMARY:Rolling Papers (2025)
+UID:b6394f68-f064-4f99-bf6b-0deab80427d3@b639.org
+URL:https://fillum.in/screening/6632
 END:VEVENT
 END:VCALENDAR
